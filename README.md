@@ -14,10 +14,7 @@ All episodes can be found in the `lib/` folder. Alternatively, if you're using j
 
 ## Schema
 
-`
-// S01E01.json
-
-{
+`{
     "season": 1,
     "episode": 1,
     "title": "Pilot",
