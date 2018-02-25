@@ -8,13 +8,14 @@ I've done my best to clean up and normalize the names and quotes, but I'm sure t
 
 All episodes can be found in the `lib/` folder. Alternatively, if you're using javascript, you can `require` them in your project.
 
-`const quotes = require('/path/to/theOffice'); // all quotes`
+`const quotes = require('/path/to/theOffice'); // all episodes`
 
-`const S01E01 = require('/path/to/theOffice').S01E01; // Just one episode`
+`const S01E01 = require('/path/to/theOffice').S01E01; // single episode`
 
 ## Schema
 
-`{
+```
+{
     "season": 1,
     "episode": 1,
     "title": "Pilot",
@@ -38,4 +39,5 @@ All episodes can be found in the `lib/` folder. Alternatively, if you're using j
             },
 		],
 	]
-}`
+}
+```
