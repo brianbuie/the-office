@@ -1,0 +1,2497 @@
+{
+    "season": 3,
+    "episode": 8,
+    "title": "The Merger",
+    "scenes": [
+        [
+            {
+                "character": "Jim",
+                "quote": "The Stamford branch is closing and everybody's just packing up their stuff. Andy Bernard made these tasteful hats."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[to office worker] That's the other thing you got to watch out... [to Jim] Yo! Tuna! I wanna talk to you about this new boss, Michael Scott."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Andy",
+                "quote": "So what's he like? Likes? Dislikes? Favorite sports? Favorite movies? Favorite men's magazines?"
+            },
+            {
+                "character": "Jim",
+                "quote": "You know what? I think you just need to meet him."
+            },
+            {
+                "character": "Andy",
+                "quote": "Playing your cards close to the vest. I get it. Good luck over there, Tuna. Cross me and I will destroy you."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sounds good Andy."
+            },
+            {
+                "character": "Karen",
+                "quote": "This is going to be an adventure."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes. This is going to be very interesting. All right, I'm out of here. See you later?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Right on. [to Andy] Hey is that Josh's computer?"
+            },
+            {
+                "character": "Andy",
+                "quote": "What?"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey."
+            },
+            {
+                "character": "Pam",
+                "quote": "How'd the run go?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Ah, pretty good. I finished."
+            },
+            {
+                "character": "Pam",
+                "quote": "That's great!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Psh, why is that great?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Because he accomplished something."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What was your mile time?"
+            },
+            {
+                "character": "Toby",
+                "quote": "About seven."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[scoffs] I could beat that on a skateboard."
+            },
+            {
+                "character": "Toby",
+                "quote": "Well, that has wheels."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, well my feet don't. And I can still crush that time."
+            },
+            {
+                "character": "Pam",
+                "quote": "Really, Dwight? How fast are you?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Let's just put it this way. Last weekend I outran a black pepper snake."
+            },
+            {
+                "character": "Pam",
+                "quote": "Really?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I am fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Man, what is taking Toby so long?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, I'll just time him later."
+            },
+            {
+                "character": "Dwight",
+                "quote": "And you'll compare the times?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah. Are you ready?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, my groin..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Set"
+            },
+            {
+                "character": "Dwight",
+                "quote": "...is really tight."
+            },
+            {
+                "character": "Pam",
+                "quote": "Go!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I can't... [starts running]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Am I being mean to Dwight? I don't know. I did just make him run around the building and I have no intention of timing him. This isn't even a stopwatch. It's a digital thermometer. He does make my life harder, sometimes. And on purpose. Like he tried to put meters on the bathroom stalls as a way of bringing in more money for the company. [yells to Dwight] Hey, three more laps to go. Gotta pick it up if you're going to beat Toby."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Aaaaah!"
+            },
+            {
+                "character": "Pam",
+                "quote": "I should probably get back to work."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Here... Who's here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nametag?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, please."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Karen Filippelli."
+            },
+            {
+                "character": "Michael",
+                "quote": "Karen Filip... [In Italian voice] Ka-ren Fili-pell-li."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Probably Italian. Possibly Filipino."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "My branch is absorbing the Stamford branch. Or, as I like to put it, my family is doubling in size. That's all I'm going to say about it because I have a gigantic performance ahead of me. And I have to get into my head and focus. [exhales]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Who's next?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That's Andy Bernard."
+            },
+            {
+                "character": "Michael",
+                "quote": "Andy Bernard."
+            },
+            {
+                "character": "Dwight",
+                "quote": "If I were you..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Saint Bernard."
+            },
+            {
+                "character": "Dwight",
+                "quote": "...I would fire Anthony Gardner..."
+            },
+            {
+                "character": "Michael",
+                "quote": "What?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "...before noon..."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm not..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "...to consolidate power."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm not firing somebody on the first day."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no, no! Not somebody. Gardner."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "The Japanese camp guards of World War II always chose one man to kill whenever a batch of new prisoners arrived. I always wondered how they chose the man who was to die. I think I would have been good at choosing the person."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Good morning!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Got the food? Good! Looky-looky-looky. What I want you to do... set it up in the conference room, please. Make it look nice. As if you are trying to impress a much older man who's way out of your league."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Yes! I'm in a good mood today! I'm excited to meet all the new people and to see my old friend again, definitely. That's always a thing that makes people happy... to have an old friend back."
+            }
+        ],
+        [
+            {
+                "character": "Hannah",
+                "quote": "Hello?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ah! Ding-ding-ding-ding-ding. Our first arrival. Welcome to Scranton. This is Hannah Smoterich-Barr."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hannah Smoterich-Barr."
+            },
+            {
+                "character": "Michael",
+                "quote": "Welcome to our humble abode. Follow me to your desk. Your ball and chain is right over here."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You know for a lot of these people this is the only family they have. So... As far as I'm concerned, [holds up WORLD'S BEST BOSS mug] this says 'World's Best Dad'."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Ah! There he is Tony... what's your last name?"
+            },
+            {
+                "character": "Tony",
+                "quote": "Gardner."
+            },
+            {
+                "character": "Michael",
+                "quote": "Gardner! I knew that. There you go. Gift bag... for you. [laughs] Okay."
+            },
+            {
+                "character": "Tony",
+                "quote": "Thanks."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Michael, I didn't get a gift bag."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, they're just for guests. If there are any left over, you can buy one later."
+            },
+            {
+                "character": "Hannah",
+                "quote": "My bag's mostly pencils."
+            },
+            {
+                "character": "Michael",
+                "quote": "Wh..and coupons... to various hot spots around Scranton. [to Tony] All right! Let me show you to your area, sir. Come on, big guy."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Can I have your pencils?"
+            },
+            {
+                "character": "Hannah",
+                "quote": "No."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hi!"
+            },
+            {
+                "character": "Karen",
+                "quote": "Hi."
+            },
+            {
+                "character": "Pam",
+                "quote": "I'm Pam."
+            },
+            {
+                "character": "Karen",
+                "quote": "Karen. I love your sweater."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, thanks. My Mom made it for me."
+            },
+            {
+                "character": "Karen",
+                "quote": "Really? That's so cool. I've always wanted to learn..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Welcome."
+            },
+            {
+                "character": "Karen",
+                "quote": "...to knit."
+            },
+            {
+                "character": "Michael",
+                "quote": "Welcome, welcome, welcome! [in robot voice] Take me to your leader. Oh wait, I am your leader."
+            },
+            {
+                "character": "Karen",
+                "quote": "Uh wait, are you a robot or a Martian?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Mmm... dah. I am actually your boss, Michael Scott. Welcome. Wow! You are very exotic looking. Was your dad a G.I. or uh?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hello."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ah! You must be Andy Bernard. Aloha and welcome!"
+            },
+            {
+                "character": "Andy",
+                "quote": "And you must be Michael Scott. Aloha and... hello."
+            },
+            {
+                "character": "Michael",
+                "quote": "A-ha-ha-ho. Very good! Welcome to our little kingdom. Ah, we have a bag of nifty gifties for you."
+            },
+            {
+                "character": "Andy",
+                "quote": "Michael, thank you for welcoming me to your little kingdom, Mike."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nifty!"
+            },
+            {
+                "character": "Michael",
+                "quote": "They are nifty! They're nifty gifties."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You know who I really like? Is this guy Andy Bernard. He has got this very likable way about him."
+            }
+        ],
+        [
+            {
+                "character": "Martin",
+                "quote": "...which is why they need a passing game."
+            },
+            {
+                "character": "Jim",
+                "quote": "Right."
+            },
+            {
+                "character": "Michael",
+                "quote": "[to Jim] No way. Get him out of here. We don't want any of this kind in here. Good to see you, man."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "[to Martin] How are you? Martin Nash, I presume? This is a little gift bag for you."
+            },
+            {
+                "character": "Martin",
+                "quote": "Oh! Thanks."
+            },
+            {
+                "character": "Michael",
+                "quote": "Free of charge. Follow me, I will show you where all the slaves work. [shakes head] Not... so, your desk is..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hi, I'm Jim. I'm new here."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my god! It's really you!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I was just doing a little joke there about how we'd never met..."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know. I don't care."
+            },
+            {
+                "character": "Jim",
+                "quote": "Awesome! Good to be back. The place looks really good."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's really good to see you."
+            },
+            {
+                "character": "Jim",
+                "quote": "You, too."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Where do I stand with Pam? Um... no idea. I mean, we're friends. Always have been friends. Um... .that is where we stand."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Well, well, well. Look what the cat dragged in from Stamford."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Fact - I am older. I am wiser. Do not mess with me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. Sounds good."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What are you doing?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I don't know what you're talking about."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I have a smudge on my forehead?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No. Looks good."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Why are you looking at my forehead?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm not."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Meet my eye line, Jim!"
+            },
+            {
+                "character": "Jim",
+                "quote": "I am."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Stop acting like an idiot!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hey, buddy. Welcome back."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey! How are you man? Good to see... you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'm good! How are you? So..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, I'm sorry. Are you sitting here now?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Um... unless you really, really want it back."
+            },
+            {
+                "character": "Jim",
+                "quote": "You know, man, it's really you're call."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Cool, thank you."
+            },
+            {
+                "character": "Jim",
+                "quote": "[whispers] Let me get that for you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yuh."
+            },
+            {
+                "character": "Jim",
+                "quote": "This one taken? No. Good."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Yeah. Jim is a nice guy. That's why I got the desk."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Hey, this came with the Stamford book. [Sets down box that says: Personnel Files Stamford CT Office Confidential] Can you take care of it?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oh, yes I can."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "In general, they do not give me much responsibility. But they do let me shred the company documents. And that is really all I need."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Michael Scott. Thank you. I appreciate it, Mike."
+            },
+            {
+                "character": "Michael",
+                "quote": "Right."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hello. I don't believe we've been introduced. Dwight Schrute. Assistant Regional Manager."
+            },
+            {
+                "character": "Andy",
+                "quote": "Andy Bernard. Regional Director in Charge of Sales."
+            },
+            {
+                "character": "Dwight",
+                "quote": "So you'll be reporting to me, then."
+            },
+            {
+                "character": "Andy",
+                "quote": "Umm, on the contrary."
+            },
+            {
+                "character": "Dwight",
+                "quote": "My title has 'Manager' in it."
+            },
+            {
+                "character": "Andy",
+                "quote": "And I'm a director."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh."
+            },
+            {
+                "character": "Andy",
+                "quote": "Which on a film set is the highest title there is. Do you know anything about film?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I know everything about film. I've seen over 240 of them."
+            },
+            {
+                "character": "Andy",
+                "quote": "Congratulations."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey, Toby!"
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, Jim!"
+            },
+            {
+                "character": "Jim",
+                "quote": "How are you, man?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, really good."
+            },
+            {
+                "character": "Jim",
+                "quote": "I just wanted to say hi."
+            },
+            {
+                "character": "Toby",
+                "quote": "How are you? Hey. Welcome back. [puts out fist to bump]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh. Is that like your new thing?"
+            },
+            {
+                "character": "Toby",
+                "quote": "No, I'm sorry, it's..."
+            },
+            {
+                "character": "Jim",
+                "quote": "No. It's cool."
+            },
+            {
+                "character": "Toby",
+                "quote": "No, it's nothing. We'll just... [shakes hand]"
+            },
+            {
+                "character": "Jim",
+                "quote": "All right. Good to be back."
+            },
+            {
+                "character": "Toby",
+                "quote": "So... okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right."
+            },
+            {
+                "character": "Toby",
+                "quote": "All right... sorry... sorry about that."
+            },
+            {
+                "character": "Jim",
+                "quote": "No problem."
+            },
+            {
+                "character": "Toby",
+                "quote": "It was just..."
+            },
+            {
+                "character": "Jim",
+                "quote": "[off camera] ...what?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Nothing."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "This thing is so awesome. It will shred anything. Ooh! It will shred a CD. It will shred... a credit card. It will shred... oh! [whispers] Shoot."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[talking to himself] I present the orientation video."
+            },
+            {
+                "character": "Dwight",
+                "quote": "We need to talk!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Not now."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Which is higher? Assistant Regional Manager or Regional Director in Charge of Sales?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I told you the titles are irrelevant. They just relate to pay scale."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay. So who gets paid more? Me or Andy?"
+            },
+            {
+                "character": "Michael",
+                "quote": "It is not a matter of more or less. Your pay is just different. Okay? All right! Show time, part one."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok. Who reports to who?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't care! Dwight! You all report to me! That's all that matters! The rest of it just work out amongst yourselves, ok?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "And then if I want..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Work it out amongst your selves!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Please! I have a company to run. Well, you let me run the company?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Will you?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "One..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Please?"
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Jim!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Kelly!"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh! Oh my god! I have so much to tell you!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Yes! Tom Cruise and Katie Holmes? They had a baby and they named it Suri. And then Brad Pitt and Angelina Jolie? They had a baby, too, and they named it Shiloh. And both babies are amazing!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Great. What's new with you?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "I just told you."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Okay. Everybody settled in? Good. Why don't we all proceed in to the conference room? Or, should I say, the banquet hall. For... drum roll, please [makes drum roll noises], the official Merger Day All-Family Welcome Breakfast. Come on in!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Yoko shack."
+            },
+            {
+                "character": "Male voice",
+                "quote": "...thank you James. [laughs]"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Hey, champagne."
+            },
+            {
+                "character": "Michael",
+                "quote": "Nope, no. Guests only."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Looks like salmon."
+            },
+            {
+                "character": "Michael",
+                "quote": "Nope. Um... for the guests it is. For you, consider it cow-meat. Strictly taboo."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I eat beef."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, then... consider it poisoned beef. No touchy."
+            },
+            {
+                "character": "Kevin",
+                "quote": "The beef is poisoned?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, it's not beef... just... sit down, please. [talks to group] Welcome. Help yourself."
+            },
+            {
+                "character": "Toby",
+                "quote": "Um... You might want these orientation materials."
+            },
+            {
+                "character": "Michael",
+                "quote": "Wrong. Toby, this is an orientation not a borientation.[talks to group] Okay. Do not worry. All of your questions are about to be answered. Cell phones and pagers off, please."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, this looks promising."
+            },
+            {
+                "character": "Pam",
+                "quote": "You won't be disappointed."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let's face it. Moving to a new job can be very stressful. So I have made an orientation video especially for you newcomers. But it's not like any orientation video that any of you have ever seen. It's funny. It's got a little bit of a zing to it and I hope that it gives you a flavor of what we're all about here at Dunder Mifflin. And what we're all about here in Scranton. So let's just all laugh together and watch \"Lazy Scranton\"."
+            }
+        ],
+        [
+            {
+                "character": "Video",
+                "quote": "[Lazy Scranton Video]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Sittin' in my office with a plate of grilled bacon, call my man Dwight just to see what was shakin'."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yo Mike, our town is dope and pretty."
+            },
+            {
+                "character": "Michael",
+                "quote": "So check out how we live"
+            },
+            {
+                "character": "Michael &amp; Dwight",
+                "quote": "in the Electric City!"
+            },
+            {
+                "character": "Michael",
+                "quote": "They call it Scranton."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Call poison control if you're bit by a spider."
+            },
+            {
+                "character": "Dwight",
+                "quote": "But check that it's covered by your health care provider!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "It reminds me of the orientation video showed on my first day. 'The Scranton Witch Project'."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[in video] I am so scared... when people don't label their personal food."
+            }
+        ],
+        [
+            {
+                "character": "Video",
+                "quote": "[Lazy Scranton video continues]"
+            },
+            {
+                "character": "Michael",
+                "quote": "You like coal mines and you wanna see 'em, Well, check it out, yo, the Anthracite Museum! Plenty of space in the parking lot,"
+            },
+            {
+                "character": "Dwight",
+                "quote": "But the little cars go in the compact spot"
+            },
+            {
+                "character": "Michael & Dwight",
+                "quote": "Spot, spot, spot, spot ..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[on video in background] Spot. Scranton. What? The Electric City. Scranton.What? The Electric City. Scranton. What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, so far, I think it is killin'. I thought it would either be an 'A' or an 'A+' but I completely forgot that there's an 'A++'."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "[recording phone message] This is Karen Filippelli. Please leave a message."
+            },
+            {
+                "character": "Jim",
+                "quote": "Terrible. Totally unconvincing."
+            },
+            {
+                "character": "Karen",
+                "quote": "[recording] This is Karen Filippelli. Please leave a message."
+            },
+            {
+                "character": "Jim",
+                "quote": "Not bad, but you are Italian so... try it more Italian."
+            },
+            {
+                "character": "Karen",
+                "quote": "[recording] [in bad Italian accent] Dis is Kar-en Fill-uh-pel-li. Please leava me da message. A bon danza."
+            },
+            {
+                "character": "Jim",
+                "quote": "You feel good?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Mm-hm."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right."
+            },
+            {
+                "character": "Karen",
+                "quote": "[recording phone message] Karen Filippelli."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey, buddy. Anything new to report?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Do you mean to me? From you? Cause that's how it works."
+            },
+            {
+                "character": "Andy",
+                "quote": "Sure thing, buddy."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Am I trying to get under his skin? Yes. Because the angrier he gets, the more marginalized he becomes. Meanwhile, Andy Bernard is out there layin' on the charm."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey, Angela. Check this out. It's my new screen saver."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh."
+            },
+            {
+                "character": "Andy",
+                "quote": "Do you like it?"
+            },
+            {
+                "character": "Angela",
+                "quote": "I do like it, actually."
+            },
+            {
+                "character": "Andy",
+                "quote": "Thank you. You have such a pretty smile by the way."
+            },
+            {
+                "character": "Angela",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Andy",
+                "quote": "You're welcome."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Hey."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Pam",
+                "quote": "What happened to grape soda?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh yeah. I'm trying to move away from that. Getting into more of a bottled water phase."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh. You've changed so much."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, I'm evolving, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "So when do I get to hear everything? Are you still getting unpacked or... you want to grab a coffee or something after work?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh! Um... tonight, actually? No. I'm uh just still getting settled."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah, no! You know. Whenever."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh-kay. Sorry to interrupt. I..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Nope. You're not interrupting anything. Nope. I'm..."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right."
+            },
+            {
+                "character": "Jim",
+                "quote": "Don't..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right. [to Pam] I should probably get back to work. Get back to work."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah. I know, me too."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "The day's going fine. It's been a little chaotic but it's fine. It's great! A lot of distractions. But, it's good."
+            }
+        ],
+        [
+            {
+                "character": "Hannah",
+                "quote": "[using breast pump] Take a picture. It'll last longer."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'm sorry. It's just, it's a little distracting."
+            },
+            {
+                "character": "Creed",
+                "quote": "Ditto that, my brother."
+            }
+        ],
+        [
+            {
+                "character": "Hannah",
+                "quote": "Look what's on his computer."
+            },
+            {
+                "character": "Michael",
+                "quote": "What is that? A squid's eye or..."
+            },
+            {
+                "character": "Hannah",
+                "quote": "It's my left breast."
+            },
+            {
+                "character": "Michael",
+                "quote": "How did you..."
+            },
+            {
+                "character": "Creed",
+                "quote": "Right place at the right time."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Uh, what's that smell?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "What smell?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Must be an... air freshener plugged in somewhere. It smells like a funeral home."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, I'll help you find it."
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh, you know. Never... .never mind."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "What is it?"
+            },
+            {
+                "character": "Karen",
+                "quote": "I... I... I, uh, think I'm just allergic to your perfume."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "My perfume?"
+            },
+            {
+                "character": "Karen",
+                "quote": "It's just my crazy nose. I'm... uh, used to different smells."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Bob Vance bought this perfume for me in Metropolitan Orlando. It's made from real pine."
+            },
+            {
+                "character": "Karen",
+                "quote": "Who's Bob Vance?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "You have a lot to learn about this town, sweetie."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "I don't know who these new people think they are. I've sat downwind of Phyllis' stinky perfumes for years. Never said a word."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "People hate people that are different from them. That's natural. But you know what makes people forget their differences? A great show. That is why I created the 'Integration Celebration'. This is the moment when Scranton and Stamford come together as one. United in applause."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I know what a lot of you must be thinking. 'Wow! What a day! Feels more like a night at a party than a day at work.' Well, in my opinion, business should feel like a night out. A night... at... the Roxbury. Okay. There's supposed to be music and it's... I got it, I got it! I got it. Dwight! Just."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Do you have batteries?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ssshh stupid! Um..."
+            },
+            {
+                "character": "Andy",
+                "quote": "[sings drum beat intro to 'What is Love?']"
+            },
+            {
+                "character": "Michael",
+                "quote": "That's it!"
+            },
+            {
+                "character": "Andy",
+                "quote": "[sings] What is love?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, yes! Okay!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Baby, don't hurt me."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, here we go."
+            },
+            {
+                "character": "Andy &amp; Michael",
+                "quote": "Don't hurt me! Baby, don't hurt me!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Baby, don't hurt me!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh! Oh! Oh!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Whoa-oh-oh-oh"
+            },
+            {
+                "character": "Michael",
+                "quote": "Scuse me! Scuse me!"
+            },
+            {
+                "character": "Andy &amp; Michael",
+                "quote": "Whoa-oh-oh-oh! Whoa-oh-oh..."
+            },
+            {
+                "character": "Michael",
+                "quote": "You me? You me? Me you? You! You! You me! Bow Bow Bow!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Whoa-oh-oh-oh."
+            },
+            {
+                "character": "Michael",
+                "quote": "You me? You me? Me you me! You! You! You me you! You! Oh my nose so itchy, why's my nose so itchy!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, probably because of all the nose candy."
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughs hysterically] Okay, I told you these guys had a sense of humor."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Very funny, Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay! Okay!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Really funny, Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "All right, all right, I'm on a roll."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Why are the new people on the table? To show them that we are not above them."
+            },
+            {
+                "character": "Karen",
+                "quote": "Shouldn't we be equals?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Not today. No. Tony! Please join your cohorts on the table if you would."
+            },
+            {
+                "character": "Tony",
+                "quote": "Uh... this is difficult, for me."
+            },
+            {
+                "character": "Michael",
+                "quote": "I understand. We're all friends."
+            },
+            {
+                "character": "Tony",
+                "quote": "No. I mean I can't physically. I can't get on the table."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, well. Just use the momentum of your lower half to hoist yourself up."
+            },
+            {
+                "character": "Tony",
+                "quote": "[starts to climb table]"
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what? I'll help. I will..."
+            },
+            {
+                "character": "Tony",
+                "quote": "No, please. No."
+            },
+            {
+                "character": "Michael",
+                "quote": "Don't be shy! Dwight! Let's do this!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Do this. Come on. Ready?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Come on. We're doing this thing! Let's get up."
+            },
+            {
+                "character": "Dwight",
+                "quote": "On three. One... two... three."
+            },
+            {
+                "character": "Michael",
+                "quote": "Bend at the knees. Okay, here we go. Here we go. I'm under this... I'm under this hock here. I don't know what I'm grabbing here."
+            },
+            {
+                "character": "Tony",
+                "quote": "All right. All right. Stop. Put me down."
+            },
+            {
+                "character": "Michael",
+                "quote": "We've almost got it. Push it! Push it!"
+            },
+            {
+                "character": "Tony",
+                "quote": "Let me go!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm right in your crack!"
+            },
+            {
+                "character": "Tony",
+                "quote": "Put me down right..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Up and over."
+            },
+            {
+                "character": "Tony",
+                "quote": "Put me down!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Up and over."
+            },
+            {
+                "character": "Tony",
+                "quote": "Put me down right now!"
+            },
+            {
+                "character": "Michael",
+                "quote": "You've got it."
+            },
+            {
+                "character": "Tony",
+                "quote": "I'VE HAD ENOUGH!"
+            },
+            {
+                "character": "Michael",
+                "quote": "You've got it, you've got it."
+            },
+            {
+                "character": "Tony",
+                "quote": "PUT ME DOWN RIGHT NOW or else!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Whoa Whoa Whoa! Okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey, hey. Easy."
+            },
+            {
+                "character": "Michael",
+                "quote": "Easy."
+            },
+            {
+                "character": "Tony",
+                "quote": "I'm sorry!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Don't..."
+            },
+            {
+                "character": "Tony",
+                "quote": "It's just not going to work for me."
+            },
+            {
+                "character": "Michael",
+                "quote": "What..."
+            },
+            {
+                "character": "Tony",
+                "quote": "I have to go."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't understand."
+            },
+            {
+                "character": "Tony",
+                "quote": "I was on the fence about this and... it's just not a good fit."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, we'll squeeze you in."
+            },
+            {
+                "character": "Tony",
+                "quote": "I can't work here. I have to quit."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You can't quit! On the first day. That's [deep voice] heresy, my friend! [regular voice] Okay, let's talk about this. What happened? I mean, what... Was it Toby? Did he say something? Cause he's... what?"
+            },
+            {
+                "character": "Tony",
+                "quote": "No. Toby was helpful. He was very kind. It's just your management style."
+            },
+            {
+                "character": "Michael",
+                "quote": "My management style? So... didn't you think 'Lazy Scranton' was funny?"
+            },
+            {
+                "character": "Tony",
+                "quote": "No. Was it supposed to be funny?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. Well, don't bother quitting because you're fired."
+            },
+            {
+                "character": "Tony",
+                "quote": "Excuse me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You are fired! I'm sorry, but we don't have quitters on this team! Just clean out your desk!"
+            },
+            {
+                "character": "Tony",
+                "quote": "But there's nothing in my desk except coupons."
+            },
+            {
+                "character": "Michael",
+                "quote": "Don't try to apologize to me, man! It's too late. Just get out! Take your bad vibes with you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "That was my advice. Remember? I'm the one who suggested that you fire him."
+            },
+            {
+                "character": "Michael",
+                "quote": "Probably the best advice you ever gave me, Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "And what advice has Andy given to you today that you have acted on? Would 'none' be an accurate estimate? None advice? [whispers] Fire Andy. Fire. Andy."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Dwight may have won the battle. But I will win... the next battle."
+            }
+        ],
+        [
+            {
+                "character": "Hannah",
+                "quote": "Tony was right. This environment is dysfunctional."
+            },
+            {
+                "character": "Angela",
+                "quote": "Maybe that's because some people treat it like their own private Hooters strip club."
+            },
+            {
+                "character": "Michael",
+                "quote": "Whoa, Angela! Hold on. Hooters is a restaurant. With over 400 locations worldwide."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Back to work. We don't have to get along. We just have to work together."
+            },
+            {
+                "character": "Michael",
+                "quote": "No. We do have to get along. Can't we all just get along? Or have we forgotten the words of the Reverend King."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "The word merger comes from the word marriage. And that was what today was supposed to be. The loving union between people. Instead, it has become like when my Mom moved in with Jeff. And once again, it becomes my job to fix it."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey! Hey, everybody! Something happened! Those guys from Vance Refrigeration, they let the air out of our tires."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah! They punk'd us! They punk'd us good! Come on. Come on!"
+            },
+            {
+                "character": "Karen",
+                "quote": "Does Bob Vance work for Vance Refrigeration?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Does he ever."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Man, they got us so bad. We cannot let them get away with this. We have got to pull together as one and steal their refrigerators."
+            },
+            {
+                "character": "Dwight",
+                "quote": "YEAH!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Toby",
+                "quote": "I don't... I don't think we can do that."
+            },
+            {
+                "character": "Michael",
+                "quote": "Go home, Toby. Just..."
+            },
+            {
+                "character": "Martin",
+                "quote": "Hey! Why doesn't your car have a flat tire?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Why? I will tell you why. Because they saved the worst for me. They put a hate note under my windshield wiper. Check this out. It's so hateful. [reads note] \"You guys SUCK! You can never pull together as one and revenge us. That is why you SUCK!\""
+            },
+            {
+                "character": "Hannah",
+                "quote": "For crying out loud."
+            },
+            {
+                "character": "Michael",
+                "quote": "No. No, no, no. No. You are falling for it. You're playing right into their hands. This is just what they want you to do. Don't, oh..."
+            },
+            {
+                "character": "Martin",
+                "quote": "[to Stanley] What's up with this guy?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Got an hour? I'll try to explain."
+            },
+            {
+                "character": "Michael",
+                "quote": "THIS IS EGREGIOUS! This is egregious!"
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "Trust me. It only gets worse."
+            },
+            {
+                "character": "Martin",
+                "quote": "Is he always like this?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Sometimes he brings more costumes."
+            },
+            {
+                "character": "Hannah",
+                "quote": "When do people work?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, we find little times during the day."
+            },
+            {
+                "character": "Karen",
+                "quote": "How are we going to get home?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Bob Vance has an air pump. He said he'd fill all our tires up."
+            },
+            {
+                "character": "Karen",
+                "quote": "Bob Vance of Vance Refrigeration."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "See that? Mission accomplished. Like a bunch of fourth graders. Sometimes, what brings the kids together is hating the lunch lady. Although that'll change. Because, by the end of the fourth grade, the lunch lady was actually the person I hung out with the most. [answers phone] Jell-o!"
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hi, Jan!"
+            },
+            {
+                "character": "Jan",
+                "quote": "Did you fire Tony Gardner when he was trying to quit?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I did. Major personnel crises averted. Compliment accepted."
+            },
+            {
+                "character": "Jan",
+                "quote": "Do you realize, Michael, that we now have to pay him severance?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Jan",
+                "quote": "You do?"
+            },
+            {
+                "character": "Michael",
+                "quote": "But do you realize that that was actually Dwight's idea? Bad advice from my Number Two."
+            },
+            {
+                "character": "Jan",
+                "quote": "What? No. No. No, Jim is your Number Two."
+            },
+            {
+                "character": "Michael",
+                "quote": "What?"
+            },
+            {
+                "character": "Jan",
+                "quote": "He's the only one who has worked with both groups. I sent you a memo about this."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, I know that. For, I do read the memos."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "So after a great deal of thought and introspective-shun, I have decided to make Jim my new Number Two."
+            },
+            {
+                "character": "Dwight",
+                "quote": "If he even wants it. It doesn't come with a pay raise."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, it does, actually."
+            },
+            {
+                "character": "Dwight",
+                "quote": "So who will be your new Number Three?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh... that I have not decided yet."
+            },
+            {
+                "character": "Andy",
+                "quote": "Michael, I would just like to say you have handled this entire situation with great aplomb."
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you, Andy. That's... very kind. Thanks."
+            },
+            {
+                "character": "Dwight",
+                "quote": "And I have to say your leadership..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut it..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "has brought..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut it! That's... [whispers to camera] suck up!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[talking on cellphone] Hey! Where you at, Filippelli?"
+            },
+            {
+                "character": "Karen",
+                "quote": "[off camera] I'm at the grocery store buying a corkscrew to give myself a lobotomy."
+            },
+            {
+                "character": "Jim",
+                "quote": "[laughs] What's wrong? You didn't have a good first day?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh my god! Hey! You want to meet at Cooper's in an hour? I need a drink."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. Sure. Sounds good. I... . [sees Pam in rearview mirror] Hey! You know what? Can I give you a call right back?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, thanks."
+            },
+            {
+                "character": "Karen",
+                "quote": "Ok."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Jim",
+                "quote": "I thought you had already... left."
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh... no. I just uh had some other stuff I had to do."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh... Good."
+            },
+            {
+                "character": "Pam",
+                "quote": "What's up?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, nothing. I just feel bad. I feel like things were a little weird today... or something."
+            },
+            {
+                "character": "Pam",
+                "quote": "What do you mean?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I just think I should tell you that... I've sort of started seeing someone. And uh..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh. That's totally cool. You can do whatever you want."
+            },
+            {
+                "character": "Jim",
+                "quote": "O..ok. Um..good."
+            },
+            {
+                "character": "Pam",
+                "quote": "We're friends. We'll always be friends."
+            },
+            {
+                "character": "Jim",
+                "quote": "Right."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's good to have you back."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. Good to be back."
+            }
+        ],
+        [
+            {
+                "character": "Meredith",
+                "quote": "Where'd you get that salad?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Staples."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Saw your dorkmobile in the parking lot. What does it get, like four miles to the gallon?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh, try double that. Classic TransAm, vintage American muscle. Please."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, my Xterra's pretty sweet. Luxurious, yet rugged. Leave it to the Japanese."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Xterra's not even a real word."
+            },
+            {
+                "character": "Andy",
+                "quote": "Actually, it is. It's Latin for \"earth.\""
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, so you drive an X-Earth?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Dwight",
+                "quote": "That makes sense. I'd rather drive a classic TransAm than an XEarth."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, I bet you would. Oh, by the way, 1985 called. It wants its car back."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well I hope 1985 has a time machine 'cause I drive an 87."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, speaking of time machines, I just got back from the future and I went to your funeral and, guess what, nobody came."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Speaking of funerals, why don't you go ahead and go die."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, that was a really well constructed sentence. You should be an English professor at Cor-not University."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Idiot!"
+            },
+            {
+                "character": "Andy",
+                "quote": "If I were an idiot, I'd be driving a TransAm."
+            },
+            {
+                "character": "Dwight",
+                "quote": "If you were driving a TransAm, you would be the smartest idiot in the whole world."
+            },
+            {
+                "character": "Andy",
+                "quote": "[coughs word] Idiot!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[coughs sentence] You're the idiot!"
+            },
+            {
+                "character": "Andy",
+                "quote": "[coughs sentence] Nice comeback!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[coughs sentence] I was making fun of your comeback! That's why it worked. [talks normally to camera] Totally got the best of that interchange."
+            }
+        ]
+    ],
+    "deleted_scenes": [
+        [
+            {
+                "character": "Michael",
+                "quote": "And this is, don't tell me, Martin... Ne... Ne...Nack."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nash."
+            },
+            {
+                "character": "Michael",
+                "quote": "Martin Nash. Okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Male, age 37..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Good."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Mocha complexion. Supplier relations. Either caught a fish or was standing next to a man who caught a fish in Key West, Florida."
+            },
+            {
+                "character": "Michael",
+                "quote": "What are you talking about?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[holds up piece of paper] It wasn't clear on the Google Image search."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right, just..."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey, Kev. How you doing?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hey, man. Good. Listen, my M&amp;M's are under the desk if you want any."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hidden from [whisper] them."
+            },
+            {
+                "character": "Jim",
+                "quote": "Smart. Good. [to Angela] Hey, Angela."
+            },
+            {
+                "character": "Angela",
+                "quote": "You need a hair cut."
+            },
+            {
+                "character": "Jim",
+                "quote": "Bye, Angela. All right, Kev."
+            },
+            {
+                "character": "Kevin",
+                "quote": "See you later, Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "See you later."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[to Angela] It's his first day back."
+            },
+            {
+                "character": "Angela",
+                "quote": "His hair's flipping out on the sides."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[smiles] I like it."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh, my Lord."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "This is weird with you facing the other way."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I never even knew that part of the office existed. [Pam chuckles] Hey, who's that guy? [Jim points to Stanley]"
+            },
+            {
+                "character": "Pam",
+                "quote": "That's Stanley Hudson."
+            },
+            {
+                "character": "Jim",
+                "quote": "Huh."
+            },
+            {
+                "character": "Pam",
+                "quote": "He's one of our salesmen."
+            },
+            {
+                "character": "Jim",
+                "quote": "Seems like a nice enough guy."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh very."
+            },
+            {
+                "character": "Jim",
+                "quote": "What about, uh.. [points at Meredith]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Hmm, that is... Janet Fenstermaker."
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[Pam nods head] You should say hi. Use her full name."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thank you for all of this. This is so helpful. You know what? One last question. Um, who is that fine older gentleman in the corner? [points to Creed]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh, that is Creed Bratton. He has four toes and he fought in the Civil war."
+            },
+            {
+                "character": "Jim",
+                "quote": "For the North."
+            },
+            {
+                "character": "Pam",
+                "quote": "For both sides. Whoever paid more."
+            },
+            {
+                "character": "Jim",
+                "quote": "Obviously."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hey, uh sorry. Seriously, can you guys... I'm trying to get some work done."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sorry. Man. [Pam hesitates and then leaves]"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Thanks."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Hey, nice thermos."
+            },
+            {
+                "character": "Meredith",
+                "quote": "[notices Karen has same thermos as herself] Hey. That's funny."
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Meredith",
+                "quote": "[holds out flask] Do you want a little?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Uh no, I'm fine, thank you."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Okay. If you change your mind, you just let me know, okay?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah, I'm okay, thanks."
+            },
+            {
+                "character": "Meredith",
+                "quote": "That's cool."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[approaching Kevin to shake hand] Hi, Andy Bernard."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Kevin Malone."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nice to meet you."
+            },
+            {
+                "character": "Kevin",
+                "quote": "What's that on your shirt? [points to Andy's shirt]"
+            },
+            {
+                "character": "Andy",
+                "quote": "That is a penguin. You like it?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "The Penguin."
+            },
+            {
+                "character": "Andy",
+                "quote": "Andy, or Andrew."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Okay, Penguin. [laughs]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Smiles."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Good, what's funny?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Michael, have you met the Penguin?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, nicknames, yay! Penguin power."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ha, that's why I wore this shirt."
+            },
+            {
+                "character": "Michael",
+                "quote": "Good."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey, girls. What's happening? Startinng to blend? Well, before long, you guys keep hanging out, you guys you are gonna share the same menstrual cycle."
+            }
+        ],
+        [
+            {
+                "character": "Martin",
+                "quote": "[sniffs. Pans to Creed eating his mungbeans.]"
+            }
+        ],
+        [
+            {
+                "character": "Hannah",
+                "quote": "[pushing back desk item] Here you go."
+            },
+            {
+                "character": "Meredith",
+                "quote": "That was in your way?"
+            },
+            {
+                "character": "Hannah",
+                "quote": "Um"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Sorry."
+            },
+            {
+                "character": "Hannah",
+                "quote": "Yeah, I mean my stuff's coming over, but umm... is this...is this yours? [holds up travel mug]"
+            },
+            {
+                "character": "Meredith",
+                "quote": "[takes mug] Yes."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey Kevin."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Andy",
+                "quote": "Have you lost weight?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well... I... Hey. You've never met me before."
+            },
+            {
+                "character": "Andy",
+                "quote": "I know, but you just give off the vide of a guy who's getting thinner."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well, thanks. I appreciate that."
+            },
+            {
+                "character": "Andy",
+                "quote": "You're welcome."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "You know who I really like? That guy, Andy."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Can't we all get along? No, we can't. But here's the thing: yes, we can. Well, why not? Because of differeneces. Well, can we overcome these differences? No. Can we find each other and connect with each other in spite of these differences? No, we can't. But, we have to try and that is why I created the Integration Celebration."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I need somebody to pick a card. [Dwight raises hand] One of the new people, please? Tony? [Tony walks away]"
+            },
+            {
+                "character": "Andy",
+                "quote": "[gets up] I'll do it."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right. Good. Thank you. [Andy picks a card] Do not look at your card. Now, I've always said that to be a great salesman is to have the ability to connect with people right here [puts hand over heart]. So to be a great salesman is to be a king of hearts. Turn over your card."
+            },
+            {
+                "character": "Andy",
+                "quote": "[turns over card] King of hearts."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[starts clapping] Very good Michael. Really good. [Michael shushes Dwight]"
+            },
+            {
+                "character": "Michael",
+                "quote": "So I think in order for us all to work together well we must come together as a family and then we can all be [starts to fan out the rest of his cards facing the group showing kings of hearts] a king of hearts."
+            },
+            {
+                "character": "Andy",
+                "quote": "[claps] That was fantastic."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[clapping] No, no, it's better than fantastic. It's super perfect."
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight, don't, don't be a suck up."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "What I want all of you [points at Scranton branch] to do is approach one of the new people and tell them the one thing that you like most about them. Who wants to start? Who wants to give it a shot?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "[raises hand] I want to."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay Meredith, let's give it a shot."
+            },
+            {
+                "character": "Meredith",
+                "quote": "[to Martin] I love your complexion. It's like devil's food cake."
+            },
+            {
+                "character": "Martin",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Michael",
+                "quote": "[clapping] Beautiful. Very good, nice."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "It just goes to show you, you play with fire and you are gonna singe your eyebrows. And they do not grow back the same way. [takes of glasses and points to right eyebrow]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "It is inspiring to me to watch you navigate these murky waters."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Bull... [bleep] [clears throat] Sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "We heard it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "We heard what you said. You didn't cover it at all."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I had a tickle in my throat."
+            },
+            {
+                "character": "Michael",
+                "quote": "[points at camera] They're gonna have... You can't say that, all right?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I can't say [clearinng throat noise]?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[clearing throat noise] Idiot. Dwight's an idiot! Did you catch that or did... did the cough cover it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Sometimes it hurts Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "[cleaing throat] You're a jerk. Dwight's a jerk!"
+            }
+        ]
+    ]
+}

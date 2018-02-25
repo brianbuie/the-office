@@ -1,0 +1,1434 @@
+{
+    "season": 6,
+    "episode": 12,
+    "title": "Secret Santa",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "[yelling] Attention everyone! Jim and I, on behalf of--"
+            },
+            {
+                "character": "Jim",
+                "quote": "Too loud."
+            },
+            {
+                "character": "Dwight",
+                "quote": "--the party planning committee..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Too, too loud. Too Loud."
+            },
+            {
+                "character": "Dwight",
+                "quote": "But effective, look! [everyone turns to pay attention] On behalf of Jim and I, Merry Christmas."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Merry Christmas."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Merry Christmas. Good."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "My diabolical plot is on hold for Christmas. My heart just melts with the sound of children singing. Hmmph! [laughs] Not really! I'm just tired. The days are short. I don't know. Maybe I'm depressed."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "It is time to unveil the tree."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Hey, Rockefeller Center!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Uh, I have actually been to Rock Center, and this is nothing like that."
+            },
+            {
+                "character": "Jim",
+                "quote": "This is all we have."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Ugh."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, it's not \"ugh.\" It is... office camaraderie."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It is warm feelings."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Why don't we talk more about it instead of doing it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Thirty! Twenty-nine! Twenty-eight! [others join]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Why would you start so high?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Twenty- seven! Twenty-six! ..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Three, two, one! [pulls sheet to reveal Christmas tree]"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Ooh."
+            },
+            {
+                "character": "Pam",
+                "quote": "Ah!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "You didn't decorate it?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Exactly."
+            },
+            {
+                "character": "Jim",
+                "quote": "We didn't, because we think it'd be better to do it together."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Everyone."
+            },
+            {
+                "character": "Andy",
+                "quote": "Why would you wrap it in a sheet, if you're not covering anything up?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Is it, is it fake?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Pam!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, we are unveiling, an artificial tree, that will never die..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Like the spirit of Christmas!"
+            },
+            {
+                "character": "Stanley",
+                "quote": "We're supposed to applaud you for taking a giant diaper off fake tree?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "This was a successful unveiling! Go back to work! Merry Christmas!"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Hello. Sorry guys. [louder, face is scratched up.] Sorry guys. I'm not sure I've earned the right to make announcements yet. But whoever is giving me the Twelve Days of Christmas? As my Secret Santa? Please stop. I can't take it anymore. My cat killed a turtledove; the French hens have started pulling out my hair to make a nest. Please. Stop."
+            },
+            {
+                "character": "Kelly",
+                "quote": "What psycho would send that as a gift? [Kelly hugs Erin]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I begged Dwight and Jim to give me Erin for Secret Santa. And I decided to give Erin the Twelve days of Christmas. Is it my fault that the first eight days is basically thirty birds? [six geese are inside Erin's car]"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Ho ho ho! Merry Christmas boys and girls! It's me, Santa Claus!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey Santa!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "They finally let you do it!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Yeah!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Congrats Phil!"
+            },
+            {
+                "character": "Erin",
+                "quote": "It's so edgy!"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "I have been wanting to be Santa for years. I believe I have the right temperament, and the figure to do the job well. I slipped a note to Jim eleven weeks ago, and he said I could do it. [she awkwardly hugs Jim] It's been a long journey... but [sniffles] I'm Santa Claus!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "So Santa, what can we expect from this party?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "It's going to be a very jolly time if you've been good!"
+            },
+            {
+                "character": "Creed",
+                "quote": "What if you've been bad?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh then nothing but a lump of coal for you!"
+            },
+            {
+                "character": "Creed",
+                "quote": "What if you've been really, really bad? More evil, and strictly wrong?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, Creed, we covered it. Lump of coal!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "For several weeks, my Secret Santa has been giving me pieces of a machine that I've been attempting to assemble. I'm suspicious of this because I had the exact same idea, for catching Osama bin Laden. I would simply send him a different piece each day. He would assemble it, to find himself... in jail!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You know Oscar every time I make this lasagna people ask me if it's a family recipe, but really, I just get the recipe from the box!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "That's funny."
+            },
+            {
+                "character": "Pam",
+                "quote": "Is it funny? I thought it was more ...interesting, than funny. [she walks over to see Oscar at the window looking down on man catching a football in parking lot] I think my water just broke!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "That's too funny."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Oscar and the warehouse guy! Go Oscar! Go gay warehouse guy!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Heeeeeere's Santa! Hey little girl, what would you like for Christmas? Ooh, you have been a very naughty girl, I see. [points to Pam's' pregnant tummy]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael, we already have a Santa, Phyllis."
+            },
+            {
+                "character": "Michael",
+                "quote": "What the hell is going on?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Phyllis, Jim? Phyllis is Santa?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Phyllis?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah I told her a long time ago she could do it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Take it back. That is absurd."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, I'm not gonna do that."
+            },
+            {
+                "character": "Michael",
+                "quote": "No? No! Jim! Come on!"
+            },
+            {
+                "character": "Jim",
+                "quote": "I think she's doing a good job."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's insane! A woman Santa, where does it stop? No! Jim, this may be the last Christmas that we have here, doesn't it make you a tiny bit anxious, me NOT playing Santa? Come on!"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm not gonna go tell Phyllis that she can't be Santa."
+            },
+            {
+                "character": "Michael",
+                "quote": "Fine! Then do it anonymously. Ransom note style. You can- I -you know what, I have a bunch of letters cut out of magazines in my desk. You can use those."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "If this were Russia, yeah sure. Everyone would go to one Santa, and there would be a line around the block and once you sat on her lap and she'd ask you what you wanted, you would say probably \"freedom.\" At which point the KGB would arrest you and send you to Siberia. It's a good thing Russia doesn't exist anymore."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[santa voice] Ho ho ho! Why pay more to sit next to old Tranny Claus over there, when you can sit on my lap. Phyllis is only ... pretending to be a man, I'm the real thing. Sit down on my lap and there will be no doubt!"
+            },
+            {
+                "character": "Group",
+                "quote": "[mutters] Okay..."
+            },
+            {
+                "character": "Michael",
+                "quote": "No it's not, not like penis-wise. [as Santa] Hello little boy, what's your name?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Michael it's me, Kevin. Phyllis says I'm too big for her lap."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh! I am so sorry that Phyllis hates you. And hates your body. But, Santa remembers a reindeer that was just a tiny bit different as well."
+            },
+            {
+                "character": "Kevin",
+                "quote": "When can I sit on your lap?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Right now! Come on over here, big boy! There we go. [Kevin sits on his lap. It's a struggle] Oh my God."
+            },
+            {
+                "character": "Kevin",
+                "quote": "That's really comfortable. [Michael gasps]"
+            },
+            {
+                "character": "Michael",
+                "quote": "What would you like for Christmas little boy?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I don't know. I didn't know you were gonna ask me that."
+            },
+            {
+                "character": "Michael",
+                "quote": "What did you think was going to happen?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I didn't know. Nobody's ever let me sit on their lap before."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right, just say \"some toys\" please."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Can you give me some choices? Cause I really don't want to mess up on this list."
+            },
+            {
+                "character": "Michael",
+                "quote": "Damn it Kevin, come on."
+            },
+            {
+                "character": "Kevin",
+                "quote": "What about if I tell you the things I don't want?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay get off, get off! [pushes Kevin off] Oh! Oh, God!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I didn't even get to tell you what I wanted!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay you know what you get? You get a thousand helium balloons attached to you so Santa doesn't have to go through this again."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Awesome."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Well?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm trying Phyllis. You're Santa."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "The only Santa."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's what I want."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "You promised me this. Don't make me get Bob involved!"
+            },
+            {
+                "character": "Jim",
+                "quote": "What would Bob do?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Never mind, I shouldn't have said that."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Does it hurt?"
+            },
+            {
+                "character": "Erin",
+                "quote": "It stings a lot."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hmm."
+            },
+            {
+                "character": "Erin",
+                "quote": "I keep trying to figure out who's sending me these gifts."
+            },
+            {
+                "character": "Andy",
+                "quote": "I know, right?"
+            },
+            {
+                "character": "Erin",
+                "quote": "So far no one will admit to it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Huh!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Is it you? [Andy stage face, eyes pop, big mouth smile, Erin laughs]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah! Totally! I admit it! It's me."
+            },
+            {
+                "character": "Erin",
+                "quote": "Seriously?"
+            },
+            {
+                "character": "Andy",
+                "quote": "\"Seriously?\" Are you serious?"
+            },
+            {
+                "character": "Erin",
+                "quote": "What?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah! Totally serious! I'm your Secret Santa! Busted!"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "There he is."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hey."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Is Matt around? I got his check."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Uh, Matt is on a delivery. Just leave it here, I'll take it."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Ah, I'll just... wait for him."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Matt's a pretty good-looking dude, don't you think?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "I'll just leave it here with you. [drops checks, leaves. Daryl smirks]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Ryan come here!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Whoa, whoa."
+            },
+            {
+                "character": "Michael",
+                "quote": "Come on, come on."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'm doing something over here."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ahhh... Ho ho ho! [struggles to pull Ryan towards him] Come on I need this. Come over here!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "What are you talking about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Just sit down!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "No no no."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey hey hey. Everything okay?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yup. Ryan and I are just having some fun!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Can I just talk to you for a second?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Whoop! Okay, what?"
+            },
+            {
+                "character": "Jim",
+                "quote": "You can't yell out \"I need this, I need this\" as you pin down an employee on your lap!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. You know what Jim, there are two Santas in the room. Things get ruthless!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yup."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you understand, you forced my hand?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, it's Phyllis. We want Phyllis as Santa."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, do we? Do \"We?\" Is that what \"we\" want? Why don't \"we\" take a vote on it?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Great!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey! Okay! Everybody! The office is being pulled apart! I realize that. There are traditions at stake. And there are--"
+            },
+            {
+                "character": "Jim",
+                "quote": "Who wants Phyllis as Santa? [most everyone raises their hand]"
+            },
+            {
+                "character": "Michael",
+                "quote": "No no no wait! No! There are other choices, there is information that we --[Dwight counts the raised hands] Are you kidding me? Kevin? After you almost killed me?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Michael I had you. I just want to try Phyllis."
+            },
+            {
+                "character": "Jim",
+                "quote": "And if you want Michael as Santa, raise your hand. [Michael, then Dwight raises hand] Can I get you some punch?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'll get some punch. That looks delicious. [shoves Santa hat into punch]"
+            },
+            {
+                "character": "Office",
+                "quote": "Aw, Michael!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Excuse me. Whoever has been sending me the parts to this gun, I think you sent me a gear instead of a trigger."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "How do you know it's a gun?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What else does it look like?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Not a gun."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well I don't have all the pieces yet."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Well, unless the missing piece is a gun, you don't have a gun."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Not a gun. [crosses gun off his \"what could it be\" list]"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "In the North Pole I spend many nights alone tinkering with toys. So today, let's put a twinkle in Ole Kris Kringle's eye! Let the party begin! [Dwight plugs in tree lights, office applauds.]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I don't ask for much for Christmas, I really don't. It's not like I'm begging people to buy me diamonds and ...broach pendants. \"Oh buy me something expensive or I'm gonna kill myself.\" That's not - I don't care about that. All I want to be is Santa. And, you want to take that away from me? Fine. Go ahead. But when you need my help because I am ruining everything, don't look at me."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Behold! [extends his arms] Jesus Christ. And I bring to you glad Christmas tidings. I want to remind everyone the true meaning of Christmas. [Angela claps] Those of you who wish to join me, that's great. I'm excited by that. And those of you who don't, I forgive you. But I never forget."
+            },
+            {
+                "character": "Toby",
+                "quote": "Wow Michael, like this must be obvious how wrong this is."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh the Anti-Christ!"
+            },
+            {
+                "character": "Toby",
+                "quote": "You can't, [Michael touches his forehead and makes sizzling noise] Ow. Look, you cannot push religion."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh but I can push drugs in here? Is that what you're saying?"
+            },
+            {
+                "character": "Toby",
+                "quote": "No!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well you have to pick one or the other. Your choice. Pick your poison. Get back to me. In the meantime, I am going to spread my goodness all over this company!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey Phyllis, could you not reveal to Erin that I'm her Secret Santa?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "All right sweetie, I'll tell her its Michael."
+            },
+            {
+                "character": "Andy",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Kelly & Erin",
+                "quote": "[singing] I saw three ships come sailing in, on Christmas day, on Christmas day..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Have you talked to him?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Who?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Matt?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Is it that obvious? [Pam starts towards Matt] No- hey..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Mmm! Good pate, right? [Matt nods yes] Oscar made it. Have you met Oscar?"
+            },
+            {
+                "character": "Matt",
+                "quote": "I don't think so."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey, Oscar, come here. Oscar, this is Matt, and um, Matt loves your pate."
+            },
+            {
+                "character": "Matt",
+                "quote": "I had some."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oscar's pate is great. I could eat it all day, every day. Mmm. How come the good ones are never straight, right?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Okay Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Yes! They're the only two gay guys I know. But they should be together."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "This just arrived from the Dunder Mifflin North Pole branch!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "We don't have a North Pole branch. Idiot. [grabs package]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[on karaoke microphone] Uh oh, what's Dwight gonna get? What is iiiit?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes! [Dwight opens package to reveal another machine part]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh yes. It's space garbage. Dwight's gonna be able to build himself a friend! [sings] Deck the halls with crappy gifts..."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Ho ho ho! For Stanley! Ho ho ho! You've been very good this year -"
+            },
+            {
+                "character": "Stanley",
+                "quote": "I have."
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] Yeah, except for cheating on your wife. Adultery's a sin, look it up in the Bible people. What'd you get?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "He got scented candles!"
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] Oh, that's appropriate. Lot of fire where you're going. Better get used to it. You're going to H-E-L-L double hockey sticks. You're going to Hell Stanley."
+            },
+            {
+                "character": "Angela",
+                "quote": "Amen."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "And this brings us to you, little one."
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] I can't see from here people. Somebody shout it out, don't make me get up."
+            },
+            {
+                "character": "Angela",
+                "quote": "It's fabric! I really wanted this."
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] That's fantastic. You can make another dress that goes past your feet."
+            },
+            {
+                "character": "Angela",
+                "quote": "Andy, is this you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] No!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "It's a secret."
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] Andy had Erin."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nnnnya."
+            },
+            {
+                "character": "Michael",
+                "quote": "[on microphone] What? Was I not supposed to say it? [Jim unplugs mic] What? Turn it back on."
+            },
+            {
+                "character": "Jim",
+                "quote": "No. [Michael gets up and walks into his office]"
+            }
+        ],
+        [
+            {
+                "character": "David",
+                "quote": "Yes Michael, what is so urgent?"
+            },
+            {
+                "character": "Michael",
+                "quote": "David, guess who I'm sitting here dressed as."
+            },
+            {
+                "character": "David",
+                "quote": "I'm not going to guess. You can tell me or I am going to hang up."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'll give you a hint. His last name is Christ. He has the power of flight. He can heal leopards."
+            },
+            {
+                "character": "David",
+                "quote": "Michael..."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm Jesus, David, and you know why? Because Phyllis, a woman, has uslurped my role as Santa."
+            },
+            {
+                "character": "David",
+                "quote": "Michael-"
+            },
+            {
+                "character": "Michael",
+                "quote": "What?"
+            },
+            {
+                "character": "David",
+                "quote": "This is a very very bad time."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really? What's going on?"
+            },
+            {
+                "character": "David",
+                "quote": "Stephanie, can you hop off please?"
+            },
+            {
+                "character": "Stephanie",
+                "quote": "Sure David. [disconnect]"
+            },
+            {
+                "character": "Michael",
+                "quote": "What the hell? How rude! Does she do that all the time?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Do you want me off the call too Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey! Get off! Get off the phone!"
+            },
+            {
+                "character": "David",
+                "quote": "Listen, I shouldn't tell you this, but the company has a buyer. The board will have no choice to approve. They are going to clean house."
+            },
+            {
+                "character": "Michael",
+                "quote": "What does that mean?"
+            },
+            {
+                "character": "David",
+                "quote": "I'll be fired."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, can't Alan protect you?"
+            },
+            {
+                "character": "David",
+                "quote": "Alan will be out too. All of us."
+            },
+            {
+                "character": "Michael",
+                "quote": "All of us?"
+            },
+            {
+                "character": "David",
+                "quote": "Goodbye Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh my God."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Earlier today this office needed a Santa. And then it needed a second Santa. And then it needed a Jesus. And now, it needs a Michael. And that's one suit Phyllis cannot fit into."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey. How's everybody doing?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Not great. You heckled Santa for an hour and a half."
+            },
+            {
+                "character": "Michael",
+                "quote": "That was a different guy. That was Jesus. Jesus sort of ruined the party. Hurt petulant Jesus."
+            },
+            {
+                "character": "Angela",
+                "quote": "Are you serious? This is so offensive."
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what's even more offensive, is baling on this party because some... jerk ruined the first part of it. Dwight come here. Here's my debit card, I want you to go pick up a bunch of pizzas and meet me in the conference room."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What's your pin number?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't want to say. But, \"it's fun to stay at the -\" [nods to fill in blank, but Dwight doesn't know]"
+            },
+            {
+                "character": "Michael",
+                "quote": "\"It's fun to stay at the -\""
+            },
+            {
+                "character": "Dwight",
+                "quote": "Where? Holiday Inn? I don't ..."
+            },
+            {
+                "character": "Michael",
+                "quote": "[gestures the YMCA dance] Mmm, mm mm mm. [Dwight smirks, leaves]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I, I thought that you would like it."
+            },
+            {
+                "character": "Erin",
+                "quote": "It was a little much Andy."
+            },
+            {
+                "character": "Andy",
+                "quote": "Well it's the thought that counts."
+            },
+            {
+                "character": "Erin",
+                "quote": "What were you thinking? [Andy freezes]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I suppose a gentlemen might... throw in the towel, at this point. Guess what? Not gonna happen."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You know what, Christmas isn't about Santa, or Jesus. It's about the workplace. All of you feel like my family. Ryan, you are my son. And Pam, you're my wife. And Jim. And Angela and Phyllis, you are my Grandmas. And Stanley, you're our mailman. And I can't help but look at all your wonderful beautiful faces and think, \"How could they do this to us?\""
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Pam",
+                "quote": "How could we do what? [general murmur]"
+            },
+            {
+                "character": "Michael",
+                "quote": "It's not... Nevermind. Nothing. [arguing voices]"
+            },
+            {
+                "character": "Stanley",
+                "quote": "We deserve to know."
+            },
+            {
+                "character": "Michael",
+                "quote": "I didn't say anything!"
+            },
+            {
+                "character": "Angela",
+                "quote": "If you know something Michael..."
+            },
+            {
+                "character": "Michael",
+                "quote": "We're going out of business!"
+            },
+            {
+                "character": "Group",
+                "quote": "WHAT?"
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You are kidding me!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait wait wait, who said that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "David told me on the phone. David told me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "When? When did he tell you? Today?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Earlier today."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Awww!"
+            },
+            {
+                "character": "Michael",
+                "quote": "He said, we have been sold. [upset murmurs]"
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Aaaarrhh! [kicks over Christmas tree]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight! Jesus!"
+            },
+            {
+                "character": "Angela",
+                "quote": "Come on!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, wait. So they said we are sold?"
+            },
+            {
+                "character": "Michael",
+                "quote": "David's gone. Alan's gone. We're all gone."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. We haven't gone under. We've been sold and that can mean many different things."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's hard for me to imagine a scenario, where Meredith Palmer keeps her job and David Wallace does not - no offense Meredith."
+            },
+            {
+                "character": "Meredith",
+                "quote": "No, I get it."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'll call him. I'll call David."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, you won't, because he's not picking up his phone."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, I will. Because I always know how to get through to him."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "He told me where his kids go to school. I call the school, I tell them I'm a pediatrician. They patch me through to his secretary. I use my little girl voice. Badda bing, badda boom."
+            }
+        ],
+        [
+            {
+                "character": "David",
+                "quote": "Hey Sweetie, what is it?"
+            },
+            {
+                "character": "Michael",
+                "quote": "It's not sweetie, it's Michael Scott."
+            },
+            {
+                "character": "David",
+                "quote": "What the hell?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Stephanie could you hop off please?"
+            },
+            {
+                "character": "David",
+                "quote": "Michael, I have never-"
+            },
+            {
+                "character": "Michael",
+                "quote": "David!"
+            },
+            {
+                "character": "David",
+                "quote": "Ever, ever..."
+            },
+            {
+                "character": "Michael",
+                "quote": "David, you are on speakerphone with the entire branch, and the warehouse."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey David."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Hi David! [group hellos]"
+            },
+            {
+                "character": "David",
+                "quote": "Hello everyone."
+            },
+            {
+                "character": "Michael",
+                "quote": "David, they do not believe me. When you told me everyone was canned."
+            },
+            {
+                "character": "David",
+                "quote": "You weren't supposed to tell anyone Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well I think we're past that now."
+            },
+            {
+                "character": "David",
+                "quote": "I am not supposed to... Okay. Guys. I was really only talking about Alan, myself, a few other execs you don't know."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh my God, David. That's horrible."
+            },
+            {
+                "character": "Meredith",
+                "quote": "How 'bout us? It's Meredith. By the way, your wife is a very lucky woman."
+            },
+            {
+                "character": "David",
+                "quote": "Look. They're buying the company for the distribution. You guys are the only thing about this company that works. So congratulations."
+            },
+            {
+                "character": "Michael",
+                "quote": "We're not fired?"
+            },
+            {
+                "character": "David",
+                "quote": "No! No, and congratulations."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah! [office erupts in cheers and applause and hugs] It's a Christmas miracle!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Woo hoo! [climbs on desk, stage dives into crowd of employees]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[singing] I walk a lonely road, the only one that I have ever known. Don't know where it goes, but it's home to me and I walk alone. [Meredith and Madge help right the Christmas tree]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's true. We all walk alone."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "[opens \"New Moon\" poster] Jim.... Jim! [Hugs him]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[singing] My shadow's the only one that walks beside me. My shallow heart's the only thing that's beating..."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "[opening kite from Ryan] Wow! Cause... [reveals Kite Runner book]"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah! That was the idea."
+            },
+            {
+                "character": "Toby",
+                "quote": "Thank you!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Awesome!"
+            },
+            {
+                "character": "Toby",
+                "quote": "Thanks man! [awkwardly tries to hug Ryan, pats him on the back]"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[singing] Christmas tree, oh Christmas tree, thy leaves are so unchanging..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Oh! You got it? What is that? [Dwight building his gift]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I have no idea."
+            },
+            {
+                "character": "Michael",
+                "quote": "Huh. Well, maybe those will help. [puts bag of walnuts on his desk]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael? Please! Come on!"
+            }
+        ],
+        [
+            {
+                "character": "Matt",
+                "quote": "Nice to meet you Oscar."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Nice to meet you Mark!"
+            },
+            {
+                "character": "Matt",
+                "quote": "It's Matt."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Right, Matt. [Matt leaves] I know what I'm doing, Pam."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Oh man! [Dwight dropped a walnut into the nutcracker] I can use this for so many nuts! Macadamias, Brazil nuts, pecans, almonds. Clams, snails..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hi Santa."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Hi Michael. [Michael sits on her lap] Mm. 'kay."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'd like to make a wish."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I would like an Xbox, and a TV that's compatible with an Xbox. And, I'm sorry."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "An Xbox it is. Because I've decided you're a good boy."
+            },
+            {
+                "character": "Bob Vance",
+                "quote": "Scott! What in the hell is going on here? [Bob enters dressed as Santa too]"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "No Bob, we worked it out."
+            },
+            {
+                "character": "Michael",
+                "quote": "You called Bob?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I'm sorry,"
+            },
+            {
+                "character": "Michael",
+                "quote": "Come on! Phyllis!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I'm really sorry. It was earlier today."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Hi sweetie."
+            },
+            {
+                "character": "Bob",
+                "quote": "You okay baby?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I'm good baby. [they kiss, both dressed as Santa]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh God. Get a room Santas!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Thank you Santa. Happy Holidays."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's real slippery out here. [sound of drummer's starts]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh my God!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Twelve drummers drumming. [marching drum band lines up to perform, Andy steps out with cymbals]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Merry Christmas Erin! Take it away boys! [dances along to the drumming]"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

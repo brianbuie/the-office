@@ -1,0 +1,1250 @@
+{
+    "season": 7,
+    "episode": 6,
+    "title": "Costume Contest",
+    "scenes": [
+        [
+            {
+                "character": "Andy",
+                "quote": "What about this one? It's kinda badass, right? Just seems kinda crazy in a way I might need right now."
+            },
+            {
+                "character": "Jim",
+                "quote": "I don't know. [looks at Stanley, who took his mug and is drinking out of it] Oh! That's... not... yours."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Stanley just drank OJ out of my mug, and didn't seem to realize that it wasn't his hot coffee. So the question has to be asked, is there no limit to what he won't notice?"
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "What's a seven letter word for purse?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[sitting at Phyllis' desk, dressed like Phyllis; high pitched voice] Satchel!"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Nope. Starts with an H."
+            },
+            {
+                "character": "Andy",
+                "quote": "[shirtless, wearing only a tie] Handbag."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Hmmm. [glances at Andy] Thank you."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Shh! Shhh! [watches Jim put a cardboard box over Stanley's monitor]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[standing outside the conference room, wearing fake teeth, watching Stanley walk in] All right, everybody, take a seat. As you may have heard, our branch on the planet Jupiter is up eight thousand percent in sales!"
+            },
+            {
+                "character": "Everyone",
+                "quote": "Yay! [applause]"
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "[looks at the clock, then at his watch] Hold up! That clock is slow. It is five o'clock, I will see you all tomorrow"
+            },
+            {
+                "character": "Pam",
+                "quote": "[turns around, is wearing a mustache] Bye, Stanley! Love you! [waves, Stanley leaves]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[standing next to a pony] So long, Stanley!"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Night, everybody."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "So what kind of statement are you making with that costume, Kevin?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "The statement that I am making, Oscar, is that I kind of look like Michael Moore."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Dunder Mifflin, this is Erin! Happy Halloween! How can I haunt you today?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "A lot of people are really getting into Halloween this year! [puts head down over fake bomb made from cardboard, high pitched voice] Six seconds, MacGruber! [lifts head] Pam's got a lot of fun stuff planned! [puts head down, high pitched voice] Uh, two seconds MacGruber! [lifts head] Including a... costume contest, and bobbing for apples, and a Ouija board... OHHH! BOOM! OHH EXPLOSION! [throws fake bomb, takes off sunglasses, points to camera] MACGRUBERRRR!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "People are really into the costume contest this year. Might have something to do with the prize, maybe you've heard of it. The 2011 Scranton Wilkes-Barre coupon book worth over fifteen thousand dollars in savings!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Stop."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[has his hands around Jim's neck] Too late! If I was the real Scranton Strangler, you'd be so strangled right now. If you're out there, strangler, you will get caught! By me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sounds like someone's really trying to convince us that he's not the Scranton Strangler."
+            },
+            {
+                "character": "Dwight",
+                "quote": "To my chickens I'm the Scranton Strangler. [looks at Pam] Oh-ho! That's very funny. Looks like someone decided to dress up as old Dwight Schrute's mom."
+            },
+            {
+                "character": "Pam",
+                "quote": "What?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're only one third as beautiful and only half her height."
+            },
+            {
+                "character": "Pam",
+                "quote": "I'm supposed to be Olive Oyl. And it makes more sense when I'm standing next to Popeye, but... Jim doesn't want to put his costume on."
+            },
+            {
+                "character": "Jim",
+                "quote": "[places pipe in mouth] I am Popeye!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I've never really been a costume guy. Even when I was a kid, it just felt like something I was too old for. And then this morning, when Pam hands me this little number [holds up Popeye costume, shakes head] ...no."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "[dressed as Lady Gaga] In case you can't read m-m-my Poker Face... [laughs] we will be reviewing our sales policies. [accepts note from Michael, reads it out loud] I have ten seconds to read them or this whole place blows up."
+            },
+            {
+                "character": "Michael",
+                "quote": "MACGRUBER!"
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Lame. Why don't witches wear panties?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, here we go!"
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Because they need to grip the broom!"
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughs] OH! Who likes to water ski on Lake Erie? No wai-where does Dracula like to water ski?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Lake Erie."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "When our warehouse workers make deliveries, they're going to be encouraged to offer clients extra products. And then they will split those commissions with sales."
+            },
+            {
+                "character": "Michael",
+                "quote": "So, wait, drivers are going to be able to sell paper on the road?"
+            },
+            {
+                "character": "Gabe",
+                "quote": "That is correct."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Has anyone started calling you \"Gabe-wad\" yet?"
+            },
+            {
+                "character": "Gabe",
+                "quote": "Not here."
+            },
+            {
+                "character": "Danny",
+                "quote": "Gabe-wad."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Okay, guys, fun is fun, but-"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Blackula!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Dracula."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, so... I almost forgot. You'll find this hilarious. Apparently corporate is going to have drivers sell paper on their routes now. That's like, exactly sort of the idea that you had."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yes. I do remember saying something like that to you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah. I'm sorry. I blew this. You should have gotten credit for that, man."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I'm just glad we're gonna try it out."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really? We're good?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah. We're cool."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. [reaches out and shakes Darryl's hand] Okay."
+            },
+            {
+                "character": "Darryl",
+                "quote": "What's under your shirt?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh. It's a ream of paper. Thought you might hit me."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Darryl Philbin is the greatest guy in the world. And you know what I'd like? I would like to have all the racists brought together and take Darryl Philbin out to lunch. Just to see what they're missing."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "[leans hobo sack against the refrigerator] It's a great stick, right?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "It's really good. It's a classic. I think you might win the whole thing with that."
+            },
+            {
+                "character": "Toby",
+                "quote": "Thanks!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Everyone realizes that this coupon book isn't actually worth fifteen thousand dollars, right? You'd have to spend two hundred thousand dollars on crap you don't actually need to get fifteen thousand dollars worth of benefits. I'm not the only one who sees this, right?"
+            },
+            {
+                "character": "Toby",
+                "quote": "No."
+            },
+            {
+                "character": "Ryan",
+                "quote": "No."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I get that. I get that."
+            }
+        ],
+        [
+            {
+                "character": "Danny",
+                "quote": "Excuse me, everybody. I want to invite you all to the Halloween party I'm having at my bar."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You own a bar?"
+            },
+            {
+                "character": "Danny",
+                "quote": "Public School, at exit 11."
+            },
+            {
+                "character": "Oscar",
+                "quote": "That's a great name. You're hilarious. A plus!"
+            },
+            {
+                "character": "Danny",
+                "quote": "So. You're all on the list!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hey, man, can I get a plus five? It's all guys."
+            },
+            {
+                "character": "Creed",
+                "quote": "Hey, what's the crowd like, Danny? Our age?"
+            },
+            {
+                "character": "Danny",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I don't think that she would leave Jim for Danny."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I don't know, they're both handsome."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Pam is gonna choose whoever has a scent most like that of her father. Does anyone remember what her dad smelled like?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I think he-"
+            },
+            {
+                "character": "Creed",
+                "quote": "Hey hey hey, quiet, here she comes! Did you hear about that Danny guy? Heard he used to date Pam."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "So four years ago, when I was in Stamford, Connecticut, and dating someone else, Pam went on two dates with Danny. Which was obviously the greatest love story ever told, given how much people are walking on eggshells around us."
+            },
+            {
+                "character": "Pam",
+                "quote": "We were basically Romeo and Juliet."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's right."
+            },
+            {
+                "character": "Pam",
+                "quote": "Except where Juliet doesn't have that great a time and Romeo doesn't call back after two dates."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yikes."
+            },
+            {
+                "character": "Pam",
+                "quote": "But I've learned to love again. [puts her arm on Jim's shoulder] He's a cartoon sailor."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, no."
+            },
+            {
+                "character": "Pam",
+                "quote": "And looks so handsome in his UNIFORM! Please?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No. No, I'm not gonna-no."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Tuna! Tuna! Do you want us to skip this party?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I don't care."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I am never gonna forget what Danny did to Pam. I forget nothing. I'm like an elephant in that way."
+            },
+            {
+                "character": "Andy",
+                "quote": "You know what else? [pulling fake teeth out of his mouth] The-this... this sucks for Jim. Right? But it also sucks for us. Because we don't get invited to a ton of Halloween parties. [puts teeth back in]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, and everyone else is gonna be there. Stanley, Phyllis, Angela, Darryl... Creed's a maybe."
+            },
+            {
+                "character": "Andy",
+                "quote": "[removes teeth] Creed's going?!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Madge from the warehouse just made her first sale. Madge. We should have been doing this a long time ago."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Erin! Would you please do me a solid and get Darryl Philbin on the speakerphone?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "[answers phone] Hello?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hi, Darryl, come out here, please."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I'm good."
+            },
+            {
+                "character": "Michael",
+                "quote": "You need to stop being so shy, come out here, and embrace who you really are, superstar!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "This is embarrassing, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, I bet it is! If you're gonna do your job well here, you gotta get used to being embarrassed."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Let me put my shoes on. [hangs up phone, dial tone]"
+            },
+            {
+                "character": "Pam",
+                "quote": "[leans over toward Erin] Um, hit the speakerphone button. The speakerphone button? The same button as you hit before... or sit on it."
+            },
+            {
+                "character": "Michael",
+                "quote": "This whole delivery slash sales idea? You know whose idea that was? That was Darryl Philbin's. He thought of that way before the corporate fat suits."
+            },
+            {
+                "character": "Angela",
+                "quote": "So, what happened?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I got in the way. I said no. And it just stopped. But then corporate comes up with this idea, but you know what? They need to know that it was yours. And I don't care if I take a bullet. We're gonna call them, we're gonna put them on speakerphone right now..."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh! [fumbles for phone]"
+            },
+            {
+                "character": "Michael",
+                "quote": "And we are going to straighten this out."
+            },
+            {
+                "character": "Andy",
+                "quote": "Screw corporate! They probably stole the idea anyway."
+            },
+            {
+                "character": "Michael",
+                "quote": "Mmhm!"
+            },
+            {
+                "character": "Gabe",
+                "quote": "Uh uh. Corporate stole nothing, okay? Darryl told me, and then I told them, giving Darryl full credit, so... no need to [mimicking Andy] screw corporate! Or anything like that, so. Let's give Darryl a round of applause, as planned. [claps]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'm a little peeved at Darryl right now."
+            },
+            {
+                "character": "Dwight",
+                "quote": "He went to Gabe behind your back."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, he didn't go behind my back. He went over my head."
+            },
+            {
+                "character": "Dwight",
+                "quote": "He went over your head to go behind your back."
+            },
+            {
+                "character": "Michael",
+                "quote": "What is taking someone from behind?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. Shh. Michael, listen. This cannot stand. We can't have workers going straight to corporate. Makes your job superfluous."
+            },
+            {
+                "character": "Michael",
+                "quote": "It was a good idea, though."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah. Here's another good idea. Corporate chain of command. We need to strangle Darryl's idea."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey, Danny."
+            },
+            {
+                "character": "Danny",
+                "quote": "Hey."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm really sorry, but we can't come to your party tonight."
+            },
+            {
+                "character": "Danny",
+                "quote": "I was looking forward to throwing some darts with you guys."
+            },
+            {
+                "character": "Andy",
+                "quote": "You were?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Okay, well then, uh, I mean, maybe we could do it like... next Halloween."
+            },
+            {
+                "character": "Danny",
+                "quote": "For sure."
+            },
+            {
+                "character": "Andy",
+                "quote": "We're just like, totally caught in the middle here."
+            },
+            {
+                "character": "Danny",
+                "quote": "What are you talking about?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Well Jim and Pam basically begged us not to go..."
+            },
+            {
+                "character": "Danny",
+                "quote": "Jim and Pam really don't want you to go?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "They're really upset about the whole Danny situation."
+            },
+            {
+                "character": "Danny",
+                "quote": "I'll talk to them."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, but wait, don't tell them that we said anything to you."
+            },
+            {
+                "character": "Danny",
+                "quote": "Okay."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Or you're dead."
+            },
+            {
+                "character": "Danny",
+                "quote": "Okay."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Kelly! Great costume!"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh."
+            },
+            {
+                "character": "Angela",
+                "quote": "KELLY! You cannot change costumes in the middle of the day! Pam, she's out."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Um, if I'm out, I'm going to sue this ENTIRE COMPANY for discrimination."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Guys? You're arguing over a one in sixteen chance. Over a prize worth... forty bucks."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Um, fifteen thousand bucks, Oscar."
+            },
+            {
+                "character": "Angela",
+                "quote": "Yeah, shut it, Oscar. Pam?"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "This is an amazing prize. I mean, I don't even want to give Pam a compliment, because she's so blegh, but she did a good job. I really want that coupon book."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Garbage magnet. [throws magnet] Garbage magnet, God! Magnets are interesting enough, you don't need to tart them up with some design. [to Michael] I can't believe this doesn't make you mad!"
+            },
+            {
+                "character": "Michael",
+                "quote": "[staring at Gabe and Kevin] What the hell are they talking about?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hmm, Kevin and Gabe. Probably about the extremes of the human physique."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you think that Kevin is going over my head? I don't-[sees Kevin and Gabe fist-bump] Oh my GOD. Okay. All right. All right. You know what? That's inappropriate, Kevin. I am your boss, and if you have something to say, it goes through me, and then I take it to Gabe. Chain of command. Do you understand?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I am so sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, you're sorry?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I just thought-"
+            },
+            {
+                "character": "Michael",
+                "quote": "What did you just thought?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well, Gabe asked me if there were any really cool Lady Gaga moves that he could do for the catwalk. And so then I tol-[tries not to cry]"
+            },
+            {
+                "character": "Michael",
+                "quote": "All right."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I told him that there was this one cool move where she powers down like a robot."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Okay? But I- I am so sorry that I didn't tell you first."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, don't let it happen again."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[hysterical] You think that I would let this happen again?! NO WAY JOSE."
+            },
+            {
+                "character": "Michael",
+                "quote": "I-"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[bleep] you, Gabe!"
+            },
+            {
+                "character": "Gabe",
+                "quote": "Okay..."
+            }
+        ],
+        [
+            {
+                "character": "Danny",
+                "quote": "Can you imagine? It's just crazy."
+            },
+            {
+                "character": "Jim",
+                "quote": "That is crazy. We would never care if Andy or Kevin went to your party."
+            },
+            {
+                "character": "Danny",
+                "quote": "Look, I'm just glad we can laugh about it. Because I was a little nervous about coming to work here, with, you know, our history."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my gosh! People keep blowing it out of proportion! It's not even a history."
+            },
+            {
+                "character": "Danny",
+                "quote": "Exactly."
+            },
+            {
+                "character": "Jim",
+                "quote": "It's not like you guys had some long relationship right? Big painful breakup I don't know about?"
+            },
+            {
+                "character": "Danny",
+                "quote": "No! Two or three dates."
+            },
+            {
+                "character": "Pam",
+                "quote": "It was two."
+            },
+            {
+                "character": "Danny",
+                "quote": "Was it two? I thought it was three."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, we um, we had plans for a third, but then I don't know, you never called me back, so..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oooh! You can't handle the truth! [laughs]"
+            },
+            {
+                "character": "Danny",
+                "quote": "[laughing] Well, that does not sound like me."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah? [stops laughing] It was though, that's what happened."
+            },
+            {
+                "character": "Danny",
+                "quote": "[stops laughing] Well, great, I just wanted to make sure that things weren't weird."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hmm-mm."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Okay, this whole going over my head-gate? Is making people act weird. The chain of command is crumbling. Do you know what just happened? I just made Kevin cry. And Gabe looks like Lady Gaga. That's not Halloween. Halloween should be a day in which we honor monsters and not be mad at each other."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I'm not mad. Are you mad?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You went over my head. And then you lied to my face. So my head and my face have taken a beating."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Well, I'm sorry if it seems that way to you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, that might help. If you said \"I'm sorry\" in front of everybody."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Mike."
+            },
+            {
+                "character": "Michael",
+                "quote": "In front of me."
+            },
+            {
+                "character": "Darryl",
+                "quote": "You made a bad call. And I fixed it. So I'm not apologizing."
+            },
+            {
+                "character": "Michael",
+                "quote": "So that's it."
+            },
+            {
+                "character": "Darryl",
+                "quote": "That's it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Is it?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Sookehhh. [removes teeth] Bill Compton, from True Blood."
+            },
+            {
+                "character": "Stanley",
+                "quote": "How many freakin' vampires am I supposed to care about these days?"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "I guess you could say I'm still in costume. I'm a rational consumer."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Stupid coupon booklet. Have you seen my costume? I'm a rational consumer."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, I uh, heard you say it to Phyllis. That's a good line."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, everybody! After you walk the runway everyone has to vote for who gets the coupon book. And you can't vote for yourself."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Pam. Can you vote for other people?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, I gotta get in on this. [mocking Darryl] Hey, it's cool, man, I work in the warehouse! I'm cool! I'm hip and I'm jive! And I don't care about nobody! Do you know who I am? Happy Halloween, jerk!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Still don't know who I am? I'll give you a hint. I go over other people's heads."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael, this is a bad idea."
+            },
+            {
+                "character": "Michael",
+                "quote": "What's a bad idea?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Dressing up as somebody-I mean, when has that ever worked for you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "NEVER! [tosses wig] Okay, you know what? Fine. I'm not Darryl. And thank God I'm not Darryl."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Could you for once just let us enjoy a party instead of making it about all your issues?"
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "[walking down the runway] Raaah! [waves sword]"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "I present to you the [finger quotes] rational consumer, as it were."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Angela as the nurse!"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "I don't like your tone! Look, they were sold out of all the other costumes, okay? I think we all live in the real world, here. Let's not pretend to be unaware of what sells in this office."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "What should we ask?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, can I play? Why don't you ask if Darryl is a bad friend who backstabs people in the back?"
+            },
+            {
+                "character": "Jim",
+                "quote": "We have one question to ask the spirit world and you want us to ask that?"
+            },
+            {
+                "character": "Erin",
+                "quote": "He says no."
+            },
+            {
+                "character": "Michael",
+                "quote": "Aaah! Darryl moved it. You moved it."
+            },
+            {
+                "character": "Darryl",
+                "quote": "No."
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight, you saw Darryl move it, right?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Let's just say I saw exactly what the two of you wanted me to see."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I know how to sit on a fence. Hell, I can even sleep on a fence. The trick is to do it face down with the post in your mouth."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "If you had one word you would use to describe Darryl what would that word be?"
+            },
+            {
+                "character": "Erin",
+                "quote": "[hands are being forced to the letters] A... S... S... H... E... T?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "An asset!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Ah! [lets go, candy corn flies everywhere] That's enough."
+            }
+        ],
+        [
+            {
+                "character": "Danny",
+                "quote": "I don't think it's gonna work out the way you think."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "I don't think you get it."
+            },
+            {
+                "character": "Danny",
+                "quote": "Hey."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey."
+            },
+            {
+                "character": "Danny",
+                "quote": "This is some party, huh?"
+            },
+            {
+                "character": "Jim",
+                "quote": "When you work hard, you play hard around here. Even if you don't work hard. Oh, here's something. Uh, why didn't you ever call Pam back?"
+            },
+            {
+                "character": "Danny",
+                "quote": "Are you serious?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. I mean, I'm not saying that everyone has to fall in love, or anything, I'm just saying... but you know, to not even call her back is..."
+            },
+            {
+                "character": "Danny",
+                "quote": "You know what it was? I think she gave me her number but then her fours look like eights, and..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Could be. But you also called her the second time so you had the number right."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Halpert, you lookin' for someone to bang your wife?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Nope."
+            },
+            {
+                "character": "Danny",
+                "quote": "Okay. You wanna know? I didn't call her back because she spent the whole date talking about you. She was obviously in love with you."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Fifty seven. Fifty eight."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Wait, wait. She hasn't moved in awhile."
+            },
+            {
+                "character": "Oscar",
+                "quote": "[reaches over to pull Erin out of apple bobbing water] ERIN!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Two! I got two. I ate two whole apples."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I'd remember talking about Jim. That wasn't it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Just tell her the real reason."
+            },
+            {
+                "character": "Danny",
+                "quote": "Do you honestly want to know why I didn't call her back on a date over four years ago?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey. She had a nice time. It seems rude."
+            },
+            {
+                "character": "Pam",
+                "quote": "I did. And it's just one of those things that's going to keep gnawing at me, like \"gnaw, gnaw, why? Why didn't he? I have no idea why.\""
+            },
+            {
+                "character": "Danny",
+                "quote": "Okay. Honestly. I didn't call you back because I-thought you seemed a little... dorky."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, man."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thank you! Thank you. I got it. Now I know. You thought I was a little dorky. You know? [gibberish sounds] Okay. Well, excuuuuse me."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "In the future, you need to get Michael's approval on anything before coming to me."
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Darryl",
+                "quote": "You're gonna be missing out on some good ideas."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Okay, well, obviously if it's a really, really good idea, my door is open."
+            },
+            {
+                "character": "Michael",
+                "quote": "If they're good ideas, I'm not gonna say no!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "You said no to this one!"
+            },
+            {
+                "character": "Michael",
+                "quote": "That was-okay, you make one mistake in fifteen years and you drag me over the coals, after everything I did for you?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "What have you done for me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "What have you done for me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Ed Truck hired me. Jo promoted me. Gabe listened to me. All you've ever done is say no to me. I have ambition. And you kept me at the same level for years."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Ohh. Dropping bombs, right? [explosion noise] This really make you think, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Stop it! Stop, stop. We're thinking. We're thinking about it."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "You don't have to point to the fact that we're thinking about it. Stop it! Just let us think. Okay, next time you have a really great idea, we will put it in a hat, and then we will have Erin pick it out of the hat and let her decide."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I don't understand the point of a hat."
+            },
+            {
+                "character": "Gabe",
+                "quote": "You're right, we don't need a hat."
+            },
+            {
+                "character": "Michael",
+                "quote": "I am not budging on the hat issue."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Okay. We're going to table the hat question. The best ideas are going to come to me, I make the final decision, period."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. We both reserve the right to go to Jo if we disagree with Gabe."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Okay, why don't we simplify this? Darryl brings it to Michael, Michael brings it to me, no one calls Jo."
+            },
+            {
+                "character": "Michael",
+                "quote": "Unless you and I decide we want to talk to Jo, then we'll give her a call."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Cool. Okay. Sorry I lied."
+            },
+            {
+                "character": "Michael",
+                "quote": "Sorry I was a jerk."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Friends fight. Friends fight."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "What's up, man?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Sometimes it seems like it was better down in the warehouse, you know?"
+            },
+            {
+                "character": "Andy",
+                "quote": "When I was a freshman in college, I worked at the student newspaper, the Cornell Daily Sun? This was at Cornell. I had to write an op-ed column every day. Bernard's Regards."
+            },
+            {
+                "character": "Darryl",
+                "quote": "This was your freshman year."
+            },
+            {
+                "character": "Andy",
+                "quote": "I started to ask myself, \"Do I have big plans here?\" I didn't want to become editor of that paper, so I got up and walked right out of Walter Bernard hall, and that's actually when I heard eight male voices, singing, unencumbered by instruments. I was hooked. So is becoming CEO of this company your a capella group? Come on, we're going to Danny's bar. Public School."
+            },
+            {
+                "character": "Darryl",
+                "quote": "No. I got some work to do. I do got big plans with this company."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "To be honest, I still can't believe he didn't call her back. Who doesn't call a dork like that back?"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Oh, wow!"
+            },
+            {
+                "character": "Jim",
+                "quote": "[holding Cece] Spinach in a can. Power eat spinach. [Popeye sound]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Aww, my hero!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Okay, everyone, I've tallied the votes, and the winner... of the costume celebration spectacular... and the Scranton Wilkes-Barre coupon book... Oscar Martinez."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "If I have to vote for someone, I don't want it to be someone who can beat me."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Shake things up. I'm a Nader guy."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "Best Edward James Olmos costume I've ever seen. Like, freaky good."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

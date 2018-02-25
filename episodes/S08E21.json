@@ -1,0 +1,1278 @@
+{
+    "season": 8,
+    "episode": 21,
+    "title": "Angry Andy",
+    "scenes": [
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Whoo! Wow, it is raining cats and dogs out there. Holy moley."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Phyllis says the same twelve clich\u00e9s every time it rains. So, I promised everyone that if she says them all by noon today, I will send out for hot chocolates."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "So how was the drive in?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, nobody knows how to drive in the rain."
+            },
+            {
+                "character": "Darryl",
+                "quote": "You don't say?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Yeah. You know the roads are actually the slickest in the first half hour?"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Oh, the plants are gonna love this."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "I actually sleep better when it's raining."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Tell me about it."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "Time's almost up. How many are left?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Just one. \"This weather makes me want to stay at home, curled up with a good book.\""
+            },
+            {
+                "character": "Darryl",
+                "quote": "Phyllis. This rain... does it make you wanna be doing something?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "What do you mean?"
+            },
+            {
+                "character": "Pam",
+                "quote": "You know, like aren't some things just so nice and cozy in the rain?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, come on."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Lots of things are cozy in the rain."
+            },
+            {
+                "character": "Jim",
+                "quote": "And that's noon. Exactly. [others groan]"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "I mean, normally the rain would make me want to stay home, curled up with a good book. But everybody's being so nice to me today. I'm really happy being here."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[singing] My girlfriend's back and there's gonna be trouble-"
+            },
+            {
+                "character": "Andy &amp; Erin",
+                "quote": "Hey la, hey la..."
+            },
+            {
+                "character": "Andy",
+                "quote": "...my girlfriend's back!"
+            },
+            {
+                "character": "Erin",
+                "quote": "[simultaneously] ...his girlfriend's back! [others cheer and applaud]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Anyway, I know it's the end of the day. We just wanted to stop by and say hi."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Welcome home."
+            },
+            {
+                "character": "Erin",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey, Kev."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nice sweater."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[wearing a Cornell sweater] Thank you. Nellie was nice enough to give it to me. She's sweet. I just wish there was pockets."
+            },
+            {
+                "character": "Andy",
+                "quote": "What happened to old salty?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nellie let me bobble-ize him. His name is now Captain Mutato."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I've written quite a bit of X-Men fan fiction. Captain Mutato is half man, half mermaid. So he can fight crime as a man and make love as a mermaid. Most of my writing involves the latter."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Okey dokey. [knocks on door]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yes?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Whoa. Well, you must be the famous Nellie Bertram I've been hearing all about. I am the famous Andy Bernard you've been hearing all about."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh yes."
+            },
+            {
+                "character": "Andy",
+                "quote": "I just want to thank you for jumping in and minding the store during my temporary absence."
+            },
+            {
+                "character": "Nellie",
+                "quote": "You are most welcome."
+            },
+            {
+                "character": "Andy",
+                "quote": "Anyway, now that I'm back, I would love to have my office back, whenever you get a chance."
+            },
+            {
+                "character": "Nellie",
+                "quote": "No."
+            },
+            {
+                "character": "Andy",
+                "quote": "Obviously, we'll figure out the, uh, logistics of moving all this stuff out of here. But, you know, the sooner the better."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Andy",
+                "quote": "Get back to normalcy."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Hmm, no."
+            }
+        ],
+        [
+            {
+                "character": "Ravi",
+                "quote": "...and then just lay him in his crib, and then bicycle his legs. And then after Jim quiets down, you do the same thing with your baby. [Pam, Jim and Kelly laugh] But if he keeps having problems, just give me a call."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my gosh, thank you so much. But seriously, we don't want to bother you any more than we already have."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's it."
+            },
+            {
+                "character": "Kelly",
+                "quote": "It's no bother, you guys are our friends."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Ravi, our amazing pediatrician, was asking us if we knew any girls and I said I know the perfect girl."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yep. Because Kelly is Indian and... oh, that's it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Race had nothing to do with it. I just knew they'd be good together."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[talks over flashbacks] Kelly has been a handful in the past."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[cries, slams fist on desk] Why?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[Ryan and Kelly make out in the nook] But she's had a bad influence. She's like an addict. [Ryan and Kelly argue] And I just had to get her clean."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[Ryan and Kelly make out on Oscar's desk] Get lower."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Um, also, little tip, never shake the baby."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sorry, just to be clear, you're saying do NOT shake the baby."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Don't shake the baby. Um, a lot of times, parents get frustrated 'cause the baby's crying and they shake the baby. And you got to, um, you can't do that."
+            },
+            {
+                "character": "Pam",
+                "quote": "Don't shake our baby?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay. I'd never heard that before. So, thank you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Oh, my God."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, I'm glad you said something."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Me too."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Kelly and I broke up and she can do whatever she wants. And her new boyfriend seems awesome, if you're into Indian people. I'm not."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Hey, um, what's the deal with this guy? He's really into Kelly, huh?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, they're really great together."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Maybe we weren't right together, but... it's weird. I'd rather she be alone than with somebody. Is that love?"
+            },
+            {
+                "character": "Jim",
+                "quote": "That's about it, yeah."
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "Nellie! You've been terrific in your interim capacity. But, Andrew is the rightful manager so if you would just give him his office-"
+            },
+            {
+                "character": "Nellie",
+                "quote": "No."
+            },
+            {
+                "character": "Robert California",
+                "quote": "I'm sorry?"
+            },
+            {
+                "character": "Andy",
+                "quote": "This is what I was trying to tell you."
+            },
+            {
+                "character": "Robert California",
+                "quote": "I'm not accustomed to people saying no to me. [laughs]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, Bobby, get accustomed to it because then it feels so good when they finally say yes."
+            },
+            {
+                "character": "Robert California",
+                "quote": "You're both adults. I'm sure you can figure this out between yourselves."
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "I never allow sexual desire to influence a business decision. So I find it best to excuse myself temporarily until I've had a chance to make love and then go back and analyze the situation rationally. Buffett operates the same way."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "I'm gonna count down from five and if you are not out of my office, I'm going to dock your pay one hundred dollars."
+            },
+            {
+                "character": "Andy",
+                "quote": "[chuckling] Okay."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Five... four..."
+            },
+            {
+                "character": "Andy",
+                "quote": "You can't dock my pay-"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Angela! Dock Andy's pay one hundred dollars."
+            },
+            {
+                "character": "Angela",
+                "quote": "On it!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Great. Five, four, three, two, one. Angela, please dock Nellie's pay a hundred dollars. Angela?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Do you want to go again?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Angela?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Let's go again. Five... four..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ooh, she's counting again."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Three... two... one..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, oh!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Angela, two hundred dollars!"
+            },
+            {
+                "character": "Angela",
+                "quote": "You got it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Seriously, Angela?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I got a little bit of an anger problem. Got me in some trouble a couple years ago."
+            },
+            {
+                "character": "Erin",
+                "quote": "When I see him start to get mad, I just put my hand on his arm like this."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "I know what, let's go... ten thousand dollars! [Andy laughs] Five... four..."
+            },
+            {
+                "character": "Andy",
+                "quote": "You're just saying numbers. It's meaningless."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Three..."
+            },
+            {
+                "character": "Andy",
+                "quote": "It's literally like-"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Two... [Andy runs out of the room] one."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "There you go. [helps Andy in the car] Hey. we're gonna have a nice, hot date."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Hey. So last night was so not a big deal."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, yeah, I was just tired."
+            },
+            {
+                "character": "Erin",
+                "quote": "We both were. Plus, I was definitely not my normal sexy self."
+            },
+            {
+                "character": "Andy",
+                "quote": "Whoa. No. Are you kidding? You were so sexy. Just the thought of you last night, like, crazy turns me on. It just didn't last night."
+            },
+            {
+                "character": "Erin",
+                "quote": "Really. It's not a big deal."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah. I know it's not... a big deal."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "I found this the other day while I was journaling and they reminded me of you."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh, those are from our weekend at the time share."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, the fractional ownership property. [sigh] Oh, we took this one right before we got in that huge fight."
+            },
+            {
+                "character": "Kelly",
+                "quote": "God I don't even remember what that fight was about."
+            },
+            {
+                "character": "Ryan",
+                "quote": "You were being really bratty about where we would go out to dinner. But all I remember is how pretty you looked, taking those pictures of me. Anyway, if you want to order prints of your own, I can send you the link."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "I'm in love with Kelly Kapoor. And I don't know how I'm gonna feel tomorrow or the next day or the day after that, but I do know that right here, right now, all I can think about is spending the rest of my life with her. Again, that could change."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "When you lost the manager job-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Did it affect you outside of the office?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "How?"
+            },
+            {
+                "character": "Erin",
+                "quote": "I don't know what the technical term is... Penial softiosis?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Erin, I am so glad that you trusted me. You came to the exact right person for this. No, I have never once experienced anything remotely like that. Never."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh, okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Washington Monument."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Eiffel Tower."
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay, okay."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I saw you were getting along with Ryan again."
+            },
+            {
+                "character": "Kelly",
+                "quote": "He's so sweet. He pointed to my latte and he said, \"Kelly, that will be the color of our children.\""
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, he's so great. Remember how it felt when he cheated on you though?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Which time?"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I am not going to let Kelly throw her life away on Ryan. And it has nothing to do with access to my pediatrician. Why you would even ask or were going to ask, because I- I felt like that question was coming."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "One of Toby's eyes is getting smaller. So there's that. Gabe bragged about having an extra ticket to the air show this weekend and Meredith said she was interested and then Gabe said immediately that his friend might be taking the ticket. So I'll keep you posted on that."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Every day I brief Nellie on what's going on in the office. Most of it's irrelevant. But a good informer doesn't judge what's worth passing on."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Oh, and Andy lost his masculinity, so congratulations on that."
+            },
+            {
+                "character": "Nellie",
+                "quote": "What do you mean?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Erin made it clear to me that he was unable to perform sexually last night. By contrast, I went to sleep with an erection so large it was like I was wearing no blanket at all. Wow, I knew you'd win, but you just demolished him! I'm a little bit jealous, actually. Reduced him to a mere ant."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "I just wanted to take the man's job, not his manhood."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Okay, I would like to invite everyone into the conference room."
+            },
+            {
+                "character": "Andy",
+                "quote": "You can't call a meeting. [laughs] But I would like to have a meeting in the conference room right now! So let's get in the conference room. Thank you. Good. Thank you for coming to my meeting."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Okay, if you would like to take a seat we can get started."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh! Can't do it 'cause I gotta run a meeting. So."
+            },
+            {
+                "character": "Nellie",
+                "quote": "No."
+            },
+            {
+                "character": "Andy",
+                "quote": "Wanted to talk to all of you guys about [reads whiteboard] importance... and know that each and every one of you is vitally important."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andrew, not everyone here is important. And the word is \"impotence.\""
+            },
+            {
+                "character": "Nellie",
+                "quote": "Which is important in its own way. So if you'd just like to take a seat, Andy."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "\"Take a man's job, but leave him his balls.\" Margaret Thatcher said that... probably. Don't know. Don't read. Didn't see the movie."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "This meeting is not about any one person in particular. It is a human problem."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's not just a human problem. Flounders frequently experience impotence, especially when converting from male to female and then back again to male."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Nellie, does the person affected by this want us to help her in any way in particular?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh, oh, it's not me. No, no. I've never had any problem in that arena. And I have been with several older men."
+            },
+            {
+                "character": "Robert &amp; Creed",
+                "quote": "[in unison] How old?"
+            },
+            {
+                "character": "Creed",
+                "quote": "Jinx. Buy me some Coke."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Dwight told me about it earlier."
+            },
+            {
+                "character": "Erin",
+                "quote": "Dwight!"
+            },
+            {
+                "character": "Everyone",
+                "quote": "What?"
+            },
+            {
+                "character": "Erin",
+                "quote": "You promised!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Dwight couldn't get it up for Nellie?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no, no, no, no, It's not me. I'm gonna prove it right here and now. [thrusts his pelvis]"
+            },
+            {
+                "character": "Angela",
+                "quote": "What are you doing?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "What is this?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Stop that! Dwight! Stop that, stop it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Fine, it was me. I couldn't- I had a problem with Erin last night. Happy?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I had a lot on my mind last night. And I didn't perform. Okay? It happens to plenty of guys. It's usually not followed by a giant workplace discussion and an interview."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Every guy in this room has been touched by this affliction. Tuna? T-dog?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Um..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Uh... I have other issues. I'm terrible at math. Overweight. You- you're in great shape. A lot better shape than I am, tell you what."
+            },
+            {
+                "character": "Robert California",
+                "quote": "It seems Andy is the only one with this problem. Fascinating."
+            },
+            {
+                "character": "Andy",
+                "quote": "Fascinating."
+            },
+            {
+                "character": "Gabe",
+                "quote": "I don't really see what the problem is. Erin doesn't even like sex, remember? You said it feels like getting tackled by a skeleton."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Chumbo, come on, help me out. Any problems with Little Chumbo?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Tip-top shape."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh... Stanley?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "No. Um-um."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Creed, you are a thousand years old."
+            },
+            {
+                "character": "Creed",
+                "quote": "Haven't heard any complaints. Wouldn't care if I did."
+            },
+            {
+                "character": "Andy",
+                "quote": "Okay, so I-"
+            },
+            {
+                "character": "Pam",
+                "quote": "Actually Andy, I think maybe we experienced it."
+            },
+            {
+                "character": "Jim",
+                "quote": "What happened?"
+            },
+            {
+                "character": "Pam",
+                "quote": "That a couple of times-"
+            },
+            {
+                "character": "Jim",
+                "quote": "Couple of times."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Jim, maybe you could tell us about one of those times."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah Jim."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah Jim, get it out there."
+            },
+            {
+                "character": "Jim",
+                "quote": "Um... I don't... Uh, yes, that time that it was very late. Uh, we'd had sex so many times already, I was exhausted..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, stop."
+            },
+            {
+                "character": "Jim",
+                "quote": "I was very drunk."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "If it makes you feel any better, I never had an orgasm until I was forty-two. And then when I did, it lasted 'til I was forty-four."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Forty-three was ju- I got nothing done. [laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "I've read- and I don't know anything about this personally- but they say prostate stimulation can help."
+            },
+            {
+                "character": "Angela",
+                "quote": "Ugh."
+            },
+            {
+                "character": "Gabe",
+                "quote": "This is just, uh- This American Life, I think I heard it on."
+            },
+            {
+                "character": "Robert California",
+                "quote": "No, that's absolutely the case."
+            },
+            {
+                "character": "Gabe",
+                "quote": "I know, right?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You know, my rectal electro-ejaculator is rated for bovine use only but I could let you rent it."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy, why don't you tell us about the best erection of your life? Or does anyone else have any remarkable erections they'd like to share? [Creed, Kevin and Meredith raise their hands]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Ooh, ooh!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow, what are we talking about?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Toby, doesn't HR have some rules against talking about this kind of stuff?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Erin, HR is a joke. I can't do anything about anything."
+            },
+            {
+                "character": "Nellie",
+                "quote": "The most important thing to remember is not to stress about this. Stress just makes it worse, and then you stress more. And that's a vicious spiral."
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "I almost didn't come in today. [laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[on the phone] Dad, don't think of it as a demotion. Just think of it as a promotion to a lower level. I don't think you have to tell your friends anything. It hasn't been decided yet."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Erin, on phone memos you're writing the date American style. Month, day, year. I prefer it day, month, year. Small, bigger, biggest. Oh, sexual innuendo. Not intentional."
+            },
+            {
+                "character": "Erin",
+                "quote": "Shut up. Shut up! I am sick of your dumb opinions. And if you don't like the way that I take phone messages, here! [throws phone] Take 'em yourself!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, and another thing! Our sex life is none of your businesses!"
+            },
+            {
+                "character": "Erin",
+                "quote": "And Andy is the manager, not Nellie!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Stop protecting me! I'm a man- I can protect myself! This is misdirected anger and I'm sorry! I don't mean to lash out at you! There's a lot coming up right now, all at once! [into phone] Dad go to hell, I'm taller than you!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Okay, just calm down."
+            },
+            {
+                "character": "Andy",
+                "quote": "You are not the manager. I earned that job. I was personally chosen after Robert was chosen and quit."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy, why don't you just take a seat?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Why don't you take a seat, you idiot? [throws chair]"
+            },
+            {
+                "character": "Erin",
+                "quote": "And why don't you take all your stupid memos and your stupid pens and your dumb caramels?"
+            },
+            {
+                "character": "Andy",
+                "quote": "And your stupid face! [grabs Nellie's photo off the wall and smashes it on the ground] And your stupid office! [punches hole in the wall] Ah!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "He does not like that wall."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Maybe we'll get sent to anger management together."
+            },
+            {
+                "character": "Andy",
+                "quote": "That would actually be cool. I'd love for you to meet some of the guys."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy, Erin, you can join us now."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Hey, I hear you been bad-mouthing me to Kelly."
+            },
+            {
+                "character": "Pam",
+                "quote": "All I did was remind her that you used to treat her badly."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Well that's your opinion and it's her opinion, but it's not my opinion. If you have something bad to say to me, Pam, say it to my face."
+            },
+            {
+                "character": "Pam",
+                "quote": "Fair enough. Um... I don't think you're a very good person. And forgive me, but I feel like I've said this to you before: I don't like you very much."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Well a lot of people would say that I'm a better match for Kelly than Ravi is."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Oh come on, Ryan. Really? Ravi's way better."
+            },
+            {
+                "character": "Ryan",
+                "quote": "For Kelly?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah. Man, you're insane right now. Ravi's the whole package."
+            },
+            {
+                "character": "Nate",
+                "quote": "I've never met Ravi personally, but I'm gonna go ahead and say, just having knowing you a short while, Brian, that I prefer Ravi. And again, I've never even met the guy."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Kelly, I wrote you the most amazing love poem. But I can't even read it. My heart couldn't handle it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, no, no, no."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Oh, come on."
+            },
+            {
+                "character": "Pam",
+                "quote": "Read it, please. I love amazing poetry."
+            },
+            {
+                "character": "Ryan",
+                "quote": "No. It would cause me too much pain."
+            },
+            {
+                "character": "Pam",
+                "quote": "Read through the pain. Be strong."
+            },
+            {
+                "character": "Ryan",
+                "quote": "This poem would crush you!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Ryan, go away! She found herself a beautiful boyfriend!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, man, he's absolutely gorgeous! Please leave her alone."
+            },
+            {
+                "character": "Ryan",
+                "quote": "You see, Kelly? Our love scares them. It screws up their cookie-cutter world."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Ravi makes me incredibly happy. And Ryan puts me through so much drama. So I guess I just have to decide which of those is more important to me."
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "Andy, we're going to go with Nellie as manager and put you back on the sales team. I promise you, in time, we'll all laugh about this incident. I already think it's kind of funny. [chuckles]"
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Excuse me?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm saying no."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Well you can't say no."
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[sees Ryan on the horse] Oh, boo! Boo! Boo to you! Boo!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "You are toxic! You are toxic!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Boo!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, hey. Okay."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Kelly, I have a few things to say to you, so please don't interrupt."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I wasn't going to interrupt."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Well you do a lot, so just don't. Thank you. I know that I haven't always treated you the way that you, for whatever reason, feel you deserve to be treated. But I want to marry you, Kelly Kapoor. Maybe not today, maybe not tomorrow, but someday, and probably."
+            },
+            {
+                "character": "Pam",
+                "quote": "Barf! Ugh, you suck!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "What is your problem? [to horse wrangler] Hey, hey, hey, can we turn this back around quickly, please? This is very important to me."
+            },
+            {
+                "character": "Wrangler",
+                "quote": "Turn around. Turn around. Turn around!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Can we turn this [bleep]-ing thing around? Thank you."
+            },
+            {
+                "character": "Wrangler",
+                "quote": "She don't wanna turn around."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Thank you. Kelly, I can't promise you that we'll always stay together. I can't promise you that I'll never cheat on you. Nor should I. Modern marriages aren't built that way. Men aren't built that way. There's a very interesting article I can email to you. But I can tell you this. Even if the odds are fifty-fifty that we'll break up within the week, I wanna roll those dice. I love you, Kelly."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Ryan."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Will you roll those dice with me?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "You mean so much to me. But, I love Ravi and I choose him."
+            },
+            {
+                "character": "Ryan",
+                "quote": "No you don't."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I do."
+            },
+            {
+                "character": "Ryan",
+                "quote": "No you don't."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I hope we can still be friends. Can I have a hug?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "What? [they hug]"
+            },
+            {
+                "character": "Kelly",
+                "quote": "That was really cool. [they make out]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Ugh. Eww!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, it's good to see Kelly's maturing."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh God!"
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "Look, Andrew, we can discuss the specifics of the job."
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            },
+            {
+                "character": "Nellie",
+                "quote": "It's the apology. I really have to insist."
+            },
+            {
+                "character": "Andy",
+                "quote": "[British accent] No."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Stop saying no."
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andrew, if you say no one more time, you're fired. So... is there anything else you wanna say?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I can't describe it. I just, for the first time in a long time, I actually feel in control. I feel... alive."
+            },
+            {
+                "character": "Erin",
+                "quote": "Here- [grabs the box Andy's holding]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Ah- da, da, da, da. I got it."
+            },
+            {
+                "character": "Erin",
+                "quote": "But you hurt your hand."
+            },
+            {
+                "character": "Andy",
+                "quote": "I... Got... It."
+            },
+            {
+                "character": "Erin",
+                "quote": "Right now?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You're not the least bit curious to hear a poem straight from Ryan's soul?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Not at all, can we go?"
+            },
+            {
+                "character": "Pam",
+                "quote": "\"Kapoor and ka-desperate, he watches.\""
+            },
+            {
+                "character": "Jim",
+                "quote": "Second line."
+            },
+            {
+                "character": "Pam",
+                "quote": "\"He is a drifter out to sea.\""
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "\"And when the Indian Ocean calms, one speck of white remains in waters cold and Kelly green.\""
+            },
+            {
+                "character": "Pam",
+                "quote": "It's just so dumb. [chokes up] But when he describes himself as a child, lost on the life raft..."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Uh, Ryan can never know."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

@@ -1,0 +1,1036 @@
+{
+    "season": 9,
+    "episode": 20,
+    "title": "Paper Airplane",
+    "scenes": [
+        [
+            {
+                "character": "Erin",
+                "quote": "Oh. Hey, champions."
+            },
+            {
+                "character": "Toby",
+                "quote": "Good morning."
+            },
+            {
+                "character": "Clark",
+                "quote": "Quater finals in an hour. Hope you got some sleep cause I am going to be haunting your nightmares tonight."
+            },
+            {
+                "character": "Erin",
+                "quote": "I did. I got some really good sleep."
+            },
+            {
+                "character": "Clark",
+                "quote": "Did you? [pushes pencil cup at Erin]"
+            },
+            {
+                "character": "Erin",
+                "quote": "[grabs pencils out of cup quickly as cup falls] Bzzz."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Yesterday was the first round of a branch wide paper airplane contest. It was being sponsored by Weyer-Hammer Paper in an effort to get us to sell more of their new product Airstream Deluxe A4, the Cadillac of paper. It's not so easy on the environment, if you know what I mean. [whispers] Practically made of plastic."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "We started with sixteen brave aviators. Some use skill [cut to Kevin flying paper airplane], others relied on showmanship [cut to Dwight throwing airplane at Nate with an apple on his head] others seem not to comprehend what a paper airplane is. [cut to Creed throwing a melon] And of course, there was the odd moment of heartbreak and disaster."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Hey I left my glasses down here somewhere. Crossing through, beep beep. [Pam's plane hit Toby in the eye]"
+            },
+            {
+                "character": "Toby",
+                "quote": "Ow! Ow!"
+            },
+            {
+                "character": "Pam",
+                "quote": "I didn't see you! You should have yelled \u201cCrossing!\u201d"
+            },
+            {
+                "character": "Toby",
+                "quote": "[crying] I'm sorry!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Ok, so is that my spot?"
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "We are now down to an elite eight. Well, seven and Toby."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[Reading from script] Be careful of that beaker, it contains dangerous acid!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "It does not say dangerous. And there's no exclamation point."
+            },
+            {
+                "character": "Andy",
+                "quote": "Well I'm just trying to bring some life to it."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Last week I got an agent and uh, this week I got a movie. HRPDC chemical handling protocols. It's gonna be seen by tons of workers in the industrial chemical community. One of whom could have a cousin whose brother's Brad Pitt. And boom, next thing you know, I'm in Moneyballs Two."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Andy?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Go away, we're running lines."
+            },
+            {
+                "character": "Toby",
+                "quote": "You wanted to see the gooey eye."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh yeah. Alright, get over here. I am so freaked out by things going into eyes. I just- wow. [moves to lift Toby's eye patch] Uggggh! I can't even, I'm so freaked out by that, just go. Go go go go go."
+            },
+            {
+                "character": "Toby",
+                "quote": "Alright, it's getting gooier so we'll just do it later."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, Ok. [Closes door] Alright. Where were we?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Something full of acid."
+            },
+            {
+                "character": "Andy",
+                "quote": "And remember: Do not attempt to extinguish a chemical fire with water. You will only exacerbate the flame. The dangerous flame."
+            },
+            {
+                "character": "Darryl",
+                "quote": "[claps] That was great man. Alright, I'm out of here."
+            },
+            {
+                "character": "Andy",
+                "quote": "W-w-w-wait. Stop stop stop. Don't go anywhere. I just need to find more colors. Let's do it six more times."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey. I just wanted to say that you woke up early with the kids and let me sleep and I really appreciate that."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thank you. I appreciate that you appreciate that."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "So, we had couple's therapy."
+            },
+            {
+                "character": "Jim",
+                "quote": "No shame in that. Get it all out in the open."
+            },
+            {
+                "character": "Pam",
+                "quote": "And we have homework."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes, we are supposed to look for every chance to acknowledge and appreciate each other's sacrifices. Because I need to appreciate what Pam's been doing to run the house while I'm in Philly."
+            },
+            {
+                "character": "Pam",
+                "quote": "And we're also supposed to speak our truths."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mmhm."
+            },
+            {
+                "character": "Pam",
+                "quote": "Because if I had spoken my truth sooner about not wanting to move to Philly, then maybe we wouldn't have had this opportunity for couple's therapy."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, we're supposed to call everything we don't want to do \u201copportunities.\u201d"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Heads up everyone. If you really need something from me today, let's get it done tomorrow. Carla Fern got me a gig."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Who's Carla Fern?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Who is Carla Fern? Well, wow. Uh, she's my agent and my drill sargent. And one of my best friends. Oh, and Oscar, I already figured it out. If I have to get emotional in the film, I'm just going to think about you getting dumped by the Senator."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Why wouldn't you use your own life? Erin just dumped you."
+            },
+            {
+                "character": "Andy",
+                "quote": "Little raw. Not cool Oscar."
+            },
+            {
+                "character": "Oscar",
+                "quote": "But you just!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Not cool."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Hey. Day two. Drama in the warehouse skies. This is Robert from Weyer-Hammer Paper, who will be joining us to judge the final rounds."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Who's pumped for the quarter finals, huh?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I'm pumped!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Clark's a dead man."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Alright. Sounds like somebody wants to walk away with this. [holds up large check for $2,000]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh my god!"
+            },
+            {
+                "character": "Group",
+                "quote": "Whoa."
+            },
+            {
+                "character": "Angela",
+                "quote": "Nellie you didn't tell us we could win money."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh yes I did, I told you all. It was..um, cause that's an awful lot of money for me to forget."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Not one of us remembers you saying anything about two thousand dollars."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "I forgot. I completely forgot. But at least now that large piece of cardboard that man was carrying around makes sense."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Nellie, this is a competition. Please take it seriously."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh please. [Dwight watches Angela folding paper airplane]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Me? Oh, I'm fine. I mean, sure, times are leaner now that I'm separated from the Senator. But my new studio apartment is just fine [camera shows small cluttered space with excessive cats and Phillip crying] for me.. and Phillip... and Tinky... and Crinklepuss, and Bandit 2, and Pawlick Baggins, and Lady Aragorn and their 10 kittens."
+            }
+        ],
+        [
+            {
+                "character": "Phillip",
+                "quote": "[cries]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Come here, come here. Let's go."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "I had a chance with Dwight, but I didn't take it. And if I went back now, when I'm broke and he just inherited a farm, I'd be one of those gold-digging tramps you read about that try to bag a farmer."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I offered myself to Angela and she turned me down. If she changes her mind, the next move is hers. I'm with Esther now. She's younger than Angela, sturdier, more comfortable with the scent of a manured field. Let's be honest. When it came to manured fields, Angela was at best indifferent."
+            }
+        ],
+        [
+            {
+                "character": "Clark",
+                "quote": "Oh, wide wings, interesting."
+            },
+            {
+                "character": "Erin",
+                "quote": "Hey. Why don't you back off?[looks at Pete]...I mean best of luck to you in the competition."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Growing up in an orphanage, you have to fight other kids. For everything. Snacks, pillows, parents. I'm kinda worried about Pete seeing that side of me. I once ripped greedy Susan's pigtail right off her head. Just for a handful of Crispix."
+            }
+        ],
+        [
+            {
+                "character": "Carla Fern",
+                "quote": "Are you in that paper documentary too?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yep."
+            },
+            {
+                "character": "Carla Fern",
+                "quote": "Do you need an agent?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No. He's- I mean, you've never acted in anything before. He's just my entourage."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I was in The Whiz in high school."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "That's the cleaky clacker! He clicks that and then the guy says \u201caction.\u201d"
+            },
+            {
+                "character": "Carla Fern",
+                "quote": "Hey, I made them get you a chair. All my clients sit."
+            }
+        ],
+        [
+            {
+                "character": "Woman",
+                "quote": "Can I take your picture?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I guess it's starting. Um, yeah. Of course. Yeah sure. Tell you what. I'll put my arm around you and then I can take it-"
+            },
+            {
+                "character": "Woman",
+                "quote": "We just need a picture of the top of your head in case we burn some of your hair off."
+            },
+            {
+                "character": "Andy",
+                "quote": "Got it. [lowers head to show hair, but keeps looking up just as she tries to take the picture]"
+            },
+            {
+                "character": "Woman",
+                "quote": "No, if you could just keep it down until.."
+            },
+            {
+                "character": "Andy",
+                "quote": "Sorry."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "OK, next up we have two creatures great and small. Kevin versus Angela."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey, that is a really nice plane. You make that yourself?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Uh huh."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, what am I thinking? Of course you made that yourself. Cause it's in the rules that you have to fold your own plane."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Of course."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Kevin, did you make that yourself?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes. In a way. From one that I bought on Craigslist."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh man."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I call for a refold!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "No."
+            },
+            {
+                "character": "Angela",
+                "quote": "Really? [to Dwight] Thank you."
+            },
+            {
+                "character": "Kevin",
+                "quote": "This is flatter."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's a piece of paper. You fold it into an airplane."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Ok, that's enough. This is the end of the ring now. You have to pick one."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I can't. I love them all too much. And, none of them fly. So that makes it harder."
+            },
+            {
+                "character": "Nellie",
+                "quote": "You have to choose one now."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Fine. [throws plane, doesn't fly]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Angela advances."
+            },
+            {
+                "character": "Erin",
+                "quote": "Nice."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[clapping] Whoo!"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Was Dwight rooting for me? Hmm. I hadn't noticed."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I'm not giving up. I'm going to keep making planes until one of them flies. Like Wilbur and Orville Redenbacher."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "An Earl Grey tea for the lady."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, thank you. I acknowledge and appreciate that you went out of your way to get me tea."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thank you. I like being appreciated. But, to speak my truth, it wasn't out of the way because I felt like a tea anyway. So, one trip."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, to speak my truth, I switched to coffee in March. There's a new espresso machine. But I still acknowledge and appreciate the gesture."
+            }
+        ],
+        [
+            {
+                "character": "Director",
+                "quote": "We are rolling and...action!"
+            },
+            {
+                "character": "Andy",
+                "quote": "[Happily] This video is to demonstrate the HPRDC chemical handling protocols. These protocols could save you from severe injury, even death."
+            },
+            {
+                "character": "Producer",
+                "quote": "Ok, um, stop. Um, why are you smiling so much?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Just made a character choice to be a scientist who really likes what he does and enjoys his job."
+            },
+            {
+                "character": "Director",
+                "quote": "Ok, well maybe no smiling on this one."
+            },
+            {
+                "character": "Andy",
+                "quote": "So how do you want, how should I do it?"
+            },
+            {
+                "character": "Director",
+                "quote": "I don't know, just like you're reporting the news or something. Ok?"
+            },
+            {
+                "character": "Andy",
+                "quote": "[ridiculous news voice] This video is to demonstrate the HPRDC chemical handling protocols."
+            },
+            {
+                "character": "Director",
+                "quote": "Ok."
+            },
+            {
+                "character": "Andy",
+                "quote": "It's Tom Brokaw, it's a newscaster."
+            },
+            {
+                "character": "Director",
+                "quote": "Who was that?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Tom Brokaw!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Come on Clark!"
+            },
+            {
+                "character": "Angela",
+                "quote": "Come on Clark. [Clark throws plane, Erin throws plane it goes much farther]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Whoa!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah! Oh! Eat it piggy! Eat it! Oink oink oink oink!"
+            },
+            {
+                "character": "Clark",
+                "quote": "We've still gotta work together, so we should keep it civil."
+            },
+            {
+                "character": "Erin",
+                "quote": "[Snorts and grunts] I can't hear what you said. [snorting, grunting] You got your slop? [Squeals]"
+            },
+            {
+                "character": "Clark",
+                "quote": "You know what, this is completely unnecessary. You already won..."
+            },
+            {
+                "character": "Pete",
+                "quote": "Erin! Erin! Just stop."
+            },
+            {
+                "character": "Erin",
+                "quote": "What?"
+            },
+            {
+                "character": "Pete",
+                "quote": "Relax."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Next up we have Dwight and Phyllis."
+            },
+            {
+                "character": "Bob Vance & Vance Refrigeration",
+                "quote": "You can do it baby!"
+            },
+            {
+                "character": "Angela",
+                "quote": "No you can't baby! [to Dwight, whispers] Good luck."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Watch and learn."
+            },
+            {
+                "character": "Erin",
+                "quote": "Wow."
+            },
+            {
+                "character": "Group",
+                "quote": "Oh!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Dwight defeats Phyllis, Dwight you are through to the semi-finals."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Angela",
+                "quote": "Whoo!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, Esther."
+            },
+            {
+                "character": "Esther",
+                "quote": "Hey."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What are you- [Esther kisses him] You're here early."
+            },
+            {
+                "character": "Esther",
+                "quote": "Yeah, I plucked the chickens extra fast cause I knew I was seeing you tonight. There might just be a little feather in your nuggets or a little bit of meat inside of your pillow."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I like a little feather in my nuggets. [both laugh]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Alright ladies and gentlemen, we are down to the final four. Dwight, Erin, Angela and god only knows how, but Toby. One of you will walk away with two thousand dollars."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah!"
+            }
+        ],
+        [
+            {
+                "character": "Director",
+                "quote": "Ok here you have just knocked over the beaker, the chemicals splashed in your eye."
+            },
+            {
+                "character": "Andy",
+                "quote": "Which is insanely painful."
+            },
+            {
+                "character": "Director",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Andy",
+                "quote": "And I've already picked a few childhood memories to tap in to, to really express that pain."
+            },
+            {
+                "character": "Director",
+                "quote": "That's great. So what you're gonna do then is come over here to the eye washing station and then just kinda flush out your eyes. You know, get the chemicals out. Alright?"
+            },
+            {
+                "character": "Andy",
+                "quote": "So I just lean over this thing and then you'll add the water special effect later?"
+            },
+            {
+                "character": "Director",
+                "quote": "What water special effect?"
+            },
+            {
+                "character": "Producer",
+                "quote": "Yeah, yeah just hold your lids open with one hand and let the stream bathe your eyeballs."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm not comfortable doing my own stunts. I'll get nude if you want me to, I'll go full Lena Dunham but I-"
+            },
+            {
+                "character": "Director",
+                "quote": "Dude, we don't need you to go nude, OK? So just do the eyewash, Ok? That's all we're asking."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Darryl, what do I do?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hold up, I'm looking at my spit with a microscope."
+            },
+            {
+                "character": "Andy",
+                "quote": "They want me to use real water in the eye wash scene."
+            },
+            {
+                "character": "Darryl",
+                "quote": "So?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I can't squirt stuff in my eyeball. I've never even used an eye dropper."
+            },
+            {
+                "character": "Production Assistant",
+                "quote": "So Andy, so you know how to use this. You step on the pedal, water squirts in your eyes."
+            },
+            {
+                "character": "Andy",
+                "quote": "Carla! Carla!"
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "It is time for a little T &amp; A. I give you: Toby and Angela."
+            },
+            {
+                "character": "Angela",
+                "quote": "[throws plane far] Oh my god! Oh my god. Ok it's your turn. [Toby crumples plane and steps aside."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, Angela is the winner."
+            },
+            {
+                "character": "Angela",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Esther",
+                "quote": "[to Dwight] Is there a reason that we're excited for that little woman?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes. I pity her. She was recently in a situation where she could have had it all, and instead she lost everything."
+            },
+            {
+                "character": "Esther",
+                "quote": "Oh. Is she a gambler?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "In a way. But not in a stand up and cheer kind of way, like the song."
+            },
+            {
+                "character": "Esther",
+                "quote": "Hmm. That is sad."
+            }
+        ],
+        [
+            {
+                "character": "Carla Fern",
+                "quote": "[grabs Andy by the cheeks] Andy! If you don't stick your eyes in that machine, I'm going to call every production in North Eastern Pennsylvania. You won't even make an appearance on a security camera! [Andy starts to cry]"
+            },
+            {
+                "character": "Producer",
+                "quote": "What's the hold up here?"
+            },
+            {
+                "character": "Director",
+                "quote": "The actor's crying."
+            },
+            {
+                "character": "Producer",
+                "quote": "Oh god."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "She yelled at me. I can't wash my eyeball. I can't do that. I can't."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Andy Bernard can't squirt water in his eye and act like it doesn't freak him out. But you know who can? Older Male Lab Assistant Number One."
+            },
+            {
+                "character": "Andy",
+                "quote": "Do you believe in me?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "I believe I want to go home."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[throws plane far] Yeah! Ok! Beat that! [Erin throws plane, loses, Dwight laughs] Whoo! Ok."
+            },
+            {
+                "character": "Erin",
+                "quote": "Dammit! Dammit, god. [To Pete] Sorry. Yeah I'm fine. I'm fine. I got mad. Cause I don't like losing. I'm just gonna- Sorry I'm mad! I'm mad, I\u2019m really mad. I wanted to win. We were gonna win a lot of money, I was gonna buy you a sweater. It's stupid. Just the whole contest is stupid. That's how it feels."
+            },
+            {
+                "character": "Pete",
+                "quote": "Yeah. [Erin kicks box] Whoa!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Sorry I'm mad! I don't like losing! I thought I was going to win!"
+            },
+            {
+                "character": "Pete",
+                "quote": "Ok [tries to help her] Hey hey hey, whoa."
+            },
+            {
+                "character": "Erin",
+                "quote": "Sorry. Sorry. I'm going to go upstairs and just..."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Oh, I made us a date to take my mom out to dinner to thank her for all that extra babysitting."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, you know how much I appreciate the opportunity to hang out with your mom more. So let me just put this in my calendar."
+            },
+            {
+                "character": "Pam",
+                "quote": "I acknowledge with gratitude that you are being kind and responsible enough to include it in your calendar."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thank you. Your mom is a treasure."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, I appreciate that some opportunities can be unpleasant- [Jim's phone rings, he answers]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey that's work, hold on. Hey Wade, did Cole Hamels call back or what? Great. Good."
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh, to speak my truth, I'd appreciate if you hung that up cause we were in the middle of a conversation. [Jim hangs up phone] I appreciate the sacrifice."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok to speak my truth, that was a little sarcastic. I think that's a little unfair."
+            },
+            {
+                "character": "Pam",
+                "quote": "Really? I've been putting the kids to bed by myself every night for a months. And you had to miss one phone call. Is that your truth, Jim? That's really your truth?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I guess I will swallow my truth."
+            },
+            {
+                "character": "Clark",
+                "quote": "Are you guys high? Because if so, to speak my truth, I would appreciate the sacrifice of including me in some hits off your kind buds."
+            },
+            {
+                "character": "Pam",
+                "quote": "We're not high."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I wish we'd started this exercise six months ago. My heart just feels so... blocked up."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "The Mark 47 is ready for launch. [throws plane but it sticks to his hand] Less paste."
+            }
+        ],
+        [
+            {
+                "character": "Director",
+                "quote": "Here we go. Rolling and... action!"
+            },
+            {
+                "character": "Andy",
+                "quote": "[doing eyewash] AHHH! AHHH! AHHH! AHHH!!"
+            },
+            {
+                "character": "Director",
+                "quote": "And cut. We can fix the sound in post."
+            },
+            {
+                "character": "Producer",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Andy",
+                "quote": "I can do a better one."
+            },
+            {
+                "character": "Producer",
+                "quote": "That's fine, we'll move on."
+            },
+            {
+                "character": "Andy",
+                "quote": "I said I can do a better one. Darryl..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Action!"
+            },
+            {
+                "character": "Andy",
+                "quote": "[eyewashes again] AHH! AHH! AHH!"
+            },
+            {
+                "character": "Carla Fern",
+                "quote": "Kid can act!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah! Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Each contestant will throw two aeroplanes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "After you."
+            },
+            {
+                "character": "Angela",
+                "quote": "Thank you. [plane loops up and falls at her feet] Oh god!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Angela's first throw, terrible. Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[fake throws and drops plane] Oh! Oh man! It slipped out of my hand, what a whiff. Ah, how'd that happen? God. [Angela smiles]"
+            },
+            {
+                "character": "Esther",
+                "quote": "We want you to win. Dwight told me about your situation. It's such a pity. Use the money wisely. [Angela looks disgusted]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Alright."
+            },
+            {
+                "character": "Angela",
+                "quote": "Don't you dare tank this. [Dwight throws plane far, Angela fake throws and drops her plane]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "And we have a winner. And it's Dwight. And it is everyone because this is over."
+            },
+            {
+                "character": "Creed",
+                "quote": "Two grand huh? I know a guy who can turn that into eight hundred dollars. And it's me."
+            },
+            {
+                "character": "Angela",
+                "quote": "[To Esther] Well, I guess you needed the money more than me huh? Use it wisely."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "I was disappointed in Dwight today. He showed a weakness that was unbecoming. Even if he did do it for me. I don't need pity and I don't need charity. I have my dignity and that's enough. And as long as I have that, I'll be ok."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I know this was really weird, and it was really hard. But I think we're making progress. So I'm really sorry that I have to go but let's keep at this. Ok?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Ok. [intense moment where Jim leaves and Pam seems conflicted. She notices his umbrella and runs out to follow him]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Jim! [hands him umbrella]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Thanks."
+            },
+            {
+                "character": "Pam",
+                "quote": "Alright, have a good trip."
+            },
+            {
+                "character": "Jim",
+                "quote": "Bye."
+            },
+            {
+                "character": "Pam",
+                "quote": "Bye. [walks away]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey! [Runs after her and looks into her eyes] I... [hugs her tightly, Pam doesn't hug back]"
+            }
+        ],
+        [
+            {
+                "character": "Pastor",
+                "quote": "[Flashback to Jim &amp; Pam's wedding] Love suffers long and is kind. It is not proud. Love bears all things, believes all things, hopes all things, endures all things. Love never fails. [Pam hugs Jim back finally] And now these three remain: Faith, hope and love. But the greatest of these is love. [Pam kisses Jim]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I love you."
+            },
+            {
+                "character": "Jim",
+                "quote": "I love you."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

@@ -1,0 +1,574 @@
+{
+    "season": 6,
+    "episode": 13,
+    "title": "The Banker",
+    "scenes": [
+        [
+            {
+                "character": "Michael",
+                "quote": "Dunder Mifflin is about to be sold. But first an investment banker has to drop by and sign off on our branch. And... I'm... pretty nervous about it. And... I'm... making some cosmetic tweaks to help create a more appealing environment. Is that dishonest? Well, think of it this way: when you look in the mirror and you see your push-up bra and your fake eyelashes and your make-up and your press-on nails; the principles that I am applying to the office are the same ones that have made Lady Gaga a star... or any number of drag queens."
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "Hi -"
+            },
+            {
+                "character": "Computron",
+                "quote": "[Dwight using a robotic voice over the PA system] Hello, Eric Ward. Welcome to Dunder Mifflin. I am Computron, your answer to everything."
+            },
+            {
+                "character": "Eric",
+                "quote": "Hello."
+            },
+            {
+                "character": "Michael",
+                "quote": "[entering on a Segway Scooter] I see you've met Computron, our virtual helper. I'm Michael Scott. Welcome. Welcome. Computron is just one of the many modern devices that I have incorporated into the office. Watch this. Computron?"
+            },
+            {
+                "character": "Computron",
+                "quote": "Yes."
+            },
+            {
+                "character": "Michael",
+                "quote": "What is the world's largest ocean?"
+            },
+            {
+                "character": "Computron",
+                "quote": "Calculating. Calculating. Pacific!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Pacific Ocean. Pretty cool, huh?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Great news, Michael. We're now the official paper supplier of the NFL."
+            },
+            {
+                "character": "Michael",
+                "quote": "That is fantastic. It's good, but it's not good enough. Keep working. And here's Pam. She's our international sales consultant."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hello."
+            },
+            {
+                "character": "Computron",
+                "quote": "The NFL celebrated its 50th anniversary in 1972."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hola. Bonjour. Ni Hao."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "It might seem crazy, but since there's no one left in New York, Michael is Dunder Mifflin's highest ranking employee. So, that's where we are."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hello, Stanley."
+            },
+            {
+                "character": "Fake Stanley",
+                "quote": "Hi."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "For the record? Not on board with fake Stanley... although, I get it."
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "Uh, I just need to check out your warehouse and then talk to your HR guy. That is pretty much the only reason I'm here."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok. Well, I thought I'd show you around a little bit -"
+            },
+            {
+                "character": "Eric",
+                "quote": "Right."
+            },
+            {
+                "character": "Michael",
+                "quote": "- since you made the trip out. And I got us reservations at Cooper's Seafood. You like lobster? You've had lobster before, right?"
+            },
+            {
+                "character": "Eric",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "They make the best Maine lobster in the world. You'll love it."
+            },
+            {
+                "character": "Computron",
+                "quote": "Mul Yam in Tel Aviv is better."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, Computron, actually I think Cooper's is the best. You're gonna love it."
+            },
+            {
+                "character": "Computron",
+                "quote": "Are you calling me wrong?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[sighs] Oh, my God."
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "It's called 'due diligence'. Basically, I confirm inventory, take a head count, see if there are any HR liabilities. I'm a glorified fact checker. Actually, I am a fact checker."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Alright. Excuse me. [slides past Eric to close the door to Ryan's closet office before Eric can see Ryan in there] If you will -"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Michael, do you think I could get a space heater -"
+            },
+            {
+                "character": "Michael",
+                "quote": "- follow me this way. I'll introduce you to the crack HR rep that you requested. I give you Toby Flenderson. Have fun, you two. [Toby's chair spins around to reveal Dwight filling in for Toby]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, we will. Have a seat. [Michael gives a pleased look then exits]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I left a copy of Best American Mystery Stories 1999 in Toby's favorite stall. So, yes, I think I bought us some time."
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "So, um, the manager, Michael Scott... is a bit of a character."
+            },
+            {
+                "character": "Dwight",
+                "quote": "He has more character in a single flake of his dandruff then you have in that entire snow bank on your shoulder. Wait, what was the question?"
+            },
+            {
+                "character": "Toby",
+                "quote": "What are, are you doing at my desk?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ignore him. He's the local lunatic."
+            },
+            {
+                "character": "Toby",
+                "quote": "Come on, Dwight. Get out of here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Dwight? Who is this Dwight? Oh! You mean Dwight Schrute, the company's top salesman and the creator of Computron. I wear many hats but the one I'm currently wearing is that of gracious host. [laughs] Welcome. [Dwight exits]"
+            },
+            {
+                "character": "Toby",
+                "quote": "Sorry. Hey, Toby Flenderson. Nice to meet you. How can I help?"
+            },
+            {
+                "character": "Eric",
+                "quote": "Um, are there any outstanding liability issues to be aware of?"
+            },
+            {
+                "character": "Toby",
+                "quote": "What do you mean?"
+            },
+            {
+                "character": "Eric",
+                "quote": "Well, safety issues, injuries that could leave the company open to potential lawsuits."
+            },
+            {
+                "character": "Toby",
+                "quote": "Um... nothing comes to mind. [clip montage]"
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "So, the staff?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Eric",
+                "quote": "Are people generally happy?"
+            },
+            {
+                "character": "Toby",
+                "quote": "[laughing] Happy's a funny word."
+            },
+            {
+                "character": "Eric",
+                "quote": "In what way?"
+            },
+            {
+                "character": "Toby",
+                "quote": "You know, uh, what does it mean to be happy. [shakes head] Keep philosophers busy for awhile."
+            },
+            {
+                "character": "Eric",
+                "quote": "So... generally?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Yes."
+            },
+            {
+                "character": "Eric",
+                "quote": "Generally."
+            },
+            {
+                "character": "Toby",
+                "quote": "Generally happy. [clip montage]"
+            },
+            {
+                "character": "Eric",
+                "quote": "[whispering] Generally happy."
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "What about non-safety issues, in terms of liability? Sexual harassment. Anything like that?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, I don't know."
+            },
+            {
+                "character": "Eric",
+                "quote": "You, you don't know."
+            },
+            {
+                "character": "Toby",
+                "quote": "I don't know."
+            },
+            {
+                "character": "Eric",
+                "quote": "You're the head of Human Resources."
+            },
+            {
+                "character": "Toby",
+                "quote": "I don't know. No."
+            },
+            {
+                "character": "Eric",
+                "quote": "Ok. [clip montage]"
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "I don't know how I'm going to get through this. I don't want to lie and I DON'T want to tell the truth."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey, Tobes. Whatcha doin'? Whatcha guys talkin' about?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Well, Eric's just going over some stuff."
+            },
+            {
+                "character": "Michael",
+                "quote": "Stuff. I love stuff."
+            },
+            {
+                "character": "Toby",
+                "quote": "It's, uh, it's HR stuff."
+            },
+            {
+                "character": "Michael",
+                "quote": "HR stuff? [pulls up a chair] HR Pufnstuf. Right up my alley. [pointing to Eric's notes] What is that? What kind of stuff is that?"
+            },
+            {
+                "character": "Eric",
+                "quote": "It's uh, it's a company evaluation form."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ah."
+            },
+            {
+                "character": "Eric",
+                "quote": "Talkin' bout, uh -"
+            },
+            {
+                "character": "Michael",
+                "quote": "Talkin' bout, uh, what?"
+            },
+            {
+                "character": "Eric",
+                "quote": "Waste is next."
+            },
+            {
+                "character": "Michael",
+                "quote": "Waste? What does that even mean? Like garbage?"
+            },
+            {
+                "character": "Eric",
+                "quote": "No, waste of time and resources."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, time and resources."
+            },
+            {
+                "character": "Toby",
+                "quote": "Look, you know, in any company there's going to be certain degrees -"
+            },
+            {
+                "character": "Michael",
+                "quote": "No. No. No. No. No. No. Respectfully, Toby, no. No. This company does not waste time or resources, ever. [clip montage]"
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "Is anyone near retirement age? [Michael and Toby look at each other - Creed clip montage]"
+            }
+        ],
+        [
+            {
+                "character": "Eric",
+                "quote": "[on the phone] Hey, uh, yeah, I finally got a chance to sit down with HR. So... well, I think I'm gonna be here for awhile."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "This is a building where friends become lovers and lovers become sexually interactive. [to Toby] Right? Would you agree with that?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Michael, this is really inappropriate to talk about."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's, that is true. [clip montage]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[as Eric is being escorted out by Michael and Toby] Thank you, so much."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Angela",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Eric",
+                "quote": "Thank you. It's nice to meet you all."
+            },
+            {
+                "character": "Pam",
+                "quote": "Good to meet you."
+            },
+            {
+                "character": "Angela",
+                "quote": "Have a great day."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hope to see you soon."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I feel very sorry for that banker because he has to evaluate what we are worth. He has to decide what we are capable of and how do you do that? What is Jim capable of... or Pam... or Kevin? [clip montage over Daryl's Dunder Mifflin jingle]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I don't care if he goes and files a report and says that we're nothing special because I think our future is very bright. We have only just begun."
+            },
+            {
+                "character": "Computron",
+                "quote": "Computron experiencing emotion."
+            },
+            {
+                "character": "Michael",
+                "quote": "Computron, I'm gonna pull your plug. Ok? Buddy?"
+            },
+            {
+                "character": "Computron",
+                "quote": "Ok."
+            },
+            {
+                "character": "Michael",
+                "quote": "Just - sh -"
+            },
+            {
+                "character": "Computron",
+                "quote": "[after a pause] Please don't. Computron -"
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut -"
+            },
+            {
+                "character": "Computron",
+                "quote": "wants to live."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut up. Shut up."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[extended Lazy Scranton video] Sittin' in my office with a plate of grilled bacon. Called my man, Dwight, just to see what was shakin'."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yo, Mike, our town is dope and pretty."
+            },
+            {
+                "character": "Michael",
+                "quote": "So check out how we live"
+            },
+            {
+                "character": "Both",
+                "quote": "in the Electric City!"
+            },
+            {
+                "character": "Michael",
+                "quote": "They call it Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Lazy Scranton, the Electric City. They call it that 'cause of the electricity. The city's laid out from East to West and our public parks are libraries are truly the best. Call poison control if you're bitten by a spider."
+            },
+            {
+                "character": "Dwight",
+                "quote": "But check that it's covered by your"
+            },
+            {
+                "character": "Both",
+                "quote": "Healthcare Provider!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Plenty of space in the parking lot."
+            },
+            {
+                "character": "Dwight",
+                "quote": "But the little cars go in the compact spot!"
+            },
+            {
+                "character": "Both",
+                "quote": "Spot. Spot. Spot. Spot. Spot."
+            },
+            {
+                "character": "Michael",
+                "quote": "Snack attack time."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Don't lose your head."
+            },
+            {
+                "character": "Michael",
+                "quote": "We like Cugino's"
+            },
+            {
+                "character": "Both",
+                "quote": "for the tasty bread."
+            },
+            {
+                "character": "Michael",
+                "quote": "They call it Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The Electric City. Scranton!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[pause] What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ugh."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

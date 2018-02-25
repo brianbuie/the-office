@@ -1,0 +1,2334 @@
+{
+    "season": 9,
+    "episode": 23,
+    "title": "Finale",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "The documentary series finished airing ages ago. Why is PBS sending another crew?"
+            },
+            {
+                "character": "Camera Man",
+                "quote": "We\u2019re getting bonus footage for the DVD."
+            },
+            {
+                "character": "Dwight",
+                "quote": "pff, Nobody buys DVDs anymore."
+            },
+            {
+                "character": "Camera Man",
+                "quote": "It\u2019ll be a pledge gift."
+            },
+            {
+                "character": "Dwight",
+                "quote": "PBS. The propaganda wing of Bill and Melinda Gates and viewers like you."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "In the past year, I have consolidated the entire Scranton paper market. We regained the white pages, the school district, Lackawanna county. We supply them all. I\u2019m getting married tomorrow afternoon, and in the morning, there\u2019s a mini-reunion. A kind of a \u201cwhere are they now\u201d panel at a local theatre. It\u2019ll be nice to see everyone again. [laughs] I haven\u2019t seen Kevin since we let him go."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[mimicking trumpet] Today marks several important milestones. Stanley, as you know, is retiring."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes! Whoo, whoo, whoo!"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Ah, I\u2019ve been looking forward to this day since I was 18 years old."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Speech!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No! And our next and most thickly frosted cake is\u2026for\u2026Kevin."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes! Wait, why?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Go ahead and just read the frosting."
+            },
+            {
+                "character": "Kevin",
+                "quote": "\u201cGet out.\u201d"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Kevin",
+                "quote": "What does that mean?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "It\u2019s a colloquial way of saying \u201cyou\u2019re fired,\u201d Kevin, which you are."
+            },
+            {
+                "character": "Pam",
+                "quote": "What? Dwight, you can\u2019t do that."
+            },
+            {
+                "character": "Dwight",
+                "quote": "The cake has spoken Pam. Sorry."
+            },
+            {
+                "character": "Everyone",
+                "quote": "What?!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well if anyone here can make a case for Kevin staying."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Dwight\u2026[overlapping objections]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Based\u2026on his merit."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Ooh."
+            },
+            {
+                "character": "Jim",
+                "quote": "Umm\u2026."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I\u2019m\u2026good."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, Toby will stop it. Anytime anyone\u2019s ever been fired, Toby\u2019s blocked it, so\u2026"
+            },
+            {
+                "character": "Toby",
+                "quote": "Yeah. Yeah, I don\u2019t think\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Toby, wait. Wait. Hold that thought. Here\u2019s your cake. [squirts frosting on the top] Bye, bye Toby."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[crying] At least I got chocolate."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I bike to work now. Saves on gas, cheaper than a vasectomy and, uh, oh, yeah, it\u2019s good for the environment too."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Pam and I are great. She just recently finished her mural for the Irish cultural center."
+            }
+        ],
+        [
+            {
+                "character": "Crowd",
+                "quote": "Whoo! Yeah"
+            },
+            {
+                "character": "Jim",
+                "quote": "[to Cici] Can you clap! Can you clap for mom?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "And Dwight is imitating Japanese business practices for reasons he explained to us in Japanese."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[whispering] Angela, are you ready for the wedding?"
+            },
+            {
+                "character": "Angela",
+                "quote": "[whispering] Yes. My heart is so open, I am so at peace. [scoffs] Look at Meredith. She\u2019s disgusting. Those feet. They\u2019re like the paws of an orangutan."
+            },
+            {
+                "character": "Pam",
+                "quote": "I think she looks good. Now that she\u2019s wearing sports bras, we don\u2019t see her boobs as much."
+            },
+            {
+                "character": "Dwight",
+                "quote": "That is all. Have a good morning."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[after Angela kisses Dwight] What was that for?"
+            },
+            {
+                "character": "Angela",
+                "quote": "[laughing] To remind you that our wedding\u2019s gonna be wonderful."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ah. I know. It just feels so empty with so many of the old gang gone."
+            },
+            {
+                "character": "Angela",
+                "quote": "D, it\u2019s gonna be perfect. The only people that need to be there are you and me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, and the old man to feed us the cheese that he\u2019s been fermenting since the day of my birth. You keep forgetting about him."
+            },
+            {
+                "character": "Angela",
+                "quote": "I don\u2019t\u2026I don\u2019t know why."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I brought in some new faces, and one old. I always like Devon. I hired him back after Creed faked his own death in the baler the day after the doc aired. The only person he fooled was Kevin. Then the police showed up. Turns out, Creed was in the band \u201cThe Grass Roots\u201d in the 1960\u2019s. During that time, the police say he sold drugs and trafficked in endangered species meat and stole weapons-grade LSD from the military."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Oh, some fudge?"
+            },
+            {
+                "character": "Malcolm",
+                "quote": "Oh, thanks. I love your fudge."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Thanks."
+            },
+            {
+                "character": "Malcolm",
+                "quote": "I think I gained a couple of pounds since I got here."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "[laughing] Oh, you can afford it."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "After 16 years, it\u2019s strange sitting across from somebody who isn\u2019t Stanley. But\u2026he\u2019ll get there."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Okay, the limo\u2019s gonna be here at five. I need everybody to be ready \u2018cause I want to pack in a lot."
+            },
+            {
+                "character": "Zeke",
+                "quote": "Party time! Whorehouse!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, no. No whorehouse. This is Dwight\u2019s night, okay?"
+            },
+            {
+                "character": "Zeke",
+                "quote": "Well, you\u2019re the bestisch mensch."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Dwight has made me his bestisch mensch. Which is Schrute for best man. He\u2019s putting himself entirely in my hands tonight. And I know for over 12 years I\u2019ve done nothing but trick and prank him but tonight\u2026only good surprises. \u201cGuten Pranken\u201d. [chuckles]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Oh hey, Jim. I forgot to mention. Oftentimes, in Hollywood portrayals of bachelor parties, there are accidental murders. That won\u2019t be necessary tonight."
+            },
+            {
+                "character": "Clark",
+                "quote": "Great, now we got three hours to fill."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, hold on. Are you sure Mose isn\u2019t going to show up?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ever since Angela moved in and Mose had to stop sleeping at the foot of my bed, he\u2019s been acting pretty weird about this whole wedding thing."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mose has been weird? That\u2019s so unlike him."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Yeah, sure, I\u2019ll talk about it. Why not? American\u2019s next A Cappella Sensation aired my audition. And when I started sobbing uncontrollably, apparently that struck a chord with quite a lot of people. Not a very compassionate chord. The clip went viral, as they say"
+            }
+        ],
+        [
+            {
+                "character": "Casey Dean",
+                "quote": "You can\u2019t just sit here and cry."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, I can so just sit here and cry!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Two million hits in the first week and then the parodies started. One from the Philippines got 12 million hits. And the late night comedy guys had a field day with it."
+            }
+        ],
+        [
+            {
+                "character": "Bill Hader",
+                "quote": "[fake crying]"
+            },
+            {
+                "character": "Seth Mayers",
+                "quote": "Oh, Don\u2019t. Aw, come on, Baby Wawa. Don\u2019t be such a baby."
+            },
+            {
+                "character": "Bill Hader",
+                "quote": "[crying and pouring eye drops in his eyes]"
+            },
+            {
+                "character": "Seth Mayers",
+                "quote": "Oh, No. It\u2019s gonna be alright."
+            },
+            {
+                "character": "Bill Hader",
+                "quote": "[pulling multiple tissues out]"
+            },
+            {
+                "character": "Seth Mayers",
+                "quote": "It\u2019s gonna be all right. For Weekend Update I\u2019m Seth Meyers. That\u2019s Baby Wawa. Good night."
+            },
+            {
+                "character": "Bill Hader",
+                "quote": "[still crying] Bye!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "After my clip blew up, I actually got a call from the double rainbow guy and the fat Star Wars kid. Turns out they have a support group. [pause] Not really my scene."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "[on the phone] Years ago, the senator promised a left turn lane by the Arby\u2019s. So I wanna know where in the name of horsey sauce is it? Well, yeah, you\u2026hold on."
+            },
+            {
+                "character": "Dakota",
+                "quote": "Hi. I keep seeing this symbol in the accounts from last year. It\u2019s..it\u2019s all over the place. I don\u2019t know what it means."
+            },
+            {
+                "character": "Oscar",
+                "quote": "That\u2019s the reason Kevin got fired. It\u2019s his magic number. He used to use it to balance his accounts. He used to call it a Keleven. He told Dwight, [imitating Kevin] \u201cA mistake plus Keleven gets you home by seven.\u201d He was home by 4:45 that day."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Oh, I live in Poland now. The Scranton of the E.U. Thank you for flying me out here for the weekend. I\u2019m looking forward to the reunion panel tomorrow. Can\u2019t wait to see everyone. Well, almost everyone."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Hello! [laughing] Hello!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh."
+            },
+            {
+                "character": "Toby",
+                "quote": "Hi! [goes to hug Nellie]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "No."
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh. [laughs nervously]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "How did you now my plane had arrived? How long have you been stalking me?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, no, no. no. My plane just got in. From New York. Are you still with Piotr?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "No. And I thought I unfriended you."
+            },
+            {
+                "character": "Toby",
+                "quote": "Anyone can follow a Twitter feed. Wanna share a cab?"
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "[alone in cab} After Dwight fired me, I moved to New York to write the great American novel. I have six roommates. Heh. Which are better than friends, you know \u2018cause they have to give you one month\u2019s notice before they leave."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey-OH!"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Andy?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "You\u2019re back?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Malcolm",
+                "quote": "[whispering to Phyllis] That\u2019s Baby Wawa, right? Oh, my God!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey man, good to see you."
+            },
+            {
+                "character": "Andy",
+                "quote": "Thank you. Yeah,"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "[hugging Andy]. Andy\u2026"
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey! Aw! A bear hug from my favorite mama grizzly."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Andy, I\u2019ve been worried about you. How are you?"
+            },
+            {
+                "character": "Andy",
+                "quote": "A little warm."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Poor, poor Andy."
+            },
+            {
+                "character": "Andy",
+                "quote": "[struggling] Okay. Aw. Thank you Phyllis."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hello, hello."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Darryl!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hey, what\u2019s up?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Didn\u2019t I just see you at the airport jumping in a limo?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "What? Must\u2019ve been another devilishly handsome debonair individual."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hmm."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hey, man. How are you doing? I, um\u2026I didn\u2019t call \u2018cause I figured you changed the number."
+            },
+            {
+                "character": "Andy",
+                "quote": "No I didn\u2019t change the number. All good though. Phone never rings."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What? Ooh!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Surprise!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I thought you guys couldn\u2019t come."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah, but then they moved the panel to the same weekend and the Doc crew paid to fly us in. It was kismet."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Kismet? Yeah, right. Pam and I came up with excuses for every other weekend. You remember my two lap band surgeries, right? Neither do I? \u201cGuten Prank\u201d number one."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "You ready for tonight? We gonna tear up the town?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh, better ask Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "And Jim will say nothing."
+            },
+            {
+                "character": "Pam",
+                "quote": "[enters] Darryl! Andy!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey! Pam!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hey, Pam! How are you?"
+            },
+            {
+                "character": "Pam",
+                "quote": "We\u2019re fine. Yeah. [hugs both Darryl and Andy] And I\u2019m sure that you guys are fine too. Because why wouldn\u2019t you be?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Pam",
+                "quote": "Darryl, oh, my gosh. How is Austin? Tell me everything. How\u2019s the merger? I feel like I read about Athlead all the time."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I love it. And it\u2019s Athleap now. And the city is amazing."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah. Yeah, it\u2019s hot. The music is awesome. And the tacos are\u2026for real."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow! That sounds incredible. [checking cell phone]. Oh, guys. Limo\u2019s here. Let\u2019s do this. Change if you need to."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Whoo, whoo, whoo."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, you guys, have fun. You too, Andy."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "Yeah!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Aw!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Woah-Oh! Haven\u2019t been in one of these in forever."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "They wanted me to go to the bachelorette party with the girls. Really? Such a clich\u00e9. I\u2019m a man. So I\u2019m going to the bachelor party with the boys. I just have to remember how I acted before I came out."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "WASSUUUUP! [laughing]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Wait, why are we stopping? Jim, this isn\u2019t on the itinerary."
+            },
+            {
+                "character": "Jim",
+                "quote": "Get out."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim\u2026wha\u2026 Come on! What\u2026what are you gonna whack me, Jim?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No, Dwight. You\u2019ll be doing the whacking."
+            },
+            {
+                "character": "Dwight",
+                "quote": "A bazooka. You remembered."
+            },
+            {
+                "character": "Jim",
+                "quote": "Of course I did."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[tearful laugh]. Get out of my way."
+            }
+        ],
+        [
+            {
+                "character": "Everyone",
+                "quote": "OH! [all laugh and applaud after Dwight fires the bazooka]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Woo! Okay!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah! [to camera] Guten Prank number two."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Private Room."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yeah, brosef."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Amazing."
+            },
+            {
+                "character": "Jim",
+                "quote": "Enjoy, enjoy."
+            },
+            {
+                "character": "Guy",
+                "quote": "Hey, I know you. Are you gonna sit here and cry?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, man, easy."
+            },
+            {
+                "character": "Guy",
+                "quote": "[fake cries]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, dude, leave him alone. What are you doing?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Jim, it\u2019s fine. He\u2019ll just get you on his cell phone and then that\u2019ll go viral."
+            },
+            {
+                "character": "Darryl",
+                "quote": "That happens a lot?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, I guess. But things are going well actually. I spoke at Cornell during commencement week. I mean, the seniors invited me as a joke but it was a huge success."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Well, I bet it was a smash."
+            },
+            {
+                "character": "Andy",
+                "quote": "That\u2019s how I got my new job in the admissions office."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Is that a volunteer program or\u2026"
+            },
+            {
+                "character": "Andy",
+                "quote": "No. It\u2019s a job. Things are going great."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Let\u2019s get a drink in you, huh?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Meredith",
+                "quote": "Whoo-hoo. Let\u2019s get this party started!"
+            },
+            {
+                "character": "Rachel",
+                "quote": "Where\u2019s my angel."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "This is my big sister Rachel."
+            },
+            {
+                "character": "Rachel",
+                "quote": "No, this is my big sister Angela."
+            },
+            {
+                "character": "Angela",
+                "quote": "[laughs] We\u2019re very close. We even have our own special language."
+            }
+        ],
+        [
+            {
+                "character": "Rachel",
+                "quote": "[speaks in a special language]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "People love it."
+            },
+            {
+                "character": "Rachel",
+                "quote": "They do."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[sighs] Man, how long have we been sitting here?"
+            },
+            {
+                "character": "Stripper",
+                "quote": "Hi, boys!"
+            },
+            {
+                "character": "Everyone",
+                "quote": "Ohh\u2026"
+            },
+            {
+                "character": "Clark",
+                "quote": "Here we go!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, Thank God. We are famished!"
+            },
+            {
+                "character": "Stripper",
+                "quote": "Hey, did somebody order the chef special?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Right there."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, we haven\u2019t ordered anything. No one\u2019s even taken our drinks. Uh, what is the chef special? [music plays and stripper starts dancing on Dwight]"
+            },
+            {
+                "character": "Stripper",
+                "quote": "I bet you boys have a big appetite."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, we do. So we\u2019ll have an onion loaf for the table, please. And tell us about your heartiest soups."
+            },
+            {
+                "character": "Stripper",
+                "quote": "Mm, I know what you want. I know exactly what you want."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, an onion loaf for the table but that\u2019s not all. Now the chef special sounded good. What is it exactly?"
+            },
+            {
+                "character": "Stripper",
+                "quote": "Ohh, shh. [places finger over Dwight\u2019s lips]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay, what are you doing? Are you giving me a taste of the chef\u2019s special? Tastes like cigarettes. That won\u2019t work. That\u2019s no good."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Whoo!"
+            },
+            {
+                "character": "Angela",
+                "quote": "What? [knock at the door] Okay."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, boy."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh!"
+            },
+            {
+                "character": "Jakey",
+                "quote": "Heard you guys needed some pipes fixed or cleaned or whatever."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Angela\u2019s special repairman is here."
+            },
+            {
+                "character": "Angela",
+                "quote": "Wait, what is this?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Shut up. Jakey?"
+            },
+            {
+                "character": "Jakey",
+                "quote": "Mom?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Wait, wait. What?"
+            },
+            {
+                "character": "Jakey",
+                "quote": "Oh, man."
+            },
+            {
+                "character": "Meredith",
+                "quote": "No, no, no, no. Just do your wok. Pretend mom\u2019s not here."
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh, that seems inappropriate."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Give the good show, my little entrepreneur."
+            },
+            {
+                "character": "Jakey",
+                "quote": "Okay."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Take it off. [music play]. Yeah! Good song choice, Jakey. Stripper\u2019s only as good as his song."
+            },
+            {
+                "character": "Rachel",
+                "quote": "oh, wowee wow."
+            },
+            {
+                "character": "Angela",
+                "quote": "Okay\u2026"
+            },
+            {
+                "character": "Pam",
+                "quote": "Whoo-hoo\u2026go, Meredith\u2019s stripper son."
+            },
+            {
+                "character": "Angela",
+                "quote": "Rachel, are you all right?"
+            },
+            {
+                "character": "Rachel",
+                "quote": "I don\u2019t know! I don\u2019t know."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh geeze. [Jakey starts dancing on Angela]. Oh, my God!"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Be gentle Jakey. Gentle. One second. Just one second. Look. [pushes Jakey aside and starts dancing on Angela]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Okay, if anything, this is rougher. Stop it Meredith."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Fine. My bad. Go ahead Jakey."
+            },
+            {
+                "character": "Angela",
+                "quote": "[Jakey resumes dancing] Uh, no. It\u2019s o\u2026thank you. You know what? You don\u2019t have to\u2026oh no, no, no. No, no, no. It\u2019s okay."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Now, for the last time, I\u2019d like a side salad with balsamic."
+            },
+            {
+                "character": "Clark",
+                "quote": "Dwight, for the last time, she\u2019s not a waitress."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You\u2019re telling me!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "If you want her to leave, just tip her."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What for? We haven\u2019t even gotten bread yet. Does anyone wanna split a twice baked potato? [to the dancing stripper] Do you have those? Those aren\u2019t deep fried, right?"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "That was interesting. [creaking sound] What was that?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "It\u2019s just the wind."
+            },
+            {
+                "character": "Angela",
+                "quote": "Will you lock the door?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Okay. [opens door] It\u2019s just the wind, see? Nothing."
+            },
+            {
+                "character": "Angela",
+                "quote": "Alright, see, you don\u2019t have to leave the door wide open. We get it. It\u2019s the wind. Just come and shut\u2026[Mose grabs Angela and takes her away] OH! My God!"
+            },
+            {
+                "character": "Everyone",
+                "quote": "[screams]"
+            },
+            {
+                "character": "Erin",
+                "quote": "Phyllis!"
+            },
+            {
+                "character": "Rachel",
+                "quote": "What\u2019s happening?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Oh, man, never thought I\u2019d say this but I think I ate too much bone marrow. [phone rings]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, it\u2019s the girls. Hey Pam. What? Angela\u2019s been kidnapped! Phyllis left the door open and some freak came and grabbed her and fled."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Good old Mose. [laughing]"
+            },
+            {
+                "character": "Jim",
+                "quote": "They think it was Mose."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, great. He\u2019s getting into the spirit of the festivities. Fantastic. He just pulled off a Braut Entfuhrung."
+            },
+            {
+                "character": "Oscar",
+                "quote": "What is that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "A ceremonial bridal kidnapping. He will take the bride and hide her at a local pub and when I find the place, I have to buy everyone drinks. Ah, all right! Oh Mose."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait a minute. You said the tradition is for the groom is search for her and it ends at a pub. So how about the last pub you\u2019d ever set foot in in this town?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Right. Which one is that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Mm, hey driver. Why don\u2019t you take us to 3030 Adams?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Is that Mose?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, it is! I am here for my bride!"
+            },
+            {
+                "character": "Mose",
+                "quote": "Well, first, buy us a drink."
+            },
+            {
+                "character": "Everyone",
+                "quote": "If you want your bride, buy us a drink! If you want your bride, buy us a drink."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Very well! Drinks on me! Bartender! [Kevin turns around] Oh."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well, well, well, well, well, well. That\u2019s six \u201cwells.\u201d Did I get that number right, Dwight?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I heard you bought a bar, Kevin."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes. I did. This one. Now get out!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[to Mose] Why did you pick this place? [Mose points to Jim]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Ooh."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You? You did this as a prank. My own Bestich Mensch."
+            },
+            {
+                "character": "Jim",
+                "quote": "Nope, not a prank. I think it\u2019s time for you to bury the hatchet."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Waste of a good hatchet."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, just talk."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well, w\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I heard you say \u201cwell\u201d the first time."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I know Dwight misses Kevin. I saw him make his portrait out of a Wooly Willy. Tomorrow\u2019s his wedding day. You can\u2019t be anything but happy on your wedding day."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "It was nothing personal. It\u2019s just that you were terrible at your job."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You\u2019re just saying that to make me feel better."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No really. You were terrible at math and organization, time management, personal hygiene. Your internet searches were so filthy we had to throw our your computer."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Is that all it was?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That\u2019s it."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Come here [hugs Dwight]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I missed you Kevin."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I missed you!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ohh."
+            }
+        ],
+        [
+            {
+                "character": "Mose",
+                "quote": "Guten Prank."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes, Mose. Guten Prank number three."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "You\u2019ve had your drink. Now where is my bride?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Mose! What..ooh, Mose. [Mose opens trunk]"
+            },
+            {
+                "character": "Angela",
+                "quote": "What the [bleep] is your problem you [bleep] [bleep] [bleep]?!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey. Hey, is Angela coming or\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. We can\u2019t see each other on our wedding day. And her legs are still numb from being in the trunk."
+            },
+            {
+                "character": "Jim",
+                "quote": "Right."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Hey guys."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Stanley!"
+            },
+            {
+                "character": "Erin",
+                "quote": "How\u2019s Florida?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Oh, great."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "Yes, I\u2019m living in Florida now. Little town called Florida City, just on the edge of the everglades. The man who delivered my divorce papers came by fan boat which was kinda fun. I sit on my porch all day, carving birds."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Am I the only one that\u2019s nervous? How are you doing with this? Should we have bailed?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, no, I\u2019m fine."
+            },
+            {
+                "character": "Jim",
+                "quote": "Doesn\u2019t seem like anyone cares about us anyway."
+            },
+            {
+                "character": "Stanley",
+                "quote": "I guess this was work being filmed nonstop for nine years."
+            },
+            {
+                "character": "Andy",
+                "quote": "I\u2019m sorry guys. This is probably on me. I got hated on pretty hard when that auto-tune went viral."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[in video] Just sit here and cry, just sit here and cry! Oh I can so just sit here and cry. You guys are really mean. It can\u2019t end like this you know. Slept in my car last night, quit my job. Burned all my bridges. And I did unspeakable things \u2013 You\u2019re just not good, you\u2019re just not good. \u2013 Are you insane? \u2013 You\u2019re just not good, you\u2019re just not good. \u2013 Chill out! [crying] Just sit here and cry\u2026"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[watching at his bar] People actually dance to this. It\u2019s in my juke box. None of the money goes to Andy though."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[laughing] Yeah, people hate you."
+            },
+            {
+                "character": "Andy",
+                "quote": "I\u2019ll go talk to the manager. Maybe we should just go home. [walks down the hall]"
+            }
+        ],
+        [
+            {
+                "character": "Man",
+                "quote": "Hey! It\u2019s Andy Bernard!"
+            },
+            {
+                "character": "Everyone",
+                "quote": "Nard Dog! [cheers and claps] Ree-De-De-De-Doo! [repeats]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Ree-De-De-De-Doo!"
+            }
+        ],
+        [
+            {
+                "character": "Man 1",
+                "quote": "How did it feel to see your lives played out on tv?"
+            },
+            {
+                "character": "David Wallace",
+                "quote": "It\u2019s like seeing a documentary about how your food is made. It\u2019s kinda disgusting. You learn a lot, but I didn\u2019t wanna know any of it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "With today\u2019s modern surveillance technology we are in a constant state of being watched weather it\u2019s our government or the government of other countries a.k.a. Google. You guys are being filmed way more than we ever were."
+            },
+            {
+                "character": "Pete",
+                "quote": "Uh, no one recognizes me. But not all my friends call me Plop. So\u2026 thanks PBS."
+            }
+        ],
+        [
+            {
+                "character": "Woman 1",
+                "quote": "Uh, Jim, that DVD in the last episode was so romantic. And, um, I think we\u2019d all love to know, Pam, what romantic thing did you do to pay Jim back for leaving Athlead?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, I mean, How do you pay back someone for something like that? But, uh, I don\u2019t know. I\u2019m working on something."
+            },
+            {
+                "character": "Jim",
+                "quote": "She pays me back every day just by being my wife so that\u2019s fine."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Awww."
+            },
+            {
+                "character": "Jim",
+                "quote": "O-Kay."
+            }
+        ],
+        [
+            {
+                "character": "Woman 2",
+                "quote": "All I can say is, if I had Jim, he would have a free pass to do anything. I mean if I lucked into that\u2026 he could do anything. Anything."
+            },
+            {
+                "character": "Pam",
+                "quote": "[pause] I\u2019m sorry. Is there a question?"
+            },
+            {
+                "character": "Woman 2",
+                "quote": "Uh, no."
+            }
+        ],
+        [
+            {
+                "character": "Man 2",
+                "quote": "Pam, what was in that teapot letter?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, um, well, you know, I\u2026 I just\u2026 I just think I would rather keep that private. You know, if you\u2019d been filmed for nine years of your life, there\u2019d be some things that you just wanna keep to yourself."
+            },
+            {
+                "character": "Man 2",
+                "quote": "I hear ya. What did it say?"
+            },
+            {
+                "character": "Moderator",
+                "quote": "We\u2019re gonna move on. Next question please."
+            }
+        ],
+        [
+            {
+                "character": "Man 3",
+                "quote": "Do you find that your life feels pointless now that nobody\u2019s actually filming you anymore?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Woman 3",
+                "quote": "I wanna know how everyone felt they were portrayed. Was it accurate?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "I got a beef with that. Um, for the first seven years, I was getting my PhD in School Psychology and they didn\u2019t show it. Yes, I was getting hammered but, hey, it was college."
+            }
+        ],
+        [
+            {
+                "character": "Woman 4",
+                "quote": "I have a question for Jim and Pam. Everyone watching sees how much you love each other and how you\u2019re soul mates. So, Pam, how could you doubt that when Jim moved to Philadelphia?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Um, you know what, I actually didn\u2019t handle that move, uh, very gracefully. From not communicating to being a little selfish."
+            },
+            {
+                "character": "Pam",
+                "quote": "Listen, um\u2026 I was scared, you know? I loved what I had, and I didn\u2019t want to risk it. And I think that maybe I did doubt him a little too. Which was wrong because he\u2019s shown me time and again. But when the documentary started airing, people on the street told me that I had this fairy-tale romance. But there were a lot of times last year where it did not feel like a fairy tale. But then it got deeper, and it got stronger and now it\u2019s better than a fairy tale. It\u2019s like a long book that you never want to end. And you\u2019re fine with that because you just never, ever wanna leave it."
+            },
+            {
+                "character": "Woman 4",
+                "quote": "Like Harry Potter."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, like Harry Potter."
+            }
+        ],
+        [
+            {
+                "character": "Joan",
+                "quote": "I have a question for Erin."
+            },
+            {
+                "character": "Erin",
+                "quote": "Really?"
+            },
+            {
+                "character": "Joan",
+                "quote": "Yes. Um, the thing I found most compelling about the documentary was your search for your birth mother."
+            },
+            {
+                "character": "Erin",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Joan",
+                "quote": "So my question is, um, do\u2026 don\u2019t you hate her? I mean, I would just imagine that you were so angry at her that you would hate her."
+            },
+            {
+                "character": "Erin",
+                "quote": "Maybe sometimes. But not like \u201chate\u201d hate. More just like, \u201cMom, I hate you!\u201d And then she would say \u201cgo to your room, young lady.\u201d And I\u2019d stamp my foot and run upstairs and I have a room, which is really cool. And then we\u2019d just have dinner together. But I don\u2019t know. I\u2019d have to meet her. Thanks."
+            },
+            {
+                "character": "Joan",
+                "quote": "Erin\u2026"
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes?"
+            },
+            {
+                "character": "Joan",
+                "quote": "Um\u2026Oh, Erin.."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes? Is there a follow-up question? [realizes] Mom? [they hug]"
+            },
+            {
+                "character": "Ed",
+                "quote": "Erin\u2026 Same question but about your dad? [they hug]"
+            },
+            {
+                "character": "Moderator",
+                "quote": "Well, this feels like a good place to stop. Let\u2019s thank all of our wonderful panelists for being here on this wonderful panel today. [audience claps] Next week at the Scranton Cultural Center don\u2019t forget, Irish Step Dancing semifinals. Winning team to Mid-Atlantic. [applause and scattering cheers]"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Where\u2019s the, uh, basket for gifts?"
+            },
+            {
+                "character": "Usher",
+                "quote": "Right there, sir."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Dakota",
+                "quote": "Hi, I\u2019m Dakota."
+            },
+            {
+                "character": "Creed",
+                "quote": "Jeff Bomondo. I sell ceramic tile out of Newark."
+            },
+            {
+                "character": "Dakota",
+                "quote": "Nice."
+            },
+            {
+                "character": "Creed",
+                "quote": "My wife\u2019s name is Kathryn. I can show you my social security card if it helps."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Uck, Look at all this mud. Can you imagine if I had worn my Jimmy Choos? I just saved you 600 bucks mister."
+            },
+            {
+                "character": "Ravi",
+                "quote": "Thanks for helping out, sweetie."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Kelly, you\u2019re here."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Hey, Ryan!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hey."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Whose baby is this? Oh, are, like, a nanny now?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "No, this little guy is mine."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "So I was dating this girl, and one day, she went out to get a new charger for her e-cigarette. Never came back. Oldest story in the book. [baby squeals]"
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Say \u201chi\u201d, Drake."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Drake is your baby\u2019s name?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Kelly",
+                "quote": "That is an amazing name. I\u2019m obsessed with Drake. His last album\u2026 it just touched me to pieces."
+            },
+            {
+                "character": "Ryan",
+                "quote": "No Kelly, he\u2019s no named after a hip-hop artist from 2011. It\u2019s Drake, like a mix of Drew and Blake."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Cool. Well, he is so cute. Ravi, check out this cute baby. I\u2019m obsessed with him. Ravi is a pediatrician and some of his patients are total uggos."
+            },
+            {
+                "character": "Ravi",
+                "quote": "They\u2019re called premature, sweetie. It\u2019s good to see you again Ryan."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Let me help you us."
+            },
+            {
+                "character": "Angela",
+                "quote": "Thanks. [knees buckle] Oh. Ouch."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, boy. Maybe your heels are too high."
+            },
+            {
+                "character": "Angela",
+                "quote": "No, my heels aren't too high. It\u2019s because I spent three hours in a car trunk. Thanks for not locking the door when I asked you to, Phyllis. [sighs] Sorry Phyllis. You didn\u2019t know. As long as I can get to the altar."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, I\u2019m gonna get you to that altar. You can take that to the bank."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "You ready?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[chuckles] You kidding? I was born ready. [mimicking heavy metal guitars]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Dwight, Dwight, Dwight. Um\u2026 I don\u2019t know how to tell you this, but\u2026 we have a little bit of a problem."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, no. What?"
+            },
+            {
+                "character": "Jim",
+                "quote": "The minister just told me that it\u2019s tradition for the Bestish Mensch to be older than the groom."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, come on. I\u2019ve never heard of such a thing."
+            },
+            {
+                "character": "Jim",
+                "quote": "I haven\u2019t heard of it, obviously. But I\u2019m out because I am significantly younger than you-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Not\u2026 significant is a big word\u2026"
+            },
+            {
+                "character": "Jim",
+                "quote": "I think it\u2019s definitely\u2026 Well, okay. Either way\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I think you\u2019re only a teeny\u2026"
+            },
+            {
+                "character": "Jim",
+                "quote": "Either way, Dwight\u2026 I can\u2019t be there for you. I\u2019m sorry."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "I just\u2026really wish there was something I could do. [looks off]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[turns around] [whispering] Michael. I can\u2019t believe you came."
+            },
+            {
+                "character": "Michael",
+                "quote": "That\u2019s what she said."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Best prank ever."
+            }
+        ],
+        [
+            {
+                "character": "Minister",
+                "quote": "As it is traditional to the Schrutes, the lovers are standing in their own graves as a reminder that this is the only escape from what they are about to do."
+            },
+            {
+                "character": "Nellie",
+                "quote": "[to Joan] See, I get what they are trying to do, but why are the graves so shallow?"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[reading] \u201cArise, my love, my fair one, and come away. For lo, the winter is passed. The rain is over and gone. The time of singing has come and the voice of the turtledove is heard in our land. Let me see your face. Let me hear your voice for your voice is sweet and your face is comely. \u201c"
+            }
+        ],
+        [
+            {
+                "character": "Minister",
+                "quote": "I now pronounce you man and wife. [everyone cheers] Release the doves! [doves do not move right away]"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh."
+            },
+            {
+                "character": "Kevin",
+                "quote": "That\u2019s not\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ladies and gentlemen. Thank you so much for coming. Now, please take your hay bales to the reception. They\u2019ll be used for seating. Complimentary hay hooks are placed alone the aisles. Just stab \u2018em on in there."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Everybody!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[dancing with Pam. They kiss] See, now you don\u2019t owe me anything."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Ravi? Ravi? Drake has a bit of a rash. And he\u2019s hot."
+            },
+            {
+                "character": "Ravi",
+                "quote": "Oh, no."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I was wondering could you maybe examine him for a second?"
+            },
+            {
+                "character": "Ravi",
+                "quote": "Oh, yeah, you\u2019re not feeling well little guy? Okay, sure. Should we go inside?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Actually, could you go inside? I\u2019m feeling a little dehydrated. I could really use a little break, have some water."
+            },
+            {
+                "character": "Ravi",
+                "quote": "Are you sure you don\u2019t wanna go in?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Ravi, just do it. That baby is burning up. Isn\u2019t this, like what you live for? Just go. Go."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Thank you Ravi. Thank you so much. This is great for me and for Drake. Thank you."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I don\u2019t know, Ryan. Baby Drake didn\u2019t look so good."
+            },
+            {
+                "character": "Ryan",
+                "quote": "He\u2019ll be fine. I let me suck on a strawberry. He\u2019s allergic but he\u2019ll get over it fast. I had to talk to you."
+            },
+            {
+                "character": "Kelly",
+                "quote": "You gave your baby an allergic reaction just to talk to me? [they kiss]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Michael has so many pictures of his kids he had to get two phones with two numbers and he pays two bills."
+            },
+            {
+                "character": "Pam",
+                "quote": "[with Michael] Oh, my gosh, it\u2019s choreographed!"
+            },
+            {
+                "character": "Pam",
+                "quote": "He just so happy to have a family plan."
+            }
+        ],
+        [
+            {
+                "character": "Ed",
+                "quote": "Where\u2019d you learn to dance like that?"
+            },
+            {
+                "character": "Erin",
+                "quote": "I don\u2019t know. I\u2019ve just always been really good at dancing."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "[dancing with Pam] [sobbing]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Is it me? Is it Nellie?"
+            },
+            {
+                "character": "Toby",
+                "quote": "[sobbing] It\u2019s everything."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "[dancing with Stanley] I missed you."
+            },
+            {
+                "character": "Stanley",
+                "quote": "I missed you too."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Lots of people think that Stanley Hudson\u2019s a mean old grump. [laughs] But [crying] would a grump make this? It\u2019s me. It\u2019s me."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "I love you."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[laughing] I love you too."
+            },
+            {
+                "character": "Ryan",
+                "quote": "We\u2019re gonna be together forever."
+            },
+            {
+                "character": "Kelly",
+                "quote": "We\u2019re running off into the sunset."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I finally mastered commitment."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[to Oscar] What was that stuff?"
+            },
+            {
+                "character": "Ravi",
+                "quote": "Hey, has anyone seen Ryan\u2026 or Kelly?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Ooh! Yes. Uh, They left together a little while ago. Kelly was hoping that you would keep the baby so they can start a new life together."
+            },
+            {
+                "character": "Ravi",
+                "quote": "Oh, that\u2019s it. Here. [hands Drake to Kevin] Call child services and report an abandoned baby. We\u2019ll find a better parent than Ryan in no time."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oh, I don\u2019t know."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Um, Kevin? Oh, I can help you with that. Yeah. I mean, I can find someone who will\u2026 who will love that beautiful little boy the way he deserves."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hey, this is better. [hands Drake to Nellie]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yes. It is. Oh yes it is."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "If Ryan wants his baby back, please tell him where to fine me. We\u2019ll be somewhere in Europe. [looking at Drake] Won\u2019t we?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[crying] I feel like all my kids grew up and then they married each other. It\u2019s every parent\u2019s dream."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Thank you go much."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Good night."
+            },
+            {
+                "character": "Toby",
+                "quote": "Good luck."
+            },
+            {
+                "character": "Val",
+                "quote": "Great. It was really fun."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Good evening."
+            },
+            {
+                "character": "Val",
+                "quote": "The Doc crew\u2019s throwing a big after party in the warehouse tonight."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah, I heard. It sounds kinda lame. [to camera] No offense. You going, Toby?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, I don\u2019t know. I might turn in early."
+            },
+            {
+                "character": "Andy",
+                "quote": "It\u2019s only 6:00. Come on, everybody\u2019s going."
+            },
+            {
+                "character": "Meredith",
+                "quote": "You have to go, Toby."
+            },
+            {
+                "character": "Pete",
+                "quote": "Yeah, come on, Tobes."
+            },
+            {
+                "character": "Val",
+                "quote": "Come on."
+            },
+            {
+                "character": "Toby",
+                "quote": "Yeah. I\u2019ll stop by."
+            },
+            {
+                "character": "Pete",
+                "quote": "There he is!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I need to get out of this dress."
+            },
+            {
+                "character": "Jim",
+                "quote": "I gotta get out of this dress."
+            },
+            {
+                "character": "Carol",
+                "quote": "Oh, I\u2019m sorry Pam."
+            },
+            {
+                "character": "Jim",
+                "quote": "What\u2019s going on?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[sighs] [whispering] Why are you still here?"
+            },
+            {
+                "character": "Carol",
+                "quote": "[whispering] I\u2019m so sorry. They were an hour late."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, really, what\u2019s going on?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, Okay. Um\u2026 so\u2026 this past year has been really great, and you\u2019ve been great and I just\u2026 I know that you had to make this choice and you had to give something up for me. But I never want you to have to give up anything. I just thought if I could get us an offer then there wouldn\u2019t be anything standing in our way and I could come to you with this big Jim gesture\u2026 and show you all at once just how much I love you and how much I really do believe in your future."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sorry, how long have you been showing the house?"
+            },
+            {
+                "character": "Pam",
+                "quote": "About 2 months"
+            },
+            {
+                "character": "Jim",
+                "quote": "That\u2019s why it\u2019s so clean."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "I mean, you were gonna do this without me?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, you\u2026 you bought the house without telling me, so I thought I could sell it without telling you."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh\u2026 okay. Where would we go?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Austin? Maybe."
+            },
+            {
+                "character": "Jim",
+                "quote": "I promise you, you don\u2019t have to do this for me."
+            },
+            {
+                "character": "Pam",
+                "quote": "I\u2019m doing it for us."
+            },
+            {
+                "character": "Jim",
+                "quote": "The last\u2026"
+            },
+            {
+                "character": "Buyer",
+                "quote": "Okay. We\u2019ll take it."
+            },
+            {
+                "character": "Jim",
+                "quote": "[to the buyer] Hold on a second. [to Pam] The last few months have meant the world to me and all I care about\u2026"
+            },
+            {
+                "character": "Pam",
+                "quote": "Hold on a second. [turning] Wait, what did you just say?"
+            },
+            {
+                "character": "Buyer",
+                "quote": "We wanna buy your house."
+            },
+            {
+                "character": "Jim",
+                "quote": "You wanna do this?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I wanna do this."
+            },
+            {
+                "character": "Jim",
+                "quote": "You really want to do this?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I really want to do this!"
+            },
+            {
+                "character": "Jim",
+                "quote": "[hugging Pam] [laughing] Oh my God!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey, Darryl. [whispers in his ear]"
+            },
+            {
+                "character": "Darryl",
+                "quote": "What? All right!"
+            },
+            {
+                "character": "Pam",
+                "quote": "We\u2019re so excited."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Cool."
+            },
+            {
+                "character": "Woman",
+                "quote": "Oh, that\u2019s for PBS executives only."
+            },
+            {
+                "character": "Stanley",
+                "quote": "I had to pledge $50 to my local PBS station just to get this."
+            }
+        ],
+        [
+            {
+                "character": "David Wallace",
+                "quote": "I think your ideas are fantastic, Oscar. I\u2019d love to contribute to your campaign."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Thank you David."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Uh, could I please have your attention? So a year ago, I got my first art commission to paint a mural for Dunder Mifflin and I decided to paint the history of paper\u2026,which was just some trees and stuff. And then someone spray painted a bunch of butts on it and I had to start from the beginning. But it all worked out for the best because I think that I\u2019ve painted the perfect thing which is the history of us. All of us. And this is for you Jim. [applause] And go ahead! [drape drops and everyone cheers]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Everyone, Let\u2019s take our picture in front of the mural. Oh, um, I just\u2026I kind of meant just everybody from the office."
+            }
+        ],
+        [
+            {
+                "character": "Photographer",
+                "quote": "[taking pictures] Very nice. Just a couple dozen more. Smiles, everybody, smiles. All right, that\u2019s great. I got enough. Thank you, everybody."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[whispering to Pam] Let\u2019s go outside"
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "Okay, I need a drink."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, we all need a drink. [opening Meredith\u2019s drawer] What the\u2026there\u2019s only dandelion tea and raisins in here."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Hey, bottom drawer."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[answering the phone] Dunder Mifflin, This is Pam. Oh, I\u2019m sorry. Jim Halpert doesn\u2019t work here anymore."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I didn\u2019t watch the whole documentary. After a few episodes, it was too painful. I kept wanting to scream at Pam. It took me so long to do so many important things. It\u2019s just hard to accept that I spent so many years being less happy than I could have been. Jim was 5 feet from my desk and it took me four years to get to him. It\u2019d be great if people saw this documentary and learned from my mistakes. Not that I\u2019m a tragic person. I\u2019m really happy now. But\u2026it would just\u2026just make my heart soar if someone out there saw this and she said to herself \u201cbe strong, trust yourself, love yourself. Conquer your fears. Just go after what you want and act fast, because life just isn\u2019t that long.\u201d"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "If there is one thing that I have learned through this whole experience, it\u2019s that if you film anybody long enough, they\u2019re going to do something stupid. It\u2019s only human natural."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Hey guys."
+            },
+            {
+                "character": "Angela",
+                "quote": "Hi."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Pam",
+                "quote": "What about the honeymoon?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh, the honeymoon can wait till tomorrow. We wanted to hang out with you guys. I mean, when are we all going to be here together again?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Aww, J, P and D. The Three Amigos. Ah, it warms my heart. Hey, what do you say, when I get back from out honeymoon, the three of us have a conference room meeting just for fun? [pause] What is that meaningful look?"
+            },
+            {
+                "character": "Jim",
+                "quote": "You know what? Maybe we should talk."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Hey, come here. You guys need to see this."
+            },
+            {
+                "character": "Kevin",
+                "quote": "What is it?"
+            },
+            {
+                "character": "Andy",
+                "quote": "[on the computer] You\u2019re probably sitting there wondering what will be your mark. What will you be known for? It might surprise you to learn..."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I finally feel ready. Athlead is growing\u2026"
+            },
+            {
+                "character": "Jim",
+                "quote": "Athleap."
+            },
+            {
+                "character": "Pam",
+                "quote": "And Jim can jump back in without skipping a beat. We\u2019ll come back to visit. But I think it\u2019s time for us to officially\u2026"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, don\u2019t say it. You\u2019re fired! You\u2019re both fired!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Dwight, come on. Don\u2019t end on a bad note."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Don\u2019t be an idiot. It\u2019s for the severance. The best I can do one month for every year you\u2019ve been here. That\u2019s the max."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thanks Dwight."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, and if you\u2019re ever in Austin..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Woah. Right. For what, the art? The music? The incredible nightlife? No thank you. But if you\u2019re ever in the area, you\u2019ll always have a place to stay\u2026in my barn."
+            },
+            {
+                "character": "Jim",
+                "quote": "There it is."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Do I get along with my co-workers? Well, first of all, I don\u2019t have co-workers anymore, I have subordinates. So\u2026 have I gotten along with my subordinates? Let\u2019s see. My supplier relations rep, Meredith Palmer, is the only person I know who knows how to properly head bang to Motorhead. Oscar Martinez, my accountant, is now godfather to my son. Angela Schrute, my former accountant is now my wife. My top salesman, Jim Halpert was best man at my wedding and office administrator Pamela Beesley Halpert is my best friend. So\u2026yes. I\u2019d say I have gotten along with my subordinates."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[on computer] You might feel sorry for me but I actually feel sorry for you. Because you\u2019re about to leave Cornell. So say it with me: [all]: Oh, I can so just sit here and cry."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oh, Yes!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "You did good. Real good."
+            },
+            {
+                "character": "Andy",
+                "quote": "Thanks Dad\u2026Darryl."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I spent so much of my time here at Dunder Mifflin thinking about my old pals, my college a cappella group. The weird thing is now, I\u2019m exactly where I wanna be. I got my dream job at Cornell and I\u2019m still just thinking about my old pals. Only now they\u2019re the ones I made here. I wish there was a way to know you\u2019re in the good old days before you\u2019ve actually left them. [pause] Someone should write a song about that."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "You take something ordinary, like a piece of paper. It\u2019s not much. But if you see it in the right way\u2026And that\u2019s what you did with this documentary. But seriously, you made a nine-year documentary and you couldn\u2019t once show me doing my origami."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "[walking out of the bathroom discovered by all] Uh..ohh!"
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "[playing guitar and singing] I saw a friend today. It had been a while. And we forgot each others names. But it didn\u2019t matter. \u2018Cause deep inside the feeling still remained the same\u2026"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Imagine going back and watching a tape of your life. You could see yourself change and make mistakes\u2026and grow up. You could watch yourself fall in love, watch yourself become a husband, become a father. You guys gave that to me. And that\u2019s\u2026an amazing gift."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Hey, Jim, remember flonkerton when you did Office Olympics? It was awesome."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thanks Phyl."
+            },
+            {
+                "character": "Creed",
+                "quote": "I still have my medal from that."
+            },
+            {
+                "character": "Angela",
+                "quote": "Do you even have a mattress?"
+            },
+            {
+                "character": "Creed",
+                "quote": "No, but I still have my medal from that."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Oscar. Oscar. [crying] I think I\u2019m gay."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Why do you say that?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[sniffles] It\u2019s just that I\u2019m so emotional."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yeah, but you\u2019re not gay. You\u2019re not gay."
+            },
+            {
+                "character": "Kevin",
+                "quote": "No, but maybe the reason\u2026"
+            },
+            {
+                "character": "Oscar",
+                "quote": "You\u2019re not gay."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "[still playing and singing] And all the faces that I know have that same familiar glow. I think I must have known them somewhere once before."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "How did you do it? How did you capture what it was really like? How we felt and how made each other laugh and how we got through the day? How did you do it? Also, how do cameras work?"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Everyday when I came into work, all I wanted to do was leave. So why in the world does it feel so hard to leave right now?"
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "It all seems so very arbitrary. I applied for a job at this company because they were hiring. I took a desk at the back because it was empty. But\u2026[chuckles] no matter how you get there or where you end up, human beings have this miraculous gift to make that place home. [standing with two cops] Let\u2019s do this."
+            }
+        ],
+        [
+            {
+                "character": "Meredith",
+                "quote": "I just feel lucky that I got a chance to share my crummy story with anyone out there who thinks they\u2019re the only one to take a dump in a paper shredder. You\u2019re not alone sister. Let\u2019s get a beer sometime."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "I\u2019m happy that this was all filmed so I can remember everyone and what we did. I worked for a paper company all these years and I never wrote anything down."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I sold paper at this company for 12 years. My job was to speak to clients on the phone about quantities and types of copier paper. Even if I didn\u2019t love every minute of it, everything I have, I owe to this job. This stupid\u2026wonderful\u2026boring\u2026amazing job."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I thought it was weird when you picked us to make a documentary. But all in all\u2026I think an ordinary paper company like Dunder Mifflin was a great subject for a documentary. There\u2019s a lot of beauty in ordinary things. Isn\u2019t that kind of the point?"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

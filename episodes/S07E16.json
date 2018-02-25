@@ -1,0 +1,910 @@
+{
+    "season": 7,
+    "episode": 16,
+    "title": "Threat Level Midnight",
+    "scenes": [
+        [
+            {
+                "character": "Delivery Guy",
+                "quote": "I got a delivery for ya'."
+            },
+            {
+                "character": "Michael",
+                "quote": "Leave it at reception."
+            },
+            {
+                "character": "Delivery",
+                "quote": "I'm supposed to deliver this one in person. [pulls out a gun and starts shooting at Michael, who dodges dramatically]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[pulls out two handguns and kills the man with an unnecessarily large amount of bullets] Clean up on aisle five. [Threat Level: Midnight titlescreen appears]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "After three years of writing, one year of shooting, four years of re-shooting and two years of editing, I have finally completed my movie, Threat Level: Midnight."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Erin... what are you doing?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Guys! Guys. Did you guys know that our own Michael Scott has made a movie, and that he maybe will let us watch it, but only if everybody's dying to see it."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's... That's. Well, don't put words in my mouth."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Threat Level: Midnight is the great lost film of Michael Scott."
+            },
+            {
+                "character": "Pam",
+                "quote": "We're all in it, from like years and years ago. It's like a home movie."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, if Michael Scott did your home movie!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael screened a work in progress for us, years ago, and it didn't go well. We thought it was a comedy. [flashback clip of Michael angrily leaving the conference room while the whole office is laughing at the tv] Everything pointed to it being a comedy."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "We'd love to see it!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Sweet, I will go invite Holly."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay everyone, I know we're really excited to see this movie that everybody's in, but we have to remember that Michael is sensitive, so let's stay positive! And no laughing, no comments, just positive energy and we'll have a pure fun day! Okay?"
+            },
+            {
+                "character": "Creed",
+                "quote": "Thanks mom."
+            }
+        ],
+        [
+            {
+                "character": "Holly",
+                "quote": "You never told me you made a movie."
+            },
+            {
+                "character": "Michael",
+                "quote": "Mhmm! It's got action, it's got heart, it's got some bosom."
+            },
+            {
+                "character": "Holly",
+                "quote": "It's got you."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's got a lot of me."
+            },
+            {
+                "character": "Holly",
+                "quote": "[laughs] I can't wait."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Ladies and gentleman, Threat Level: Midnight. [applause]"
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "[Stanley's voice as the screen shows Scarn Manor] Michael Scarn, well that's an interesting story. [headlines of Michael Scarn's success are shown as well as an article reporting the death of Michael's wife, Catherine Zeta Scarn] He was once the best secret agent in the business. That was years ago. Where is he now? Well, that's also an interesting story."
+            },
+            {
+                "character": "Samuel",
+                "quote": "[Dwight Schrute dressed as a butler. Speaks in slow, deep voice] Master Scarn."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I play Samuel, Michael Scarn's robot butler. I wanted Samuel's voice- [robot impression] to be like this! [normally] But Michael thought that Samuel should be a very advance android, almost indistinguishable from a real person."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Dwight does not play a robot."
+            }
+        ],
+        [
+            {
+                "character": "Samuel",
+                "quote": "[crashes cymbals by Michael's ear]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[lying on bed with a bottle of alcohol] I'm up."
+            },
+            {
+                "character": "Samuel",
+                "quote": "It's the president. He needs you for a mission."
+            },
+            {
+                "character": "Michael",
+                "quote": "Tell him I'm retired."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's Goldenface."
+            },
+            {
+                "character": "Michael",
+                "quote": "Goldenface, this makes it personal."
+            }
+        ],
+        [
+            {
+                "character": "President",
+                "quote": "[Darryl, sitting at a desk in the Oval Office] Scarn, you're right on time. [cheering from the office]"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "I gave up a lot of weekends because I thought it'd be good for my daughter to see a black man as president. Even in a silly home movie. What a stupid waste of time."
+            }
+        ],
+        [
+            {
+                "character": "President",
+                "quote": "It's your old enemy, Goldenface. He's after the NHL All Star Game. He's hidden a bomb somewhere in the stadium. Scarn, this one is personal for me. I own the stadium. I can't see it blown up. It's my retirement plan."
+            },
+            {
+                "character": "Samuel",
+                "quote": "We have to search the stadium."
+            },
+            {
+                "character": "President",
+                "quote": "Not so fast, Goldenface has taken all the concession stand workers hostage. Scarn, will you find these hostages, and save the game?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[holding a quarter up] Heads I do it, tails I don't. Best out of seven. [flips the coin] Heads. [flips it again] Tails. [President winces each time he says tails]...Heads...Tails...Heads...Tails. [flips one more time and the quarter spins around on the table. Michael looks at it] Well, it looks like there's going to be a clean-up on aisle five."
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "Well, the hostages were scared."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[as a hostage] Don't you guys get it? Nobody's coming for us."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "[Jim, with his face painted with metallic gold paint] Oh someone's coming alright, the only man who would care. [Goldenface turns in his chair, holding a golden gun] Michael Scarn. See I'm gonna lure him here, then I kill everybody, then... I'm gonna dig up Scarn's dead wife, and I'm gonna hump her real good. [malicious, deep laughter]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I did not love the dialogue. Or the character. I took the role to impress a receptionist who will remain nameless."
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "[scene shows Michael Scarn driving through the rain] Well, the All Star Game was three days away, so naturally it was all sold out. The only way Scarn was getting in was in a uniform. Just one problem with that, Scarn didn't know a hockey stick from a Slim Jim. So he went to meet with the famed trainer... [Michael stops the car and gets out] Cherokee Jack."
+            }
+        ],
+        [
+            {
+                "character": "Cherokee Jack",
+                "quote": "[Creed wearing a tunic and carrying a mop, standing with Michael in front of an ice rink] Mop the ice."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm not here to learn how to mop, I'm here to learn how to play hockey."
+            },
+            {
+                "character": "Cherokee Jack",
+                "quote": "Mop it. [A montage of Michael mopping the ice awkwardly and using an ab-cruncher, and slowly getting better. After a little while, Cherokee Jack Slams a hockey stick on the ice to stop Michael, then offers it to him] Now take this."
+            },
+            {
+                "character": "Michael",
+                "quote": "What am I supposed to do with this?"
+            },
+            {
+                "character": "Cherokee Jack",
+                "quote": "Mop. [a montage shows Michael sliding around the ice skillfully and hitting the puck into the goal]"
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "Well, Michael Scarn was quickly becoming one of the hottest hockey players in the country."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[Ryan is acting as an official for the competition taking place. A line is formed in front of a line on the ice. Standing behind it are Michael Scarn, Oscar in a blue full-body suit, and a mysterious man in a hockey mask] Each year, the National Hockey League selects one civilian amateur to play in the All Star Game. It's down to the three of you. The final test is speed skating. [holds a gun to the ceiling] On your marks, get set..."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Die! [The masked man pulls off the mask to reveal that it is Goldenface]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[Michael and Goldenface skate around the rink, Goldenface shooting with a solid gold gun, Michael with two pistols. Michael is out of breath at the end of the race] Nice try Goldenface, but you forgot one thing, to kill me."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "I wasn't trying to kill you, I was trying to slow you down. [Ryan is seen placing a medal around Oscar's neck]"
+            },
+            {
+                "character": "Michael",
+                "quote": "No!"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Oh by the way!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "How's your wife doing?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[begins to cry as Goldenface laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Congratulations."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Hey, you came in second. Not bad either."
+            },
+            {
+                "character": "Michael",
+                "quote": "I am sorry that I have to do this... [starts choking Oscar to death with his towel]"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Huh...[muffled screaming as he slowly chokes, and eventually dies]"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm so sorry. I'm so sorry."
+            }
+        ],
+        [
+            {
+                "character": "Samuel",
+                "quote": "I'm intercepting a name. Jasmine Winsong. She works for Goldenface. What I can't figure out is, who is the Funky Cat."
+            },
+            {
+                "character": "Michael",
+                "quote": "Not who, what. The Funky Cat is the hippest Jazz Club in town. [stands up with his cup of tea and walks by Samuel, pouring his tea all over him]"
+            },
+            {
+                "character": "Samuel",
+                "quote": "Oh-[starts to freak out, but the scene is crudely cut short]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "He cut the part where my circuit board malfunctioned! What was the point of spilling the drink on me?"
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "[acting as a jazz singer at the Funky Cat, singing] They call me Jasmine Winsong."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[walking into the Funky Cat] Bingo."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "He finished his movie? [frantically trying to open her car door, as if trying to get away from the camera crew] No kidding. Wow, that's great. Yeah that's good for him."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "[singing gibberish while laying on the piano on stage]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[pulls out a recording device from his pocket and clicks it on]"
+            },
+            {
+                "character": "Jan",
+                "quote": "[michael pushes the backwards button on the recorder] The hostages are under the stadium. [An assassin with a golden tie shoots her with a tranquilizer and she falls]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Jack Blaise."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You have to let us go Goldenface! We have families!"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Ha! This is gonna show them [cocks his golden gun] that I mean business. See ya! [points gun to Toby the hostage's head, shoots and Toby's fake head explodes, the shot is shown repeatedly]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "By far and away, the most expensive shot in the movie. But, it was integral to the story."
+            }
+        ],
+        [
+            {
+                "character": "Samuel",
+                "quote": "Ha! [kicking open the gate in the stadium where the hostages and Goldenface are]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Michael Scarn!"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Sorry about your friend, Scarn!"
+            },
+            {
+                "character": "Michael",
+                "quote": "The joke's on you Goldenface, that man was a wanted animal rapist."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "[gives Michael a disgusted look]"
+            },
+            {
+                "character": "Samuel",
+                "quote": "We've searched the whole building, Goldenface, where is the bomb?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Hm?"
+            },
+            {
+                "character": "Samuel",
+                "quote": "We've searched the whole building, Goldenface, where is the bomb?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Hm?"
+            },
+            {
+                "character": "Samuel",
+                "quote": "We've searched the wh- ok..."
+            },
+            {
+                "character": "Michael",
+                "quote": "He said, where is the bomb?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "In the puck! [tosses the puck to Michael]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Why are you telling me this?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Because I'm going to kill you. [takes out golden gun] Unless! You forgive me for murdering your wife. [distraught, memories of him and his wife are shown on the puck in a dreamy haze]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey Goldenface."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Yeah?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Go puck yourself!"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "[dodges the puck and shoots at Michael]"
+            },
+            {
+                "character": "Samuel",
+                "quote": "Noooo! [jumps in front of Michael to receive the bullet]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "That was not scripted."
+            }
+        ],
+        [
+            {
+                "character": "Goldenface",
+                "quote": "[re-cocks gun and shoots at Michael, who looks shocked and scared]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "More Tylenol."
+            },
+            {
+                "character": "Helene",
+                "quote": "[as a busty nurse] You've already had four."
+            },
+            {
+                "character": "Pam",
+                "quote": "Looking at her mother on screen, horrified] Oh God... [looks at Michael] So good."
+            },
+            {
+                "character": "Helene",
+                "quote": "You're lucky to be alive."
+            },
+            {
+                "character": "Michael",
+                "quote": "It'll take a lot more than a bullet to the brain, lungs, heart, back, and balls to kill Michael Scarn."
+            },
+            {
+                "character": "Helene",
+                "quote": "Let's just make sure that everything's... Working properly... [leans in closer to Michael and the heart rate monitor, which was beating steadily, now beats very quickly]"
+            }
+        ],
+        [
+            {
+                "character": "President",
+                "quote": "You just said the bomb... is in the puck?"
+            },
+            {
+                "character": "Michael & Samuel together",
+                "quote": "Yes."
+            },
+            {
+                "character": "President",
+                "quote": "Is that where you hid the bomb Goldenface?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "[walks into the Oval Office with an accomplice, Troy]"
+            },
+            {
+                "character": "Samuel",
+                "quote": "But why would you blow up the stadium? You OWN the stadium!"
+            },
+            {
+                "character": "Michael",
+                "quote": "For the insurance money! I knew it all along! [the President, Goldenface, and his minion pull out automatic machine guns] You will never get away with this! [takes a painting of Abraham Lincoln and awkwardly smashes it on the President's head, runs out of the office as Goldenface and his minion shoot at them]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Where had I gone wrong? All I wanted was to start a family with my beautiful wife. But somewhere along the way, things got messed up."
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "It wasn't easy for Scarn to admit that he had lost his self-confidence. And he hadn't of course, He just wasn't using it right now."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[in a bar] Beer me Billy."
+            },
+            {
+                "character": "Billy",
+                "quote": "[Andy as a bar tender with a Brooklyn accent] You don't looks so good, what's got ya down?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I got problems Billy. Big problems..."
+            },
+            {
+                "character": "Billy",
+                "quote": "You got problems?! My TV don't work! I pay thirty bucks a month for the damn satellite what's-a-whosit, I can't even get the damn game! Now you tell me, what's worse than that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughs to himself] Don't ever change Billy. Goldenface is going to blow up the NHL All Star Game tomorrow."
+            },
+            {
+                "character": "Billy",
+                "quote": "I see what you mean about problems. I know what'll cheer you up. That table of bachelorettes over there bought you this drink. [a table with Meredith, Phyllis, Karen, and Angela all say hey to Michael]"
+            },
+            {
+                "character": "Karen",
+                "quote": "Ever banged an entire bachelorette party, baby? [winks]"
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Why are you singling my line out, like, a million years later?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'm too depressed to save the big game Billy."
+            },
+            {
+                "character": "Billy",
+                "quote": "I'm gonna cheer you up, the only ways I know hows. [to a small boy in overalls] Hey kid! Hit G-9 on the Jukebox!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No Billy, I haven't done that dance since my wife died."
+            },
+            {
+                "character": "Billy",
+                "quote": "There is a whole crowd of people out there, who need to learn, how to do The Scarn."
+            },
+            {
+                "character": "Michael",
+                "quote": "[A funky beat sounds from the Jukebox and Michael starts dancing poorly] Well my name's Michael Scarn and I'm here to say, I'm about to do The Scarn in a major way. [the bachelorettes and the others in the bar stand up to join him] You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn! [doing the actions he says to] You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn! You jump to the right and you shake a hand and you jump to the left and you shake that hand. You meet new friends, and tie that yarn, and that's how you do The Scarn!"
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "[as a drunken man in the bar] If doing The Scarn is gay, then I'm the biggest queer on Earth!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[cracking up at the stupidity of it, the rest of the office besides Michael and Holly are concealing their laughter. Pam Is trying to quiet Jim up] Sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "[turns off the movie from the remote, the office complains]"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm sorry, I'm really, really sorry. I think I was just relieved, to see that Michael Scarn got his confidence back."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Yeah Michael the movie is amazing!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "It's like one of the best movies I've ever seen in my life."
+            },
+            {
+                "character": "Ryan",
+                "quote": "You should enter it in festivals!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Or carnivals!"
+            },
+            {
+                "character": "Michael",
+                "quote": "[to Holly] Well that's a... pretty good reaction. [Holly nods] Pretty cool, right? Did you like it? Did you like that?"
+            },
+            {
+                "character": "Holly",
+                "quote": "Uh... which part?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. [Stands up and leaves the conference room to the dismay of the office] No, it's not good enough. It's not good enough..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Some people are really popping on screen!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey."
+            },
+            {
+                "character": "Holly",
+                "quote": "Hey! Good movie."
+            },
+            {
+                "character": "Michael",
+                "quote": "Mmmm, good? Everybody out there says it's great!"
+            },
+            {
+                "character": "Holly",
+                "quote": "I loved it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Did you? What did you love about it?"
+            },
+            {
+                "character": "Holly",
+                "quote": "Uhm, I loved that you got to work together with all your friends. Isn't that great when you can all work together like that?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "No, no. Holly, this isn't Ocean's Eleven, where you get together with all your friends and just have fun and don't care about how it turns out. What'd you really think, honestly."
+            },
+            {
+                "character": "Holly",
+                "quote": "Uhm..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Is it, is it because you're afraid of where this is gonna take me? See, because I need you... to keep me grounded."
+            },
+            {
+                "character": "Holly",
+                "quote": "Not worried about that."
+            },
+            {
+                "character": "Michael",
+                "quote": "[angrily] It was eleven years, okay? This has been my dream for eleven years, and if you don't think it's great than you're basically saying that you don't believe in my dream."
+            },
+            {
+                "character": "Holly",
+                "quote": "Wha- It's your dream and you never even mentioned it before!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I talk about a lot of things, Holly! I was eventually gonna get around to my dream! Obviously! Eleven years I could've been working on the Scarn Nebulus."
+            },
+            {
+                "character": "Holly",
+                "quote": "Well why do you have to make a movie at all?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Because, if I don't have this, what do I have? I have nothing."
+            },
+            {
+                "character": "Holly",
+                "quote": "Really, you can't think of anything else that you might have?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I have my book on business, Somehow I Manage. I have my HBO comedy special, Here I Go Again dot-dot-dot. But you know what? When I think about it, when I really think about it, none of those things are as real to me as my movie."
+            },
+            {
+                "character": "Holly",
+                "quote": "I'm real."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, you're a real pain in the ass. And I'm gonna go watch the movie with people who think it's great! And I'm sorry I called you a pain in the ass, I'm angry, and I love you."
+            },
+            {
+                "character": "Holly",
+                "quote": "I love you too."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I am a huge Woody Allen fan. Although I've only seen Antz, but I'll tell you something. What I respect about that man, is that when he was going through all that stuff that came out in the press, about how Antz was just a rip-off of A Bug's Life, he stayed true to his films. Or at least the film that I saw which again was Antz. The thing is... I thought Bug's Life was better, much better. Than Ants. The point is, don't listen to your critics, listen to your fans."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Who likes Threat Level: Midnight? [applause from the office] Okay then who wants to watch the rest?! [everyone yells approval]"
+            }
+        ],
+        [
+            {
+                "character": "Samuel",
+                "quote": "Michael! You have to get to that puck before halftime! Or the whole stadium will explode!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I know, it's a good thing my trainer and mentor is here to cheer me on!"
+            },
+            {
+                "character": "Samuel",
+                "quote": "Cherokee Jack? Michael he died."
+            },
+            {
+                "character": "Michael",
+                "quote": "[crying] This one's for you Cherokee Jack. [Michael skates into the rink of an already in-play match]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "We filmed this during an actual Scranton High School Hockey Game, trying to qualify for states."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[he office shushes Michael to hear the movie better] That's fine, it's great!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no! Actually it's really screwed up because they [chuckles], they were trying to qualify, they were disqualified, they had to forfeit the game. Undefeated season. That's why there were so many people there. [Michael stands up, clearly realizing that his movie is not as great as he thought]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Why is your face gold?"
+            },
+            {
+                "character": "Goldenface",
+                "quote": "Why do you care?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I'm just making conversation."
+            },
+            {
+                "character": "Goldenface",
+                "quote": "I worked in a gold factory, we had a boss, who only cared about money..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey..."
+            },
+            {
+                "character": "Holly",
+                "quote": "Hey, I'm sorry. It is good."
+            },
+            {
+                "character": "Michael",
+                "quote": "No it's not. [kisses Holly while smiling] It's not. But, they really seem to be enjoying it."
+            }
+        ],
+        [
+            {
+                "character": "Hostage",
+                "quote": "Please Goldenface, let us go!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[ees Cherokee Jack from a confusion of heavenly light and smoke] Cherokee Jack."
+            },
+            {
+                "character": "Cherokee Jack",
+                "quote": "I want you to take all of your frustrations, with women, the system, with everything. Take it out on the puck. All on the puck."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[laughs at the stupidity]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[skates forward, hits the puck, and stares in wonder as it flies by]"
+            }
+        ],
+        [
+            {
+                "character": "Samuel",
+                "quote": "Yah! [kicks open the gate to save the hostages, hostages rejoice as Samuel unties them] [the puck is seen flying into space and it hits a satellite, Billy is at his bar and his TV suddenly turns back on]"
+            }
+        ],
+        [
+            {
+                "character": "Billy",
+                "quote": "Hey! We got sports games again! [people at the bar cheer]"
+            }
+        ],
+        [
+            {
+                "character": "Goldenface",
+                "quote": "[seen at his house counting his money] Ha ha ha! Ha ha ha ha ha! [The puck lands on his lap] Oh-[A large explosion blocks out his words] [The office cheers at the ending of the movie, Michael Scarn holds up a trophy]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[in Scarn manor] Some breakfast for me [shows a plate of bacon and eggs] and some breakfast for you. [pulls out an oil can and oils Samuel's circuit board on his back]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Oh yeah, I guess I did let him be a robot."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[phone rings] I'll get it! Man I love being retired! Scarn here!"
+            },
+            {
+                "character": "President",
+                "quote": "[on phone] Michael, it's the president."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hello sir."
+            },
+            {
+                "character": "President",
+                "quote": "I need you for another mission."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ugh... [after a little thought] I'm in."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[the office cheers] Whoa Whoa Whoa! Isn't the president evil?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh yeah! [laughs] Yes he is!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No no, he's doing it to catch the president!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no Dwight. He's just being stupid. [the office laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Narrator",
+                "quote": "[in Stanley's voice, a chair is shown with a gray haired head sticking above it] Well, Michael Scarn was back in the game. And I bet you're wondering why do I know so much about Michael Scarn. [the chair revolves to show Michael Scarn, gray haired, talking with Stanley's voice] Well because I AM Michael Scarn. [applause]"
+            }
+        ],
+        [
+            {
+                "character": "Rapper",
+                "quote": "[Andy rapping to a montage of scenes from the movie] Ahhhh, yeah! Threat Level Midnight! Makes all the girlies feel alright! From Madonna to Madelyn Allbrite, Threat Level Midnight! It's a threat, a level, a level level threat. He's the greatest hockey-star I ever seen yet. Threat Level what? Midnight! Threat Level who? Michael Scarn! Threat Level why? Apartheid! Gotta fight it, Free Mandela! Peace I'm out!"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

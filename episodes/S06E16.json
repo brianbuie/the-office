@@ -1,0 +1,2654 @@
+{
+    "season": 6,
+    "episode": 16,
+    "title": "The Delivery",
+    "scenes": [
+        [
+            {
+                "character": "Pam",
+                "quote": "[on the phone with a client] I just wanted to check and see if there's anything you needed before I went on my maternity leave... Yeah, I'm pregnant... Great, well, I'll write up the order. Okay, thanks."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Wait a minute! You can't do that. You cannot exploit your baby for sales."
+            },
+            {
+                "character": "Jim",
+                "quote": "[on the phone] Hey, did I tell you we were going to have a baby? Oh, thank you very much. I'm excited. Oh, definitely."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no! You need to come by your sales honorably!"
+            },
+            {
+                "character": "Pam",
+                "quote": "There is nothing dishonorable about talking about your life. People like it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[on the phone with a client] Hey there. Dwight Schrute here. Listen, uh, would you be interested in restocking on paper? ... Yeah, I could sure use the money. My cousin, uh, came down with a case of that nasty new goat fungus. Oh, it's just horrific. The doctor says he'd never seen it beard so quickly. Okay."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I need a baby. I'll never outsell Jim and Pam without one. Also, I've been noticing a gaping hole in my life. Sometimes I wake up cradling a gourd."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Kevin, you're such a gourmand."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I cooked my way through Julia Childs' cookbook, and now, I'm halfway through the Twilight cookbook. Last night, I had Edward's corn flake chicken."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hmm."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Pregnant Pam and I, we get hungry at the same times, so we've been eating together a lot. Not all meals. Just second breakfast, lunch, second lunch, and first dinner."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I thought that maybe we should do something special for early dinner. One last ultra feast."
+            },
+            {
+                "character": "Pam",
+                "quote": "Mmmm, that sounds great. What are you thinking?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I think it should be a surprise."
+            },
+            {
+                "character": "Meredith",
+                "quote": "[After Pam has a contraction] Oh, getting there, huh?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, no. I still have time."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I'm having contractions, but they're irregular and far apart. So I'm not really in labor, I'm near labor."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, we're slow-playing it because of our stupid HMO."
+            },
+            {
+                "character": "Pam",
+                "quote": "If we check in after midnight, I get an extra day to recuperate surrounded by doctors."
+            },
+            {
+                "character": "Jim",
+                "quote": "Not to mention the extra night's sleep in the hospital will be very nice because once we bring the baby home, if it's crying all night, one of us is going to have to take care of it. And I do not plan on helping unless it's a boy."
+            },
+            {
+                "character": "Pam",
+                "quote": "I cannot wait for that joke to be over."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Ooh."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, oh, oh! Contraption! She's contrapting! Okay, you know what? I think I should drive you guys to the hospital, and here is why. I am a licensed, classy driver in the state of Pennsylvania. I gassed up the car..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Actually, I put diesel in this time, trying to save some money."
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, you shouldn't have done that."
+            },
+            {
+                "character": "Michael",
+                "quote": "Happy to do it. Also, I did a heck of a job baby-proofing this office."
+            },
+            {
+                "character": "Pam",
+                "quote": "You know the baby's not going to live here, right?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, the baby was conceived here, so might as well live here a little bit, too."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hmm, that logic's air-tight, but unfortunately it wasn't conceived here. Burning man, port-o-potty."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, yuck! TMI! How was it? I don't want to know. Tell me later. Let's go! Let's go! Hospital!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, okay, we're not going to the hospital. We are waiting until midnight."
+            },
+            {
+                "character": "Erin",
+                "quote": "Ooh, spooky. But why?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Because the insurance company only covers two nights."
+            },
+            {
+                "character": "Pam",
+                "quote": "Everything's fine. We have plenty of time."
+            },
+            {
+                "character": "Nick",
+                "quote": "Well, you don't want to wait too long, Pam. Otherwise the baby's going to become a teenager in there and you'll be up all night, from the rock music."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut up, Nick. What a weird thing to say. Weird I.T. nerd. Don't get revenge on me, nerd."
+            },
+            {
+                "character": "Angela",
+                "quote": "[as Nick looks over at her] What are you looking at?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ha, nerd."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Did you know that labor can last weeks? Then they take your insides out and they just plop them on a table, and sometimes epidurals don't work, and you can poop yourself."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[with Angela in the break room] Bare my child."
+            },
+            {
+                "character": "Angela",
+                "quote": "Excuse me?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I want to have a child for business reasons and I want you to be the mother. If you agree, say nothing. If you disagree, say anything... Very well. Let's meet at 4:00 PM at our old meeting spot and bang it out."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[after Pam has another contraction] That's seven minutes. Here we go. This is happening. Come on."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hold on, hold on. It isn't midnight yet."
+            },
+            {
+                "character": "Jim",
+                "quote": "Are you serious? Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, the doctor said every five to seven minutes."
+            },
+            {
+                "character": "Jim",
+                "quote": "I... Pam, please."
+            },
+            {
+                "character": "Pam",
+                "quote": "I'm going to be okay, we should really try to make it until midnight."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, no, you really should. Because if your baby's born tomorrow, he's going to have the same birthday as Butt-mud Brooks. My old roommate."
+            },
+            {
+                "character": "Pam",
+                "quote": "Did you hear that? Butt-mud Brooks."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, but we are leaving at five minutes apart."
+            },
+            {
+                "character": "Pam",
+                "quote": "Five minutes apart."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "So, the plan was seven minutes. But we're calling an audible, because that's her call. Because she's the quarterback. I'm just the left tackle who happened to get her pregnant."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Okay, stop watching me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, crazy. I think I have some better things to do with my day than worry about you, like sell printers."
+            },
+            {
+                "character": "Pam",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well not until Friday 20% off toner cartridges, that's a big deal. While we're on the subject, why don't I just run you down to the hospital and we'll just do a quick check?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Not until midnight."
+            },
+            {
+                "character": "Andy",
+                "quote": "Guys. Word of advice. Speaking as a former baby. Don't get too hung up on baby names. I was named Walter Jr. after my father until I was about six or so, when my parents changed their minds."
+            },
+            {
+                "character": "Erin",
+                "quote": "I thought you said your younger brother was named Walter Jr."
+            },
+            {
+                "character": "Andy",
+                "quote": "My brother was born, and my parents felt he better exemplified the Walter Jr. name, so they gave it to him. I was given Andrew, which they got out of a baby name book."
+            },
+            {
+                "character": "Jim",
+                "quote": "You know, it's getting real crowded in here. Maybe you guys should all go back to work because the day's not out yet."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no, no, no. You know what? You can't tell us what to do because you are not co-manager anymore."
+            },
+            {
+                "character": "Jim",
+                "quote": "[as Andy and Kevin shout \"yeah!\" in response to Michael] Okay, I feel like this noise is going to prevent Pam from being able to listen to her body's signals."
+            },
+            {
+                "character": "Pam",
+                "quote": "Actually, the distractions are good. I mean, I don't think I'm going to make it until midnight if I'm just sitting here thinking about it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Distractions are good! That means conference room, five minutes! No, no, five seconds! Right now, right now! Conference room! Topic, potpourri! Let's go!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Um, I am sort of a master of distraction. When I was a kid, my mom received compliments left and right from my teachers on how I was always able to distract others in class. Try to think, what were the first thirteen colonies? Mm-hmm, mm-hmm. [Michael covers his mouth and makes fart noises.]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "The purpose for this meeting is to take Pam's mind off of what's going on inside of her body."
+            },
+            {
+                "character": "Andy",
+                "quote": "Can we do sleight of hand tricks?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I will allow that."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes! Can anyone do those?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "I'm going to go look at the Internet."
+            },
+            {
+                "character": "Jim",
+                "quote": "[as Pam has another contraction] Oh! Oh, alright. That's a good one."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, okay, uh, sorry, guys. Just, um, keep talking."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh my God, Pam, you are a woman warrior."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, thanks, Kelly."
+            },
+            {
+                "character": "Michael",
+                "quote": "Does anybody have anything? Anything interesting, any hobbies, uh, special skills?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes, this is the only time I'm ever going to make this request."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, Phyl?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I can put on lipstick the way Molly Ringwald does in The Breakfast Club."
+            },
+            {
+                "character": "Michael",
+                "quote": "[ as Pam shakes her head] Nope, nope, I don't think anybody wants to see that."
+            },
+            {
+                "character": "Andy",
+                "quote": "I can do the evolution of dance-dance."
+            },
+            {
+                "character": "Michael",
+                "quote": "[as Pam gives the thumbs up] That sounds good! Do you need some music, or...? Okay."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nope, actually music would just throw me off. I need complete silence. Okay... [Pam begins to clap as Andy dances] You're clapping. I need complete silence. Totally threw me off, so I'm going to have to start over. Evolution of dance-dance."
+            },
+            {
+                "character": "Ryan",
+                "quote": "[reading from a book as Kelly admires] \"You let me in your bed. But now, I sleep alone. Trapped with the forgotten in my detritus home.\""
+            },
+            {
+                "character": "Erin",
+                "quote": "[naming race horses] Affirmed. Seattle Slew. Secretariat. Citation. Assault. Count Fleet. Rollaway. War Admiral. Omaha. Gallant Fox... And... I know this. Uh... The jockey was Johnny Loftus. Sired by Star Shoot."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Good afternoon."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Have a seat."
+            },
+            {
+                "character": "Angela",
+                "quote": "What is this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Before we conceive a child, uh, it is important that we bang out a parenting contract."
+            },
+            {
+                "character": "Angela",
+                "quote": "Of course."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's been a long time since we've come down here separately."
+            },
+            {
+                "character": "Angela",
+                "quote": "You know I was thinking..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Now, then. Let's get to it, shall we? Item one: [speaking into a voice recorder] Child will be breast fed by the mother for exactly six months, then weaned onto a nutrient-rich winter vegetable mash provided by the father, Dwight Schrute, hereafter referred to as Morpheus. Agreed?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Agreed."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[as Pam has another contraction] Where are we? We have every six minutes, ladies and gentlemen. Another seventy five contractions and you are going to be there."
+            },
+            {
+                "character": "Kevin",
+                "quote": "For the love of God, Pam, do it for ultra feast!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, you know what? I'm going to go give, uh, doctor Asmani a quick call. He'd probably know..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim, please. Happy thoughts here. Happy times."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, happy times. Come on. Let's have happy times."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright."
+            },
+            {
+                "character": "Michael",
+                "quote": "Jim, as a matter of fact, I have printed out ten ways to induce labor. And I'm thinking we just do the opposite of those things and we can slow down your labor. Erin, read the first one."
+            },
+            {
+                "character": "Erin",
+                "quote": "Um, stimulate the nipples."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, nobody touch Pam's nipples. Think of Pam's nipples as Toby's grundle."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Her shirt is touching them. Maybe we should cut holes in her shirt."
+            },
+            {
+                "character": "Meredith",
+                "quote": "I have a shirt like that in my car."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, yeah, why don't you go get it?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay, uh, the second one is walk around. We're already doing the opposite of that. Perfect. Okay, number three, eat spicy foods."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, the opposite of that?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Stick spicy food up her butt."
+            },
+            {
+                "character": "Jim",
+                "quote": "Nope, nope, nope, nope. Come on, let's go to the hospital. Pam, let's go to the hospital right now."
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim, Jim, honey, I love you, but you're really distracting me from my distractions."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mm-hmm. Okay, great. Well, sorry."
+            },
+            {
+                "character": "Pam",
+                "quote": "Why don't you go do some work?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Great. I will do that. Sorry, Pam, I just feel a little bit frazzled. And you know how very rarely I use that word. Frazzled."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know, you don't like to be frazzled."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, I don't."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, and by the way, hate that you're helping her with this right now. Totally."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ooh, someone's freakin'."
+            },
+            {
+                "character": "Andy",
+                "quote": "A little frazzled."
+            },
+            {
+                "character": "Michael",
+                "quote": "I think he is."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I know Pam better than anyone in this office, and obviously she's gone crazy, but everybody wants to say that I'm crazy. But I'm not crazy, she's crazy. I'm not crazy, she's crazy. [reading from various books] Five to seven minutes. Five to seven minutes. Six minutes. Different, but not really. Five to seven minutes."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Acceptable names include and are limited to: Ebenezer."
+            },
+            {
+                "character": "Angela",
+                "quote": "Jedediah."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jonas."
+            },
+            {
+                "character": "Angela",
+                "quote": "Jedediah."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Warf."
+            },
+            {
+                "character": "Angela",
+                "quote": "No Star Trek names."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay. Fine."
+            },
+            {
+                "character": "Angela",
+                "quote": "What if it's a girl?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Irrelevant question. Section 5A, child shall be male."
+            },
+            {
+                "character": "Angela",
+                "quote": "Hey. Uh-uh. I cannot control that. You can't put that in here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes you can."
+            },
+            {
+                "character": "Angela",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's as simple as keeping the womb extremely warm for two days after sex, and then extremely cold for five months."
+            },
+            {
+                "character": "Angela",
+                "quote": "Absolutely not."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[Pam approaches as he sits in his car] Hey."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey. I'm not going to get in the car, because I know if I do you'll try to drive me to the hospital."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ah, you know me too well."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah? ... Oh."
+            },
+            {
+                "character": "Pam",
+                "quote": "Everything is fine. You don't have to worry. Try not to think about it. She's not coming out for a while, okay?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Did you say \"she?\""
+            },
+            {
+                "character": "Pam",
+                "quote": "I called the doctor like a week ago. I couldn't wait... Oh, God, don't be mad."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mad? How could I be mad? We're having a little girl."
+            },
+            {
+                "character": "Pam",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow, we're having a little girl. Oh, man."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know."
+            },
+            {
+                "character": "Jim",
+                "quote": "Woo, alright. Well, I definitely feel better."
+            },
+            {
+                "character": "Pam",
+                "quote": "Good."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright... Hey, did you change?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah, my water broke."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh. Oh..."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[enters the office and has another contraction] Oh, whoa. Ha. Wow."
+            },
+            {
+                "character": "Michael",
+                "quote": "Pam, Pam! Okay, alright, okay, it's time. Time to go to the hospital. Somebody get Jim, please! Is it midnight yet?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "No, it's 4:35."
+            },
+            {
+                "character": "Michael",
+                "quote": "4:35. Alright, almost made it. Almost made it. Too bad you didn't have sex like seven and a half hours later. But you had to have the afternoon delight. I understand. Sometimes you have to go for it. Let's go to the hospital, shall we?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, not yet, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "We can do..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, wow, it's almost time for ultra feast! Where's Kevin?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh. What? You want to eat cat food with Kevin and not go to the hospital?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "That's fancy feast. Ultra feast is something they made up so they can pig out together in the name of ceremony."
+            },
+            {
+                "character": "Michael",
+                "quote": "What is October feast?"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "There is no rush to get to the hospital. I am fine. I'll get there. And if I don't get there, I don't get there."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Our ultra feast menu's theme: Hollywood. We have Ratatouille, from Ratatouille, and tandoori chicken, from Born Into Brothels. I tried to bake a cake like that District 9 prawn thing, but I... Are you okay?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Mm-hmm. Yes, I'm fine. Um, yeah, the doctor said it's still considered a minor contraction as long as I can talk through it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, okay, Jim. I think this feast is over and it's time to go to the hospital."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright. Time to go. Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's right, let's do this."
+            },
+            {
+                "character": "Jim",
+                "quote": "Let's give it a shot."
+            },
+            {
+                "character": "Pam",
+                "quote": "Nope. No, no, that's better. That wasn't even the worst of them. I'm fine."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, come on. Let's go to the hospital."
+            },
+            {
+                "character": "Pam",
+                "quote": "They're not that bad still, babe."
+            },
+            {
+                "character": "Jim",
+                "quote": "Pam, Pam, it's time. Let's go to the hospital."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, it's passing, it's fine. It's okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Come on, Michael says we should go now."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let's go, Pam. Yeah, I think we should head out."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, it's passing, it's fine."
+            },
+            {
+                "character": "Jim",
+                "quote": "Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "Ah, no, it passed. It's good."
+            },
+            {
+                "character": "Jim",
+                "quote": "You know what? Let's go. We got to go to the hospital."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, I'm not going. I'm not... It's fine.  [Jim, Michael and Kevin try to help her up] Okay, come on, come on. No! I am not going! I am not going, okay!? I'm not going today because I can't do it, I don't think I can do it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, are you kidding me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Are you kidding?"
+            },
+            {
+                "character": "Jim",
+                "quote": "If anyone can do this, you can do this."
+            },
+            {
+                "character": "Michael",
+                "quote": "You can do this. You can do this."
+            },
+            {
+                "character": "Jim",
+                "quote": "Pam, I'm scared. I'm real scared."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm scared, too."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I'm petrified."
+            },
+            {
+                "character": "Jim",
+                "quote": "The best news is, we're going to have a baby today."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "A really awesome baby."
+            },
+            {
+                "character": "Michael",
+                "quote": "We're going to have a baby."
+            },
+            {
+                "character": "Jim",
+                "quote": "So let's have it at the hospital."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let's do that."
+            },
+            {
+                "character": "Jim",
+                "quote": "How are we doing on contractions?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Two minutes apart."
+            },
+            {
+                "character": "Jim",
+                "quote": "Two minutes..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, God. Oh, no."
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, I told you."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, I told you to warn me at five minutes."
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim, we waited too long!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I know, I know, I know. It went by too soon."
+            },
+            {
+                "character": "Jim",
+                "quote": "We waited too long! Two minutes doesn't do us any good. Well, what happened to four and three minutes?"
+            },
+            {
+                "character": "Michael",
+                "quote": "We're okay, Jim! Okay, Pamela. You know what time it is?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't want to have my baby here."
+            },
+            {
+                "character": "Michael",
+                "quote": "You're not going to. You know where you're going?"
+            },
+            {
+                "character": "Pam",
+                "quote": "The hospital."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, you are. And you know what you're going to have?"
+            },
+            {
+                "character": "Pam",
+                "quote": "A baby."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes! We're going to the hospital and we're going to have a baby."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I got it! I got it! Everybody it's go time! At your stations. Stanley, man the phones. Meredith, please, get bottled water. Erin, call an ambulance, please!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no, no. Ambulances are emergencies only. You call an ambulance, I call the cops."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright, we're driving ourselves, actually."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, Jim, you are in no condition to drive. I will drive you. Check! Got it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright, I have my wallet."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Jim",
+                "quote": "Go bag's in the car... Keys, my keys, where's my keys?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Go bag! Where's my go bag? Where's my go bag?"
+            },
+            {
+                "character": "Erin",
+                "quote": "There's nothing in it."
+            },
+            {
+                "character": "Michael",
+                "quote": "You are telling me now that there is nothing in it. Okay, great! Oh, hey, hey, um, should I bring a dictionary to the hospital?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "The hospital provides dictionaries, bring a thesaurus!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Has anyone checked how dilated she is? This is ridiculous!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Dwight, get away!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no. Dwight, let Jim do that, please."
+            },
+            {
+                "character": "Erin",
+                "quote": "I didn't know we had a tape measure."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[as he holds up the tape measure with his initials on it] \"We\" don't."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, I can't find my keys! I cannot find my keys! Found 'em. They're here."
+            },
+            {
+                "character": "Dwight & Jim & Michael",
+                "quote": "Here we go!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Good luck!"
+            },
+            {
+                "character": "Nick",
+                "quote": "Good luck, Pam!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you! Wish me luck!"
+            },
+            {
+                "character": "Creed",
+                "quote": "Have fun! [sigh]"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Hey, it's 5:00!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[entering the elevator] Here we go! Here we go! On our way!"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Hold it!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Come on, Stanley! Okay. We're going now!"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, one more!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no, no! Out, out! Idiot."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Dwight, what is the traffic like?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Doesn't matter. I'll escort you!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Alright."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Let's go!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Geesh, Dwight!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[as he peels out of the parking lot and stops] Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "What!?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "This is where I saw that deer last week."
+            },
+            {
+                "character": "Michael",
+                "quote": "Where?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Right over by that fence."
+            },
+            {
+                "character": "Michael",
+                "quote": "By the bushes?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, Michael! Focus!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, go, go, go, go!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Let's go!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I love escorting people. In fact, a few years back, I put an ad in the paper starting an escort service. I got a lot of responses. Mostly creeps. Made a few friends."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Alright, here we go! You're doing great! She'll be here soon."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, just breathe... She? You found out? Come on, guys. I wanted to be surprised."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Stop texting, put your phone away! Come on."
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, come on!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm texting about you, okay!?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Ugh, alright. [as he puts a police siren on top of his car] Let's move! ... What?"
+            },
+            {
+                "character": "Policeman",
+                "quote": "Pull over!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Are you kidding me?"
+            },
+            {
+                "character": "Policeman",
+                "quote": "Pull over! [Dwight begins throwing various weapons out of the window] You're not allowed to impersonate a police officer! Don't make this difficult, Dwight!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Wait, wait. My iPod's not in here!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Pam",
+                "quote": "It has the birth song on it!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. I know, I know. But my iPod is in the go bag. We'll be fine."
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim, I don't want the first thing the baby hears to be the 8 Mile soundtrack."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, so what do you want to do?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't know! Let's go by the house and get it. It's only twenty minutes past the hospital!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Pam, no! Are you nuts? We're going to the hospital now."
+            },
+            {
+                "character": "Michael",
+                "quote": "Guys, guys! Stop fighting, come on. Come on. Do you want your kid to come out a lawyer? Right? Okay, you know what? I am all over this. Here we go. [as he calls Dwight] Ready?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Dwight Schrute."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hello, Dwight. Pam left her iPod at her house. I want you to swing by, pick it up, and bring it to the hospital. We need it yesterday."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Why didn't you ask me to do it yesterday? I kept IM'ing you how bored I was."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Pam",
+                "quote": "Dwight! Go to my house. Get my iPod. I think it's on the kitchen table. Do not touch anything else. The key is under..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I don't need a key."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, Dwight, but if you do need a key, just listen it's under the..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no, don't, don't tell me. Alalalalalalalalalala lalalalalala alalalalalalalala."
+            },
+            {
+                "character": "Pam",
+                "quote": "Dwight just listen! It's underneath... [Dwight hangs up as the policeman hands him a ticket]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait, you alright?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you have everything, guys?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Michael, just go park the car."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, alright. [he parks in an ambulance zone]"
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Sir! You can't park here!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Dunder-Mifflin. It's okay. [he throws the keys into bushes across the street] I just did."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Pam's doing great. Uh, she's ten inches dilated now. Uh, sorry, meters. Centimeters. And she's also fully faced. Which I don't know what that is, uh, but no baby yet. It's only been six, uh, nineteen hours, and uh, I just went out for some ice chips because I might have passed out a little bit, but these are very refreshing, very good."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Daddy? She's ready to push."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "Where is my little nibblet? Halpert, room D1. Alright, family only beyond this point, thank you. Here we go."
+            },
+            {
+                "character": "Jim",
+                "quote": "[as Pam screams] Doing great, push again."
+            },
+            {
+                "character": "Doctor",
+                "quote": "Not yet."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, don't push. Pull. Pull."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Why don't you get more ice chips?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, Jim, stay!"
+            },
+            {
+                "character": "Doctor",
+                "quote": "Okay. Really push this time, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "[looking horrified as he walks from the room back into the lobby] Okay, not yet, not yet. I'm going to go wash my eyes."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "That kid's going to have a lot of hair."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey, have you guys seen her?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "She hasn't popped yet."
+            },
+            {
+                "character": "Andy",
+                "quote": "What? God damn it. She was supposed to come out yesterday."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I decided to give baby Halpert a newspaper from the day she was born. This frame set me back fifty five bones. But she decided to take her sweet time, so now I have to switch it with today's paper."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "This is ridiculous. We just can't wait here."
+            },
+            {
+                "character": "Michael",
+                "quote": "I think it's going to be any minute now."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "But you don't know that. I mean, we could be here another half an hour."
+            },
+            {
+                "character": "Michael",
+                "quote": "Phyllis, what could you possibly have to do?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I have an ice cream cake in the car."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, my God. Go, go, go! Are you insane? Alright."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[Pam screams as he approaches the door to their room] Guys? Hello? Um, sorry to be a bother, but if we could have an ETA when this is gonna..."
+            },
+            {
+                "character": "Pam",
+                "quote": "This is happening!"
+            },
+            {
+                "character": "Michael",
+                "quote": "You're starting, you're kinda losing them."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, my God! Look at her! baby, she's so beautiful! Oh, my God."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my God."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[smoking a cigar] Yeah, that's right. It's a baby, see?"
+            },
+            {
+                "character": "Doctor",
+                "quote": "Sir! Sir, you can't smoke that in here. Put it, put it out."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. You can't smoke anywhere these days."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[with Jim, holding the baby] She's incredible. Want to count her fingers and toes again?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No, let's let her rest. I'm sure there's still twelve on each."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Guys, guys!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Her name is Cecelia Marie Halpert."
+            },
+            {
+                "character": "Michael",
+                "quote": "Eleven pounds..."
+            },
+            {
+                "character": "Jim",
+                "quote": "She's seven pounds, two ounces, eighteen inches. Mother and daughter are doing great."
+            },
+            {
+                "character": "Everyone",
+                "quote": "Yeah!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you! Thank you!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Congratulations. That's great."
+            }
+        ],
+        [
+            {
+                "character": "Helene",
+                "quote": "Hi there."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, grandma's back."
+            },
+            {
+                "character": "Helene",
+                "quote": "Well, it was an adventure and a half trying to find the cafeteria, but I have returned with the coffee."
+            },
+            {
+                "character": "Jim",
+                "quote": "Great."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, thank God. I haven't had caffeine in nine months."
+            },
+            {
+                "character": "Helene",
+                "quote": "Ooh, somebody has a full diaper."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh. Let me get it."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I am a diapering master. I have done little else in the past two months. There is nothing I cannot diaper. Go ahead. Try to think of something. I dare you."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Where's the baby? I want to see the baby. Oh! Oh, Helene, hi. Oh, my goodness, what are the odds of this? Congratulations on being a grandma."
+            },
+            {
+                "character": "Helene",
+                "quote": "Hello, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hello. Oh, good for you. I worry about you."
+            },
+            {
+                "character": "Helene",
+                "quote": "I'm, uh... You know I think, uh, I think it's time for me to go."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Helene",
+                "quote": "Love you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Love you, as a friend."
+            },
+            {
+                "character": "Pam",
+                "quote": "Love you, mom."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ooh, I want to hold the baby!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, you just have to use the hand sanitizer first."
+            },
+            {
+                "character": "Michael",
+                "quote": "Alright."
+            },
+            {
+                "character": "Pam",
+                "quote": "Again, no pants."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ready?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Mm-hmm. Oh. Ooh, wow. Michael. Michael."
+            },
+            {
+                "character": "Jim",
+                "quote": "It's so weird, she was saying it just before you got here."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Yesterday, I was dispatched to Jim and Pam's house to find Pam's iPod. I searched everywhere, but I didn't find it. What I did find, was mold, and lots of it. So, I did what anyone would do. Read a book, had a bath, I got a good night's sleep, and I made plans to eradicate it. I also made plans to ask Jim where he bought his marvelous sheets... Time to get to work [he begins to destroy the kitchen with a sledgehammer]."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "There she sat. Her name was Pam. She was a receptionist. She was engaged to an animal. There sat Jim. He was a gawky, tall salesman. The odds of them getting together were insur-mountain-able. I made a family! I got these two together, and I made a family."
+            },
+            {
+                "character": "Andy",
+                "quote": "This man has a gift!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Who else here is single?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "I'm not single. I have a man. [she grasps Ryan's arm as Ryan has his hand raised to say he's single]"
+            },
+            {
+                "character": "Michael",
+                "quote": "I am offering up my services to you all. You saw what I did with Pam and Jim. I can help you, too."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Why do you find someone for yourself instead of meddling in our affairs?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, show of hands. Who wants to live in a world where Stanley has two lovers and you don't have any? [Stanley raises his hand] Who else? Come on! People, I know models!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Ha ha, plus size models, maybe."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ha ha, you got that right! Meredith? Come on, you're obviously single."
+            },
+            {
+                "character": "Meredith",
+                "quote": "You know it. I am never getting married."
+            }
+        ],
+        [
+            {
+                "character": "Meredith",
+                "quote": "Like Clooney."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Andrew, what about you?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Torn scrotum. Still on the mend, so not good timing."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Yes, I'm going to ask out Erin. I'm just waiting for the stars to align. Literally. I have a small skylight in my bedroom, and I'd like for the moon to be visible."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Well, when you least expect it, expect it. I am going to fill the empty voids in your life with love. I am going to fill that empty hole in your body with another person. And, like Cupid, I am going to shoot you with love."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Remember yesterday when we were terrified of being parents?"
+            },
+            {
+                "character": "Jim",
+                "quote": "We were just kids. What did we know?"
+            },
+            {
+                "character": "Nurse",
+                "quote": "How we doing?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Great."
+            },
+            {
+                "character": "Pam",
+                "quote": "Good."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Would you like me to take her to the nursery for the night?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Doesn't she sleep here?"
+            },
+            {
+                "character": "Nurse",
+                "quote": "She can. But a lot of parents choose to have the baby spend the first night in the nursery to get some rest. You've been through a lot."
+            },
+            {
+                "character": "Jim",
+                "quote": "I think we'll be okay."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Okay, great."
+            },
+            {
+                "character": "Pam",
+                "quote": "[as the baby yawns] Oh, big yawn."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Ready? One, two, three..."
+            },
+            {
+                "character": "Pam",
+                "quote": "One, and then wrap around. It's okay. Hold that arm down."
+            },
+            {
+                "character": "Jim",
+                "quote": "I can't. She's too strong. She's, careful, though. You don't want to break it."
+            },
+            {
+                "character": "Pam",
+                "quote": "She's not gonna... Just..."
+            },
+            {
+                "character": "Jim",
+                "quote": "I got it. Alright."
+            },
+            {
+                "character": "Pam",
+                "quote": "Go."
+            },
+            {
+                "character": "Jim",
+                "quote": "Nurse!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "How you doing?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't know. I just, I can't tell if she's getting anything."
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Doesn't feel right."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, you're pushing the milk out, right?"
+            },
+            {
+                "character": "Pam",
+                "quote": "How does one do that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Wasn't it... It's kinda like a... Like that."
+            },
+            {
+                "character": "Pam",
+                "quote": "Do you want to try it, Jim?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I think you're good. Doing a good job."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Somebody buzzed?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh! Really? Must have sat on it, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "I can't tell if she's getting anything. It just doesn't really feel right."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Well, maybe we should take a break for a little while. I can take her to the nursery and then bring her back and try again a little bit later."
+            },
+            {
+                "character": "Pam",
+                "quote": "Even if she's not getting anything?"
+            },
+            {
+                "character": "Nurse",
+                "quote": "Yeah, she'll be fine. I can always give her a bottle since we're in the nursery."
+            },
+            {
+                "character": "Pam",
+                "quote": "No. I read in the book about nipple confusion."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Oh, good. You know everything."
+            },
+            {
+                "character": "Pam",
+                "quote": "She's just, she's really tentative about latching, and I just, I want to keep her self-esteem up."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Well, I'll bring her back in a little while and we can try again, okay?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Alright."
+            },
+            {
+                "character": "Jim",
+                "quote": "It's going to be alright."
+            },
+            {
+                "character": "Pam",
+                "quote": "Maybe it'll be good because then she can like socialize with the other babies."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ha ha. No, yeah, that will be good."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[in Michael's office] You wanted to see me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "What would you say, if I told you that I was about to change your life?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh, boy! ... What's that sound?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[as he appears from behind the door] Ta-da!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I would like you to meet your new boyfriend."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Erin",
+                "quote": "I don't know what to say."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oh, say nothing. You will learn to love me."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, hold on. Whoa, whoa, whoa. You got to let the cookies cool before you pop 'em in your mouth. Why don't you guys get to know each other? Maybe have lunch together?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Erin, would you have lunch with me?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay."
+            },
+            {
+                "character": "Michael",
+                "quote": "Good!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Michael, could I talk to you privately?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Sure. Kevin, please leave."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Bye."
+            },
+            {
+                "character": "Michael",
+                "quote": "Bye."
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm so sorry if I gave you the impression I'm into Kevin, but I'm not. I like Andy."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay. This is going to kill Kevin."
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm sure he'll be fine."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm not so sure. Kevin has an enormous heart. Literally, he has an elephant heart. He had a transplant when he was seventeen. Had some problems, blah blah blah."
+            },
+            {
+                "character": "Erin",
+                "quote": "Really?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "No, Kevin doesn't have an elephant heart. But he is very sensitive. And it won't kill Erin just to go and have lunch with him in the break room like I promised him... I bet his heart is enlarged, though."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "I don't want anyone to die."
+            },
+            {
+                "character": "Michael",
+                "quote": "Just don't let him sit on you... I'm kidding. You'll have fun. It'll be good. It'll be good. There he is. Go to him."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hi."
+            },
+            {
+                "character": "Erin",
+                "quote": "Hi."
+            },
+            {
+                "character": "Kevin",
+                "quote": "She touched my shoulder."
+            }
+        ],
+        [
+            {
+                "character": "Nurse",
+                "quote": "Hey, guys. We're short on rooms, so this is Dale and Kathy."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, hi."
+            },
+            {
+                "character": "Kathy",
+                "quote": "Hi."
+            },
+            {
+                "character": "Dale",
+                "quote": "Hi, so sorry."
+            },
+            {
+                "character": "Jim",
+                "quote": "Careful... Wow, she just shoves the nipple right in there."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know."
+            },
+            {
+                "character": "Jim",
+                "quote": "You see that? I'm pretty sure she's... Hi."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[Continue to destroy the Halperts' kitchen with hammers]"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Did you grow up around here?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "No."
+            },
+            {
+                "character": "Erin",
+                "quote": "So, you must have grown up around somewhere else?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Why was I hiding behind the plant? Ha, well, in college, I took a botony class, and there was lots of drama in that class. Uh, kids would gossip about me, so I would eavesdrop on them by hiding behind different plants in the botony class. And then, uh, they would say things like \"Oh, this guy's going to fail this class,\" or, \"What's this guy doing spying on us from behind plants?\" And then I would jump out of them and confront them, and be like, \"Oh, you think all I do is hide behind plants and spy on people? Busted.\" ... Oh, the reason? The reason I was hiding behind that plant in this situation was that I thought that Erin and Kevin were kind of hitting it off, and... I was jealous."
+            }
+        ],
+        [
+            {
+                "character": "Hospital employee",
+                "quote": "Uh, hi, Pam Halpert?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes?"
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Hi. I'm Clark. Josie said you might benefit from a lactation consultant."
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, yeah, that would be great."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yup. Really great. When's she available?"
+            },
+            {
+                "character": "Clark",
+                "quote": "Actually, uh, I'm the consultant. Got milk? Ha ha. Alright, let's see what we're working with."
+            },
+            {
+                "character": "Pam",
+                "quote": "So, uh, biggest thing, besides not being able to get her to latch..."
+            },
+            {
+                "character": "Clark",
+                "quote": "I'll get that for you."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, thank you. Is that um, I can't tell if I'm really producing. I don't know if she's getting anything."
+            },
+            {
+                "character": "Clark",
+                "quote": "Okay. Let me feel here."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Clark",
+                "quote": "Yeah, it's quite full. Why don't you put your hand on top of my hand."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Clark",
+                "quote": "When you're feeding, you want to press in like this, make your hand in a C. Uh, does that hurt?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, I mean, it feels... pressure."
+            },
+            {
+                "character": "Clark",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Are you sure it doesn't hurt?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No. It just feels like pressure."
+            },
+            {
+                "character": "Clark",
+                "quote": "Okay, well. Feel how I'm flicking the nipple? Like that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yup."
+            },
+            {
+                "character": "Clark",
+                "quote": "Stimulate it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Clark",
+                "quote": "Alright, so you just want to do that, and that will, uh..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Perfect."
+            },
+            {
+                "character": "Clark",
+                "quote": "And you can just... The baby should grab on to that."
+            },
+            {
+                "character": "Jim",
+                "quote": "I think she will."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay. So, I'm just not sure if I'm releasing, though. I'm not sure if..."
+            },
+            {
+                "character": "Jim",
+                "quote": "We'll figure it out."
+            },
+            {
+                "character": "Clark",
+                "quote": "It doesn't... Why don't you bring your baby over here... She's beautiful."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay. Aw, thank you."
+            },
+            {
+                "character": "Clark",
+                "quote": "Yes, congratulations."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Clark",
+                "quote": "Well, you're doing a good job. Just stay relaxed, and I'll come back in a bit to check on you. Okay?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay."
+            },
+            {
+                "character": "Jim",
+                "quote": "Please do."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, shoot."
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Shoot, she fell off."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, uh, try the torpedo thing."
+            },
+            {
+                "character": "Pam",
+                "quote": "Will you just, will you grab Clark real quick?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No need. I saw him do it. I can try it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, Jim, please, please, please, I think it'd be weird if you did it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, I'll just go get the other guy."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[on the phone] Hey, what's up, kid?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Have you had a chance to look over the revisions on the contract I've prepared for you?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nothing left to do except dot the I's, the J's, and the umlauts. Why don't you meet me here at exactly mid-late afternoon?"
+            },
+            {
+                "character": "Angela",
+                "quote": "I look forward to it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Very well."
+            },
+            {
+                "character": "Angela",
+                "quote": "Goodbye."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[trying to sleep as the baby cries] Jim, Jim, get her."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hmm?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Get the baby. Get her. Come on."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. Sshh. I know. [hands the baby to Pam]"
+            },
+            {
+                "character": "Pam",
+                "quote": "I got her. Okay. Okay. Okay... Jim! She latched! She latched."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's amazing."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my God. I didn't even have to do the \"C thing.\""
+            },
+            {
+                "character": "Jim",
+                "quote": "That's awesome."
+            },
+            {
+                "character": "Pam",
+                "quote": "Aw, we're doing it."
+            },
+            {
+                "character": "Jim",
+                "quote": "that's great."
+            },
+            {
+                "character": "Pam",
+                "quote": "We're really parents now."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mm-hmm."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Kevin. Erin would like a few words with you."
+            },
+            {
+                "character": "Erin",
+                "quote": "Hey."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hi."
+            },
+            {
+                "character": "Erin",
+                "quote": "I have really enjoyed our time together."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, me too."
+            },
+            {
+                "character": "Erin",
+                "quote": "I want to continue working on our friendship."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Really, really fun."
+            },
+            {
+                "character": "Erin",
+                "quote": "Because I think our friendship could be a really cool thing."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, me too."
+            },
+            {
+                "character": "Erin",
+                "quote": "And, you're my friend."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Erin",
+                "quote": "And I hope that I'm your friend... And, maybe..."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, my God, this is agonizing. Look, Kevin, do you really think that you could have dated Erin?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "You said she liked me."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, even if someone told you that, you should know that that could never be possible, Kevin. And I'm surprised that you didn't question me in the first place."
+            },
+            {
+                "character": "Kevin",
+                "quote": "I've dumped better than Erin."
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Lynn was way hotter than Erin, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Lynn was as hot as Erin."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, Michael, but you dated Holly and Jan, and they were so much hotter than you."
+            },
+            {
+                "character": "Michael",
+                "quote": "This isn't about me, and that is debatable. And I have a personality, where as you... Yes, Andy?"
+            },
+            {
+                "character": "Andy",
+                "quote": "[he hits his head on the desk after ducking out of the way from hiding behind a plant] Ow."
+            },
+            {
+                "character": "Michael",
+                "quote": "Kev... Nice. Going."
+            },
+            {
+                "character": "Erin",
+                "quote": "Well..."
+            }
+        ],
+        [
+            {
+                "character": "Isabelle",
+                "quote": "Knock knock."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, hey, Isabelle."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Hey. Pam, she's gorgeous. Can I hold her?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes. She was a little fussy earlier, but she's totally quieted down. Here, let me just, uh, let me just burp her. I don't want her to spit up on you. Come here, sweety... Oh, my God! Wrong baby!"
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Wrong baby! This is not our baby! Sshh."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, okay."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my gosh."
+            },
+            {
+                "character": "Kathy",
+                "quote": "[waking up] Oh,has she been fussing long?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, not at all."
+            },
+            {
+                "character": "Jim",
+                "quote": "Perfect."
+            },
+            {
+                "character": "Kathy",
+                "quote": "I was out like a light... Oh, she's not hungry..."
+            },
+            {
+                "character": "Nurse",
+                "quote": "How's it going?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, I feel like she needs to eat, but she won't latch on, which is weird, because the other baby di..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ha ha ha."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Bottles are fine. A lot of babies grow up using bottles. So are you excited to bring your baby home?"
+            },
+            {
+                "character": "Jim",
+                "quote": "We definitely are. At 3:00, right? You said we could stay until 3:00?"
+            },
+            {
+                "character": "Nurse",
+                "quote": "Yeah, you can. It's 2:35."
+            },
+            {
+                "character": "Jim",
+                "quote": "Half hour."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Twenty five minutes. And you're all set with the car seat?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes, car seat's right there."
+            },
+            {
+                "character": "Nurse",
+                "quote": "That bottom part needs to go in the car."
+            },
+            {
+                "character": "Jim",
+                "quote": "Newsflash, the whole thing needs to go in the car."
+            },
+            {
+                "character": "Nurse",
+                "quote": "Ha ha, be back in twenty five minutes."
+            },
+            {
+                "character": "Jim",
+                "quote": "Or it could be a half hour, if you need it to be... Can we get a late checkout? I don't... I don't think she heard me."
+            }
+        ],
+        [
+            {
+                "character": "Isabelle",
+                "quote": "[entering the Halpert house] Hello? Dwight? What, what are you doing here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Isabelle. Hello... Yeah, the uh, kitchen was disgusting, so..."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Wow, ha. New cabinets."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yup."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "All I did was bring macaroni and cheese... Where's the fridge?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, it's... In the backyard. I'll take this."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Oh... Well, I'll let you get back to it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey, listen. I know that I'm an adult, but maybe I could come by sometime for a teeth cleaning. You know, just for fun."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Well, adults are supposed to go to the dentist, too."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Are they now? Ha ha, how some people spend their money, right? Ha ha."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Yeah..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Alright. I'll call you, kid."
+            },
+            {
+                "character": "Isabelle",
+                "quote": "Do that."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Are you really sure we should be leaving?"
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "But you hear the baby crying, right?"
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Mm-hmm... Where's your car?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, it's in the lot."
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Oh, a lot of fathers bring their car around."
+            },
+            {
+                "character": "Jim",
+                "quote": "Right, okay. Yes, that would be the smart thing to do. Uh, Pam, I will be right back."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, please hurry."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Erin, uh, I need you to send this fax immediately. It's really important, so I'm going to stand here and wait for the confirmation."
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay, good."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "The fax says \"Erin, will you have dinner with me?\" from Andy, and the number is our office fax number."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "It's busy. Why don't I keep trying, and then I'll give you the confirmation in a bit?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Sorry, that's unacceptable. I need you to send it immediately, or you're fired."
+            },
+            {
+                "character": "Erin",
+                "quote": "[tearing up] You can't talk to me like that. I didn't do anything wrong. I've been having a tough day today."
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, God, no. I'm... Just read the fax."
+            },
+            {
+                "character": "Erin",
+                "quote": "You read the fax."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm... I'm asking you out."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh, my God. That's amazing. Let me just fax this, and I'll check my planner."
+            },
+            {
+                "character": "Andy",
+                "quote": "So, it's a date."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes. Do you have a day in mind?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, what day? What day?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Everyday is fine. Or..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Well, that, what's that one?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Thursday?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Okay. Let's do it."
+            },
+            {
+                "character": "Erin",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Hospital employee",
+                "quote": "Would you like me to help you up out of the chair?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah, sorry."
+            },
+            {
+                "character": "Hospital employee",
+                "quote": "Yeah, we just got a lot of discharges today."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay, alright, thanks... Okay, do you want to eat? You want to try eating? Okay... Okay, let me... Just you and me. Come on. There we go... Yeah... Oh, yeah. Like that. There we go. You got it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Five tickets on the windshield... Hey."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hi. We did it."
+            },
+            {
+                "character": "Jim",
+                "quote": "You used my move, didn't you?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I used a variation of your move."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[smoking a cigar] There is no greater feeling than when two people who are perfect for each other overcome all obstacles, and find true love. And that is what I thought that Erin and Kevin were going to find today... I think I'm going to be sick..."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Two forms of ID, please."
+            },
+            {
+                "character": "Angela",
+                "quote": "And now you, two forms of ID, please... Alright, all is in order. I just need your signature... What is it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nothing."
+            },
+            {
+                "character": "Angela",
+                "quote": "Alright. How would you like to celebrate?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Just pour yourself a cup of apple juice. I feel sick... [Jim and Pam walk in to their house with the baby] I couldn't find the iPod... Give me a couple days. I'll be out of your hair."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

@@ -1,0 +1,1258 @@
+{
+    "season": 5,
+    "episode": 8,
+    "title": "Frame Toby",
+    "scenes": [
+        [
+            {
+                "character": "Angela",
+                "quote": "Are you swallowing them whole? You're eating them so fast, are they even touching your tongue?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[with mouth full] Yes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Brownies is it? Hm. Pastry cubes made of sugar and fat? No thank you, I'll stick with my jerkie."
+            },
+            {
+                "character": "Jim",
+                "quote": "So why did you come in here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "To socialize. And inform."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh brownies! I'm taking two so I can parcel them up and eat them at my leisure later on, much healthier."
+            },
+            {
+                "character": "Ryan",
+                "quote": "You're taking two?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Yeah, um, but one of them is for Toby."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah why don't you send that to him in Costa Rica?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Um, I'm just gonna hand it to him right now."
+            },
+            {
+                "character": "Michael",
+                "quote": "Heh, okay, weirdo."
+            },
+            {
+                "character": "Jim",
+                "quote": "Why is that, why is that weird?"
+            },
+            {
+                "character": "Michael",
+                "quote": "She said she was going to give it to him right now. [starts laughing]"
+            },
+            {
+                "character": "Jim",
+                "quote": "[laughing] She's probably going to, cause they sit next to each other."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, they used to."
+            },
+            {
+                "character": "Jim",
+                "quote": "Toby works here again."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, can you imagine?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh no."
+            },
+            {
+                "character": "Michael",
+                "quote": "Uhhgh."
+            },
+            {
+                "character": "Jim",
+                "quote": "You don't know."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't know. What?"
+            },
+            {
+                "character": "Jim",
+                "quote": "You should probably just meander back there; take a look. See if he's, see if he's back."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hmmm, dare I? [laughs] You know what? I'm going to, for old time's sake. [walks to the annex, standing in Toby's cubicle] Great practical joke Jim, you got me to go to the annex. [turns around and sees Toby]"
+            },
+            {
+                "character": "Toby",
+                "quote": "Hi, Micha-"
+            },
+            {
+                "character": "Michael",
+                "quote": "NOOOO! GOD! No, God, please no! No! No! NOOO!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[watching Toby at Phyllis' desk through his office blinds] Look at him. With his stupid face. Stupid... tan. No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "He looks great."
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well rested."
+            },
+            {
+                "character": "Michael",
+                "quote": "He looks worse."
+            }
+        ],
+        [
+            {
+                "character": "David",
+                "quote": "Michael, is everyone okay?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh, well I'm afraid not. Toby Flenderson, of H.R., has made a sudden reappearance."
+            },
+            {
+                "character": "David",
+                "quote": "I don't understand, is anyone hurt?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Not on the surface, no, but I can tell people are disturbed, David."
+            },
+            {
+                "character": "David",
+                "quote": "Michael, you texted me, 911 CALL ME."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "David",
+                "quote": "All in caps. Do you know what 911 means?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I learned a while back that if I don't text 911 people will not return my calls.  Um, but now people always return my calls because they think that something horrible has happened."
+            }
+        ],
+        [
+            {
+                "character": "David",
+                "quote": "Now what I'm curious about is how you were able to go an entire a week without knowing a member of your staff was there."
+            },
+            {
+                "character": "Michael",
+                "quote": "I did not want to go back to the annex because that is where Holly worked whom I loved."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Also, it's icky back there."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's true. People say it's icky."
+            },
+            {
+                "character": "David",
+                "quote": "Okay, I have to go."
+            },
+            {
+                "character": "Michael",
+                "quote": "David, wait."
+            },
+            {
+                "character": "David",
+                "quote": "No."
+            },
+            {
+                "character": "Michael",
+                "quote": "Is there no way we can get rid of him?"
+            },
+            {
+                "character": "David",
+                "quote": "Not without cause, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "I have cause. It is be-cause I hate him."
+            },
+            {
+                "character": "David",
+                "quote": "You have to get along with Toby."
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "David",
+                "quote": "Yep."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't."
+            },
+            {
+                "character": "David",
+                "quote": "Goodbye, Michael. [hangs up]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[Dwight comes over, starts to massage Michael's shoulders] Don't do that."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[pours something from the fridge into a bowl and opens the microwave, it is covered in exploded food] Oh, come on! [to the documentary crew] Do you see this? Disgusting."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "So, Tunes, you still gonna buy your old man's place?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I am. Wait, how do you know that? I didn't tell you that."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ehhh no, I was just walking by your desk. I saw some email. I got peepers of an eagle."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's really not cool."
+            },
+            {
+                "character": "Andy",
+                "quote": "Kaaw!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "So Jim, you're gonna live in the same house that you used to pee the bed in?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I guess technically Kev, you're right."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Today's a big day. Today's the day that I show Pam the house that I bought for us. Without telling her. But it's my parent's house, the house I grew up in and yeah, I bought it kind of impulsively. I mean, the price was good and I was helping out my mom. It's got shag carpets. I mean you can't blame my parents it was the 70's. And why would you want to buy ugly wood from trees when you can have paneling? And a painting of some creepy clowns that is apparently crucial to the structural integrity of the building. [tugs and pulls in vain at the clown painting] She's gonna love it. Right?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Could you guys all do me a favor and not talk about this until I tell Pam?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Whoa, you haven't told the misses about the castle? You're in for a spanking my friend. Myself and my lady? - no secrets."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Jim, don't listen to Andy. I think it's so romantic."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh thanks, Phyllis."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Where's your place?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, it's on uh Linden Ave? By the quarry?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Ohhh..."
+            },
+            {
+                "character": "Creed",
+                "quote": "Cool beans, man, I live by the quarry. We should hang out by the quarry and throw things down there."
+            },
+            {
+                "character": "Jim",
+                "quote": "Definitely we should."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "[reading from a note on the microwave] \"To whoever made the microwave mess: the microwave is a shared kitchen appliance. By not cleaning it up you are basically telling whoever follows that their time is less valuable, as they will have to scrub out your disgusting splatter. Sincerely, disappointed.\""
+            },
+            {
+                "character": "Andy",
+                "quote": "That is just obnoxious."
+            },
+            {
+                "character": "Oscar",
+                "quote": "No kidding."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah. Wait, what, the mess or the note?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "The note. So \"holier than thou\"."
+            },
+            {
+                "character": "Angela",
+                "quote": "Hmm, I liked it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Don't you think the person who left the mess is the obnoxious one?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No, the note is way more obnoxious than the mess."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Sincerely, disappointed? Get off your high horse, Richie."
+            },
+            {
+                "character": "Pam",
+                "quote": "Just because someone likes things clean, doesn't mean they're rich."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Yeh, they're rich."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You want to see some really high caliber acting? Well, Mr. Kurt Russell, you are about to be served. [walks to the annex] Hey Toby, great to have you back, man. Seriously, just a, just a real pleasure to see you again."
+            },
+            {
+                "character": "Toby",
+                "quote": "Well thanks Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "You're welcome. Missed you. Missed you as part of our family."
+            },
+            {
+                "character": "Toby",
+                "quote": "Well that's sweet, I missed you guys too."
+            },
+            {
+                "character": "Michael",
+                "quote": "So Costa Rica that was - did you have fun? That must have been fun."
+            },
+            {
+                "character": "Toby",
+                "quote": "Well, um, it was amazing. It really was, thanks for asking. Um the beaches were pristine..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Nice beaches, pristine beaches?"
+            },
+            {
+                "character": "Toby",
+                "quote": "...and, yeah, the whole thing was incredibly cathartic."
+            },
+            {
+                "character": "Michael",
+                "quote": "Why'd you come back? Why didn't you stay?"
+            },
+            {
+                "character": "Toby",
+                "quote": "It was actually kind of hard to meet people I found."
+            },
+            {
+                "character": "Michael",
+                "quote": "I bet, for you."
+            },
+            {
+                "character": "Toby",
+                "quote": "And uh, yeah, plus it was hot."
+            },
+            {
+                "character": "Michael",
+                "quote": "[shifting uncomfortably and sweating] Shhh hot, why didn't you get an air-condition--- should have gotten an air-conditioner for yourself."
+            },
+            {
+                "character": "Toby",
+                "quote": "Are you all right, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, I am. I am."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I tried, I tried. I tried to talk to Toby and be his friend but that is like trying to be friends with an evil... snail. I feel like I'm dying inside. I feel like Neve Campbell in Sream II. She thinks she can go off to college and be happy and then, the murderer comes back and starts killing off all of her friends. I learned a lot of lessons from that movie, this is just one of them."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Okay, just summarize."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay, fireable offenses include: workplace violence and sexual harassment."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's it, that's it, perfect. We will get him to hit on somebody, and then we will catch him in the act."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I love catching people in the act. That's why I always whip open doors."
+            },
+            {
+                "character": "Michael",
+                "quote": "Mm. Me too. Okay, let's get this started."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay [stands up removes jacket and starts loosening his tie]"
+            },
+            {
+                "character": "Michael",
+                "quote": "What are you doing?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[removes glasses] I am the bait."
+            },
+            {
+                "character": "Michael",
+                "quote": "For what?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Men find me desirable."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, it's a good day too. I'm wearing my mustard shirt."
+            },
+            {
+                "character": "Michael",
+                "quote": "You're the bait for Toby?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Mmhmm."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, for one thing, he's not gay. And if somebody were to be bait it would be Jim. Or Ryan. Or me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Men find me desirable."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, sure they do, Dwight."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "When it comes down to it, it's a health issue. I should have written that."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mmhmm, yeah."
+            },
+            {
+                "character": "Pam",
+                "quote": "[looks up] Why aren't you as mad or interested in this as me?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh totally. Sorry, are we talking about the microwave still?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Are you inching away from me?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No."
+            },
+            {
+                "character": "Pam",
+                "quote": "Reach your arms out."
+            },
+            {
+                "character": "Jim",
+                "quote": "[laughs and swings his arm out which doesn't come close to touching the reception desk] I'm always this close."
+            },
+            {
+                "character": "Michael",
+                "quote": "Pamtown lady sing this song, doo-dah doo-dah. Hello, Pam. Jim may I have a moment with Pam please."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes, I just have to take this call anyway so..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, oooh his mistress. No. I'm kidding. No one would ever cheat on you; you are the complete package, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "What do you need, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, what I would like you to do is take this folded note, and deliver it to Toby Flenderson? I just want you to just react to whatever this note elicits. Do not read it beforehand. Can you do that for me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Good. [Pam stands up and starts reading note] N-no no no, don't."
+            },
+            {
+                "character": "Pam",
+                "quote": "\"Please hug and kiss me, no matter how hard I struggle. I'm too shy to tell you that I love you.\""
+            },
+            {
+                "character": "Michael",
+                "quote": "Pam. Pam, you gave me your word."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[kissing Kelly against her desk] You did that for me?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Mmhmm."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Are you happy you did?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey guys that's really inappropriate."
+            },
+            {
+                "character": "Ryan",
+                "quote": "[kisses for a little longer] What's up?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Um, I got some photos from Costa Rica if you want to see them?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, yeah I'll see them."
+            },
+            {
+                "character": "Michael",
+                "quote": "Toby can I see those? Ooh. [takes photos and throws them on the floor] What's the matter? What's the matter? You scared?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Those are fighting words."
+            },
+            {
+                "character": "Michael",
+                "quote": "You mad? You mad at me?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I hope he doesn't haul off and just hit you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you want to do that? You want to hit me, you want to punch me?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hmmm?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Huh? He might do it..."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Punch him, Toby!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I dare you to. Come on."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Come on. [making karate moves] Baaah!"
+            },
+            {
+                "character": "Michael",
+                "quote": "What's the matter... haaaww!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hit him! Hit him, Chicken."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, punch him."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey hey! Come on, Ryan, who's side are you on?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ryan. Come on, man?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No do it, do it. I dare you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Punch him as hard as you possibly can in the face."
+            },
+            {
+                "character": "Michael",
+                "quote": "Not, not as hard as you can, just a good, solid punch. Come on! Come oooon..."
+            },
+            {
+                "character": "Toby",
+                "quote": "I'm not going to punch you, Michael."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Are you really not going to punch him?"
+            },
+            {
+                "character": "Toby",
+                "quote": "No, why would I punch you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Son of a bitch."
+            },
+            {
+                "character": "Ryan",
+                "quote": "[as Toby picks up his photos] You should have hit him man, guy was asking for it. Once in a lifetime, man."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I thought you were going to parcel those out through the day"
+            },
+            {
+                "character": "Michael",
+                "quote": "[mouth full of brownie] Just stop it. You haven't done anything helpful all day."
+            },
+            {
+                "character": "Dwight",
+                "quote": "There's still one thing we could do to get Toby fired."
+            },
+            {
+                "character": "Michael",
+                "quote": "What's that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[goes over and closes office door] Frame him, for using drugs."
+            },
+            {
+                "character": "Michael",
+                "quote": "Frame him?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, it's illegal, but... everything they do on The Shield is illegal."
+            },
+            {
+                "character": "Michael",
+                "quote": "I've never framed a man before, have you?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh I've framed animals before. I framed a raccoon for opening a Christmas present. And I framed a bear for eating out of the garbage."
+            },
+            {
+                "character": "Michael",
+                "quote": "Just seems awfully mean. But sometimes the ends justify the mean."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hello. I've seen you guys around. I'm Michael Scott, Dunder Mifflin.  How you doing? [they stare at him] Uhghh, so I guess you know why I'm here? I need to purchase something."
+            },
+            {
+                "character": "Vance Refrigeration guy",
+                "quote": "A fridge?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No. Uh, I wanted--- I wanted to buy some weed? Some..."
+            },
+            {
+                "character": "Vance Refrigeration guy",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Grass, weed?"
+            },
+            {
+                "character": "Leo",
+                "quote": "What makes you think we'd have weed?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I heard you drug--- I heard you dealt."
+            },
+            {
+                "character": "Vance Refrigeration Guy",
+                "quote": "[whispers in Leo's ear] Hey, just hold on one second."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm not wearing a wire, so..."
+            },
+            {
+                "character": "Leo",
+                "quote": "Why would you even say that?"
+            },
+            {
+                "character": "Vance Refrigeration Guy",
+                "quote": "[comes back up to Michael] Hey, that's gonna be 500 dollars."
+            },
+            {
+                "character": "Michael",
+                "quote": "How much? How many pounds is it?"
+            },
+            {
+                "character": "Vance Refrigeration Guy",
+                "quote": "It's- it's two pounds. I'm losing money on this man just, give me the money. Alright, walk away."
+            },
+            {
+                "character": "Leo",
+                "quote": "Walk away."
+            },
+            {
+                "character": "Vance Refrigeration Guy",
+                "quote": "Walk away."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Hey, Pam? I just wanted to let you know; I'm totally on your side with the whole microwave situation."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I was just back there, to make some cup-o-soup; the thing is still a huge mess."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know, can you believe it?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, it's crazy. But, I guess the thing is at some point, notes or no notes, someone's gonna have to just get there and clean it up."
+            },
+            {
+                "character": "Pam",
+                "quote": "I guess that's why we have a temp, huh?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Ah ha ha, oh no, trust me. I would just make it worse."
+            },
+            {
+                "character": "Pam",
+                "quote": "How would wiping it with a paper towel make it worse?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "I--- I would find a way."
+            },
+            {
+                "character": "Pam",
+                "quote": "You've seen things cleaned before though, right?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "I--- Pam, I am hopeless at that stuff I... I, uh..."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Hi, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, hey, hey. Hey. I forgot... I forgot..."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[on a cell phone in the hallway] Yes, I repeat a drug dealer is on the premisis of Dunder Mifflin. His name is Toby Flenderson [Michael opens Toby's desk drawer and puts something in it] and he recently returned from a mysterious vacation in Central America.  I have risked a great deal to tell you this information. My name is Andy Bernard. Andrew Bernard, that's my name. See you soon."
+            }
+        ],
+        [
+            {
+                "character": "Police Officer 1",
+                "quote": "Hi, we received a call?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't know anything about that."
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "We were tipped off about a possible narcotics situation."
+            },
+            {
+                "character": "Pam",
+                "quote": "Here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey, Pam. Hey I got this, okay? Hello, officers, Dwight Schrute, former volunteer Sheriff's Deputy. Listen, I may have inside information that someone is hiding drugs in this very office. [leads them back towards the annex as Creed stands up and starts to put him hands up and then relaxes them behind his ears]"
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "Just pretend like we're talking until the cops leave."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Those are real cops, real guns. I wonder what's going on. [follows them]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Officers, I reveal to you the perpetrator."
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, what is this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Search his things."
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "Sir, can you step away from your desk please?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Why?"
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "Sir, please step away from your desk."
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, what's going on? You don't have my permission to do this."
+            },
+            {
+                "character": "Dwight",
+                "quote": "They don't need your permission, Flenderson, they've got the company's permission."
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, hey what are- why are you doing this?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh, you know what? I think that this... uh, this is probably a misunderstanding."
+            },
+            {
+                "character": "Toby",
+                "quote": "Don't search my stuff."
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Sir?"
+            },
+            {
+                "character": "Toby",
+                "quote": "I have a reasonable right to privacy."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Save your whining for the jury there, Flenderson."
+            },
+            {
+                "character": "Toby",
+                "quote": "Michael!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, let's just cancel this, okay?"
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Sir, did you recently return from a trip to Central America?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh my God!"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no no no... No, no."
+            },
+            {
+                "character": "Toby",
+                "quote": "That was... I went to Costa Rica for a few months. What is going on?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, that was... that was legitimate. That was totally legitimate."
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Really?"
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "Check this out."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh God!"
+            },
+            {
+                "character": "Toby",
+                "quote": "That is not mine. I have never seen that before."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no no no no."
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Turn around."
+            },
+            {
+                "character": "Toby",
+                "quote": "What is going on here?"
+            },
+            {
+                "character": "Michael",
+                "quote": "God! No, that's not... I don't know what that is. And I... I bet he has nothing to do with that!"
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Do you have any weapons?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Of course not!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ahh, that's mine."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No! Michael, no!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, it's mine."
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "Some basil. Salad dressing, I think."
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "Salad dressing?"
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "Yeah it's, uh, a caprese salad. There's a little bit of, uh, mozerella right there."
+            },
+            {
+                "character": "Michael",
+                "quote": "Are you kidding me? That's my salad."
+            },
+            {
+                "character": "Dwight",
+                "quote": "So wait a minute, there's no drugs?"
+            },
+            {
+                "character": "Police Officer 2",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Gahh, dammit! [punches file cabinet] Come on!"
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "We got a fake tip."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Wait, officers, are you sure you don't want to interrogate him?"
+            },
+            {
+                "character": "Police Officer 1",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[following them out] You have laws that protect you in any kind of interrogation. Why don't you use them?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You must feel pretty good about yourself right now."
+            },
+            {
+                "character": "Toby",
+                "quote": "I didn't put caprese salad in my drawer, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hmm."
+            },
+            {
+                "character": "Toby",
+                "quote": "Did you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Since when is it illegal to put caprese salad... anywhere."
+            },
+            {
+                "character": "Toby",
+                "quote": "You know but the police could have been out there you know, catching real criminals instead of here searching my stuff."
+            },
+            {
+                "character": "Michael",
+                "quote": "Are you kidding me? Are you kidding me, that's who you're worried about? You're... you're worried about the cop's time? You think I framed you, and you're worried about the taxpayer? Dah, God! Welcome back, jerky jerk-face."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You said you were leaving and you made liars out of all of us. So..."
+            },
+            {
+                "character": "Toby",
+                "quote": "I did leave."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, you did. And then you came back, which makes you the biggest liar of... history."
+            },
+            {
+                "character": "Toby",
+                "quote": "Well, I don't see it that way."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you want to hear a lie?"
+            },
+            {
+                "character": "Toby",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I think you're great. You're my best friend."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[stops kissing Kelly] I can't do this."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Can't do what?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "It's not fair to you. And it's really not fair to me."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Wait, what are you saying? I broke up with Darryl so I could be with you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "That was your choice; don't put that on me. I'm just going on a little trip."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh, can I come?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "It's not that kind of trip. I'm going to Thailand with some friends from high school, well, a high school. And if I don't do it now I'll never get to go. And I'll always resent you for it... you don't want me to resent you, do you?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "So you're dumping me?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Let's be adults about this. Let's have sex one more time. And if you have any extra cash, that would be amazing."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Okay?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[walking out of the building] Hey, do you mind if we make a stop on the way home?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Sure."
+            },
+            {
+                "character": "Jim",
+                "quote": "Cool."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[getting out of the car] What are we doing at your parent's house?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I have a surprise for you. All right, ready? Close your eyes and now [spins her around once] open your eyes. Tadah!"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't get it."
+            },
+            {
+                "character": "Jim",
+                "quote": "I bought it. It's ours. Let's go inside, I'll show you inside. [walking inside] So if you can believe it I did it without a realtor. Saving on closing costs is good and, uh, we can put all the money to de-shag the carpet. Which I think will help, the color situation. [Pam walks over to the clown painting on the wall] Yeah, I am really sorry about this. I tried to move it but he is really nailed in there. Worried about art theft, I guess, lot of art theives in this neighborhood. [upstairs] This is the master bedroom but, I'm actually not allowed in here so... [shuts the door]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[outside] So I'm still in the process of converting the garage. It's got great light in here and I'm thinking, it could be perfect [opens garage door] for an art studio. [Pam looks around and then looks at him] Look, I know, I bought this without asking you and it's doesn't look great, I know that. And if you really hate it, I totally understand it's just---"
+            },
+            {
+                "character": "Pam",
+                "quote": "I love it."
+            },
+            {
+                "character": "Jim",
+                "quote": "You do?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, I love it!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I mean, you bought me a house!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh my God..."
+            },
+            {
+                "character": "Pam",
+                "quote": "You bought me a house!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I did. [they kiss]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, do we have to sleep in your parent's bedroom?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No, No, we'll just board that up. It'll be that weird spare room that people ask us about."
+            },
+            {
+                "character": "Pam",
+                "quote": "And the clown?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, I can't... really can't move him."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "What is my perfect crime? I break into Tiffany's at midnight. Do I go for the vault? No, I go for the chandelier. It's priceless. As I'm taking it down, a woman catches me. She tells me to stop. It's her father's business. She's Tiffany. I say no. We make love all night. In the morning the cops come and I escape in one of their uniforms. I tell her to meet me in Mexico but I go to Canada. I don't trust her. Besides, I like the cold. Thirty years later, I get a postcard. I have a son and he's the chief of police. This is where the story gets interesting: I tell Tiffany to meet me in Paris, by the Trocadero. She's been waiting for me all these years; she's never taken another lover. I don't care, I don't show up. I go to Berlin. That's where I stashed the chandelier."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

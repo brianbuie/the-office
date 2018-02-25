@@ -1,0 +1,956 @@
+{
+    "season": 9,
+    "episode": 17,
+    "title": "The Farm",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "[as elevator door closes] Hold it!"
+            },
+            {
+                "character": "Creed",
+                "quote": "[notices something new about Dwight] New glasses."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Dwight. What a ridiculous, fancy clown you are."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I am dressed according to the Schrute codes of mourning. My aunt Shirley has died."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, Dwight. I'm so sorry. Were you guys close?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I would say that she raised me, but let's not kid each other. I raised myself. She was, however, the closest thing I had to a mother."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "My actual mother was very cold and distant. I'd say she was the closest thing I had to an aunt."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "My condolences."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Keep them."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK. Now, what do we got in these two pails?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "In keeping with Schrute custom, I will either invite you to Saturday's funeral by sprinkling red, fertile dirt in your face. Or, I will ask you to keep a respectful distance during my time of grief, with a dusting of black, slightly acidic soil."
+            },
+            {
+                "character": "Erin",
+                "quote": "[after Dwight tosses dirt on her face] What color is it?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "It looks pretty black."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[after Dwight tosses dirt in his face] Yep. Acidic, all right."
+            },
+            {
+                "character": "Oscar",
+                "quote": "[while Dwight prepares to toss dirt] Oh, thank god."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Excuse me?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "I'm so sorry, Dwight. And if you want me to be there, of course I will go. I just... have a personal training session..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "OK. That's not... [tosses red dirt in Oscar's face]"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "I get red dirt. Nobody is getting red dirt. I should've kept my mouth shut. We're not even that close. I've only known Dwight... 12 years. 12 years. Time is a son of a bitch."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[as Dwight prepares to throw dirt in his face] I'm sure... I'm sure she's in a better place."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I really hope so. [unexpectedly tosses dirt in Pam's face]"
+            },
+            {
+                "character": "Jim",
+                "quote": "OK. [as Dwight mixes coffee with dirt in his hand] This is crazy. You can't make a dirt ball."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I miss her so much."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You know? [Dwight screams and throws dirt ball at Jim]"
+            }
+        ],
+        [
+            {
+                "character": "Mose",
+                "quote": "[playing guitar and singing 'Oh What a Beautiful Morning'] Zeke's here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Zeke."
+            },
+            {
+                "character": "Zeke",
+                "quote": "Hey, Dwight. Mose, Mom says 'hi'."
+            },
+            {
+                "character": "Mose",
+                "quote": "'Hi' to Mom."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Are you going?"
+            },
+            {
+                "character": "Mose",
+                "quote": "Will there be ghosts there?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[simultaneously with Zeke] Get in the sidecar. Get in the sidecar."
+            },
+            {
+                "character": "Zeke",
+                "quote": "You get in the sidecar."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Get..."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[at the grave site, to Oscar] What are you doing here?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "You invited me. You threw the red dirt in my face."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[smirking] Oh, yeah."
+            },
+            {
+                "character": "Oscar",
+                "quote": "[as a car approaches the grave site] Who is that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jeb, my brother."
+            },
+            {
+                "character": "Oscar",
+                "quote": "You have a brother?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Jeb",
+                "quote": "I didn't really see a better parking spot. [drives into the dug grave] Whoa! Look what I did. It's a rental. [Dwight approaches and hugs him] You wanna go in? [both attempt to put the other in the dug grave]"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[upon seeing Todd Packer enter the office] Oh, gosh."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Hey, Moonface. Nice to see those shiny, little Chinese eyes of yours."
+            },
+            {
+                "character": "Clark",
+                "quote": "[to Pam] Who's this guy?"
+            },
+            {
+                "character": "Pam",
+                "quote": "\u2026 bad."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Hi, all."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Why are you here, Todd?"
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "OK. Let's get right to it. I guess. My name is Todd Packer and I am in recovery. I'm working the steps. I'm on step eight of Alcoholics Anonymous and step nine of Narcotics Anonymous. I'm here to make amends. I've been hard to deal with over the past years. Kind of a jerk. I know it. I don't need you to accept my apology, but I'd love it if you did."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Packer, we accept. [others disagree]"
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Actually, they have a specific way I need to do this. And, I have to go through examples of stuff. OK. Uh, where to begin. [to Pam] Hey. Pam-pam and her pam-pams. Wow. I have said some crude things about those. But, they are beautiful. And, I guess that's why I acted out. Pam, I'm sorry I objectified you. And, personified your breasts. Sorry, guys. [to Phyllis] Oh boy. I have not been nice to you. Philly, I'm sorry for the things I said about your size. To your face, behind your back, and in the form of drawings. Actually, that goes to all you double XLs. Stanley, Kevin, [points to Clark] this kid in a few years."
+            },
+            {
+                "character": "Pam",
+                "quote": "Todd, you're just saying insults in the form of an apology."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Why can't I just be nice? Truth is, I really like you guys. I really do. OK. The apology\u2019s just half of it. The big thing is making amends. And, that's why I brought these. I went out to the Steamtown Mall and I got you all cupcakes. From that place 'Nipples'."
+            },
+            {
+                "character": "Pam",
+                "quote": "I think it's called 'Nibbles'."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Huh. The mind sees what it wants to, huh? [hands cupcake to Erin] There you go."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey, hey, guys. Wait. Before we accept these cupcakes, I think we need to have a conversation privately in the conference room. Don't eat the cupcake."
+            }
+        ],
+        [
+            {
+                "character": "German Minister",
+                "quote": "We are here today to join this woman and the ground. Man is born of woman and his life is full of turmoil."
+            },
+            {
+                "character": "Jeb",
+                "quote": "[gathers and tastes soil] Huh. It's crap soil. Nothing's going to grow here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Doesn't matter. It's a cemetery."
+            },
+            {
+                "character": "Jeb",
+                "quote": "Yeah, well, I'm just saying it's garbage soil, that's all."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, the only thing we're planting here is dead bodies."
+            },
+            {
+                "character": "Jeb",
+                "quote": "It's fine 'cause they're not going to grow."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, thank god they're not because we don't want to make zombies."
+            },
+            {
+                "character": "Jeb",
+                "quote": "Good. I agree. Don't worry about it. You won't get any."
+            },
+            {
+                "character": "German Minister",
+                "quote": "Would the family care to say something?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You had black hair and then gray hair."
+            },
+            {
+                "character": "Zeke",
+                "quote": "You were the aunt to my cousins. Most of your life you were 5'4\u201d, at the end you were 5'1\u201d."
+            },
+            {
+                "character": "Oscar",
+                "quote": "They're a descriptive people."
+            },
+            {
+                "character": "Fannie",
+                "quote": "[approaches and hugs Dwight] I see you started without me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You were late. So, what am I supposed to do?"
+            },
+            {
+                "character": "Fannie",
+                "quote": "Well, I told you..."
+            },
+            {
+                "character": "Jeb",
+                "quote": "Hi, Fannie."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Hey."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Who is that?"
+            },
+            {
+                "character": "Zeke",
+                "quote": "Dwight's sister."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Dwight has a sister?"
+            },
+            {
+                "character": "Zeke",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Oscar",
+                "quote": "She's beautiful."
+            },
+            {
+                "character": "Zeke",
+                "quote": "Blugh."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[to his nephew Cameron] Hello, little man. Haven't seen you in a few years. [after a weak handshake] What is this? Oh, god. [after a truck with many girls in the bed pulls up] Henry."
+            },
+            {
+                "character": "Henry",
+                "quote": "Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I see Esther's back in town."
+            },
+            {
+                "character": "Esther",
+                "quote": "Hi Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hi Esther. Nice of you to come today."
+            },
+            {
+                "character": "Esther",
+                "quote": "This was on the way. We're going into town after. I need yarn."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, if you can snap two chicken necks with a single motion, why use two motions to slaughter those chickens."
+            },
+            {
+                "character": "Fannie",
+                "quote": "We're at a funeral. There's a funeral going on here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "OK."
+            },
+            {
+                "character": "Henry",
+                "quote": "Anyone mention her height?"
+            },
+            {
+                "character": "Zeke",
+                "quote": "Yep."
+            },
+            {
+                "character": "Henry",
+                "quote": "Land size? [all shake heads] [removes hat] Shirley, at 1600 acres, you have the largest farm in the area. Sharing borders with six other farms. Including my own farm. And your nephew Dwight's. [replaces hat] OK. [drives away]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "So, let's get it going."
+            },
+            {
+                "character": "German Minister",
+                "quote": "[approaches Fannie, offering a shotgun] Would you want to do the honors?"
+            },
+            {
+                "character": "Fannie",
+                "quote": "Oh, right. Uh, you know, I don't think we have to do this."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "We Schrutes don't need some Harvard doctor to tell us who's alive and who's dead. But, there was an unlucky streak of burying some heavy sleepers. And, when grave robbers discovered some scratch marks on the inside of some of the coffins, we decided to make sure that our dead were completely dead. Out of kindness."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "[after Dwight opens coffin and begins firing into it] That's it for me. [exits]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I don't think we should eat Packers' cupcakes. We can't give him the satisfaction."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I agree. Even though that place has a way of making those cupcakes so they're dense. But, they're also really fluffy."
+            },
+            {
+                "character": "Pam",
+                "quote": "We can't let him buy our forgiveness with cupcakes. He was awful to us. And, he still is. How much is a cupcake? $2.50? Is that the price of our dignity?"
+            },
+            {
+                "character": "Creed",
+                "quote": "$3.75 a cupcake, actually. $3.67 if you buy a dozen."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "I never forget a number. Names? In one ear and out the other. Places? Nope. Faces? That's rich. But, numbers? I have a gift. I guess that's why I'm an accountant."
+            }
+        ],
+        [
+            {
+                "character": "Clark",
+                "quote": "Hey, man. I don't think we've met. I'm Clark."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Oh. I'm Todd. Oh, sorry for calling you a fat, little runt earlier."
+            },
+            {
+                "character": "Clark",
+                "quote": "You didn't actually say that."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "No? Wow. I'm in this mode now where I'm apologizing for thoughts that are in my head. [Clark fake laughs] Hey. I have a crazy feeling [hands Clark a cupcake] that you are really gonna like this."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "Maybe we should eat the cupcakes. Haven't we done enough to Packer? I mean, we sent him down to Florida on a prank. [to Nellie] And you did fire him."
+            },
+            {
+                "character": "Nellie",
+                "quote": "I did. I did, yes. And it was purely political. He did nothing wrong."
+            },
+            {
+                "character": "Pam",
+                "quote": "Would any of you be saying any of this if the cupcakes were from Supermart?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Do they even have a bakery anymore?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "They do. It's awful. And, it's getting worse every day."
+            },
+            {
+                "character": "Pam",
+                "quote": "So, it really is just about the cupcakes."
+            },
+            {
+                "character": "Andy",
+                "quote": "Wow, you're right. It is just about the cupcakes."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "So, we're all agreed? No one touches those cupcakes?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "[as all agree] OK."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "OK. Packer can go to hell."
+            }
+        ],
+        [
+            {
+                "character": "Aunt Shirley",
+                "quote": "[on a recorded video] Thank you for coming to my funeral. As I gaze at life's big sunset, I can't help but wonder where it all went wrong. You've all disappointed me greatly. Fannie. A single mamma in the city."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[agreeing with Shirley] Thank you."
+            },
+            {
+                "character": "Aunt Shirley",
+                "quote": "Jeb. A street pusher."
+            }
+        ],
+        [
+            {
+                "character": "Jeb",
+                "quote": "After I left the army, I bought a 9-acre worm farm from a Californian. Turns out \u201cworm\u201d means something else out there. And, I am now in the business of... pain management. Or, the smoking of pain management."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I can't stand the fact that Jeb is a pot farmer. He could've grown anything. Anything in the world. He used to talk about growing a peanut-grape hybrid. One plant, one sandwhich."
+            }
+        ],
+        [
+            {
+                "character": "Aunt Shirley",
+                "quote": "We can't just sit by and watch our family farm disappear. So, here are my terms. Dwight, Fannie, Jeb. If you come back home, I will leave you my farm. So, there, you have it."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Is she crazy? [as Dwight considers] Dwight?"
+            },
+            {
+                "character": "Jeb",
+                "quote": "Buddy? Buddy?"
+            },
+            {
+                "character": "Fannie",
+                "quote": "No, no, no."
+            },
+            {
+                "character": "Jeb",
+                "quote": "Snap out of it. Dwight?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Let's do this. Let's run Aunt Shirley's farm. I'm in. Boom."
+            },
+            {
+                "character": "Fannie",
+                "quote": "No, no, no. I'm not moving back here. Are you crazy?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Of course you are."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Look. I, I don't want to be mean or like insulting. I know that you like it here. But, Dwight, it's just that farm life lacks a certain... sort of sophistication."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh my god."
+            },
+            {
+                "character": "Fannie",
+                "quote": "That Cammy and I are drawn to. And, I don't know. The men are just... it's almost like there's a... a willing ignorance."
+            }
+        ],
+        [
+            {
+                "character": "Fannie",
+                "quote": "Yes. I, thank you for asking me. I actually have written a little bit of poetry. That's crazy. And, I was recently published. Which is just... [reaches in to bag, removes folded paper] maybe I have. Yep. I do. Here it is from the um, Hartford Women's Lit Quarterly.com. A Willing Ignorance by Fannie Schrute."
+            }
+        ],
+        [
+            {
+                "character": "Jeb",
+                "quote": "Totally. Yep. The people here are like [makes farting sound, laughs] Like a fart. You know what I'm saying? Like a fart?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You know what? Let's take a couple of nights and stay here and think about Aunt Shirley's offer."
+            },
+            {
+                "character": "Jeb",
+                "quote": "Couple of nights couldn't hurt."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Uh, somehow how I think a couple of nights could hurt."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You will say 'yes' on one. Five, four, three, two, get ready to say 'yes', one. Yes."
+            },
+            {
+                "character": "Zeke",
+                "quote": "[as Dwight says 'yes'] Absolutely."
+            }
+        ],
+        [
+            {
+                "character": "Zeke",
+                "quote": "Growing up with Dwight and Mose was not easy. Uh, Dwight was obviously the cool one. And, Mose was the visionary. Which left me to be the comedian."
+            }
+        ],
+        [
+            {
+                "character": "Fannie",
+                "quote": "That doesn't work on me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "OK."
+            },
+            {
+                "character": "Fannie",
+                "quote": "By the way, that's not..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[counts down in French]"
+            },
+            {
+                "character": "Fannie",
+                "quote": "Very funny. OK. Oui, oui, oui."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oui."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Oh my goodness."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[while everyone is gathered playing and singing \u201cSons &amp; Daughters\u201d] People underestimate the power of nostalgia. If baseball can use it to get people to care about that worthless sport, then I can use it to get my siblings to care about the farm. Nostalgia is truly one of the great human weaknesses. Second only to the neck."
+            }
+        ],
+        [
+            {
+                "character": "Fannie",
+                "quote": "[after seeing Dwight lay something down in front of Esther] So, I forgot about this old custom. If a man is interested in courting a woman, he may throw the beaks of a crow at her. And then, if she's interested in accepting the courtship, she has to destroy the beaks. [Esther crushes the beaks leaving Dwight satisfied]"
+            }
+        ],
+        [
+            {
+                "character": "Todd Packer",
+                "quote": "Hey, uh, I just wanted to say I'm sorry for screwing you."
+            },
+            {
+                "character": "Meredith",
+                "quote": "I'm not sorry about it."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "I am. It was my rock bottom."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[while Kevin stares at his cupcake] Kevin, you can do this."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You don't know that."
+            },
+            {
+                "character": "Pam",
+                "quote": "Kevin, um, let's think of something to distract us. Uh, like the movie Skyfall. You loved the movie Skyfall, right?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Kevin",
+                "quote": "James Bond was a spy."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes. He was a good spy."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah. He was the best. James Bond would love this cupcake."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "Hey, you know what? It was, uh, great to see you all again. Take care. [exits]"
+            }
+        ],
+        [
+            {
+                "character": "Todd Packer",
+                "quote": "I am going through a twelve-step program. I'm currently on step zero. Which is have a [expletive] of fun. I spent six hours carefully removing the frosting and then layering in a variety of drugs, some legal, some not. Some laxative, some constipating. You don't fire the Pac-Man and expect to get away with it."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Guys, I'm proud of us. I think we did the right thing. [after noticing Angela easting cupcake] Hey!"
+            },
+            {
+                "character": "Angela",
+                "quote": "What, Pam?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[as others eat] Wait!"
+            },
+            {
+                "character": "Angela",
+                "quote": "He's gone. It's just a cupcake now."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, no. It's the principle of the thing."
+            },
+            {
+                "character": "Andy",
+                "quote": "[exits office, chewing] Oh my god. I forgive him so much. [Kevin begins making choking sounds] Whoa, is he choking?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Kevin?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[after long choking and refusing help from Meredith] Oh, that was fantastic."
+            }
+        ],
+        [
+            {
+                "character": "Cameron",
+                "quote": "[after following Dwight to the chicken coop, before sunrise] Is it dangerous to take the eggs in front of them?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, very. You really need to stand back because these are killer chickens."
+            },
+            {
+                "character": "Cameron",
+                "quote": "I was just asking you something I didn't know."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Which is fine. And, you learned something. But, it was kind of a stupid question so you're gonna get made fun of a little bit."
+            },
+            {
+                "character": "Cameron",
+                "quote": "[after grabbing an egg] Are we gonna eat these today?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "If you want."
+            }
+        ],
+        [
+            {
+                "character": "Cameron",
+                "quote": "Is that a guillotine?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "This? No. That'd be cool, though. It's for milking."
+            },
+            {
+                "character": "Cameron",
+                "quote": "[referencing goat] That's a cow?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Did you just ask me if this was a cow?"
+            },
+            {
+                "character": "Cameron",
+                "quote": "[after seeing Dwight smelling milk] What are you doing now?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Come here. Come on. Grab a teat with each hand. Sit down. There you go. Squeeze from top to bottom. Really pull. Use some muscle. Draw the milk out. All right. Going all right?"
+            },
+            {
+                "character": "Cameron",
+                "quote": "I don't know."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, is the udder hot? Is the milk clumpy?"
+            },
+            {
+                "character": "Cameron",
+                "quote": "I don't know any of that."
+            },
+            {
+                "character": "Dwight",
+                "quote": "OK, you suck at this. Give me those teats. Didn't your father teach you anything?"
+            },
+            {
+                "character": "Cameron",
+                "quote": "I never met him."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Good morning, Erin."
+            },
+            {
+                "character": "Erin",
+                "quote": "[looking disheveled] Hey."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey, everybody. Um, I decided to eat my cupcake. I thought about it last night. I talked to Jim. I talked to my sister. And, I think that, as long as Todd Packer doesn't know, it's OK."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I don't care what you do, Pam. Just please stop making noise."
+            },
+            {
+                "character": "Pam",
+                "quote": "Phyllis!"
+            },
+            {
+                "character": "Clark",
+                "quote": "Packer laced the cupcakes."
+            },
+            {
+                "character": "Pam",
+                "quote": "No!"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Did you get diarrhea or were you stoned?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Some of us got both. [raises hand]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my god! Is everyone OK?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Last night, I got out all of my old dolls and played with them on the living room floor. Then, I ordered ten American Girl outfits online. It was thousands of dollars."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yeah? Well, count yourself lucky, Phyllis. I got the toilet."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Me too. [holds up four fingers]"
+            },
+            {
+                "character": "Clark",
+                "quote": "I went Christmas caroling in March and I fertilized some bushes along the way. So, not my best night. But, not my worst night."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "What did you do, Andy?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Last night? Oh, god, um, I don't know. [cuts to him arm wrestling Kevin] Na, nothing really. Kevin?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Why would you ask me?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm not, a... I'm just. I don't know. [cuts to him spinning a plate like a record and Kevin dancing] Oh. Gosh. I actually. It is hard to recall. Um. [cuts to he and Kevin sitting on a table touching each others face] Pretty normal night."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[he and Andy embrace each other in tears] My night was just like that. [cuts to him and Andy trading clothes] Meaning normal."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah. I didn't see you last night at all. [cuts to him dancing by prostrate Kevin]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Nope. I did not see you either."
+            },
+            {
+                "character": "Pam",
+                "quote": "Wow. He is officially the worst human being."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[as Pam attempts to throw cupcake away] Ah. [stops Pam and takes cupcake]"
+            },
+            {
+                "character": "Pam",
+                "quote": "But, Kevin that's..."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah. No, I understand, Pam. I understand."
+            },
+            {
+                "character": "Angela",
+                "quote": "[shaking head in disbelief] No."
+            }
+        ],
+        [
+            {
+                "character": "Todd Packer",
+                "quote": "So, that's it. I just wanted to make amends. [slides cupcakes across table to Darryl and Jim]"
+            },
+            {
+                "character": "Darryl",
+                "quote": "That's big of you, man. Takes a lot of courage."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ooh, red velvet. I should apologize too."
+            },
+            {
+                "character": "Todd Packer",
+                "quote": "It's OK. I'm over it."
+            }
+        ],
+        [
+            {
+                "character": "Jeb",
+                "quote": "Oof. This is no nine-acre worm farm. This is a beast. Whoever's managing this thing is gonna have a hell of a job. Not it."
+            },
+            {
+                "character": "Fannie",
+                "quote": "Not it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It. [to Fannie] That kid doesn't put in some farm time, he's gonna stay like that."
+            },
+            {
+                "character": "Fannie",
+                "quote": "All right."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

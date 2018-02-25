@@ -1,0 +1,1286 @@
+{
+    "season": 9,
+    "episode": 2,
+    "title": "Roy's Wedding",
+    "scenes": [
+        [
+            {
+                "character": "Pam",
+                "quote": "[surveying an untidy office] The building\u2019s custodian is on vacation for the month and Dwight is too cheap to hire a replacement. So, instead, we\u2019re living in filth. But, not for long. Because I have created the chore wheel."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[viewing the chore wheel for the first time] Oh, yeah! Can I spin first?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, it doesn\u2019t spin. We\u2019ll just move the wheel one notch each morning and\u2026 you see what chore you get that day."
+            },
+            {
+                "character": "Kevin",
+                "quote": "A wheel is supposed to spin."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah, you know, like [motions arm in circles] guh, guh, guh, guh, guh, guh, guh\u2026 guh."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, I\u2019m familiar with spinning. It\u2019s just that wouldn\u2019t work with a chore wheel because people might get the same chore-"
+            },
+            {
+                "character": "Andy",
+                "quote": "[interrupting] Bugh, boring. All she talks about is chores."
+            },
+            {
+                "character": "Creed",
+                "quote": "A wheel wants to spin, Pam."
+            },
+            {
+                "character": "Jim",
+                "quote": "[reluctantly] Spinning would be more fun."
+            },
+            {
+                "character": "Pam",
+                "quote": "[frustrated] \u2018Kay."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[spinning a new \u2018chore wheel\u2019 while everyone claps] Okay, that\u2019s what I\u2019m talking about! Big money, big money! [wheel stops on \u2018mug duty\u2019, disappointed] Mug duty?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes, you clean all the mugs in the sink."
+            },
+            {
+                "character": "Kevin",
+                "quote": "This sucks."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah, seriously, it\u2019s like everything on there is work."
+            },
+            {
+                "character": "Pam",
+                "quote": "I don\u2019t think you guys understand why we\u2019re doing this. It\u2019s-"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, I don\u2019t think that you understand wheels."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I\u2019ve been through several rounds of development with the team and here\u2019s where we stand with the chore wheel. [introducing a third \u2018chore wheel\u2019, excited] We\u2019ve got prizes! Ten bucks, candy bar, manager for an hour but, there are also penalties. Like, no internet, Stanley gets your lunch. The one thing that is not on the chore wheel is chores. But they were right; it\u2019s more fun this way."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[everyone cheers as Meredith spins and lands on \u2018tiny wheel\u2019] The tiny wheel actually does have chores. It\u2019s so cute no one seems to mind."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[referencing the \u2018tiny wheel\u2019] Toilets! [everyone cheers as Meredith accepts her chore]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[at the Halpert residence as Cece twirls in the front yard, exiting front door] Pam, we gotta go. Cece, go back inside. Grandma\u2019s got breakfast, OK? [to camera] We are going to Roy\u2019s wedding. Yep, Roy. I think the only weird thing about going to your wife\u2019s ex-fianc\u00e9\u2019s wedding on a weekday at eight AM is that it\u2019s your wife\u2019s ex-fianc\u00e9."
+            },
+            {
+                "character": "Pam",
+                "quote": "[exiting house] Thanks, mom!"
+            },
+            {
+                "character": "Jim",
+                "quote": "[to Pam] A banana?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah. I\u2019m afraid he\u2019s only gonna have hot dogs."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, come on. Not even Roy will have hot dogs at his wedding."
+            },
+            {
+                "character": "Pam",
+                "quote": "Planned a wedding with him. He wanted hot dogs."
+            },
+            {
+                "character": "Jim",
+                "quote": "[to camera] Just\u2026 so weird."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[as Pete and Clark enter office] Oh, Pete, you\u2019ve got mail."
+            },
+            {
+                "character": "Pete",
+                "quote": "Really? I got something?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Well, it\u2019s addressed to Customer Service so, it\u2019s your mail."
+            },
+            {
+                "character": "Clark",
+                "quote": "Well, you know, I\u2019m also Customer Service."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah, I\u2019m alternating. [gestures both men]"
+            },
+            {
+                "character": "Pete",
+                "quote": "[sarcastically] Yay, another person yelling at me."
+            },
+            {
+                "character": "Erin",
+                "quote": "Well, it could be a nice letter. I write nice letters to companies all the time."
+            },
+            {
+                "character": "Pete",
+                "quote": "That\u2019s really nice."
+            },
+            {
+                "character": "Clark",
+                "quote": "[looking down at Erin\u2019s desk] Wow, Newsweek, huh? This election\u2026 thing is crazy, right?"
+            },
+            {
+                "character": "Pete",
+                "quote": "[referring to the letter] It\u2019s open."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh yeah, I accidentally read it. It\u2019s not a nice letter."
+            },
+            {
+                "character": "Pete",
+                "quote": "[whispering] OK."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "[distributing paperwork to the office] Get excited. The special projects fairy has arrived."
+            },
+            {
+                "character": "Creed",
+                "quote": "I know you don\u2019t really exist."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Today, I launch my big charity initiative \u2018Operation Give Back\u2019. Andy has shot down all of my special projects thus far but, this one is about charity. So, I\u2019d like to see him piss on that one."
+            }
+        ],
+        [
+            {
+                "character": "Roy",
+                "quote": "[at Roy\u2019s wedding] Darryl! Ha-ha! What\u2019s happening?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Congratulations, baby!"
+            },
+            {
+                "character": "Roy",
+                "quote": "Ah, thank you!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[Jim and Pam approaching the wedding venue] Is this his house?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Think so."
+            },
+            {
+                "character": "Server",
+                "quote": "[approaching Jim and Pam] Mimosa?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[taking glass] Thank you."
+            },
+            {
+                "character": "Server",
+                "quote": "Would you like me to take your peel?"
+            },
+            {
+                "character": "Pam",
+                "quote": "[embarrassed] Yes, thank you. [finishes banana and hands server the peel]"
+            },
+            {
+                "character": "Jim",
+                "quote": "OK."
+            },
+            {
+                "character": "Pam",
+                "quote": "[as Jim receives and declines a call] Who\u2019s that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, my ex-fianc\u00e9."
+            },
+            {
+                "character": "Pam",
+                "quote": "[sarcastically] Ha-ha."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I started a new business with my college friend. But, Pam doesn\u2019t know. Um\u2026 actually I did tell Pam and we decided \u2018no\u2019. But, then I decided 'yes' anyway. So, I\u2019m thinking there\u2019s another conversation coming. And, it\u2019s hard to know when that will be."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "With Operation Give Back, you pick the charities Dunder-Mifflin supports."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[grinning] Oh boy! What's happening?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "There's four thousand dollars to give away. So, who has filled out their form? Stanley?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "American Diabetes Association."
+            },
+            {
+                "character": "Angela",
+                "quote": "Um, you have diabetes, Stanley. [to Nellie] I'm sorry, is the assignment to pick a selfish charity?"
+            },
+            {
+                "character": "Toby",
+                "quote": "I w-, uh, I would love to give uh-"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[excited] Heifer's International. Listen to this. They give a poor person like, a goat or something. It's a great prank."
+            },
+            {
+                "character": "Creed",
+                "quote": "I wanna work with, uh, Jimmy Carter and help build gnomes."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Dwight, what about you?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I will not be participating as there is no evidence that charity works."
+            },
+            {
+                "character": "Andy",
+                "quote": "Uh, correction, I give to a foundation that teaches homeless children nautical flag signaling. Changes lives."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Thank you, Andy."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm not doing it for you. I'm doing it for the preservation of nautical flag signaling."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Dwight, you will be participating."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No thank you."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Participation is mandatory; Dwight, but you can choose whatever cause you like."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Fine, I chose the Global Relief Foundation."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Great, thank you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Which was recently discovered to be a front for the Taliban."
+            },
+            {
+                "character": "Nellie",
+                "quote": "[everyone groans] Oh, for goodness' sake, Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah. The Taliban in Afa-ghanistan."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "The Taliban is the worst. Great heroine, though."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Dwight, I cannot have the Taliban on the roster of Operation Give Back."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Well, it looks like there won't be any Operation Give Back. Ha, ha. The nanny state is over, ladies and gentlemen. You're welcome. [wads up Nellie's charity sheet and tosses it toward her]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[approaches Roy back at the wedding] There he is. Is it almost time to cut the pancake, or what?"
+            },
+            {
+                "character": "Roy",
+                "quote": "Aw, yeah, god, we appreciate everyone coming so early. It's, everyone's just been so nice."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thanks for inviting us, by the way-"
+            },
+            {
+                "character": "Roy",
+                "quote": "Are you kidding?"
+            },
+            {
+                "character": "Jim",
+                "quote": "That was, that was a surprise."
+            },
+            {
+                "character": "Roy",
+                "quote": "Come on. If it wasn't for you, I never would've met Laura. I mean, seriously, kinda dodged a bullet on that one. [sees Jim's reaction] Just kidding."
+            },
+            {
+                "character": "Jim",
+                "quote": "You're welcome."
+            },
+            {
+                "character": "Roy",
+                "quote": "Thanks...aw."
+            },
+            {
+                "character": "Jim",
+                "quote": "By the way, man, this place is... beautiful."
+            },
+            {
+                "character": "Roy",
+                "quote": "Started a gravel company. I mean, who knew it'd take off?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Gravel company?"
+            },
+            {
+                "character": "Roy",
+                "quote": "Yeah. What about you? What are you doing?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Not gravel, obviously. [both chuckle] No, things are good. Things are good. Got some stuff in the works. So-"
+            },
+            {
+                "character": "Roy",
+                "quote": "Oh, cool."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, you never know."
+            },
+            {
+                "character": "Kenny",
+                "quote": "Hey bro, stop wasting time with this haircut. [referring to Jim] He's got a fifty-thousand dollar sports car. Cheers."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK, Kenny."
+            }
+        ],
+        [
+            {
+                "character": "Clark",
+                "quote": "[talking on phone] Duncan, listen, I would love to help you out but where am I gonna find somebody that's pretty, smart and well-informed? Huh? Hold on, hold on. [covers phone's receiver] Erin, do you know anybody that might want... [has realization] Oh my gosh. You love the news, right?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Well, it depends. I mean, sometimes I find out things that are really sad."
+            },
+            {
+                "character": "Clark",
+                "quote": "Well, I got a buddy that's a big time local news producer and I can't tell you his name, but it'd blow your mind."
+            },
+            {
+                "character": "Pete",
+                "quote": "Uh, is it Duncan?"
+            },
+            {
+                "character": "Clark",
+                "quote": "He's looking for on-air talent and he'd kill me if I didn't get you on tape."
+            },
+            {
+                "character": "Erin",
+                "quote": "You mean, put me on the news?"
+            },
+            {
+                "character": "Clark",
+                "quote": "You'll just come over, put on little lipstick, loosen up with a glass of red wine and then we'll just run through a few stories. You know, a couple different ways, with a couple different outfits. It'd be really tasteful and it'd really help me out with Duncan... with my friend. [Erin considers] What do you say? Huh?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Maybe, ok? Let me think about it."
+            },
+            {
+                "character": "Clark",
+                "quote": "[Pete looks on disappointed] Ok."
+            },
+            {
+                "character": "Erin",
+                "quote": "Whoo!"
+            },
+            {
+                "character": "Clark",
+                "quote": "Think it over. [punches Pete]"
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "No, Clark's not my friend. He is the douche that sits next to me at the office. My friends are Scott, Glenn, and Rob. But, you don't know them."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "I never really thought much about being more than a receptionist. But, why? Because I happened to answer help wanted ad to be a receptionist? I mean, what if the ad had been for a CEO? Or for a brain surgeon?"
+            }
+        ],
+        [
+            {
+                "character": "Roy",
+                "quote": "So, ah, it was a year ago today that I met Laura. I thought she was my waitress and, uh, took her three weeks to tell me that she actually owned the place. You are full of surprises. You are my beautiful mystery girl. And, today, I have a surprise for you. [approaches piano]"
+            },
+            {
+                "character": "Jim",
+                "quote": "He plays piano?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No. Roy? No."
+            },
+            {
+                "character": "Roy",
+                "quote": "You know how I said I was taking boxing lessons? Actually, I was doing this. Um, so, I hope that you like it. [sits in front of piano]"
+            },
+            {
+                "character": "Darryl",
+                "quote": "[clapping] You got this, Roy. [Roy begins playing and singing She's Got a Way by Billy Joel, Pam and Jim looked shocked, Phyllis and Bob begin making out]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[in the car] We still surprise each other."
+            },
+            {
+                "character": "Jim",
+                "quote": "Definitely."
+            },
+            {
+                "character": "Pam",
+                "quote": "You know, I never did it, but for your 30th birthday I really wanted to surprise you with-"
+            },
+            {
+                "character": "Jim",
+                "quote": "Courtside seats. Sixers."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes. But, what I didn't tell you is that I actually bought the tickets. We only didn't go because it was-"
+            },
+            {
+                "character": "Jim",
+                "quote": "It was an away game."
+            },
+            {
+                "character": "Pam",
+                "quote": "In Phoenix. They should really tell you that more specifically. I mean, every game is an away game for one of the teams. [long pause] Do we know everything about each other?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No."
+            },
+            {
+                "character": "Pam",
+                "quote": "Tell me one thing about you I don't know."
+            },
+            {
+                "character": "Jim",
+                "quote": "[laughs] Um, ok. [thinks but says nothing]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[in the kitchen] Oh, here's one. Did I ever tell you about the time that my brothers videotaped the lottery announcement? And bought the winning numbers the next day? And then, played the tape for me the next week, and I-"
+            },
+            {
+                "character": "Pam",
+                "quote": "And you thought you guys were millionaires."
+            },
+            {
+                "character": "Jim",
+                "quote": "You heard that one."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes. But there's, wait, oh, there's a funny ending to that story. I can't remember."
+            },
+            {
+                "character": "Jim",
+                "quote": "That I thought we were millionaires."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thought you were millionaires, yeah. That's funny. Shoot, I knew that one."
+            },
+            {
+                "character": "Jim",
+                "quote": "That's all right."
+            },
+            {
+                "character": "Angela",
+                "quote": "The senator and I still have mystery. I'm always waiting to see what he's gonna surprise me with next. [Oscar chokes on his coffee]"
+            },
+            {
+                "character": "Jim",
+                "quote": "You all right? [Oscar nods]"
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "You support the Taliban abroad. So I assume you're willing to live by their rules here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Anything else would be inconsistent."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Will you join me then in a pledge to live by Taliban law in this office? [offers Dwight a contract]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[takes contract] Absolutely, I will."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I feared Nellie had some sort of a plan but she used a ridiculous font. Huh. [in a fake English accent] You don't have a plan."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "When you use a ridiculous font, no one thinks you have a plan."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "[holds up pen as Dwight searches his desk] Looking for this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What the? [follows Nellie into the break room]"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh, this is a lovely pen. Ah. But, it's mine now because I stole it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[taking pen back] Gimme that."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Didn't you sign a contract to live under Taliban law? And now, there's been theft. That means, you're not serious or... someone's getting their hand cut off."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're insane."
+            },
+            {
+                "character": "Nellie",
+                "quote": "I know. So, it's better that you pick another charity."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, and let your precious Operation Power Grab proceed unchecked? No thank you."
+            },
+            {
+                "character": "Nellie",
+                "quote": "In that case, you... [pulls out a cleaver] will have to chop off my hand."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[considers then takes cleaver] This cleaver appears to need sharpening. I suggest you spend some quality time together just you and your hand. Tie a shoe, toss a salad. Do any of the two hand activities that you'll miss the most."
+            },
+            {
+                "character": "Nellie",
+                "quote": "I tell you what. I need to make three calls. And then after that, you can become a person who chops off people's hands."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Sounds like a plan."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[in his office] Clark wants to film you in different outfits inside his apartment?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[entering annex] Clark, you and I need to have a little chat. What clothes does Erin need for this news audition?"
+            },
+            {
+                "character": "Clark",
+                "quote": "Uh... couple of button-downs, a camisole, a blazer, a pencil skirt, stilettos, maybe, no, no, not maybe, definitely open-toed. Uh, something low-cut because the camera makes everything seem higher cut."
+            },
+            {
+                "character": "Andy",
+                "quote": "Really?"
+            },
+            {
+                "character": "Clark",
+                "quote": "Yeah, industry secret. You're gonna want some of those panty hose with the seam up the back."
+            },
+            {
+                "character": "Pete",
+                "quote": "Seems unnecessary for an audition."
+            },
+            {
+                "character": "Clark",
+                "quote": "And then, you know, maybe just a robe to wear in between takes but I probably got one she can borrow at my place, so-"
+            },
+            {
+                "character": "Andy",
+                "quote": "Thank god someone here knows what their talking about. I want you to take this credit card, take Erin to the mall and get that stuff."
+            },
+            {
+                "character": "Clark",
+                "quote": "I absolutely will do that."
+            },
+            {
+                "character": "Andy",
+                "quote": "Awesome. [to Pete] Plop!"
+            },
+            {
+                "character": "Clark",
+                "quote": "Pff. Guess I'll just head over to the mall then. Buy Erin some sexy, fun outfits."
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "That Clark, huh? Errr [punches palm] Ca!"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "[in kitchen with several people around] Next question for our oldie-weds-"
+            },
+            {
+                "character": "Kevin",
+                "quote": "What's the craziest place you've ever made whoopie?"
+            },
+            {
+                "character": "Angela",
+                "quote": "[to Kevin] Language."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Who was Pam's first celebrity crush?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Pam's first celebrity crush."
+            },
+            {
+                "character": "Toby",
+                "quote": "[whispering] John Stamos."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ready?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Jim",
+                "quote": "[as he and Pam flip their cards] John Stamos."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes. But John Stamos was temporary. I quickly moved on to-"
+            },
+            {
+                "character": "Toby",
+                "quote": "Johnny Depp."
+            },
+            {
+                "character": "Pam",
+                "quote": "Johnny Depp. [everyone looks confused toward Toby]"
+            },
+            {
+                "character": "Toby",
+                "quote": "[after awkward pause] Sh, uh, um, I was having this separate conversation with Kevin. Uh, Johnny Depp."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Totally. George Clooney."
+            },
+            {
+                "character": "Toby",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Angela",
+                "quote": "OK, I have one. I have one. [Jim's phone rings and he motions he's taking the call elsewhere]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[while Angela tries asking a question] What is the craziest place you've ever made whoopie?"
+            },
+            {
+                "character": "Angela",
+                "quote": "[as Pam wonders about Jim] Kevin, stop it with that question."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[in the stairwell on his phone] Right. And did you show them the market? Yeah. And what'd they say? That's awesome! That, oh my god! Wow!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "It's not even real yet. And I'm not gonna tell her 'til it's real."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I think maybe there actually is something I don't know about Jim."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Everyone, we have a voluntary meeting in the conference room to discuss Erin's confidence."
+            },
+            {
+                "character": "Andy",
+                "quote": "Her body. We're gonna talk about her body. [to Darryl] Good. Great job."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Andy made me his consigliere. Which means Assistant Regional Manager. I guess he thought I'd be into The Godfather 'cause I'm black. Wrong! I'm into The Godfather 'cause I'm a cinephile. I like Scarface 'cause I'm black."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[to a full conference room] Erin has an audition to be a newscaster. [general acknowledgement]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Uh-huh. And I want her to feel very comfortable in her very sexy skin. So, everybody say something that you like about her body. All right? Darryl."
+            },
+            {
+                "character": "Darryl",
+                "quote": "OK, um, I like Erin's hair. It's a very pretty color."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, right?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm sorry. This is for a news audition?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Then why are we talking about her looks? Why not her credibility? Or her reliability?"
+            },
+            {
+                "character": "Andy",
+                "quote": "News flash everyone. The human race finds attractive people more trustworthy."
+            },
+            {
+                "character": "Oscar",
+                "quote": "I'm so sorry, Andy, but for twenty years, the most trusted man in America - Walter Cronkite."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Cronkite was hot. If I could go back in time, I'd take that mustache ride."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Does Erin have any experience? Has she taken any journalism classes, maybe? Or..."
+            },
+            {
+                "character": "Angela",
+                "quote": "Has she done the pageant circuit?"
+            },
+            {
+                "character": "Erin",
+                "quote": "No, I watch the news."
+            },
+            {
+                "character": "Andy",
+                "quote": "She's gonna be amazing. Look at her. She's gonna light up the screen."
+            },
+            {
+                "character": "Erin",
+                "quote": "This is a first for me. And, I don't get a lot of chances, so I have to take them really seriously. I will do whatever it takes to get the job."
+            },
+            {
+                "character": "Clark",
+                "quote": "[whispering to Pete] Whatever it takes."
+            },
+            {
+                "character": "Pete",
+                "quote": "[whispering] Yeah, I know, I heard. I heard."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[places Nellie's hand on a board and holds up cleaver] This is it. Any questions?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Is it gonna be long?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. It's gonna be over before you know it."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[pretending to read news] Afghan president Hamid Karzai declared a new policy of dollar days throughout the country. Promising low, low prices on all 2012 Kia Sentras and Sonatas. Aren't you glad you waited? Karzai commented."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Um, where did you get that story?"
+            },
+            {
+                "character": "Erin",
+                "quote": "A little bit here, a little bit there. I bet you didn't think I knew current events."
+            },
+            {
+                "character": "Andy",
+                "quote": "I love it. It's fantastic. Now, tag it with your name."
+            },
+            {
+                "character": "Erin",
+                "quote": "For Channel 11 news, I'm Erin Hannon."
+            },
+            {
+                "character": "Andy",
+                "quote": "Pause after 'news'."
+            },
+            {
+                "character": "Erin",
+                "quote": "For Channel 11 news... I'm Erin Hannon."
+            },
+            {
+                "character": "Andy",
+                "quote": "No, pause longer."
+            },
+            {
+                "character": "Darryl",
+                "quote": "That was a good one."
+            },
+            {
+                "character": "Andy",
+                "quote": "Pause, pause longer. OK? Builds suspense. Don't be shy."
+            },
+            {
+                "character": "Erin",
+                "quote": "Got it. For Channel 11 news... [very long pause]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Wha, it's-"
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm Erin Hannon."
+            },
+            {
+                "character": "Andy",
+                "quote": "OK. All right. Great. Some great stuff in there."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[as Pam stares at him] I can feel you looking at me."
+            },
+            {
+                "character": "Pam",
+                "quote": "OK. Well, here's something you don't know. A couple of weeks ago-"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Pam",
+                "quote": "I ran into this guy from my high school who has just gotten divorced and he hit on me. In the mall. And I didn't tell you because, I don't know, I felt embarrassed. And, I didn't know if you would be mad or worried. But, anyway, I thought you'd want to know."
+            },
+            {
+                "character": "Jim",
+                "quote": "[after a pause] That didn't happen. You would've told me right away."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, I would've. What about you? Come on, there's gotta be something. Between your birth and the last two days, something you just haven't had the chance to tell me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh... [looks at Pam]"
+            },
+            {
+                "character": "Pam",
+                "quote": "[looks knowingly back] Just tell me."
+            },
+            {
+                "character": "Jim",
+                "quote": "God, give it up, Beesley. You know me too well."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Heh! Ha! [making various sounds and movements while preparing to severe Nellie's hand] [Darryl enters, sees what's happening, and quietly exits]"
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "Hey, um, I knew something bothered me and I finally figured it out. What news producers are gonna want to see is how Erin relates to the other people on the news team."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh."
+            },
+            {
+                "character": "Pete",
+                "quote": "The weird thing is Erin is doing the audition alone."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh god."
+            },
+            {
+                "character": "Pete",
+                "quote": "Now, I'd say Clark could be your co-host... he's already doing camera."
+            },
+            {
+                "character": "Erin",
+                "quote": "Tuh."
+            },
+            {
+                "character": "Pete",
+                "quote": "Someone who's already got rapport with Erin, maybe. I don't know. [Andy smiles at camera]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Ha! [raises cleaver] This is for real this time."
+            },
+            {
+                "character": "Darryl",
+                "quote": "It's getting late. I thought you guys could use a little [sets up laptop] inspiration."
+            },
+            {
+                "character": "Nellie",
+                "quote": "[Darryl hits play] Oh, a movie. What is this?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "127 hours. It's about this guy who-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, no. No spoilers. Please."
+            },
+            {
+                "character": "Darryl",
+                "quote": "My bad."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Goodnight."
+            }
+        ],
+        [
+            {
+                "character": "Clark",
+                "quote": "[answers his door to find Erin, Andy and Pete] Hey! Everybody."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Clark",
+                "quote": "Come in."
+            },
+            {
+                "character": "Andy",
+                "quote": "All right!"
+            },
+            {
+                "character": "Clark",
+                "quote": "Come on in."
+            },
+            {
+                "character": "Andy",
+                "quote": "Nice."
+            },
+            {
+                "character": "Clark",
+                "quote": "[to Pete] What're you doing here?"
+            },
+            {
+                "character": "Pete",
+                "quote": "Sorry, man. Andy though Erin needed a co-anchor. I'm his makeup guy. My hands are tied."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[news anchor audition] The victim was released from the hospital with second-degree burns."
+            },
+            {
+                "character": "Andy",
+                "quote": "[also as anchor] Wow. You know what they say Erin. If you can't take the heat, get out of the kitchen."
+            },
+            {
+                "character": "Erin",
+                "quote": "Well, he tried to but the fire door was blocked."
+            },
+            {
+                "character": "Andy",
+                "quote": "He sure did."
+            },
+            {
+                "character": "Clark",
+                "quote": "All right. We got that. That's a rap, everybody."
+            },
+            {
+                "character": "Erin",
+                "quote": "Aw!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Just, you sure Clark?"
+            },
+            {
+                "character": "Clark",
+                "quote": "Yep, she's done."
+            },
+            {
+                "character": "Andy",
+                "quote": "No, I just, I don't mean Erin. I mean for me. I didn't feel good about that."
+            },
+            {
+                "character": "Clark",
+                "quote": "No, we got it. We got it."
+            },
+            {
+                "character": "Erin",
+                "quote": "Great! Let's get some food. I'm starving."
+            },
+            {
+                "character": "Andy",
+                "quote": "I don't think we did get it. I could do, uh, a couple more takes. We could do it in close-up. That might even be better for editing."
+            },
+            {
+                "character": "Clark",
+                "quote": "OK, I don't."
+            },
+            {
+                "character": "Andy",
+                "quote": "All right."
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm hungry."
+            },
+            {
+                "character": "Andy",
+                "quote": "Uh, Pete, you wanna take Erin to get a burger or something?"
+            },
+            {
+                "character": "Pete",
+                "quote": "Yeah, whatever you say, boss."
+            },
+            {
+                "character": "Andy",
+                "quote": "OK. [to Erin] I'll call you later."
+            },
+            {
+                "character": "Erin",
+                "quote": "OK."
+            },
+            {
+                "character": "Andy",
+                "quote": "[to Clark] So this is a single."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Hey, even if this doesn't work out for me, I'm just glad I had the guts to do it. And, maybe it'll work out for Andy."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[as he and Nellie watch the movie] Oh god."
+            },
+            {
+                "character": "Nellie",
+                "quote": "That is absolutely revolting!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Nellie",
+                "quote": "He is so good, though."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes."
+            },
+            {
+                "character": "Nellie",
+                "quote": "The way he just cuts off his arm."
+            },
+            {
+                "character": "Dwight",
+                "quote": "If you like James Franco, we really should watch Rise of the Planet of the Apes."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, he's a genius, you know? He was in graduate programs at Yale, Columbia and NYU all at the same time."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Whoopty doo. That doesn't make you a genius."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, it doesn't make you stupid."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, it does, actually. It makes you real stupid."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Stupid like you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, like you."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Like you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're the stupid one."
+            },
+            {
+                "character": "Nellie",
+                "quote": "You're the stupid one."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're the stupid one."
+            },
+            {
+                "character": "Nellie",
+                "quote": "You're the stupid one."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You, you, you, you..."
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

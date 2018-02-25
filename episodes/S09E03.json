@@ -1,0 +1,1076 @@
+{
+    "season": 9,
+    "episode": 3,
+    "title": "Andy\u2019s Ancestry",
+    "scenes": [
+        [
+            {
+                "character": "Fake Jim",
+                "quote": "Morning, Dwight"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Who are you?"
+            },
+            {
+                "character": "Fake Jim",
+                "quote": "Who am I? I'm Jim. We've been working together for twelve years. Ha, Weird joke, Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're not Jim. Jim's not Asian"
+            },
+            {
+                "character": "Fake Jim",
+                "quote": "You seriously never noticed? Hey, hats off to you for not seeing race."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Alright then Jim. Ahhh, why don't you tell me about that sale that you made yesterday?"
+            },
+            {
+                "character": "Fake Jim",
+                "quote": "Uh, Wellington systems? Sold them 10 cases of 24-pound letter stock. Or, were you talking about Krieger-Murphy? Because I didn't close that one yet, but I'm hoping I've got a voicemail from Paul Krieger waiting for me."
+            },
+            {
+                "character": "Voicemail",
+                "quote": "Please enter your password."
+            },
+            {
+                "character": "Voicemail",
+                "quote": "You have one new message."
+            },
+            {
+                "character": "Dwight",
+                "quote": "How did you know? No! No, no! That is sensitive information only for employees, not outsiders!"
+            },
+            {
+                "character": "Fake Jim",
+                "quote": "Dwight, cut it out, I'm trying to work."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You don't work here! You're not Jim!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim, I got us that dinner reservation. Grico\u2019s at 7:30."
+            },
+            {
+                "character": "Fake Jim",
+                "quote": "Oh great, can't wait. [Kisses Pam]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Jim's at the dentist this morning. And Steve is an actor friend of ours."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I don't know who you are, but you are not Jim. This is Jim!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh my\u2014! Oh d\u2014! Oh, how did\u2014? [gasps] Huhhhhh!"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Heyyy! Study buddies!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Oh, ok."
+            },
+            {
+                "character": "Erin",
+                "quote": "Getting things done. Awesome!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "It's all about finding ways to make yourself more efficient. Life hacking, baby. This morning, I brushed my teeth in the shower. Saved my self 90 seconds. Which I just used to explain this to you. Damn it!"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Since Andy promoted me to assistant regional manager, I've been trying to step my game up, you know, be more productive. In fact, you know what? Let\u2019s knock out a few more of these sound bites while we're here. [pauses] Whoa! That person has really gotten him or herself into quite a predicament."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[speaking in French] S\u201dil vous plait\u2026dites-Moi\u2026Ugggghhh les Bleagh!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ah, French. It's a great language. If you're a chain-smoking acrobat."
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm just trying to fit in better with Andy's family. They all speak more than one language. Usually when I'm there!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You wanna learn a really impressive second language? Try dothraki. Win over any man in my guild."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Dothraki is the native tongue of the nomadic war-mongering horse lords of Essos as featured in the superb Home Box Office series, Game of Thrones. It has a lot of nudity. Which I fast-forward through to get to the chopped-off heads."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I could teach you if you want. It's a lot easier than French."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yeah! Let\u2019s do it!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[exclaims] Atherozar!"
+            },
+            {
+                "character": "Erin",
+                "quote": "[shocked] Oh!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "It means \u201cexcellent\u201d. And we have begun."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[asks Nellie who is tapping a pen on her desk]. Is everything okay?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Hmm? Oh\u2014oh, yeah. Yeah, yeah, yeah, fine. Fine, fine, fine. I'm mean, I d\u2014I just don't wanna\u2014burden you with my massive stress freak outs!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Great."
+            },
+            {
+                "character": "Nellie",
+                "quote": "It\u2019s just that I am taking my driver\u2019s license test in two days, and I need to practice with an experienced driver in the car. But I've had no time to do that, thanks to \u201cDemandy\u201d...[Points to Andy's office with her thumb]. I just want to hit the open road and drive, man! But\u2026in who's car?"
+            },
+            {
+                "character": "Andy",
+                "quote": "[yells] Nellie! Get your wrinkly old balls in here."
+            },
+            {
+                "character": "Nellie",
+                "quote": "[sighs]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Nellie, I could practice with you in my car at lunchtime."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh, Pam, thank you! You are my savior! [hugs Pam]"
+            },
+            {
+                "character": "Nellie & Pam",
+                "quote": "[giggling] ohhhhhhhhhhhhhh!!!"
+            },
+            {
+                "character": "Pam",
+                "quote": "[to Jim] I'm sorry, I'm leaving you alone for lunch."
+            },
+            {
+                "character": "Jim",
+                "quote": "Don't worry about it. I have a thing. A thing of soup. Which I've been wanting to try."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "This is my research into how we might produce child-proof paper that doesn't give you paper cuts. We can't. And here is a print out of your genealogy from thisisyourfamilytree.com"
+            },
+            {
+                "character": "Andy",
+                "quote": "Executive-summary me. Hit the highlights."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, it turns out, you are a distant blood relative of Michelle Obama!"
+            },
+            {
+                "character": "Andy",
+                "quote": "As in..."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Wife of Barack, loves gardening, wants to wipe out fat children."
+            },
+            {
+                "character": "Andy",
+                "quote": "[silently mouths] Wow!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "This is super-flattering. She's the most popular person in America. This is a big day for both of us."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "My fellow Americans, I have a feeling my approval rating is about to go through the roof. Turns out, I am related to Michelle Obama."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "I was intimidated by Andy's family before. And now I have to see the First Lady at holidays? She's gonna be like, \u201cWhat's your stance on politics?\u201d Or, \u201cWhat is the best war to do?\u201d And, I will just be like, \u201cDuhhhh!\u201d"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Alright! We gotta get rid of all this junk food. Get fit, America! Not sure if the buzz has reached the annex yet, but uh...I'm related to Michelle Obama."
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "Yeah we noticed early on, Andy really appreciates enthusiasm."
+            },
+            {
+                "character": "Clark",
+                "quote": "So we decided the best way to get ahead here is to be his cheerleaders."
+            }
+        ],
+        [
+            {
+                "character": "Clark",
+                "quote": "Oooohhhhhhhh!"
+            },
+            {
+                "character": "Clark",
+                "quote": "It's starting to have this reverse effect, though, where I really do think the stuff he does is awesome."
+            },
+            {
+                "character": "Pete",
+                "quote": "Yeah, me too. It's weird. Hard to remember what's real at this point."
+            },
+            {
+                "character": "Clark",
+                "quote": "Just clap through it, man."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "You log in sales at ten different times. If you log \u2018em all at once, you save a lot of time. It's called batching."
+            },
+            {
+                "character": "Jim",
+                "quote": "That was really good, Darryl."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Life hacking, man."
+            },
+            {
+                "character": "Andy",
+                "quote": "There he is!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Andy, you gotta check this out. He just showed me\u2014[gets interrupted by Andy]."
+            },
+            {
+                "character": "Andy",
+                "quote": "[shushing Jim] Ahhhthathathathathta. Right now I need canned tuna, okay? Darryl, guess which talented individual, who also has a killer singing voice, is related to the First Lady?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Tracee Ellis Ross. Daughter of the First Lady of Motown, Diana Ross."
+            },
+            {
+                "character": "Andy",
+                "quote": "It's me! [chuckles] I am related to Michelle Obama."
+            },
+            {
+                "character": "Darryl",
+                "quote": "What?! Really?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I mean, it's distant, but..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "[chuckles in agreement] Huh ha! That's cool, man."
+            },
+            {
+                "character": "Andy",
+                "quote": "Right?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Darryl said, \u201cCool, man.\u201d He called me as cool man."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You know, I really do think it would be worth it to pull over and just take ten minutes to eat."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Mmmm\u2014the thing is Pam, I'm gonna be eating while I\u2019m driving, so, I might as well get good at it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Brake lights. Break lights! Break lights! Break lights!!!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Whhooooo!"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "I\u2019m just saying, what does it imply in this country when a white person shares an ancestor with a black person?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "You think that Andy's family owned slaves?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Well somebody owned somebody. And I don't think anybody would buy an Andy."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I throat-rip."
+            },
+            {
+                "character": "Erin",
+                "quote": "Foth aggendak!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You throat-rip."
+            },
+            {
+                "character": "Erin",
+                "quote": "Foth aggendi!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "He\/she\/it throat rips."
+            },
+            {
+                "character": "Erin",
+                "quote": "Foth aggenda!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "More of a, barbaric growl."
+            },
+            {
+                "character": "Erin",
+                "quote": "[in a barbaric growl] Forth aggenda!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Louder! You\u2019re shouting it from the back of a horse!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Wah!! Aggenda!!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Pretty crazy about Andy and Michelle Obama, huh?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "[laughs mischievously] Yeeeeahhhh! It's almost unbelievable!"
+            },
+            {
+                "character": "Pam",
+                "quote": "What?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, you know how Andy has been really salting my onions, lately."
+            },
+            {
+                "character": "Pam",
+                "quote": "Sure."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Well, when he asked me to look up his ancestry online, I remembered that news story about Michelle Obama having white relatives, and I just knew he would eat that up!"
+            },
+            {
+                "character": "Pam",
+                "quote": "So he's not related to Michelle Obama?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Pam, I barely know how to turn on my computer."
+            },
+            {
+                "character": "Pam",
+                "quote": "[laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Nellie's pretty fearless. And I think she might be maybe even almost sort of fun."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "[whispers] Pam! [she pretends to slam a wrench over the tire service guy\u2019s head]."
+            },
+            {
+                "character": "Pam",
+                "quote": "[laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "Well, if there\u2019s another explanation, I don't really see what it could possibly be. I\u2014[gets cut by Andy barging into the convo]"
+            },
+            {
+                "character": "Andy",
+                "quote": "What's going on here? I'm related to the first lady, okay? Get over it. [chuckles] I still need weekly status reports from most of you, sooooo, can we get back to work, please? Get back to work! [Mimicks smacking everyone with a whipl]."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Andy! Andy! No! I would be very polite today."
+            },
+            {
+                "character": "Andy",
+                "quote": "Why? Is it employee\u2019s day or something? I cannot keep track of these BS holidays."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Your connection. To Michelle Obama has certain... negative connotations. Most likely, your family were\u2014slave owners."
+            },
+            {
+                "character": "Andy",
+                "quote": "Does anyone else think it's possible that I come from slave owners?"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Whoa! That person has really gotten him or herself into quite a predicament."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey mom, it's Andy. Give me a call when you get a chance gotta quick question for you, uhhhh no big deal just about America's national shame, thanks, Bye."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yes, yes, yes."
+            },
+            {
+                "character": "Andy",
+                "quote": "Great. Ooo! Spreadsheets! Yum, yum!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "I included some time saving ideas..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Huh huh huh. Look, I'm not gonna lie to ya, I'm a teensy bit distracted right now."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Look, Andy, even if your ancestors did own slaves, it wouldn't be your fault. This is only weird if you make it weird."
+            },
+            {
+                "character": "Andy",
+                "quote": "[snaps his fingers] Right on, brotha. Wurddd."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Addor!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Daraas!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Qazer!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Daraas! [asks the rest of the office] Does anyone here have fermented mare\u2019s milk?"
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "Hey Erin!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Azem choma! Chomakka-attun!"
+            },
+            {
+                "character": "Pete",
+                "quote": "Oh\u2014okay. Sorry."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Oh, still, it must great to have something else going on outside of work."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah\u2014turn signal. It's exciting to be painting again\u2014those are the wipers. So\u2014the\u2014its\u2014just. There you go! Yeah. [chuckles] Yeah, things get so busy with the kids\u2014red light\u2014that it's nice to have that creative outlet\u2014red light! Red light! Red! Red!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "That is brilliant, Pam. I would love to see some of your work."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, since we're stopped at a light, uhhh, here is...the mural I did for Angela's baby."
+            },
+            {
+                "character": "Nellie",
+                "quote": "That\u2019s amazing, Pam! Oh, I love the lion in the tuxedo!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Angela insisted that all the animals be fully clothed."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[to Erin]. Heyyy, has anyone turned in their status reports up here?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Vos!"
+            },
+            {
+                "character": "Andy",
+                "quote": "So, no? You think maybe you could remind people? I'm trying to down play the whole bossy boss thing today."
+            },
+            {
+                "character": "Erin",
+                "quote": "Because of your slaves."
+            },
+            {
+                "character": "Andy",
+                "quote": "Not my slaves, my ancestors\u2019. Maybe. Probably not."
+            },
+            {
+                "character": "Erin",
+                "quote": "Well, if it makes you feel any better, the dothraki word for \u201cslave master\u201d, \u201cattafrauk!\u201d, is a term of respect. I'm learning how to speak dothraki! Color you impressed?"
+            },
+            {
+                "character": "Andy",
+                "quote": "That you\u2019re learning a made-up language from HBO\u2019s Game of Thrones? I have a lot going on today...but this was a great nerd-out!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Dwight, you didn't tell me you were teaching me a fake language."
+            },
+            {
+                "character": "Dwight",
+                "quote": "People laughed at Klingon at first, and now you can major in it."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hi guys."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Hey boss! I am so thirsty. Could I have a scoop of water?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah. You don't have to ask me."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ha ha! Okay. Great. Very funny. I get it. Just because my ancestors happen to be\u2014[ringtone of Dixie plays]. Very funny, Kevin. Changed my ringtone. Very funny. I liked the original song on my ringtone, which, you may remember, was \u201cDiamonds on the Soles of Her Shoes\u201d by Paul Simon, featurinnnngg Lady Smith\u2014African American\u2014Mambazo."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Good. Very good. [cell phone beeping]Oh\u2014no! Here. It's, uh, a text from Andy. \u201cNew special proj. Need fam tree for evbody. Really dig up dirt A.S.A.P.\u201d And then in parentheses, he wrote out \u201cas soon as possible.\u201d"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Mm. Ugh, looks like its pretend-y time again. Write back, \u201clooking for dirt.\u201d"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, can I help? We could say someone is related to, uhm, Tonya Harding."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Pam, I'm related to Tonya Harding."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh\u2014gee\u2014I\u2019m\u2014"
+            },
+            {
+                "character": "Nellie",
+                "quote": "No! I'm just practicing my lyyiiinggg! [whispers] I love it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Brilliant!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "What should we say about Jim?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Ummm. Oh! I'll say he's related to Richard Nixon. It's an inside joke. He looks really Nixon-y when he wakes up."
+            },
+            {
+                "character": "Nellie",
+                "quote": "My ex behaved like Nixon. All of the lying. None of the sexual charisma. [pauses] I just made a joke there."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I'm sorry. It's just, uhm, I actually do have this weird feeling that there\u2019s something Jim isn't telling me."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh no! Oh! An affair! It is always an affair!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Jim? No."
+            },
+            {
+                "character": "Nellie",
+                "quote": "[sighs]. How can you be sure?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Because he just loves me too much."
+            },
+            {
+                "character": "Nellie",
+                "quote": "You're a cocky little thing, aren't you, Pam?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I've done a little genealogy research of my own. Turn out I'm not the only one with a few skeletons in the ol\u2019 family closet. For example, Phyllis's great-great grandmother was responsible for spreading cholera to the United States."
+            },
+            {
+                "character": "Angela",
+                "quote": "Ew."
+            },
+            {
+                "character": "Andy",
+                "quote": "Kevin is related to both John Wayne Gacy and John Wayne Bobbitt."
+            },
+            {
+                "character": "Kevin",
+                "quote": "And John Wayne?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No. Not that I see here."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Wayne Johnson? The Rock?"
+            },
+            {
+                "character": "Andy",
+                "quote": "You mean Dwayne? And no. What about Jim Halpert? Uh oh! Turns out, distant relative of the reviled, Richard Nixon!"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Pam always says I look like Nixon. That's crazy, right? I mean there's nothing there. True\u2014[touches his nose] Oh no."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Dwight's grandfather was a\u2014[is interrupted by Dwight]."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Was a member of the Bund. Which is not technically the same thing as the Nazi party. So\u2026[clears throat]"
+            },
+            {
+                "character": "Andy",
+                "quote": "I was gonna say he was a tax evader."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh. I was joking about that whole Bund thing. Oh ho, the look on your faces! Hahhahahahahah! Hahahahahah!"
+            },
+            {
+                "character": "Andy",
+                "quote": "And Meredith is a blood relative of Lizzie Borden."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Cool! Ah! Ah! Ah! Ah! [mimics stabbing into Angela\u2019s throat]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Stop it! Stop it! You're frightening me!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Andy, did you call this meeting just to talk junk about our families?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, that\u2014you're being really mean, Andy."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, Andy."
+            },
+            {
+                "character": "Andy",
+                "quote": "No, I'm proving a point, okay? We all have ancestors who may have done horrible things in the past. But it's in the past and it\u2019s not our fault. So we don't have to talk about it."
+            },
+            {
+                "character": "Oscar",
+                "quote": "The difference is, Andy, that you're the only be here still benefitting from the terrible things that your ancestors did."
+            },
+            {
+                "character": "Andy",
+                "quote": "Might've done. And how\u2026 do you figure?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Your family's rich! I have to believe that a big part of the Bernard fortune was earned on the backs of slaves."
+            },
+            {
+                "character": "Andy",
+                "quote": "You know, there's nothing wrong with being successful in America, Oscar! I'm not gonna apologize for my family's wealth. That wealth, could one day benefit society...if capital gains are ever taxed as the same rate as earned income."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Really?"
+            },
+            {
+                "character": "Andy",
+                "quote": "We merely transported them. Which at worst, makes us amoral middlemen."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Yo, d-dog. I need your help. I'm trying to think of things I can say that make it sound like I had a more difficult childhood than I actually had."
+            },
+            {
+                "character": "Darryl",
+                "quote": "You\u2019re gonna po\u2019 mouth"
+            },
+            {
+                "character": "Andy",
+                "quote": "Exactly. Help me po\u2019 mouth, Darryl."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Actually, Andy, you promised me five minutes to talk about productivity suggestions\u2014"
+            },
+            {
+                "character": "Andy",
+                "quote": "What if I said that my dad beat me. And, I just left out the croquet of it all. Or, I could just go all the way and just say I grew up in an apartment. Or is that too crazy?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "That could work."
+            },
+            {
+                "character": "Andy",
+                "quote": "You now, Darryl, this is textbook assistant regional manager stuff here, and I feel like I'm doing all the heavy lifting. I'm coming up with all the ideas here."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I\u2019m going for a walk."
+            },
+            {
+                "character": "Andy",
+                "quote": "[with a sigh] Okay."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Good. Good. And\u2014[Nellie hits the car against the bushes]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "You doing alright, man?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "I'm done. I gotta get out of here."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. Not the easiest day to be assistant regional manager."
+            },
+            {
+                "character": "Darryl",
+                "quote": "It's not just today, it's everyday. It seems like the better title I have, the stupider my job gets."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, come on, it can always get better. Right?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hmm. Yeah right"
+            },
+            {
+                "character": "Jim",
+                "quote": "No, I'm serious. There's always something better."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Like what?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Like hypothetically\u2026 if I said there was another job. That you and I could both have."
+            },
+            {
+                "character": "Darryl",
+                "quote": "What kind of job?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Something cool. Like, sports marketing or... that sound something like you'd be into?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hell yeah!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Right?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "That sounds awesome!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, but wait. What if I told you that it was in Philly! So you'd have to..."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I love Philly!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Right?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "It's not even a thought\u2014"
+            },
+            {
+                "character": "Jim",
+                "quote": "Not even a thought! It's not even that far away! I could still commute! Exactly. Exactly! Alright!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "What? Wait, wait, wait? So what? This happening?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, it\u2019s happening! Let\u2019s just keep it between you and me for right now."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah. Yeah, yeah, yeah. For sure. For sure. for sure. Man! And Pam's into it?"
+            },
+            {
+                "character": "Jim",
+                "quote": "We, uh, we haven't talked about. But I think that she's\u2014I think she understands... what this is."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Oh, come on, man. I thought you had something real."
+            },
+            {
+                "character": "Jim",
+                "quote": "What? No, no, no! Come on! This is real!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "It's not real... until your wife is on board."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "So what did you want to show me?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "That is quite an ugly wall, isn't it?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah. It's really ugly"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Needs something, doesn't it? I'm thinking\u2026a mural."
+            },
+            {
+                "character": "Pam",
+                "quote": "You mean me?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yes! You! You are soo talented! It\u2019s going to be my next special project. Hiring Scranton\u2019s most dangerous young muralist to paint the warehouse wall."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my god! I love it! Uh, I\u2014Nellie, this is brilliant! [sees Jim] Hey!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey! Can I talk you? For a second?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Anything you have to say to her, you can say to me. She never loved you!"
+            },
+            {
+                "character": "Pam",
+                "quote": "What?! No! I-I got this. [Laughs] Okay?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "[quietly] This is his fault. It is not your fault. I'm gonna find you someone better, and rich."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "And Filipino. But we\u2019ll break that to her later."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "[to Darryl] You know what this is all about."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Yeah. You too, huh?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yeah. Go on, spill it. Tell her all the gory details, youuuu sssnake!"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Hey! He deserves this. And he said I could get in on it too. [whispers] Yeah."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Ohhh, Pam, nooo! Oh, I can't bear to watch this."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I don't know what I was so worried about. I have the best wife in the world."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I still can't believe he didn't tell me."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I was helping Nellie drive\u2014[Stanley interrupts]"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Do not care."
+            }
+        ],
+        [
+            {
+                "character": "Pete",
+                "quote": "Fonas chek!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Dothraas! chek! [giggles]"
+            },
+            {
+                "character": "Andy",
+                "quote": "I like that guy. We should hook him up with Meredith."
+            },
+            {
+                "character": "Erin",
+                "quote": "[in agreement] Hmmm!"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

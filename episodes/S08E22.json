@@ -1,0 +1,1040 @@
+{
+    "season": 8,
+    "episode": 22,
+    "title": "Fundraiser",
+    "scenes": [
+        [
+            {
+                "character": "Ryan",
+                "quote": "[pacing back and forth.] No, no, no, no, no, no, no! No, no, no, no, no, no."
+            },
+            {
+                "character": "Pam",
+                "quote": "Okay fine. Ryan, something the matter?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Smokey's dead."
+            },
+            {
+                "character": "Pam",
+                "quote": "Smokey, the bear?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Smokey Robinson Pam. He died like an hour ago, I guess I'm the first to know."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow That's terrible, I really liked him."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Oh you liked him? That's nice. Did you like when he changed the course of American music like two or three times? Did you like that tracks of my tears is maybe the last true love song ever written? I'm glad you liked him Jim. I am completely devastated right now."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, I second that emotion."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Huh?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "I know a few of his songs, but what were his big ones?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Oh God, Nellie! What wasn't his? I mean, um, \"Tracks of my Tears\"?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yeah"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Um... God, so many, Nellie!"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, no, no, \"Tracks of My Tears\" and what else? What are some more? What's one more?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay, I'm not... I'm not playing this game, Pam. Not today."
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't think you love Smokey Robinson. I think you're just doing all of this to prove how deep you are about music"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay, I'm sorry I'm not a fan of Jason Mraz or the Beatles."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You don't like the Beatles?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "That's... That's not the point!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Eleanor Rigby? Paperback writer?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay, you know, you always think you have time to see these legends before they go. What was I so busy doing?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "It says here this Smokey Robinson dead thing was a hoax. It's on CNN as of two minutes ago."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay well, that's a relief!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow! Look at that! It says he's actually playing State College. That's only three hours away!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my God, Ryan! That's perfect! You have to go!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Tickets are 250 bucks."
+            },
+            {
+                "character": "Pam",
+                "quote": "250 dollars is nothing to the world's biggest Smokey Robinson fan."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah... Who's opening?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Paul Anka."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Paul Anka?! How can they make the Smoke Man play with someone like that? I don't think I can see this."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, you could just show up late though."
+            },
+            {
+                "character": "Ryan",
+                "quote": "How much is parking, like 30 bucks? That's not what Smokey would have wanted. Does want."
+            },
+            {
+                "character": "Pam",
+                "quote": "Tears of a clown!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Don't call me a clown, Pam. You're better than that!"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Looking good, RC!"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Ugh, I hate ties! I feel like I'm being strangled like I'm at some erotic asphyxiation sex club over on I-84. The red room say? Or Dominick's?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Robert! The senator was going to wear dark brown tonight... I'm sure it will be fine."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "My husband is sponsoring a fundraiser tonight for local dog shelters! Robert California bought two tables for everyone here! These people were lucky to get seats because it is going to be a who's who of the northern 22nd district!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I don't want to alarm people, but there is a distinct chance that we are all about to be killed"
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, as long as you don't want to alarm people..."
+            },
+            {
+                "character": "Oscar",
+                "quote": "What's going on?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "There is a disgruntled ex-employee sitting in his car in the parking lot."
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh that's Andy. He's just hanging out"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That's how workplace tragedies always begin. A middle aged white male \"hanging out\". Call the cops!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Dwight, I don't think he's going to hurt anybody."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "How do you? I mean, why do you think he's there?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I don't even know what kind of weapon he has. Could be a knife, could be a gun. Could be a series of guns all lined up to shoot parallel. I'm going up to the roof. [Grabs bag.] And I'm gonna bring my gym bag just in case."
+            },
+            {
+                "character": "Nellie",
+                "quote": "I knew this would happen! Everybody told me if I moved to America, I'd be murdered."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Hey, just wanted to say hi and hear you say everything is normal. Maybe video tape you saying that so that everyone upstairs can see."
+            },
+            {
+                "character": "Angela",
+                "quote": "We think you might kill Robert."
+            },
+            {
+                "character": "Andy",
+                "quote": "What?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "because he fired you which means apparently you're living in your car now."
+            },
+            {
+                "character": "Andy",
+                "quote": "guys, everything is fine! I'm just here to pick up Erin. We're going to the Fundraiser."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, great! That sounds good!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Wait, what? You're going to the fundraiser tonight? That's going to be weird."
+            },
+            {
+                "character": "Andy",
+                "quote": "Why would that be weird?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "It's going to be super weird, he just fired you last week."
+            },
+            {
+                "character": "Erin",
+                "quote": "Andy's just coming as my date."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hey, I hear you! I hope you're right. It just seems like it's going to be really, really weird."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "[hears knocks on door.] Come in!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "You really re-did Andy's office, huh?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yes, cut out the clutter. Very simple, very minimal."
+            },
+            {
+                "character": "Darryl",
+                "quote": "I need you to sign these, we got a shipment going out."
+            },
+            {
+                "character": "Nellie",
+                "quote": "How are things in the warehouse?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "You could go downstairs and ask them?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "The warehouse isn't downstairs? [laughs.] Is it? Is it?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Who knew, right?"
+            },
+            {
+                "character": "Nellie",
+                "quote": "[speechless.] I..."
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Tonight could be the night that Darryl and I go from casual work friends to actual good friends. The only thing standing in our way is the contempt he seems to feel for me."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Robert, the senator and I wanted to stop by and say hello."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hello! Did anyone order a blast from the past, with a side order of sexy?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oh man, this is weird!"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andrew. [Robert extends his hand.]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, Wanna shake my hand, huh? Cause I want to shake your body! [hugs Robert and laughs.] I had you, I had you!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[points back and forth at the multiple cameras] Where do I look? It's been so long since I did one of these things? Okay, alright! What's the question? How am I doing? Umm... Great!"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Creed, I just bid twenty dollars on six Jiu-Jitsu lessons. No one's raping this guy!"
+            },
+            {
+                "character": "Creed",
+                "quote": "Well, I don't want to get raped [picks up clipboard] Twenty-Two!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "No! It was my idea to not be raped!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[Dwight enters] Wait, you think Jiu-Jitsu classes cost $22 [grabs clipboard.] If you're going to guess the price, you might as well try to be halfway accurate. $180!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Whoa, Dwight, I don't think you understand."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You guess the price, you win the prize. Have you never been to a Quaker fair before? God!"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "So Dwight doesn't understand silent auctions. I guess he's the stupid guy in the office, huh? Up till now, we didn't have one!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "What haven't I been doing? Gosh, just today I was working on this rock opera that I'm writing, though it feels more like I'm receiving it than writing it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow, that's exciting! But until you firm up the idea, you might want to keep it between us."
+            },
+            {
+                "character": "Andy",
+                "quote": "The hero lives in this dystopian future and he flies around in a spaceship that's shaped like a treble clef. And he has to sing his heart out to destroy all evil."
+            },
+            {
+                "character": "Pam",
+                "quote": "Sounds like you're doing alright."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ehh, a little better than alright, actually. Really good!"
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Oh, this guy is having a breakdown."
+            }
+        ],
+        [
+            {
+                "character": "The Senator",
+                "quote": "You know, Oscar, I really had no idea you were so passionate about animals."
+            },
+            {
+                "character": "Oscar",
+                "quote": "my dog Gerald is my life."
+            },
+            {
+                "character": "The Senator",
+                "quote": "really? Well, if you want to get involved, call me. This is my cell. I'm more likely to pick up night, say after 9... Excuse me. [Walks away.]"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "This confirms three things: I'm right about the senator, I still got it, and poor Angela."
+            }
+        ],
+        [
+            {
+                "character": "Robert California",
+                "quote": "[telling story to Nellie.] I stepped in right away and start--"
+            },
+            {
+                "character": "Andy",
+                "quote": "Bobby! Bobbo! You're a rock opera guy, right? You like rock operas?"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Well..."
+            },
+            {
+                "character": "Andy",
+                "quote": "You gotta check out this thing I'm working on, it's really cool. There's this character Thomas Oregon, and he wants to destroy all the guitars in the world because he realizes that music is the one thing he can't control."
+            },
+            {
+                "character": "Robert California",
+                "quote": "So, Thomas Oregon is an evil figure?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Evil! [chuckles.] although he's humanized in the end because he weeps uncontrolably and pees in his pants."
+            },
+            {
+                "character": "Robert California",
+                "quote": "and the hero, who's that based on?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Me, I guess. [sings.] We're flying so high, we're crackin' the sky! Gonna fly out of this dome my girlfriend and I!"
+            },
+            {
+                "character": "Meredith",
+                "quote": "Hey jabroni. Show some class."
+            },
+            {
+                "character": "Stanley",
+                "quote": "She's right, Andy. you're being a jabroni"
+            },
+            {
+                "character": "Andy",
+                "quote": "You're being a Thomas Oregon!"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andrew, I think this may have been a bad idea. Why don't you let me pay for you and Erin to go out to a great romantic dinner tonight?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Don't need you to pay for me. I'm doing just fine, thank you. Why don't you quit harshing our mellow?"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy you should leave. Now."
+            },
+            {
+                "character": "Andy",
+                "quote": "[to Waiter.] Excuse me. I would like to purchase two seats at another table, please."
+            },
+            {
+                "character": "Waiter",
+                "quote": "I'm sorry, the tables are sold as complete units."
+            },
+            {
+                "character": "Andy",
+                "quote": "then I'll take a table!"
+            },
+            {
+                "character": "Waiter",
+                "quote": "Okay"
+            },
+            {
+                "character": "Andy",
+                "quote": "And a high five! [Raises hand, misses high five with waiter.] Oh, let's do this again!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[waiter is cracking pepper into Andys salad] Oh, yes indeed... When! [Waiter begins walking away.] Whoa, whoa, whoa! You forgot a few salads! [waiter peppers another salad.] When!"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "I stumbled into a very dramatic situation. Angelas husband just hit on me!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my god!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "I know!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait, what? Come on!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "We were talking about animals, he gives me his cell phone number. He was just dying for me to have it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, Oscar, I'm not saying you're not dreamy, because you are, but isn't it possible that he was just schmoosing a voter?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Well, if you would have seen the look he gave me, he wanted to run more than just my vote."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, what was this look? [Oscar does the look.]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Whoa!"
+            },
+            {
+                "character": "Jim",
+                "quote": "What happened, did he do it?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Are you-- Twice! For real?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay guys, not every glance means something, alright? Life isn't Downton Abbey."
+            },
+            {
+                "character": "Pam",
+                "quote": "Life is Downton Abbey."
+            },
+            {
+                "character": "Jim",
+                "quote": "Here's what I'm going to do. I'm going to go over there and I'm going to talk to him and I guarantee you he gives out his cell phone to everybody."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[on phone.] How much do you guys charge for a one full year gym membership? Thank you!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "It's $475! Like candy from a baby!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey... David Wallace!"
+            },
+            {
+                "character": "David",
+                "quote": "Andy Bernard!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey, how are you?"
+            },
+            {
+                "character": "David",
+                "quote": "How you doing, I'm great! How you doing, are you still with Dunder Mifflin?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No, got canned last week."
+            },
+            {
+                "character": "David",
+                "quote": "Oh, I'm sorry to hear that."
+            },
+            {
+                "character": "Andy",
+                "quote": "No, best thing that ever happened to me."
+            },
+            {
+                "character": "David",
+                "quote": "That's the attitude to have. You know what, when I got canned, I was lost, right? I poured myself into this ridiculous vacuum for toys called Suck-It."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yikes!"
+            },
+            {
+                "character": "David",
+                "quote": "Yeah, exactly right? Then suddenly out of nowhere, the US military bought the patent from me for twenty million dollars! The point is, forget those guys, k? Move on! Good to see you, Andy!"
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "Call me a lame man, but I wish there was some real food here. You know, like hamburgers... Or Oreos... Or a pizza pie or, what's another food that we like?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Tacos."
+            },
+            {
+                "character": "Nellie",
+                "quote": "What I wouldn't give for a big mess of tacos right now!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "I can go get us some tacos."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Brilliant!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "If you loan me some money."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Yes, I can do that. For, um, for two tacos, we'd probably need about what 20... $20? Or $25? $20?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "$30."
+            },
+            {
+                "character": "Nellie",
+                "quote": "$30, yes!"
+            }
+        ],
+        [
+            {
+                "character": "Nellie",
+                "quote": "I've never eaten a taco. I'm not entirely sure what they are. As long as they're not slimy, and please god don't let them have eyes!"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "[Jim shakes Senators hand, returns to table.] So?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Boom! [hands Oscar a business card.]"
+            },
+            {
+                "character": "Oscar",
+                "quote": "This is interesting."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hm-hmm."
+            },
+            {
+                "character": "Jim",
+                "quote": "what is interesting? I just proved that he gives his cell out to everybody."
+            },
+            {
+                "character": "Pam",
+                "quote": "Or you proved that he thinks you're gay."
+            },
+            {
+                "character": "Oscar",
+                "quote": "He does not think Jim's gay. A gay man would not leave the house wearing those shoes."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, a gay man would not leave the store wearing those shoes!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, hey! you bought me those shoes!"
+            }
+        ],
+        [
+            {
+                "character": "Speaker",
+                "quote": "Before we bring out our guest of honor tonight, we are very proud to introduce a great philanthropist and a great guy. Robert California!"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Thank you. Why do we love dogs? Want me to tell you why? There is no answer. Our love for them confounds reason!"
+            },
+            {
+                "character": "Andy",
+                "quote": "can you believe this guy?"
+            },
+            {
+                "character": "Robert California",
+                "quote": "The state senator, Robert Lipton, loves dogs. he asked me if I loved dogs. you know what I said? Yes! [laughter.]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Not a joke. That was not even a joke."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Bella here was a therapy dog for ten years. when her owner passed away she came to this organization for placement. But people don't often adopt older dogs, so Bella and eleven heroes like her are being cared for by our generous volunteers because frankly nobody else will"
+            },
+            {
+                "character": "Andy",
+                "quote": "I will! I will take all of those dogs!"
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy, that's very kind--"
+            },
+            {
+                "character": "Andy",
+                "quote": "No, no, no. This guy can talk and talk all he wants, but it's not that complicated."
+            },
+            {
+                "character": "Robert California",
+                "quote": "Andy why don't we discuss this at a--"
+            },
+            {
+                "character": "Andy",
+                "quote": "No, no, no, it's about being there for someone after it's become inconvenient for them to be around. Hello everyone, I am Andy Bernard and I am going to take that bitch home! That is a female dog reference. [Points at himself] This bitch understands loyalty! Sassy human reference [grabs dog] thank you, I will take Bella and every single one of her friends!"
+            },
+            {
+                "character": "Erin",
+                "quote": "Oh God!"
+            },
+            {
+                "character": "The Senator",
+                "quote": "Mr. Bernard, right this way."
+            },
+            {
+                "character": "Andy",
+                "quote": "Okay! Hope you all learned something!"
+            }
+        ],
+        [
+            {
+                "character": "Vet",
+                "quote": "Huey is going to need this medication once every 90 minutes. You can administer it orally, but he's going to puke it up. So, other end is best. Don't split up Daisy and Mojo because daisy will start to, uh... I was going to say bark, but it's more of a scream."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'm so ready to love all of these animals. This one's even bonding with me already."
+            },
+            {
+                "character": "Vet",
+                "quote": "Uh, no. Kenny's a therapy dog. He apparently thinks you're in some kind of emotional crisis."
+            },
+            {
+                "character": "Andy",
+                "quote": "Stupid dog."
+            }
+        ],
+        [
+            {
+                "character": "The Senator",
+                "quote": "Well, if you would like to talk about this some more, my office is always open! So here's my office number, and my cell number."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Thank you!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Well, looks like he really did just want to talk about the issues. i'm Sorry Oscar."
+            },
+            {
+                "character": "Oscar",
+                "quote": "sorry about what? There's nothing to be sorry about here."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "No. I'm certainly not disappointed that Angelas husband was not hitting on me. I'd have to be a monster to root for that. A lonely, aging monster."
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "Tacos were on sale, eight for $3!"
+            },
+            {
+                "character": "Nellie",
+                "quote": "Oh, great! Okay, oh... Oh, these tacos!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hmhmm."
+            },
+            {
+                "character": "Nellie",
+                "quote": "Mmm! Uhh [Eats Taco incorrectly.] Mmmm... Oh! Hmmph!"
+            }
+        ],
+        [
+            {
+                "character": "Darryl",
+                "quote": "She's trying."
+            }
+        ],
+        [
+            {
+                "character": "Speaker",
+                "quote": "The winner of the three day trip to the sky top lodge is Dwight Schrute!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[applause] Yes! Thank you!"
+            },
+            {
+                "character": "Speaker",
+                "quote": "The yearlong membership to Scraton-Bikram Yoga is Dwight Schrute!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[applause] Oh yes! Yeah!"
+            },
+            {
+                "character": "Speaker",
+                "quote": "A one hour appointment with the kissing magician goes to Dwight Schrute!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[applause] Oh, oh, oh! Yeah! Ha, ha!"
+            },
+            {
+                "character": "Speaker",
+                "quote": "Well, I think I can save us some time, Dwight Schrute has won every single item here!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Thank you very much! All I had to do was look at the prices, idiots! Suck it!"
+            },
+            {
+                "character": "Speaker",
+                "quote": "Well, Dwight, yes! You certainly are a record breaker! Your donation is the largest we've ever received at over 34 thousand dollars! [applause]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Speech! Speech! Speech! Speech!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Thank you. Wow, I can't tell you what an honor it is to support this thing... And obviously that amount of money is no concern to me whatsoever. But, I want to ask you something: when did it become all about the money. when did it become about the flower arrangements, and the white wine spritser, hmm? and all the dinner rolls. you people should be ashamed of yourselves! How many courses did we have tonight, two? Three maybe, if you choose the pudding? I mean what waste! these tables tarted up like Victorian whores! lets' remember we are all here for the dog society. He's what's important, whatever his name is. Not any of this. So that is going to be my donation to you. Thank you and good night! [throws microphone and runs away]"
+            }
+        ],
+        [
+            {
+                "character": "The Senator",
+                "quote": "Oscar!"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Nice to see you again, it was lovely!"
+            },
+            {
+                "character": "The Senator",
+                "quote": "It was lovely! And don't forget to call."
+            },
+            {
+                "character": "Oscar",
+                "quote": "okay"
+            },
+            {
+                "character": "The Senator",
+                "quote": "thanks so much for coming"
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "why does this always happen to me? Ahh! I just feel so bad for Angela"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[applying diaper to dog.] so it just goes on under here like this?"
+            },
+            {
+                "character": "Vet",
+                "quote": "that's right!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Ugh, oh god!"
+            },
+            {
+                "character": "Vet",
+                "quote": "Yeah, you never get used to that."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, just wanted to check in. See how you are doing."
+            },
+            {
+                "character": "Andy",
+                "quote": "I am so great!"
+            },
+            {
+                "character": "Erin",
+                "quote": "He's great. we're all great. Twelve dogs. This my life now, I'm a dog nurse."
+            },
+            {
+                "character": "Jim",
+                "quote": "Look at that one though, he's smiling!"
+            },
+            {
+                "character": "Vet",
+                "quote": "Yeah, he should be! It's his first day without a muzzle."
+            },
+            {
+                "character": "Andy",
+                "quote": "This is the greatest thing that has ever happened to me"
+            },
+            {
+                "character": "Pam",
+                "quote": "Absolutely, it's awesome--"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes--"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I'm sorry, are you guys nuts? He's not doing great! He was fired! This is terrible! This is literally the worst thing that has ever happened to you, not the best."
+            },
+            {
+                "character": "Andy",
+                "quote": "You're right. he's right, I am a mess. This whole night I've been trying to convince you guys that I'm fine. I guess I thought that if I could convince you that I'm fine, maybe--"
+            },
+            {
+                "character": "Vet",
+                "quote": "Maybe you would think it too! [silence.] I'm sorry, it's just I don't get to be in a lot of human conversations."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay well, Andy, listen. It's okay if you don't feel totally settled. This is all very fresh."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, I mean, admitting you need help is the first step!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes! And also, focusing on the positive. Like I got a lot of good things going on!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah! Like that rock opera! You could always do that right?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, I do. I have that."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah"
+            },
+            {
+                "character": "Erin",
+                "quote": "You're going to be alright"
+            },
+            {
+                "character": "Kevin",
+                "quote": "No. No he's not."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes, I am! Thank you, Kev!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "You're welcome!"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Sometimes I feel like every one I work with is an idiot. and by sometimes I mean all times. All the times. Every of the times!"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "So some of us ended up adopting those elderly dogs. It's been great!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Pepper's been getting me out of the house, going on runs."
+            },
+            {
+                "character": "Kevin",
+                "quote": "My dog Ruby doesn't do anything, she just lays there all day! She's so chill."
+            },
+            {
+                "character": "Pam",
+                "quote": "What do you feed her?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well I put out Pro Bow-Wow, but she barely touches it. She's so dainty!"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Is she sick? How are her poops?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Doesn't really poop. It's perfect, nothing to pick up! She just kind of lies there all day like a good girl. I put on the TV for her, but I have to prop her eyes open so she can see it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Does she smell?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "She smells horrible. It's unbelievable. But I don't want to put her in the bath, because I'm afraid that she'll drown."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "People seem awful interested in you Ruby. Guess they're just jealous, right! [dog licks Kevins face.] Yeah, that a girl, that a girl! Man that stinks!"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}

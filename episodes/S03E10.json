@@ -1,0 +1,2373 @@
+{
+    "season": 3,
+    "episode": 10,
+    "title": "A Benihana Christmas",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "Merry Christmas! [holds up dead goose and puts it on Pam's desk]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Merry Christ--[looks up] NO! Why... why did you bring that here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Don't worry, she's dead. Oh wait. He's dead."
+            },
+            {
+                "character": "Pam",
+                "quote": "Dwight, what uh..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I accidentally ran over it. It's a Christmas miracle!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, get it out of here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Relax, OK. And because this is Christmas, I am going to roast this goose and prepare it with a wild rice dressing. Do we have any cayenne pepper in the kitchen?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Merry Christmas Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow. What have we got here?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What does it look like?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Dead goose."
+            },
+            {
+                "character": "Dwight",
+                "quote": "And circle gets the square."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[to Pam] So can you watch this? I'm gonna get my carving knife out of the trunk."
+            },
+            {
+                "character": "Toby",
+                "quote": "Oh, Dwight, we talked about this."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, Toby, this is different. He's already dead."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Once I brought in a duck. To prepare for lunch. And people got upset. Apparently, they got attached to the duck and didn't want to see it killed."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "He was already dead. And we Schrutes use every part of the goose. The meat has a delicious, smoky, rich flavor. Plus you can use the molten goose grease and save it in the refrigerator, thus saving you a trip to the store for a can of expensive goose grease."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow. Win-Win."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Exactly. Thank you, Jim."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I like goose. If it's already dead is it so crazy we eat it?"
+            },
+            {
+                "character": "Creed",
+                "quote": "That's crazy. It's crazy."
+            },
+            {
+                "character": "Toby",
+                "quote": "Dwight, you cannot keep that here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, that is ridiculous. And totally against the spirit of Christmas."
+            },
+            {
+                "character": "Toby",
+                "quote": "Come on Dwight. We went over this, like for a half an hour."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's Christmas Toby."
+            },
+            {
+                "character": "Toby",
+                "quote": "It's a dead animal in an office. You can't..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Toby..."
+            },
+            {
+                "character": "Toby",
+                "quote": "I'm sorry."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[sighs] Please? Please?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Clean it in your car."
+            },
+            {
+                "character": "Pam",
+                "quote": "I would like it off my desk."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh Pam. Take a chill pill."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[Riding a bicycle down the hallway and singing] Deck the halls with boughs of holly. Fa la la la la la la la la. [Struggling to stay on] 'Tis the ... ack. [expletive] Hey! [to Pam] I would like a nice slice of Christmas Pam. Side of candied Pams. And perhaps, some Pam-chops, with mint..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Can I help you, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm looking for the toy drive box."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's behind you."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK... Well, I need to put this bike in there. I hope it'll fit, with all these little knickknacks."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow. What kind of bike is that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Umm... I don't know? Average kind?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "The tires look pretty worn."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, that is probably from the test drive."
+            },
+            {
+                "character": "Jim",
+                "quote": "But the paint's chipping. Is that your old bike, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yo, Michael, sweet ride Mike."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, thanks. [Michael and Andy do a fist bump and explosion.]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes? [Pam holds up a bag] Oh Pam, that is so sweet. You didn't have to do that."
+            },
+            {
+                "character": "Pam",
+                "quote": "[hands over bag] I didn't, it's from corporate."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK. Did everybody get one of these?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yup."
+            },
+            {
+                "character": "Michael",
+                "quote": "Terrific. Good."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "This is going to be the best Christmas ever. My girlfriend Carol is coming to our party tonight, and I have a little surprise for her. [singing] I've got two tickets to paradise! Pack your bags, we're leaving the day-after-tomorrow! Um, taking her to Sandals, Jamaica, all-inclusive. All-inclusive. You know what that means? Right? Yeah."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[Creed takes toy from toy drive box.] Oh, I think you're supposed to put a toy in the box, Creed."
+            },
+            {
+                "character": "Creed",
+                "quote": "And a happy holiday to you."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[Carol walks through door looking upset] [waves] Carol."
+            },
+            {
+                "character": "Carol",
+                "quote": "Hi, is Michael around here?"
+            },
+            {
+                "character": "Michael",
+                "quote": "There she is. A Christmas Carol. Hello [kisses Carol] You're about five hours early to the party. You're such a blonde. [laughs]"
+            },
+            {
+                "character": "Carol",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, everybody. I don't know who you haven't met yet, but I think this is one of them. This is my girlfriend - Carol. This is just the front of her. Show 'em, show 'em the other side."
+            },
+            {
+                "character": "Carol",
+                "quote": "[whispers] What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Turn around, turn around. Come on. [making a body turning gesture]"
+            },
+            {
+                "character": "Carol",
+                "quote": "Get outta here."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, you get outta here."
+            },
+            {
+                "character": "Andy",
+                "quote": "Michael"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Andy",
+                "quote": "If I may say. She's even prettier that you described her."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[standing up] Oh, ouch. Michael, I don't think there is anything wrong with the way you described her."
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Carol",
+                "quote": "I really need a moment alone with you. [Carol heads towards Michael's office.]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Not as much as I need a moment alone with you. [puts finger on her back and reaches for her butt] Berp."
+            }
+        ],
+        [
+            {
+                "character": "Carol",
+                "quote": "What is this? [Holds up a Christmas photo]"
+            },
+            {
+                "character": "Michael",
+                "quote": "That is my Christmas card. It's a picture of you and me and your kids on a ski trip, having a blast. Ski-sons Greetings."
+            },
+            {
+                "character": "Carol",
+                "quote": "No. See, we never went on a ski trip."
+            },
+            {
+                "character": "Michael",
+                "quote": "I know."
+            },
+            {
+                "character": "Carol",
+                "quote": "I went on a ski trip."
+            },
+            {
+                "character": "Michael",
+                "quote": "Right."
+            },
+            {
+                "character": "Carol",
+                "quote": "Two years ago with my kids and my ex-husband."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, but what you didn't realize at the time was that I was with you in a sense. I was in your heart..."
+            },
+            {
+                "character": "Carol",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "And next to your kids. What?"
+            },
+            {
+                "character": "Carol",
+                "quote": "This is so weird."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't understand?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "It's a bold move, to Photoshop yourself into a picture with your girlfriend and her kids on a ski trip with their real father. But then again, Michael's a bold guy. [Towards unseen cameraman] Is bold the right word?"
+            }
+        ],
+        [
+            {
+                "character": "Carol",
+                "quote": "I think you're a really sweet guy."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK"
+            },
+            {
+                "character": "Carol",
+                "quote": "But, um, I don't know how to deal with, with this thing [waves Christmas card]. And, and the proposal. And I don't think things are going to work out with us."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no no no Ok, OK, You know what, you're not thinking straight. You know what you need? You need to think this through in [making drum noise] Jamaica's largest fresh water pool."
+            },
+            {
+                "character": "Carol",
+                "quote": "What are you talking about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I got us tickets to Sandals, Jamaica, We leave day after tomorrow. [Carol shakes head in disappointment]. You better find the skimpiest bikini there is."
+            },
+            {
+                "character": "Carol",
+                "quote": "Oh, no. Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "And it's all inclusive."
+            },
+            {
+                "character": "Carol",
+                "quote": "Michael..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Carol",
+                "quote": "I'm sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, Carol. You walk out that door and it is over."
+            },
+            {
+                "character": "Carol",
+                "quote": "I know. [Closes door.]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Psst. Jim. [Jim turns around. Pam nods head towards her for him to come over] Um, hey. I need to give you your Christmas gift now because, well, I'll just tell you."
+            },
+            {
+                "character": "Jim",
+                "quote": "What?"
+            },
+            {
+                "character": "Pam",
+                "quote": "For the past few months I've been sending Dwight letters from the CIA. [hands a folder to Jim]"
+            },
+            {
+                "character": "Jim",
+                "quote": "Are you serious?"
+            },
+            {
+                "character": "Pam",
+                "quote": "They're considering him for a top secret mission. There's his application. Oh, and this is where I made him list every secret he promised he'd never ever tell."
+            },
+            {
+                "character": "Jim",
+                "quote": "[Opens folder and reads from Dwight's file] Last year, my boss, Michael Scott, took a day off because he said he had pneumonia, but really, he was leaving early to go to magic camp. Wow."
+            },
+            {
+                "character": "Pam",
+                "quote": "So... here's the gift. You get to decide what his top secret mission is. [Jim smiles] Sorry I didn't wrap it."
+            },
+            {
+                "character": "Jim",
+                "quote": "[closes folder] You know what? Uh, I really don't think I should be doing this stuff anymore, you know?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, because of the promotion."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "It just feels a little bit, like..."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, I get it, of course. OK. [holds out hand for folder. Jim gives Pam back the folder.]"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "I feel like there's a chance for me to start over. And if I fall back into the same kind of things I used to do., then ... what am I doing?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'd like everybody's attention. Christmas is canceled."
+            },
+            {
+                "character": "Stanley",
+                "quote": "You can't cancel a holiday."
+            },
+            {
+                "character": "Michael",
+                "quote": "Keep it up Stanley and you will lose New Year's."
+            },
+            {
+                "character": "Stanley",
+                "quote": "What does that mean?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Jim, take New Year's away from Stanley."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael, what's going on?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Carol and I split up. Amicably. And I just don't think it would be appropriate to celebrate under the circumstances."
+            },
+            {
+                "character": "Jim",
+                "quote": "Will they still air 'Rudolph?'"
+            },
+            {
+                "character": "Kevin",
+                "quote": "That's not fair."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[over everybody else's talking] Are we gonna cancel Hanukah as well?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Fine! [everybody stops talking] Have your party. Just no guests."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "But we invited guests."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, you know what Phyllis? All of your guests would have probably canceled at the last minute anyway, leaving your life a stupid rotten mess."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Oh, oh, oh, oh, it hurts."
+            },
+            {
+                "character": "Pam",
+                "quote": "I know."
+            },
+            {
+                "character": "Michael",
+                "quote": "It hurts my heart. It hurts my stomach. It hurts my arms."
+            },
+            {
+                "character": "Pam",
+                "quote": "OK, well, why are you laying like that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[moves a little] Thanks. How did you push away the bad thoughts?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Like what?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Like maybe, the real reason they left was because there were things they wanted you to do in bed, that were, foreign, and scary?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well.. um I, I don't..."
+            },
+            {
+                "character": "Michael",
+                "quote": "And not that you didn't want to try them. Some wine may have helped. Do you know what I'm referring to?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't need to know."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael. Sorry to interrupt. Uh, It appears we're one bathrobe short."
+            },
+            {
+                "character": "Michael",
+                "quote": "Take it from Toby."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Copy."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, would you like to go to Sandals, Jamaica with me?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, thank you."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's all... [Pam walks away.] OK."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Hey Dwight. Pretty nice robe- [Dwight grabs bag with robe in it and walks away.] Why?"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Phyllis, I need you to pick up green streamers at lunch."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I thought you said green was whorish."
+            },
+            {
+                "character": "Angela",
+                "quote": "No, orange is whorish."
+            },
+            {
+                "character": "Karen",
+                "quote": "Uh, so I had a couple of ideas to make the Stamford people feel more at home. Each year we have a Christmas raffle ... [Phyllis and Pam nod their heads in agreement]."
+            },
+            {
+                "character": "Angela",
+                "quote": "It would never work here."
+            },
+            {
+                "character": "Karen",
+                "quote": "Ok ... um, another idea was karaoke ..."
+            },
+            {
+                "character": "Angela",
+                "quote": "No."
+            },
+            {
+                "character": "Karen",
+                "quote": "A Christmas drinking game ..."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Yes."
+            },
+            {
+                "character": "Angela",
+                "quote": "God help you."
+            },
+            {
+                "character": "Karen",
+                "quote": "What?"
+            },
+            {
+                "character": "Angela",
+                "quote": "These are all terrible ideas and none of them are on the theme of \"A Nutcracker Christmas.\" I think you should leave."
+            },
+            {
+                "character": "Karen",
+                "quote": "You're kidding."
+            },
+            {
+                "character": "Angela",
+                "quote": "You tried this out, and it's clearly not for you. It's time to go. Come on. [Angela gets up from seat] Please. [Karen gets up and leaves] Thank you. OK, thank you very much. [Angela closes door]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "What are you doing? [\"Goodbye My Lover\" by James Blunt plays]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[putting things into a box] We are getting rid of everything that reminds you of Carol."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey, what's the haps? [Dwight shuts door in his face.]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Carol?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, look at this. [looks through papers] Your old condo closing papers. It's riddled with Carol's name. I wish I could throw this in the box. [Michael hits repeat to \"Goodbye My Lover\" on computer]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Why don't you just buy the whole song?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't have to buy it. I just want to taste it. I just... I just want a little taste of it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, look at this, she saved you two thousand dollars 'cause they failed to report a mold problem. [Continues to sift through papers] But wouldn't that affect the final... How did she? Oh, oh, I see what she did. That is good. Wow. Carol is one smart cookie."
+            },
+            {
+                "character": "Michael",
+                "quote": "[singing] Goodbye my lover. Goodbye my friend. [hits repeat again]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "This is an old adage, but they say when you find true love, you know within the first 24 hours. With Carol, I knew within the first 24 minutes of the second day I met her."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I feel like I've been kinda cold to Karen and there's no real reason for it. I mean it's not like she's ever done anything to me. So, I think I probably shouldn't be cold to her."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Hey, Karen. Sorry about that meeting today, that was really crazy."
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah, right? I'm so glad you said that. Because, I don't know how those meetings usually go."
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, usually like that."
+            },
+            {
+                "character": "Karen",
+                "quote": "Does anyone ever stand up to Angela or..?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I think one of her cats did once. She came in with scratches all over her face. [both laugh]"
+            },
+            {
+                "character": "Karen",
+                "quote": "Right."
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, I really liked your karaoke idea."
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh cool, yeah."
+            },
+            {
+                "character": "Pam",
+                "quote": "That could really be fun."
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh, thank you."
+            },
+            {
+                "character": "Pam",
+                "quote": "You guys do a raffle?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah, we do a raffle..."
+            }
+        ],
+        [
+            {
+                "character": "Toby",
+                "quote": "Hey Kev."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Hey. [Toby puts hand on Kevin's back, who is wearing the robe and feels it a little bit.]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "This should've been up yesterday. [refers to party flyer]"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "It'll be all right."
+            },
+            {
+                "character": "Angela",
+                "quote": "[Pam puts up another flyer] What is that? [Reads flyer] The \"Committee to Plan Parties invites you to a margarita-karaoke Christmas?\" There's no such thing as the \"Committee to Plan Parties.\""
+            },
+            {
+                "character": "Pam",
+                "quote": "There is now. We just started it."
+            },
+            {
+                "character": "Angela",
+                "quote": "Well, you just can't start a committee. You have to have funding."
+            },
+            {
+                "character": "Karen",
+                "quote": "What's your funding?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Two hundred dollars."
+            },
+            {
+                "character": "Pam",
+                "quote": "What's ours again?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Umm, two hundred and one dollars."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh right."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[pointing] Hey, a margarita-karaoke Christmas party, that sounds like fun."
+            },
+            {
+                "character": "Angela",
+                "quote": "No, that is not a party. There's only one party and it's hosted by the Party PLANNING Committee and it starts at three o'clock."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Then why are there two flyers?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh, I understand that this is confusing for everyone, let me explain. There's a party that starts at three."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Right."
+            },
+            {
+                "character": "Karen",
+                "quote": "And then there's a way more fun party that starts at two forty-five."
+            },
+            {
+                "character": "Pam",
+                "quote": "Right, and if you're interested in the way more fun party, all the info can be found here on our more brightly colored flyer. [Angela rips down brightly colored flyer and walks away. Karen rips down Angela's flyer.]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I didn't see where it was."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Yup, looks like the Scranton people and the Stamford people are finally coming together. And that's what you want, right?"
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "I think that's a really good option..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Pam and Karen. I am ordering you to cease and desist all party planning. Immediately."
+            },
+            {
+                "character": "Pam",
+                "quote": "You can't do that."
+            },
+            {
+                "character": "Dwight",
+                "quote": "As ranking number three in this office, I am order -"
+            },
+            {
+                "character": "Andy",
+                "quote": "Umm... I'm number three."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're number four."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, but I'm number three."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ah, no. [to Pam and Karen] You must turn over to me all Christmas decorations and party paraphernalia immediately that will be returned to you on January fourth."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK, I think I can help here."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, good"
+            },
+            {
+                "character": "Jim",
+                "quote": "As ranking number two, I am starting a committee to determine the validity of the two committees and I am the sole member. The committee will act on this now."
+            },
+            {
+                "character": "Dwight",
+                "quote": "OK, this is stupid."
+            },
+            {
+                "character": "Jim",
+                "quote": "Could you please keep it down? [interrupted Dwight] I'm in session. I've determined that this committee is valid. [Pam and Karen cheer.]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No no, no, wait, wait, wait [raises hand] Permission to join the Validity Committee."
+            },
+            {
+                "character": "Jim",
+                "quote": "Permission denied."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Damn it!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey. I can't concentrate when I know you're in pain, man. Let me take you to lunch. [Michael sighs.] C'mon, my treat."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right. Nothing here to distract myself with anyway."
+            },
+            {
+                "character": "Andy",
+                "quote": "That's my boy. I know the perfect place, too."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hooters?"
+            },
+            {
+                "character": "Andy",
+                "quote": "No. Benihana. Much classier. But don't worry, the babes are totally hot, too. [do a fist bump and explosion]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ah, I need my entourage [both exit Michael's office] Jim. Dwight. Ryan. C'mon, we're going to Asian Hooters."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Ah man, I can't."
+            },
+            {
+                "character": "Michael",
+                "quote": "Why not?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'm not feeling so well. I've got a ton of work to do here. MSG allergy, peanut allergy, I just ate there last night. [Michael feels Ryan's forehead]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, feel better."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Thanks."
+            },
+            {
+                "character": "Michael",
+                "quote": "C'mon Jim, let's go."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK. [to Ryan] Wow, thanks for taking all the excuses, dude."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Doctor appointment, car trouble, plantar warts, granddad fought in World War II. Use your head, man. I keep mine in here. [Holds up blackberry.] Look alive, Halpert. Welcome back."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Bros before hos. Why? Because your bros are always there for you. They have got your back after your ho rips your heart out for no good reason. And you were nothing but great to your ho and you told her she was the only ho for you. And that she was better than all the other hos in the world. And then ... and then suddenly she's not yo' ho no mo'."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "So she looks really hot, so I said, \"You look hotter than usual today.\" [to waitress] Thank you. Michael [gesturing to sit down.] Head of the table."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Get out Jim. [Dwight tries to sit between Andy and Jim] Actually, um... [to two other people at the table] Sir, I'm going to need take this chair."
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight, just, just leave them alone please. They're on a date. They look very happy."
+            },
+            {
+                "character": "Andy",
+                "quote": "So she looks at me right, and she goes, \"I'm sorry, don't I even know you?\" After a year, a year of buying lattes from her, do you believe that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I can't... I can't here what you're saying."
+            },
+            {
+                "character": "Michael",
+                "quote": "Carol used to drink lattes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[off screen at other end of table] What're you talking about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "She would get this little foam mustache..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[still off screen] Carol had a mustache?"
+            },
+            {
+                "character": "Michael",
+                "quote": "And I used to say \"Hey, got latte?\" And she'd say, that's not funny."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[off screen] What are you guys talking about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "She totally got me. She understood that we didn't have to laugh to enjoy ---"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael! Repeat what you said louder!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "It is my job to be there for Michael. How can I be there for Michael if I'm here for Michael? [food is thrown at Dwight's face]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'm already starting to forget what color eyes she had. I can't, OK, I'm gonna call her. I am gonna call and find out..."
+            },
+            {
+                "character": "Andy",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Who are you calling?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm just gonna call her."
+            },
+            {
+                "character": "Andy",
+                "quote": "Put that away. Put that away. S.O.S. We... I... May day. Haha. Man down over here, [to waitress] we need your help."
+            },
+            {
+                "character": "Waitress",
+                "quote": "What can I get for 'ya?"
+            },
+            {
+                "character": "Andy",
+                "quote": "I think we'll start with a round of noga-sakes. [waitress gives confused look]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "One part eggnog, three parts sake. Some places won't make it for you though, because eggnog is seasonal."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "You should, you should put out salt for the rims [referring to margaritas]"
+            },
+            {
+                "character": "Pam",
+                "quote": "That's a great idea."
+            },
+            {
+                "character": "Angela",
+                "quote": "Phyllis?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I was just getting a snack."
+            },
+            {
+                "character": "Pam",
+                "quote": "You can have your snack in here."
+            },
+            {
+                "character": "Angela",
+                "quote": "Pam, don't tell her what to do! Phyllis."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "OK."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I think I'll go to Angela's party, because that's the party I know."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "I miss the days when there was only one party I didn't want to go to."
+            }
+        ],
+        [
+            {
+                "character": "Roy",
+                "quote": "So I only use three?"
+            },
+            {
+                "character": "Pam",
+                "quote": "If you're using more than three pieces of tape to wrap a present, you're doing it wrong."
+            },
+            {
+                "character": "Roy",
+                "quote": "OK. And where to do you get all those cool bows?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, I just get those at any party supply place."
+            },
+            {
+                "character": "Roy",
+                "quote": "OK. Are you sure I can't use like, the cartoons from the newspaper?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh yeah, your mom would love that."
+            },
+            {
+                "character": "Roy",
+                "quote": "[Karen walks in] Hey. All right, I'll see you guys later. [leaves room]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Bye."
+            },
+            {
+                "character": "Karen",
+                "quote": "He's cute. You should date him."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah... Maybe."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Looks like you've got a little Nakiri knife action going there."
+            },
+            {
+                "character": "Chef",
+                "quote": "No, it's Usuba."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, I bet you wish you had a Nakiri, though."
+            },
+            {
+                "character": "Chef",
+                "quote": "Actually, the Usuba's the better knife when you're working with this quantity."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Nah, I don't know... Still think Nakiri's better."
+            },
+            {
+                "character": "Woman at bar",
+                "quote": "I think he'd know. [Dwight and her stare at each other]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Nothing he's doing is cheering me up."
+            },
+            {
+                "character": "Andy",
+                "quote": "Wait for the onion. Trust me. Hey Cindy, he just had his heart broken, you wouldn't do that to him, would you?"
+            },
+            {
+                "character": "Cindy",
+                "quote": "I don't know."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, sure you would. Look at you, I bet you break up with a guy every hour. [Cindy laughs and walks away]"
+            },
+            {
+                "character": "Andy",
+                "quote": "You made her laugh. Yes! She totally digs us. [referring to what chef is doing] Watch, watch, watch, watch. [Onions smoke up] Heh, heh? What did I tell 'ya?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You're right. That's good."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Hello everyone. We would just like to announce that our party is starting now in the break room. So... you can come by... ."
+            },
+            {
+                "character": "Angela",
+                "quote": "I have a very important announcement to make... about... your paychecks. Umm... Your paychecks will be arriving as scheduled on Friday. And they will be in the correct amount that they are normally in... Please stand by for a very important announcement... refer..[starts to leave office] for further regarding your paycheck! [runs outside]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[on cell phone to Dwight] I need to know if I can start the party?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael! Hey! Over here, Michael! [waves down Michael with a napkin and whistles to get attention]"
+            },
+            {
+                "character": "Andy",
+                "quote": "This drink... [in audible conversation with Michael]"
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't know. No one can hear me. You know what? Start the party."
+            },
+            {
+                "character": "Angela",
+                "quote": "Did Michael give you permission to do this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[with conviction] Start the party."
+            },
+            {
+                "character": "Angela",
+                "quote": "[Angela slams phone shut and runs back to office.] Also, I would like to inform you that, um, as a special treat, my party will be starting early. In fact, it will be starting right now [opens door to conference room.]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Our party is also starting now [opens door to break room.]"
+            },
+            {
+                "character": "Karen",
+                "quote": "Yup."
+            },
+            {
+                "character": "Karen",
+                "quote": "[Stanley gets up and walks towards the break room.] All right Stanley. Woo."
+            },
+            {
+                "character": "Pam",
+                "quote": "Good choice. [Kelly drags Ryan to the break room.]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Welcome Hannah. You will not be disappointed."
+            },
+            {
+                "character": "Hannah",
+                "quote": "Why would I be disappointed?"
+            },
+            {
+                "character": "Angela",
+                "quote": "I said you wouldn't be disappointed. [Meredith heads towards break room.]"
+            },
+            {
+                "character": "Angela",
+                "quote": "Meredith, if you don't come to my party, you will be very, very sorry."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Is that a threat?"
+            },
+            {
+                "character": "Angela",
+                "quote": "No, it's an invitation."
+            },
+            {
+                "character": "Pam",
+                "quote": "We have vodka!"
+            },
+            {
+                "character": "Karen",
+                "quote": "Lots of it! [Meredith leaves to break room party.]"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I hear Angela's party will have double-fudge brownies. It will also have Angela. Double fudge... Angela... double fudge... Angela [puts out hands to weigh his options] Hmmm..."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Brownies. Cupcakes. [Kevin walks toward conference room]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Don't push it."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Are we taking this too far? You know what, I don't think we're taking this far enough. [Pam and Karen look at each other] What?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I got goose bumps."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "I don't back down. My sister and I used to be best friends, and we haven't talked in 16 years. Over some disagreement, I don't even remember. So... yeah. I'm pretty good."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Ahh, damn this chicken is good. My compliments to the chef. [points to chef] Which is you! Right? Hahahaha. Awesome! I need some meat. I want some steak. [leans over to neighboring man's plate] I see steak."
+            },
+            {
+                "character": "Man",
+                "quote": "Excuse me."
+            },
+            {
+                "character": "Michael",
+                "quote": "Excuse me [tries to take away meat with chopsticks] Ah, un guard. [Fights with chopsticks and laughs] Family style."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, it's not."
+            },
+            {
+                "character": "Andy",
+                "quote": "Cindy, Cindy."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't think... I love it!"
+            },
+            {
+                "character": "Andy",
+                "quote": "I want you to close your eyes and imagine your dream house. [Cindy laughs] C'mon, do it for Michael. He's had a really long day."
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughing] I don't know what he's doing."
+            },
+            {
+                "character": "Andy",
+                "quote": "This is great."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim! Jim! What... What's happening?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, [points to Cindy] she's asleep."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh... Narcolepsy."
+            },
+            {
+                "character": "Jim",
+                "quote": "Probably."
+            },
+            {
+                "character": "Andy",
+                "quote": "Now open your eyes and describe it to me."
+            },
+            {
+                "character": "Cindy",
+                "quote": "I... don't know, it has four bed rooms and a loft..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh my gosh, now she's up."
+            },
+            {
+                "character": "Jim",
+                "quote": "And she's trying to correctly butcher a goose, but she's having trouble coming up with it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, OK. Cindy! Yo, Cindy! Cindy! Hold its neck back and insert the knife below the jaw. Bring it all the way around, there's going to be a good amount of blood. [Cindy looks confused. Woman next to Dwight is disgusted] Don't let it bother you. Have a bucket there, for the blood... and the innards... and the feathers."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Oh no, this is different. The CIA thing, that was a prank on Dwight. This is more like a umm... OK, it's pretty much the same thing."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "What d'ya think? [to Stanley about his drink]"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Fruity and delicious."
+            },
+            {
+                "character": "Kelly",
+                "quote": "See, I told you. You want one Meredith?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "No thanks. They're too sweet."
+            },
+            {
+                "character": "Karen",
+                "quote": "Hey, so what's the status."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Looks like they forgot the power cord."
+            },
+            {
+                "character": "Pam",
+                "quote": "What?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh, you're kidding me?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "No."
+            },
+            {
+                "character": "Karen",
+                "quote": "Oh, you guys, guys, um... I'm sorry, but there's a problem with the karaoke machine. [everyone sighs]"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Well that blows."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hang on little ladies. You don't need this thing, I'll go grab my synthesizer. [Everyone cheers]"
+            },
+            {
+                "character": "Everyone",
+                "quote": "Darryl! Darryl! Darryl! [Darryl exits break room and passes Phyllis]"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Hi."
+            },
+            {
+                "character": "Darryl",
+                "quote": "Hey. Hey, look, when you get done with your... [looks inside conference room] meeting, you should, uh, come to the break room. We're having a party."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, ok."
+            },
+            {
+                "character": "Darryl",
+                "quote": "All right. Se you later..."
+            },
+            {
+                "character": "Hannah",
+                "quote": "[tries to break nut on a Nutcracker doll] These nuts are really hard to crack."
+            },
+            {
+                "character": "Angela",
+                "quote": "Try harder then. [Hannah smashes Nutcracker on top of nut. Sees Kevin take another brownie] Uh uh. No one has seconds until everyone's had some."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You've got to be kidding!"
+            },
+            {
+                "character": "Angela",
+                "quote": "You've got to be kidding. {Kevin takes bite of brownie]"
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Cold, huh?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Huh? [puts on jacket]"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Maybe that'll help. Is it cold in there?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "[referring to waitresses] They have been checking us out, all night! I am not kidding!"
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what we should do?"
+            },
+            {
+                "character": "Andy",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "We should invite them to the Christmas party."
+            },
+            {
+                "character": "Andy",
+                "quote": "Now, you are thinking. Yes. And you know what? Because you have had such a rough day, you get Cindy."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, you are such mench my friend. [They stand up and do fist bump and explosion]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "OK, where is everybody? I would like them to meet my new girlfriend. [Guys walk in with two different waitresses from Benihana's]"
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm sure they'll want to meet her, too."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "The least I could do was give some poor sick kid a bike."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "That rocks."
+            },
+            {
+                "character": "Michael",
+                "quote": "Nah, you rock. Tell you what, if you want it, it's yours."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Thanks! I, I wanna give you something."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh. [She whispers in his ear. Michael starts to laugh] That's what she said."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hello? I would like everybody to meet my new girlfriend."
+            },
+            {
+                "character": "Andy",
+                "quote": "My new girlfriend."
+            },
+            {
+                "character": "Angela",
+                "quote": "Where's Dwight?"
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Is he the hot one or the giant baby?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[whispers] The giant baby. Wow, I am so sorry, I had no idea this party would be so lame."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "[under her breath] There's another party in the break room."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, party in the break room! Let's go, let's go! Thank God! Let's go to the break room."
+            },
+            {
+                "character": "Angela",
+                "quote": "Hey, excuse me! Waitress lady! Hey, where do you think you're going with that? [refers to toy she just took from table]"
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "I thought I could have it."
+            },
+            {
+                "character": "Angela",
+                "quote": "You can't have it [takes back toy] I don't walk into your house and steal your Hello Kitty backpack."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shhh... Shut it! C'mon! Party."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey! It's Angela! [Angela slams door shut, but not before Kevin sneaks out] Hey!"
+            },
+            {
+                "character": "Michael",
+                "quote": "We're going to ..."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[singing] I want you to know. That I'm happy for you. I wish nothing but..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I just think there are two, two specific kinds of people in the world. People who own houses and people who own condos. [turns to reach for pretzel while Second Cindy turns other direction] And... my question to you [points and pulls away other waitress] is do you agree?"
+            },
+            {
+                "character": "Other waitress",
+                "quote": "Do I agree about what?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you agree about what? [laughs] Wow. You're lucky you're so darn cute."
+            },
+            {
+                "character": "Other waitress",
+                "quote": "What're you talking about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "What're you talking about?"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[singing] And I'm here to remind you of the mess you left when you went away. It's not fair, to deny me of the cross I bear that you give to me. You, you, you, you, you, you, you oughta know ta know."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right [high fives Kevin]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Did you have fun at Benihana's?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. It was awful. I couldn't hear anything. [cheers from other party]"
+            },
+            {
+                "character": "Angela",
+                "quote": "I've had the worse day here [turns up Nutcracker music on the stereo. [Sighs. Dwight reaches for and holds Angela's hand]"
+            },
+            {
+                "character": "Karen",
+                "quote": "[Karen and Pam enter] Dwight, you won the raffle! [holds out gift]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No... way! Yeah!"
+            },
+            {
+                "character": "Karen",
+                "quote": "Open it! Open it ! Open it! [Dwight rips open present. Angela is upset and Pam notices]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh."
+            },
+            {
+                "character": "Karen",
+                "quote": "Do you like it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Walkie-talkies."
+            },
+            {
+                "character": "Pam",
+                "quote": "Can I talk to you a second?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes!"
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Well the Committee to Plan Parties has served its purpose. We're gonna disband. In the name of Christmas."
+            },
+            {
+                "character": "Pam",
+                "quote": "[holds up rice krispie shaped like a star] In the name of Nutcracker Christmas."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Angela, we've been hearing really great thing about uh... your brownies and we were hoping you'd consider merging into two parties."
+            },
+            {
+                "character": "Angela",
+                "quote": "I'm not sure. Does your karaoke machine have Christmas songs?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, but we don't have a power cord."
+            },
+            {
+                "character": "Angela",
+                "quote": "Oh, I may have seen it somewhere. [Goes to plant and picks up power cord] Is it this one?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Mmm. Hmm."
+            },
+            {
+                "character": "Karen",
+                "quote": "Yeah, thanks."
+            },
+            {
+                "character": "Pam",
+                "quote": "We'll go tell everyone."
+            },
+            {
+                "character": "Karen",
+                "quote": "OK."
+            }
+        ],
+        [
+            {
+                "character": "Andy & Michael",
+                "quote": "[singing] And if you want love, we'll make it. Swim in a big sea of blankets. Take all your big plans and break 'em. This is bound to take awhile. Your body is a wonderland. [Michael notices Cindy ride up to him on the bike and looks confused] Your body is a wonderland."
+            },
+            {
+                "character": "Andy",
+                "quote": "Your hands."
+            },
+            {
+                "character": "Both",
+                "quote": "Your body is a wonderland."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'll use my hands on it."
+            },
+            {
+                "character": "Both",
+                "quote": "Something 'bout the way your hair falls in your face..."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "[singing] Whatever we deny or embrace. For worse or for better. We belong, we belong, we belong together... Ryan..."
+            },
+            {
+                "character": "Michael",
+                "quote": "When you know, you just know."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Right."
+            },
+            {
+                "character": "Michael",
+                "quote": "Check her out. My little gal over there. Babe-alectable."
+            },
+            {
+                "character": "Roy",
+                "quote": "Which one is she? [Michael stares at both waitresses]"
+            },
+            {
+                "character": "Michael",
+                "quote": "It's... it's one of those two. [points at both]"
+            },
+            {
+                "character": "Roy",
+                "quote": "You don't know?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Dude, you should know."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah... well, it's been hard, they're wearing the exact same uniform. And I've been drinking. And you know how all waitresses look alike."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I honestly don't see what the big deal is. Stevie Wonder is married. Are you going to tell me that Stevie Wonder doesn't love his wife just because he's not sure what she looks like?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey. Where's my girl? Is she in the fridge? Where is she hiding? I don't know where she is. 'Cause I'm drunk, I can't even find her."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "You know where I am."
+            },
+            {
+                "character": "Michael",
+                "quote": "Haha, I do! I just haven't hugged you in awhile [marks Cindy's arm with a black marker]"
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Oh."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, good. That felt good. Let's go. Party."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "[singing] Spinnin' n reelin with love. Give it the time, I might come back down. But it feels so good. My feet don't touch the ground. Wha..wha..wild. Wha..wha..wild. Well everybody knows, I'm crazy about 'ya..."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[into walkie-talkie] Monkey, this is Possum. Do you copy?"
+            },
+            {
+                "character": "Angela",
+                "quote": "[into another walkie-talkie] Copy, Possum. What's your twenty?"
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "No way. [both hold up Bridget Jones' Diary movie DVD]"
+            },
+            {
+                "character": "Jim",
+                "quote": "What a horrible, horrible movie that was."
+            },
+            {
+                "character": "Karen",
+                "quote": "And now we get to remember it forever."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Karen",
+                "quote": "Thank you. [Both hug]"
+            }
+        ],
+        [
+            {
+                "character": "Second Cindy",
+                "quote": "Hey."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, hey, you. How are ya?"
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Hey. This party blows, so we're gonna leave."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no. Hey, you should stay because we are having fun and..."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Cool..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Where do you wanna go?"
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "I... We're just gonna take off."
+            },
+            {
+                "character": "Michael",
+                "quote": "I... you know what? I, OK, listen. I like you. I really like you. So much in fact, that I would like you to accompany me on a trip to Sandals, Jamaica."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "No... I have school. [leaves with other waitress and bicycle]"
+            },
+            {
+                "character": "Michael",
+                "quote": "You want help? OK... Merry Christmas."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Merry Christmas."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[singing] Lady, from the moment I saw you standing all alone. You gave all the love that I needed..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "That waitress was the one."
+            },
+            {
+                "character": "Jim",
+                "quote": "No. She wasn't."
+            },
+            {
+                "character": "Michael",
+                "quote": "How can you be sure?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, for starters, I've known you as a couple since the beginning of the relationship, which was approximately [looks a watch] three hours ago."
+            },
+            {
+                "character": "Michael",
+                "quote": "Don't make fun... You're making fun of me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "I guess, I didn't know her very well. I marked her arm."
+            },
+            {
+                "character": "Jim",
+                "quote": "You what?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I, I put a mark on her arm. [Both are laughing] So I could tell them apart. I don't... I know, I know. I can't believe I gave her my bike!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, why do I feel like crap?"
+            },
+            {
+                "character": "Jim",
+                "quote": "You just had a rebound."
+            },
+            {
+                "character": "Michael",
+                "quote": "I had rebound? Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. Which, don't get me wrong, can be a really fun distraction, but, when it's over, you're left thinking about the girl you really like, the one that broke your heart."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I totally rebounded. Someone else shoots and I take the ball and I score. Well, I guess I didn't score and I'm not sure who's actually shooting, but, whatever. Doesn't matter. It's all good. Or as my ex might say. Domo arigato, Mr. Scott-o."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[singing, with Dwight holding up microphone] Little baby, parum pum pum pum. I am a poor boy too, parum pum pum pum. I have no gift to bring, parum pum pum pum. That's fit to give our King, parum pum pum pum.."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[on phone] Yes, I just wanted to see if, uh you would like to come to Jamaica with me. There's this resort called Sandals. Really? OK. All right. I promise you won't be disappointed. Umm, It's all-inclusive..."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[singing] ... Shall I play for you, parum pum pum pum [Oscar and Gil walk through door]"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Too soon. [both turn back around and walk out]"
+            },
+            {
+                "character": "Angela",
+                "quote": "[singing] I played my drum for Him, parum pum pum pum. I played my best for Him, parum pum pum pum, Rum pum pum pum, rum pum pum pum."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[singing along] pum pum pum pum pum pum pum"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Bye Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "Night."
+            },
+            {
+                "character": "Jim",
+                "quote": "[to Pam] Oh, you know what? Sorry, forgot to tell you. I intercepted a transmission earlier and it seems that the CIA is gonna need Dwight down at their headquarters in Langley for training and an ice cream social with the other agents."
+            },
+            {
+                "character": "Pam",
+                "quote": "We should get him a bus ticket. [types on computer] To make his trip easier."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh no, that would be great."
+            },
+            {
+                "character": "Pam",
+                "quote": "It costs seventy five dollars."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hmm... Well, maybe the CIA can send a helicopter?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Ohh... [laughs]"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[Cell phone beeps] What the? [Reading text message] \"You have been compromised. Abort mission. Destroy phone.\" Destroy phone? [Dwight throws phone off of the roof and walks away]"
+            }
+        ]
+    ],
+    "deleted_scenes": [
+        [
+            {
+                "character": "Michael",
+                "quote": "William Randolph Shakespeare once wrote in one of his plays, and I'm paraphrasing here, \"Love doth be poison.\" Brilliant. And a lot of people don't give Shakespeare enough credit. They think it was somebody else. A-holes."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "When Michael suggested canceling Christmas, I was outraged, not on my behalf, but on behalf of baby Jesus. I mean, would he cancel Christmas because he got dumped or he was two weeks behind on his party planning, on top of the fact that his cats were ill? I think not. I think baby Jesus would suck it up and plan his party."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "We didn't have a party planning committee in Stamford. Somebody would just volunteer to run out to Carvel and pick up an ice cream cake. So the fact that they have a committee here, fascinating."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "This is ridiculous. I... I've spent so much time, like I always do. And for that little trollop to come in here and throw her own party... Are you even listening to me?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Angela, what do you want me to do?"
+            },
+            {
+                "character": "Angela",
+                "quote": "I want you to tell her to stop, Toby. Am I being clear?"
+            },
+            {
+                "character": "Toby",
+                "quote": "[sighing] Look, it's a free country. If she wants to throw a party..."
+            },
+            {
+                "character": "Angela",
+                "quote": "What are you...?"
+            },
+            {
+                "character": "Toby",
+                "quote": "...using her own money..."
+            },
+            {
+                "character": "Angela",
+                "quote": "And what..."
+            },
+            {
+                "character": "Toby",
+                "quote": "...then she should be allowed to."
+            },
+            {
+                "character": "Angela",
+                "quote": "No she shouldn't."
+            },
+            {
+                "character": "Toby",
+                "quote": "The more the merrier."
+            },
+            {
+                "character": "Angela",
+                "quote": "[Angela slaps Toby on the face.] Stop it."
+            },
+            {
+                "character": "Toby",
+                "quote": "Oww."
+            },
+            {
+                "character": "Angela",
+                "quote": "I'm sorry. It wasn't my intention to hurt you, but I want to wake you up to the injustice that's going on right in front of your face."
+            },
+            {
+                "character": "Toby",
+                "quote": "That really hurt. I'm writing you up. [Angela makes an angry face] Hey, you are not allowed to touch other employees. Am I being clear?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Michael was so right about you. You are pathetic."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "I don't care which party I go to. Once you've danced naked at a hash bonfire with the spirits of the dead, all parties seem pretty much the same."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I think I'll go to Angela's party, because that's the party I know."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "Where would you like the Rice Krispy Treat stars?"
+            },
+            {
+                "character": "Angela",
+                "quote": "They're Sugarplum fairy wands."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Sugarplum fairy wands."
+            },
+            {
+                "character": "Angela",
+                "quote": "It's like you weren't even at the meeting."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "I'm going to the party in the break room, because they have more chairs in there. If I have to stand around a long time, I get real unpleasant to be around."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[Phyllis puts down phone] Hmm hmm. [Phyllis gets up and goes to Angela's party]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "No, no, no, no. You know what, I better hold off. I wanna make sure I don't dial Carol before I get drunk."
+            },
+            {
+                "character": "Jim",
+                "quote": "So, really, you're just calling her?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah. You know what? I am. I'm gonna call her. That's a good idea."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[from across the table] Where's Michael going? Michael? Is he sick? Is he choking?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[on [phone] No, I don't think I'm asking too much. I think it's only fair that you tell me exactly what I did wrong. Okay. Uh huh. Well that... yeah. Uh huh. All right. Well, could you tell me something that I did right?"
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[knocks on office wall] Hey."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Hello, Ryan."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Merry Christmas. [hands over a gift]"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh, thank you. Do you always get presents for your ex-girlfriends?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay, we're never technically... um is there.. Is there a problem?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Well, I didn't get you anything, because you have treated me inconsiderately, and I'm not gonna stand for that anymore."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Um That's... That's fair. I'm sorry. Merry Christmas. [Ryan starts walking away.]"
+            },
+            {
+                "character": "Kelly",
+                "quote": "[runnning after him] Wait, Ryan, you're not mean. You're adorable. I'm so sorry. I got you a present, too. But then when I got to work, I didn't see anything on my desk from you, so I threw it away. And then Asuncion took the trash out, that's why I think it's in the dumpster. I'm so sorry. I'm the worst. [Kelly hugs Ryan]"
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "There's no fizz in this punch. Phyllis!"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I'll just go get a ginger ale."
+            },
+            {
+                "character": "Angela",
+                "quote": "No, I've got it, Phyllis. Stay. Have fun. Eat your wand."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[talking to Kelly in dumpster] Hey, Kelly, you know what? Throw my gift away, too."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[from inside dumpster] No, you paid money for that CD."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'm serious. It'll show that we don't care about material things."
+            },
+            {
+                "character": "Kelly",
+                "quote": "I don't understand."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Kelly, I'm so cold!"
+            },
+            {
+                "character": "Kelly",
+                "quote": "[starts to cry] You don't have to scream at me."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Are you having fun in this relationship?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Sometimes."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I don't know Kelly, sometimes I look at us and I think..."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[crying] Don't dump me while I'm in the dumpster. Just go back inside if you're so cold. I'll just stay in the dumpster. [Ryan smirks]"
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "[both inside dumpster] Did you look over here?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Who's eating all these apples?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Kelly."
+            },
+            {
+                "character": "Kelly",
+                "quote": "And what are these? Are... Why are there egg yolks in here? Aren't you supposed to eat the yolks?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Michael was on an egg-yolk diet. He's so weird."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Do you think I should diet?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "No, you're perfect. [Kelly gasps] What? Did you find it?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "No, I'm scared."
+            },
+            {
+                "character": "Ryan",
+                "quote": "All of a sudden?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Uh huh. Hold me."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Oh, honey, here's Stanley."
+            },
+            {
+                "character": "Second Cindy",
+                "quote": "Hi."
+            },
+            {
+                "character": "Michael",
+                "quote": "He is also in an interracial relationship, so, you know, if you have any problems, you can always call him."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Oh, you're gonna face far greater problems than I can possibly help you with."
+            },
+            {
+                "character": "Michael",
+                "quote": "Sounds good. Okay, let's go."
+            }
+        ]
+    ]
+}

@@ -1,0 +1,1417 @@
+{
+    "season": 2,
+    "episode": 6,
+    "title": "The Fight",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "Where is my desk?"
+            },
+            {
+                "character": "Jim",
+                "quote": "That is weird."
+            },
+            {
+                "character": "Dwight",
+                "quote": "This is not funny. This is totally unprofessional."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, well, you're the one who lost the desk."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I didn't lose my desk."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, calm down. Where was the last place you saw it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay, who moved my desk?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I think you should retrace your steps."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, I am going to tell Michael and this entire office will be punished!"
+            },
+            {
+                "character": "Jim",
+                "quote": "Colder... warmer... little warmer... there you go, ooh, warmer... warmer... warmer... warmer... warmer ... cold, cold, cold, back up... ooh, ooh, warmer, hot, red hot, hot, very hot."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[In bathroom, answers phone] Dwight Schrute."
+            },
+            {
+                "character": "Jim",
+                "quote": "[On the phone with Dwight] Hi, Dwight, um, what sort of discounts are we giving on the 20 lb white model."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim, I've given you this information, like, twenty times."
+            },
+            {
+                "character": "Jim",
+                "quote": "I know."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's by the ream?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, yeah, ream."
+            },
+            {
+                "character": "Dwight",
+                "quote": "...now, $9.78, signs and discounts 7%."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, thank you, gotta get back to work."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Wash your hands, Kevin."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[On the phone] Right, oh let me just check the pricing list. Hold on one second..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[Also on the phone] Sensei, hello it's Sempai..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Umm..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Dwight..."
+            },
+            {
+                "character": "Jim",
+                "quote": "You know what, let me give you a call right back. I'm going to uh, find it and then I'll call you back, thanks."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, I just had a ques-... Yes Sensei. Arigatou gozaimashita. Hai."
+            },
+            {
+                "character": "Jim",
+                "quote": "Was that your mom?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, that was my Sensei."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, I thought it was your mom."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I am now Sempai, which is Assistant Sensei."
+            },
+            {
+                "character": "Jim",
+                "quote": "Assistant to the Sensei, that's pretty cool."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Assistant Sensei."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I am a practitioner of Goju Ru Karate, here in Scranton. My Sensei, Ira, recently promoted me to purple belt, and gave me the duties of a Sempai. Not that a lot of people here in America know what a Sempai is, but it is equally as respected as a Sensei."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "I don't want to stay until seven again this year."
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't really have any control over that Stanley."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Michael tends to procrastinate a bit whenever he has to do work. Umm, time cards, he has to sign these every Friday. Purchase orders have to be approved at the end of every month. And expense reports, all he has to do is initial these at the end of every quarter. But once a year, it all falls on the same Friday and that's today. I call it the Perfect Storm."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[singing and tapping on his coffee mug] I don't want to work, I just want to bang on this mug all day."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Did you ask me here for any specific reason?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uhh, yes, I did, here's the dizzle. I have a very top secret mission for you. I want you to update all the emergency contact information."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Why is that secret? [Pam knocks and walks into Michael's office]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[to Pam] Hello, oh God, busy work. Ahh, get away, cretin."
+            },
+            {
+                "character": "Pam",
+                "quote": "Umm, I put stickers so you know where to sign."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, thank you. I know where to sign."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's just last year you..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Last year they were out of order, weren't they Pam?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, the last pick-up for overnight deliveries is at seven. So you need to have them signed by then. Or much earlier."
+            },
+            {
+                "character": "Michael",
+                "quote": "Chillax, Pam. Stop Pam-M-S-ing. That's pretty good. Um, actually, I'm sending Ryan on a top secret mission. Tell her what it is."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Updating emergency contacts."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, is that really a priority?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Is it a priority? Oh I don't know, um, what if there is a tornado, Pam? People's legs are crushed under rubble. \"Please, would you be so kind as to call my wife? No, I can't because we don't have any emergency contact information because Pam said it wasn't a priority.\" Think. Think with your head, Pam. Ok, well. She walks out. That's the problem with being a boss is that when you are tough they resent you and when you are cool they walk all over you."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Catch-22."
+            },
+            {
+                "character": "Michael",
+                "quote": "Catch-22. Yes. Why don't you give me your contact information to start with, ok, what's your cell?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Uh, Larissa Halpert."
+            },
+            {
+                "character": "Ryan",
+                "quote": "What's her address? [Ryan's cell phone rings]"
+            },
+            {
+                "character": "Jim",
+                "quote": "117 Mount Bergin St."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hello?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[in his office on his cell phone, talking in a fake high voice] Hey Ryan. This is Michael Jackson calling from Wonderland."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Do you mean Neverland?"
+            },
+            {
+                "character": "Michael",
+                "quote": "This is Tito."
+            },
+            {
+                "character": "Ryan",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Calling from... [Ryan hangs up]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[Reading Jim's palm] You're major and minor lines cross at a ridge - that sucks."
+            },
+            {
+                "character": "Jim",
+                "quote": "You making this up as you go along, aren't you?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I am just following the website."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, at least I don't have cavities."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yes, you have very nice teeth."
+            },
+            {
+                "character": "Jim",
+                "quote": "Thanks."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Who is your emergency contact? [Ryan's phone rings]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Stacy."
+            },
+            {
+                "character": "Ryan",
+                "quote": "[looks to see who is calling but doesn't pick up]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[Taps on the glass in his office to get Ryan's attention] Pick up."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hello?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[in a high pitched voice] This is Mike Tyson."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Hey, Dwight. As Sempai, do you think there is ever going to be a day where humans and robots can peacefully co-exist?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Impossible. The way they're programmed... You're mocking me."
+            },
+            {
+                "character": "Jim",
+                "quote": "No I'm not."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Look, I'm going to offer you a little piece of advice. I'm not afraid to make an example out of you."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, that's not advice. What advice sounds like is this: umm, don't ever bring your purple belt to work because someone might steal it. [reveals Dwight's purple belt]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, give that back to me."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, say please."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. That is not a toy."
+            },
+            {
+                "character": "Jim",
+                "quote": "Please?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Please?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Good, and it absolutely is a toy. Arigatou."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Arigatou. This is not a toy. This is a message to the entire office so they can see that I am capable of physically dominating them."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "And this is more a ying-yang thing. The 'Michael' all cursive, the 'Scott' all caps. Left brain, right brain. Or, duality of man."
+            },
+            {
+                "character": "Pam",
+                "quote": "Could you practice on the forms?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "No women or children, unless provoked."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, Roy?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Warehouse guy. Doesn't count."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok. Michael? Could you beat up Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, yeah, I don't think that would happen."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Because we're friends."
+            },
+            {
+                "character": "Michael",
+                "quote": "Because I would kick his ass."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, Dwight's a purple belt, so..."
+            },
+            {
+                "character": "Michael",
+                "quote": "So? I've beaten up black belts."
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, how did you know they were black belts?"
+            },
+            {
+                "character": "Michael",
+                "quote": "They told me. After. You see, I used to run with a very tough crowd. Street Fighter types. Real, real bad people, I'm just lucky I got out."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "Is your wife still your contact?"
+            },
+            {
+                "character": "Toby",
+                "quote": "Um, ex-wife. Yeah. Um, her last name is 'Becker' now."
+            },
+            {
+                "character": "Ryan",
+                "quote": "'Kay."
+            },
+            {
+                "character": "Toby",
+                "quote": "You don't need to write 'ex'."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "And after that, nobody ever messed with the 'Damn Rascals' ever again."
+            },
+            {
+                "character": "Jim",
+                "quote": "Sounds tough. When you're a Jet, [starts snapping] you're a Jet all the way, right?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You were a Jet?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Have you signed the expense reports yet?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, in theory, I have. I just need to cross some t's and dot some i's. Alright, I'm going to be in my office if anybody needs me. [Puts Dwight in a headlock] Hoo-hah. Oh, wow, sleeper hold. That's my rebuttal. Shhh. Hoo. You are the weakest link."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Argggg!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'm friends with everybody in this office. We're all best friends - I love everybody here. But sometimes your best friends start coming into work late, and start having dentist appointments that aren't dentist appointments. And that's when it is nice to let them know that you can beat them up."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Just hit me. You'll see."
+            },
+            {
+                "character": "Jim",
+                "quote": "I can't. I just got a manicure."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, queer... [realizes he is on camera] eye. Queer eye. That's a good show. Important show. Go ahead. Do it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Just have Dwight punch you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh yeah, that would be kind of worthless because I know a ton of fourteen year old girls who can kick his ass."
+            },
+            {
+                "character": "Jim",
+                "quote": "You know a ton of fourteen year old girls?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "What belt are they?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Look, Dwight is a wuss. When we rented 'Armageddon'..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No!"
+            },
+            {
+                "character": "Michael",
+                "quote": "... he cried at the end of it. He did."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael, I told you, it was because it was New Year's Eve and it began to snow at exactly midnight."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, Bruce Willis. Are they going to leave him on the asteroid?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, I'll punch you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, here we go. Alright, come on."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Kiyah!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Fuuuaaaahhhhh... oohhhhh!"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Did I want to harm Michael? The one man I've been hired to protect? No, I did not."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Are you ok? Are you sure you are alright?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah. [Jim opens office door for Michael] Thank you."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "I come from a long line of fighters. My maternal grandfather was the toughest guy I ever knew. World War II veteran. Killed 20 men then spent the rest of the war in an Allied Prison Camp. My father battled blood pressure and obesity all his life. Different kind of fight."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Ok, he has to be stopped. Please, please, please, please, just ask Michael."
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't know."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, I'll buy you a bag of chips."
+            },
+            {
+                "character": "Pam",
+                "quote": "French Onion?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Obviously."
+            },
+            {
+                "character": "Pam",
+                "quote": "Ok."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[to Kevin, who he is teaching to fight] Take this pen and stab me with it."
+            },
+            {
+                "character": "Michael",
+                "quote": "[Pam knocks on his door] Go away."
+            },
+            {
+                "character": "Pam",
+                "quote": "I just have a quick question."
+            },
+            {
+                "character": "Michael",
+                "quote": "I haven't signed them, ok?"
+            },
+            {
+                "character": "Pam",
+                "quote": "No, it's not that. Um, I was just wondering, since I'm probably going to have to stay late, could you ask Dwight to stay late too so he can walk me to my car?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Come in. Um, Pam, I hate to break this to you but Dwight can't stop you from being mugged. He's just not tough enough."
+            },
+            {
+                "character": "Pam",
+                "quote": "He's a purple belt. That's really high."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, I could beat up Dwight. That's ridiculous. I could murder him."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's just out there, you..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, so that's what they are saying?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, alright, where is Dwight?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Uh, Kitchen."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Hi-yah!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Good."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Wow, that's actually pretty cool Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Now watch, let me take you from behind."
+            },
+            {
+                "character": "Kelly",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Watch out Kelly, he might sucker punch you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I didn't sucker punch you, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, Really?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "In case you remember, I was defending my honor... like a samurai."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really? Well, the offer, Dwight, was for one punch which I absorbed. I had no idea that there would be a second punch. So, catch-22."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ok, fine. Tit for tit. Give it your best shot. Two punches. Go!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Look, if we were in a bar right now, there would be two punches: me punching you and you hitting the floor."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, I would block your first punch rendering it ineffective."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what? You're just lucky that we are at work right now."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ooh, what about, uh, Dwight's dojo?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, they must have class."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, it's free during the day. It's fine."
+            },
+            {
+                "character": "Michael",
+                "quote": "Look..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I've got the key."
+            },
+            {
+                "character": "Toby",
+                "quote": "Michael..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, Toby."
+            },
+            {
+                "character": "Toby",
+                "quote": "Any word on those time cards?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I've got an idea: why don't you leave right now. Why don't you walk away from the room, 'kay? Fine. We'll go at lunch. Pam, make an announcement. Figure out carpools."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Um, well, we are all getting excited to see this fight. The Albany branch is working right through lunch to prevent downsizing, but Michael, he decided to extend our lunch by an hour so we could all go down to the dojo and watch him fight Dwight. Fight... Fight, fight, fight, fight, fight, fight, I'm coming, fight..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I recognize that. That is Japanese for California Roll."
+            },
+            {
+                "character": "Ira",
+                "quote": "Uh, no, it's not."
+            },
+            {
+                "character": "Michael",
+                "quote": "I think it is. A guy told me about that."
+            },
+            {
+                "character": "Ira",
+                "quote": "Actually, it's a symbol for eternal discipline."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[Reading Pam's palm, while she has on extremely padded gloves] Wow, that is really interesting."
+            },
+            {
+                "character": "Pam",
+                "quote": "What?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Your love line- I'm just kidding. I can't see anything."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, look closer."
+            },
+            {
+                "character": "Jim",
+                "quote": "[Jim moves his head closer and Pam taps him gently in the face] Oh, ok."
+            },
+            {
+                "character": "Pam",
+                "quote": "Once point for me."
+            },
+            {
+                "character": "Jim",
+                "quote": "[Gently taps Pam on the forehead] Tied up."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, you're dead."
+            },
+            {
+                "character": "Jim",
+                "quote": "What, what are you going to do? Bring it, Beesley. Bring it. Oh yeah, good move. Not such an ultimate fighter now."
+            },
+            {
+                "character": "Pam",
+                "quote": "Hey, put me down. Put me down. [Meredith turns and looks at Jim and Pam] Oh my god, hey, put me down. Hey..."
+            }
+        ],
+        [
+            {
+                "character": "Ira",
+                "quote": "Ok, gentlemen, listen up. After a clean strike to the chest, stomach, or kidneys, I will separate you and award a point. The first person to three wins. Alright?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes, Sensei!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Alotta rules. Alotta rules. On the street we didn't have any rules. Maybe one - no kicks to the groin, home for dinner."
+            },
+            {
+                "character": "Ira",
+                "quote": "Shi mate!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hiii! [kicks Michael]"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey!"
+            },
+            {
+                "character": "Ira",
+                "quote": "Alright, break."
+            },
+            {
+                "character": "Michael",
+                "quote": "What the hell was that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes!"
+            },
+            {
+                "character": "Ira",
+                "quote": "Dwight - awarded a point."
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Eat it!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Alright, that's the way you want it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Two more."
+            },
+            {
+                "character": "Michael",
+                "quote": "Play dirty, huh? Ok, game on, man."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Sweep the leg."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm comin' atcha man. Ok, purple belt, ok. I got him."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No."
+            },
+            {
+                "character": "Michael",
+                "quote": "I got his pants."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It was my pants."
+            },
+            {
+                "character": "Ira",
+                "quote": "No points for pants."
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight, you have... No, you have something... God, you look like such an idiot! [Lots of yelling and flailing of arms by Michael and Dwight]"
+            },
+            {
+                "character": "Ira",
+                "quote": "Clean single kick, gentlemen."
+            },
+            {
+                "character": "Michael",
+                "quote": "Go on, I dare you to kick there again. Kick there again, I dare ya."
+            },
+            {
+                "character": "Ira",
+                "quote": "Ok, break. Break."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No holding."
+            },
+            {
+                "character": "Michael",
+                "quote": "You can't see. You can't see. Good boy. Good boy. Great boy. Two points, three points, four points. I win. I win. [Michael is using his head guard to hit Dwight] Eight points. Nine points. [Begins to hock a loogie]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, stop it! Come on! Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Open your mouth."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, Michael!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You talkin' to me? You talkin' to me? \"Raging Bull.\" Pacino. Oh, I want that footage. I want it. I need it. Ah, I have to get back to work. I have lots of work... Oh, oh check this out. Come here. [Michael opens his blinds and looks at Ryan in the parking lot] There he is. Mr. Temp. Having lunch by the car. Let us play with him. This'll be hilarious. [Calls Ryan on the phone, Ryan doesn't pick up after seeing that Michael is calling] Oh, we're playing phone tag."
+            }
+        ],
+        [
+            {
+                "character": "Ryan's Voicemail",
+                "quote": "Seven new messages. First New Message. [Michael's voice] \"Hi, Ryan. This is Saddam Hussein.\" Next new message. \"Hi, Ryan. This is your girlfriend... and I'm mad!\""
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "My emergency contact is Todd Packer. Todd F. Packer. Do you know what the F. stands for?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Fudge?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[knock at the door] Yeah... uh, come in. Oh, hey Karate Kid. The Hillary Swank version. Hi. How are ya?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I need to change my emergency contact information from Michael Scott."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Ok, to what?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Just put \"The Hospital.\" Contact number: just put 9-1-1. [Dwight leaves]"
+            },
+            {
+                "character": "Michael",
+                "quote": "He is such a sore loser. You heard, obviously, that I mopped the floor with him this afternoon. You know what, um, do yourself a favor and just keep me as his contact and I will call the hospital. Cut out the middle man."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Later Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "Later, Kev. [Puts French Onion Potato Chips on Pam's desk] Have a good weekend."
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, you too."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[Knock at the door] Yeah."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I have the emergency contacts."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, just throw them on the chair. I'll take it from here. So, whatcha up to this weekend?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Uh, hanging out with some friends, probably."
+            },
+            {
+                "character": "Michael",
+                "quote": "If you're doing anything crazy, give me a shout."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah, alright, I'll um, see you Monday."
+            },
+            {
+                "character": "Michael",
+                "quote": "Alright, bye."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Dwight?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Michael, did you finish yet?"
+            },
+            {
+                "character": "Michael",
+                "quote": "This close. Dwight, may I speak with you for a minute?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I'm busy."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, [points at himself] busier. Making the time."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Michael, can't your conversation wait till Monday."
+            },
+            {
+                "character": "Toby",
+                "quote": "We want to go home."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, you don't even have anyone to go home to, Toby."
+            },
+            {
+                "character": "Pam",
+                "quote": "The shipping place closes in a half hour."
+            },
+            {
+                "character": "Michael",
+                "quote": "I know, but I've been carrying the load on my back all day, and if everybody would just chip in a little bit, it'd might help me out. What do you say? Let's gangbang this thing and go home. Good? Dwight."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "This is illegal."
+            },
+            {
+                "character": "Stanley",
+                "quote": "I don't care."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I have been testing you the entire day. Did you know that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Of course."
+            },
+            {
+                "character": "Michael",
+                "quote": "And I am happy to say that you have passed. So effective immediately I am promoting you from Assistant to the Regional Manager to Assistant Regional Manager."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael, I don't know..."
+            },
+            {
+                "character": "Michael",
+                "quote": "I know, I know, I know, I wouldn't be offering it if I didn't think you could handle it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I can handle it. I can. Wow. So I guess this will just be my office."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, title change only."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I'll have Pam send out a memo."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no. Three month probationary period. Let's not tell anybody about this right now."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Just a formality."
+            },
+            {
+                "character": "Michael",
+                "quote": "Absolutely but not really."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael, I have so much to learn from you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes you do."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Thank you, Sensei."
+            },
+            {
+                "character": "Michael",
+                "quote": "And, ditto."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I told Dwight that there is honor in losing. Which, as we all know, is completely ridiculous, but there is, however, honor in making a loser feel better which is what I just did for Dwight. Would I rather be feared or loved? Um, easy. Both. I want people to be afraid of how much they love me. And I think I proved that today at the dojo."
+            }
+        ]
+    ],
+    "deleted_scenes": [
+        [
+            {
+                "character": "Master",
+                "quote": "[Dwight grunts] Great. Excellent. [Dwight yells] All right. That's okay."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[Dwight's pager goes off] Whoa, whoa, whoa. Hold on. Hold on. Sorry, just one second."
+            },
+            {
+                "character": "Master",
+                "quote": "Dwight, you can't use your pager in here, I told you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Okay, I just..."
+            },
+            {
+                "character": "Master",
+                "quote": "Dwight..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's a sales call."
+            },
+            {
+                "character": "Master",
+                "quote": "Ten push-ups. Ten push-ups!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I can... Yes, sensei."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Do I feel bad that I haven't bonded with the other students? No, I'm not there to make friends. I'm there to attack people."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "What about Oscar? Could you beat Oscar?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No problem."
+            },
+            {
+                "character": "Jim",
+                "quote": "I don't know. He looks pretty scrappy."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Unless he has a shiv, in which case it wouldn't be a fair fight."
+            },
+            {
+                "character": "Jim",
+                "quote": "True. Meredith."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No women or children. Unless provoked."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. Roy."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Warehouse guy. Doesn't count."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay. Michael. Could you beat up Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, I don't think that would happen. See, I used to run with a very tough crowd, street fighter types. Real, real bad people. I'm just lucky I got out. I was a bad ass mo-fo. Stanley knows what I'm talking about."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Excuse me?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I've never lost a fight. You know why? My motto. Never say die."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You just said it. You just said it."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, that's not how I meant it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Die. You just... You said it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut up, Dwight."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Do you think he's signed them yet?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Signed what?"
+            },
+            {
+                "character": "Angela",
+                "quote": "Forget it. Is that chocolate-vanilla swirl?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Just chocolate. Angela? For the last time, I did not eat your chocolate-vanilla swirl."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Don't look at me. [smiles at camera]"
+            },
+            {
+                "character": "Angela",
+                "quote": "I don't know why I write my name on things."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Are you going to happy hour later?"
+            },
+            {
+                "character": "Meredith",
+                "quote": "I'm still recovering from last night. But maybe."
+            }
+        ],
+        [
+            {
+                "character": "Master",
+                "quote": "Sir, your shoes."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Master",
+                "quote": "You're gonna have to take them off. It's a sign of respect."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh. Well, in my office, if you took off your shoes, it would be a sign of disrespect. Stinkyfeetville. Kind of a ying-yang. [exclaiming] Oh, stretchin'. I like to stay tight. Compact. [Dwight screaming]"
+            },
+            {
+                "character": "Master",
+                "quote": "Here's your gear. Please put this on."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you have, do you have anything in, like, black?"
+            }
+        ],
+        [
+            {
+                "character": "Master",
+                "quote": "Okay. Gentlemen. [to Michael] You ready? [to both Michael and Dwight] Okay, listen up."
+            },
+            {
+                "character": "Alyssa",
+                "quote": "Hi, sensei. Hi, Dwight."
+            },
+            {
+                "character": "Master",
+                "quote": "[to camera] That's Alyssa. My senpai. She just qualified for regionals."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Alyssa? I guess she's technically the senpai. But nobody really respects her. The only reason she got into regionals was because her competition was a bunch of 13-year-old girls. Put me in that division. Let's see how she does."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "God, you look like such an idiot. [both yelling] [grunting]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Stan the man."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Hi, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Did you hear about the fight? Well, it wasn't much of a fight, actually."
+            },
+            {
+                "character": "Stanley",
+                "quote": "No. Are those purchase orders signed?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I opened a big can of whoop-ass on him."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Huh? What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I went medieval on his heinie."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Are those purchase orders signed?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hey, Stanley. I don't tell you how to do your job, do I? He..."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Look, I just want to have a job, Michael. If we don't get these purchase orders..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Grow a pair, Stanley. Right? There not gonna downsize because I miss a lot of deadlines. That's not how business works, okay? [sighs] Okay."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "For the record, let me just say, Michael Scott has no honor. If he lived in Japan, he would be an outcast. Well, that's not totally true, 'cause Asians worship chest hair. I had a friend, a hairy friend, who lived in Japan. He told me the women would line up to satisfy his every need. So, and he wasn't even that attractive."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[door opening] All right. Here you go, Princess. Just finished with part one."
+            },
+            {
+                "character": "Pam",
+                "quote": "This is what you had Ryan do."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, under my tutelage."
+            },
+            {
+                "character": "Pam",
+                "quote": "Well, what about the other stuff that has to be in today?"
+            },
+            {
+                "character": "Michael",
+                "quote": "If you didn't badger me with so many questions, Pam, I could be done with it by now."
+            }
+        ]
+    ]
+}

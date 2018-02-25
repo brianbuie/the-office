@@ -1,0 +1,1421 @@
+{
+    "season": 3,
+    "episode": 21,
+    "title": "Women's Appreciation",
+    "scenes": [
+        [
+            {
+                "character": "Jim",
+                "quote": "[to Pam] Hey."
+            },
+            {
+                "character": "Jim",
+                "quote": "[Dwight hands Jim a piece of paper] Oh, what's this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That is a demerit."
+            },
+            {
+                "character": "Jim",
+                "quote": "[reads demerit] \"Jim Halpert, tardiness.\" Ugh. I love it already."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You've gotta learn, Jim. You are second in command, but that does not put you above the law."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, I understand. And I also have lots of questions, like, what does a demerit mean?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[scoffs] Let's put it this way. You do not want to receive three of those."
+            },
+            {
+                "character": "Jim",
+                "quote": "Lay it on me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Three demerits and you'll receive a citation."
+            },
+            {
+                "character": "Jim",
+                "quote": "Now that sounds serious."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, it is serious. Five citations and you're looking at a violation. Four of those and you'll receive a verbal warning. Keep it up, and you're looking at a written warning. Two of those, that'll land you in a world of hurt... in the form of a disciplinary review written up by me and placed on the desk of my immediate superior."
+            },
+            {
+                "character": "Jim",
+                "quote": "Which would be me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "That is correct."
+            },
+            {
+                "character": "Jim",
+                "quote": "OK, I want a copy on my desk by the end of the day or you will receive a full disadulation."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What's a dis... what's that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, you don't want to know."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[door opens] Hey, Phyllis. You all right?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I think I just got flashed."
+            },
+            {
+                "character": "Pam",
+                "quote": "What? Really?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "In the parking lot."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my God."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[jumps out of his chair and runs for the door] Move!"
+            },
+            {
+                "character": "Jim",
+                "quote": "OK, I'll call the real police."
+            },
+            {
+                "character": "Andy",
+                "quote": "What happened? What can I do to help?"
+            },
+            {
+                "character": "Jim",
+                "quote": "[on the phone] OK."
+            },
+            {
+                "character": "Andy",
+                "quote": "I'll check the web."
+            },
+            {
+                "character": "Jim",
+                "quote": "[on the phone] Thank you. [hangs up the phone] The police are on it. They say they've already had three calls."
+            },
+            {
+                "character": "Pam",
+                "quote": "[to Phyllis] Can you tell us what happened?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Um... I was walking to the building and this man asked me for directions. And he was holding a map. And when I walked over, he had it out... on the map."
+            },
+            {
+                "character": "Angela",
+                "quote": "Phyllis. You're a married woman."
+            },
+            {
+                "character": "Creed",
+                "quote": "The guy was just hanging brain. I mean, what's all the fuss?"
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "If that's flashing, then lock me up."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[whispering] It's just, like, so creepy."
+            },
+            {
+                "character": "Ryan",
+                "quote": "[whispering] Yeah. [Pam and Ryan whispering]"
+            },
+            {
+                "character": "Michael",
+                "quote": "What's happening?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, some guy exposed himself to Phyllis in the parking lot."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really? Is she OK?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah, Bob Vance took her for a walk to calm down."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK. [deep breath] Phyllis, you say? [snorts] Hmm. [suppressed laugher]"
+            },
+            {
+                "character": "Angela",
+                "quote": "What is so funny?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Um... I mean did he even see Pam? Or, uh... Karen from behind?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "I'm guessing not."
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughing softly] I'm sorry. It's pretty funny when you think about it."
+            },
+            {
+                "character": "Jim",
+                "quote": "Mm... not really, no."
+            },
+            {
+                "character": "Pam",
+                "quote": "It's disgusting and demeaning."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, OK. Masters of comedy. A guy dropped his pants. Have you ever been to the circus? [everyone glares] OK. [Michael puts his finger through his pant's zipper] He's back! [laughs] OK. Hmm. [babbling with his coat pulled closed] Waagh! [flashes everyone]"
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, what's going on? There's a police car in the..."
+            },
+            {
+                "character": "Michael",
+                "quote": "What? Oh. [makes descending scale noise as his finger goes down]"
+            },
+            {
+                "character": "Toby",
+                "quote": "What's going on?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, Phyllis got flashed. It's, uh... [laughs]"
+            },
+            {
+                "character": "Toby",
+                "quote": "I don't think laughing about it is an appropriate response."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, come on. We are laughing at Phyllis, but she's not even here, so no harm, no foul."
+            },
+            {
+                "character": "Toby",
+                "quote": "I don't think the women in this office -"
+            },
+            {
+                "character": "Michael",
+                "quote": "Incidentally, where were you during all of this? Maybe you're the flasher."
+            },
+            {
+                "character": "Toby",
+                "quote": "I was at a parent-teacher conference."
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh-huh. Prove it. Let's see your penis. [everyone is shocked] [exhales]I... you know, as that was coming out of my mouth, I knew that it was wrong."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "In all the excitement, I forgot that my primary goal is to keep people safe. Women can't have fun if they don't feel safe. For example, Jan and I have a safe word in case things go too far. Foliage. And if one of us says that word, the other one has to stop. Although last time... she pretended she didn't hear me."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "[on speakerphone] Michael, ..."
+            },
+            {
+                "character": "Michael",
+                "quote": "Huh?"
+            },
+            {
+                "character": "Jan",
+                "quote": "...come over after work tonight, OK? I miss your body."
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't know. I feel... I drive a lot. I'm spending a fortune on gas and tolls -"
+            },
+            {
+                "character": "Jan",
+                "quote": "I'll give you $200. And if I get up before you, I'll leave it on the dresser."
+            },
+            {
+                "character": "Michael",
+                "quote": "Um, that... I don't know. That makes me kind of uncomfortable."
+            },
+            {
+                "character": "Jan",
+                "quote": "$300?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I... uh, well, I don't know."
+            },
+            {
+                "character": "Jan",
+                "quote": "You know whatever. Just let my assistant know if you're coming over so he can get more vodka, OK? Hunter, are you on?"
+            },
+            {
+                "character": "Hunter",
+                "quote": "[on speakerphone] You got it, Jan."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Employees of this office are very small and delicate. Deserve protection from local pervs. Better 1,000 innocent men are locked up than one guilty man roam free."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[exhales] I am sick over this thing. Those people out there are clearly afraid. And that can't happen. Not in my house."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Agreed. Let me show you what I've been working on."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[lays a folder full of pictures on Michael's desk] There are several penises there I'd love Phyllis to run her eyes over. You know, see if we can catch this pervert."
+            },
+            {
+                "character": "Michael",
+                "quote": "This is the last thing that Phyllis needs to see right now, Dwight."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Look at that one."
+            },
+            {
+                "character": "Michael",
+                "quote": "Dwight, are those your pants? That's a Polaroid. [Dwight takes the Polaroid and crumples it in his hand]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Attention, everybody. Dwight has something he would like to say."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Due to a recent incident involving Phyllis, a man, a map, and his penis - I think you know what I'm referring to - Michael has authorized me to form an emergency anti-flashing task force."
+            },
+            {
+                "character": "Jim",
+                "quote": "[raises hand] Question. Won't that interfere with your other task forces?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Answer: No, because this is being given priority one. This is a petition for the business park to upgrade their security cameras as well as install two floodlights in the parking lot. And I know... I know what you're thinking. [Pam nods] Won't that just shed more light on the penises? But that is a risk we have to take. Pam. You can draw, kind of. Why don't you work with Phallus on drawing a picture of the exposer that I can post around the community?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Phallus?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Phyllis, sorry. I've got penises on the brain. Back to work, everybody."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I don't often miss Roy. But I can tell you one thing. I wish someone had flashed me when I was with Roy. Because that would have been the ass-kicking of the year. [small laugh] Especially if it had been Jim. He would not have wanted me to have seen Jim's... Whoo, I am... I am saying a lot of things."
+            }
+        ],
+        [
+            {
+                "character": "Phyllis",
+                "quote": "I didn't really get a good look."
+            },
+            {
+                "character": "Pam",
+                "quote": "That's OK. I don't feel like answering phones."
+            },
+            {
+                "character": "Karen",
+                "quote": "Hey, did you guys see this memo that Dwight sent out? [reads memo] \"Women will be sent home if they wear makeup or heels exceeding 1\/4 inch. Females are not allowed to speak to strangers unless given written authorization by Dwight Schrute.\" This is ridiculous."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Attention. I am removing all bananas from the kitchen."
+            },
+            {
+                "character": "Karen",
+                "quote": "Dwight, this memo that you distributed is insulting."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Desperate times call for desperate measures."
+            },
+            {
+                "character": "Pam",
+                "quote": "[reads memo] \"Sleeves down to the wrists, buttoned-up collars, and muted colors.\" Nobody dress like that. [camera pans over to Angela]"
+            },
+            {
+                "character": "Michael",
+                "quote": "OK, you know something, Dwight? We are not the terrorists. Why don't you just take these women, put 'em in a burlap sack, and hit 'em with a stick? Because that's what you're doing. I celebrate these women. They deserve the right to dress as they please. If Pam wants to show more cleavage, she should be able to. I encourage that."
+            },
+            {
+                "character": "Karen",
+                "quote": "Look, it's really simple. We just want you guys to treat us with respect."
+            },
+            {
+                "character": "Michael",
+                "quote": "See? That's what we're talking about. Did you hear that, Dwight?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yes. Did you hear that, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, Dwight. Respect. R-E-S-P-svee-T. Find out what it means to me. All right, you know what? That's it. Conference room, five minutes. Women's appreciation."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait a second, how are you qualified for that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, I don't know, James. Did I come from a woman? Have I slept with a woman? More than one?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[eating banana] Mm, less than three."
+            },
+            {
+                "character": "Michael",
+                "quote": "That is not current."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You know what? Why doesn't Oscar run the meeting? He's a homosexual."
+            },
+            {
+                "character": "Jim",
+                "quote": "Why don't you run the meeting? You play with dolls."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Those are collectible action figures and they're worth more than your car."
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what? I am the expert. I will conduct it. I know the crap out of women."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I, um... would like to apologize for all of the men who thought this was a laughing matter."
+            },
+            {
+                "character": "Creed",
+                "quote": "Are we still discussing this? I say again, what is the big deal?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Nobody likes to be flashed. When Meredith flashed me at that Christmas party, I nearly vomited."
+            },
+            {
+                "character": "Meredith",
+                "quote": "I don't remember doing that."
+            },
+            {
+                "character": "Angela",
+                "quote": "What a surprise."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK, no catfights. Please. Let's - my point is... my point is... a penis, when seen in the right context, is the most wonderful sight for a woman. But in the wrong context, it is like a monster movie."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Alien. Blagh!"
+            },
+            {
+                "character": "Michael",
+                "quote": "What are...? Shut it. Shut. Up. OK, so what I want to engage us in today is a hardcore discussion about women's problems and issues and situations. Magazines and TV shows and movies portray women as skinny, tall goddesses. Well, look around. Are women like that? No. No, they are not. [points to Pam] Even the hot ones aren't really that skinny. So what does that say? That says that you women are up against it. And it is criminal. Society doesn't care. Society sucks. I don't even consider myself a part of society. FYI. Because I am so angry over all of this."
+            },
+            {
+                "character": "Andy",
+                "quote": "If it were up to me, you ladies would be the fashion models."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes, Andy. Then the fashion models could come here and work with me."
+            },
+            {
+                "character": "Karen",
+                "quote": "What you're saying is extremely misogynistic."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes. Thank you. That was not necessary, but I appreciated it. And I proves my point. Women can do anything."
+            },
+            {
+                "character": "Karen",
+                "quote": "I'm saying that you're being sexist."
+            },
+            {
+                "character": "Michael",
+                "quote": "No. I'm being misogynistic. That is insane. I am not being sexist."
+            },
+            {
+                "character": "Karen",
+                "quote": "That - it's the same thing."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "When I got my hair cut short, you asked me if I was a lesbian."
+            },
+            {
+                "character": "Michael",
+                "quote": "Because wha... that was one possible explanation as to why you got that haircut."
+            },
+            {
+                "character": "Angela",
+                "quote": "And when we get mad, you always ask us if we're on our periods."
+            },
+            {
+                "character": "Michael",
+                "quote": "I have to know whether you're serious or not."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I wish I could menstruate."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "If I could menstruate, I wouldn't have to deal with idiotic calendars anymore. I'd just be able to count down from my previous cycle. Plus, I'd be more in tune with the moon and the tides."
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Can we just get back to work?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ye - OK, yes."
+            },
+            {
+                "character": "Angela",
+                "quote": "This is not work talk."
+            },
+            {
+                "character": "Michael",
+                "quote": "You're right. You're right, you're right. And you know why? It's because of where we are. This is a masculine environment. We need to find a place where you feel comfortable. You know where we're gonna go? The Steamtown Mall. [Kelly gasps]"
+            }
+        ],
+        [
+            {
+                "character": "Karen",
+                "quote": "Frankly, it's kind of insulting. But I have a bunch of stuff I need to return in my car. So... I could do that."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Malls are just awful and humiliating. They're just store after store of these horrible salespeople making a big fuss out of an adult shopping in a junior's section. There are petite adults who are sort of... smaller who need to wear... maybe a kids' size 10."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "OK, let's go, ladies of Dunder-Mifflin. Hey, we should have a calendar printed up. Pam, put that in my good idea folder. [Pam nods] Let's go!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Have you finished with the sketch?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hmm, doesn't seem like the type."
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh, Phyllis got a good look."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hmm."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[Pam's sketch looks like Dwight with a mustache, but without his glasses] I plan on plastering this pervert's face everywhere. You can run, but you cannot hide."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "[tires screeching] Oh."
+            },
+            {
+                "character": "Angela",
+                "quote": "Meredith, slow down! We're not gonna get there any faster if we're dead."
+            },
+            {
+                "character": "Meredith",
+                "quote": "Thanks. I know how to drive. [dumps the crumbs from a bag of chips she was eating into her mouth and throws it out the window]"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah. You really shouldn't litter."
+            },
+            {
+                "character": "Meredith",
+                "quote": "My car, my rules."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "Hey, Jim. You wanna go in the women's bathroom?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No. Thank you, though."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You aren't curious?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Not really. I've seen a bathroom before."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yeah, but... it's every guy's fantasy."
+            },
+            {
+                "character": "Jim",
+                "quote": "I think you mean a girl's locker room. And in the fantasy, there's usually girls in it."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[quietly] Yeah. I'm going in."
+            },
+            {
+                "character": "Jim",
+                "quote": "Go crazy."
+            },
+            {
+                "character": "Kevin",
+                "quote": "[in women's bathroom] Oh... my... God."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I really appreciate your letting me work alongside you so closely today."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Of course you do, moon face. That's because you're a preppy freak, you're the office pariah, and nobody likes you. So start hanging these all around the building."
+            },
+            {
+                "character": "Andy",
+                "quote": "This guy looks like a real deviant."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, duh. That's why we gotta catch him. Start hanging those."
+            },
+            {
+                "character": "Andy",
+                "quote": "Aye, aye, Cap'n."
+            },
+            {
+                "character": "Dwight",
+                "quote": "More like, \"Aye, aye, General.\""
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[Meredith parking the car] I don't think she's gonna make it. Don't think she's gonna make it - [metal scraping]"
+            },
+            {
+                "character": "Meredith",
+                "quote": "It's a little too tight. I'm gonna find another spot."
+            },
+            {
+                "character": "Michael",
+                "quote": "Many women are competent drivers. [scraping] OK. Come on."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[marks Scranton with a red pushpin on a map of Pennsylvania and exhales] This is what we know."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[in women's bathroom] Well, I stand corrected. This is pretty cool."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yes."
+            },
+            {
+                "character": "Toby",
+                "quote": "Hey, uh... where'd you decide to take Karen tonight?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Anna Maria's."
+            },
+            {
+                "character": "Ryan",
+                "quote": "What's the occasion?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Six-month anniversary. What?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Nothing - I think, uh, we all kinda thought you guys were just, like, hooking up."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, we've been dating for six months."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Uh, she might mention an email that I wrote a while back, um -"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, right. I remember that one. She read it to me. She said she's not really ready to date somebody in the office, but she really likes you as a friend."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I figured. It's cool. I don't - I wouldn't want to be in an office relationship anyway."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "All right. Hope nobody's on a diet."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Thanks, Michael."
+            },
+            {
+                "character": "Angela",
+                "quote": "Thank you, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "You're welcome. You're welcome, you're welcome. OK. So, let's dish."
+            },
+            {
+                "character": "Pam",
+                "quote": "What do you want to dish about?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Anything you guys want. This is your time. [everyone is silent or continues to eat, Michael exhales] Mm. What is a Pap smear? Or is it \"shmear?\" Like the cream cheese."
+            },
+            {
+                "character": "Pam",
+                "quote": "OK. New topic. Kelly, how are things with Ryan?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Awesome. Um, awful, I mean. But, uh, sometimes awesome."
+            },
+            {
+                "character": "Michael",
+                "quote": "What, um... what do you think of role-play?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Oh, it can be fun."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah? Well, Jan has this schoolgirl fantasy."
+            },
+            {
+                "character": "Karen",
+                "quote": "It's a pretty common one."
+            },
+            {
+                "character": "Michael",
+                "quote": "I just... I feel uncomfortable wearing the dress."
+            },
+            {
+                "character": "Angela",
+                "quote": "OK. I'm gonna be at the doll store."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "Sometimes, the clothes at GapKids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Michael, you shouldn't do anything that you're uncomfortable with."
+            },
+            {
+                "character": "Michael",
+                "quote": "Jan says anything that doesn't scare us is not worth doing. I don't know. Maybe we're different people. I like cuddling and spooning and she likes videotaping us during sex."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, my God."
+            },
+            {
+                "character": "Michael",
+                "quote": "[groans] And then watching it back right afterward to improve my form."
+            },
+            {
+                "character": "Karen",
+                "quote": "That is not healthy behavior."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, it's not that bad. The worst part is that she shows it to her therapist and they discuss it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael, you need to get out of this."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, she's... she's fooling around. It's a woman thing."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, normal women don't do stuff like that. This is bad. [Karen nods and Michael looks like he's about to start crying]"
+            },
+            {
+                "character": "Michael",
+                "quote": "No... No, it's all right. I'm OK. I'm OK. [sniffing] You guys... what are we gonna do about Jan? [sighs]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Read the pros first."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK. Jan is smart. Uh, successful. Good clothes. Hot. Perfect skin. Nice butt."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "She does have very nice clothes."
+            },
+            {
+                "character": "Karen",
+                "quote": "OK, OK. Um, cons."
+            },
+            {
+                "character": "Michael",
+                "quote": "Cons. Wears too much makeup. Breasts: not anything to write home about. Insecure about body. I'm unhappy when I'm with her. Flat-chested."
+            },
+            {
+                "character": "Pam",
+                "quote": "What was the last one?"
+            },
+            {
+                "character": "Michael",
+                "quote": "She's totally flat. Shrunken chesticles."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "No, the one before that."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm unhappy when I'm with her."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael... you shouldn't be with someone who doesn't make you happy."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm happy sometimes. Um... when we scrapbook or right towards the end of having sex."
+            },
+            {
+                "character": "Karen",
+                "quote": "Look, most relationships have their rough patches. You just have to push through it sometimes."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, that's smart."
+            },
+            {
+                "character": "Pam",
+                "quote": "Maybe. But it sounds like you're just wrong for each other."
+            },
+            {
+                "character": "Michael",
+                "quote": "That sounds good too. I don't know who's right. I just don't - I don't know. I don't know."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I bet you know. Don't think, just answer. What do you want to do about Jan?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I wanna break up with Jan. Wow. I wanna break up with Jan."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "My mom taught me that."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Wow, I cannot believe this yogurt has no calories."
+            },
+            {
+                "character": "Pam",
+                "quote": "No one said it has no calories."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, hey, guys. I want to do something nice for you, because you did something so nice for me earlier. I want you to go in there. I want you to buy one item on me as a thank-you. [Kelly sprints inside Victoria's Secret] Come on. Get in here."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Let's face it, most guys are from the Dark Ages. They're caveman. And they like a woman to be showing her cleavage and to be wearing 8-inch heels, and to be wearing, um, see-through underpants. But... for me, a woman looks best when she is just absolutely naked."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[in women's bathroom] This is so great, huh? We should do this much more often."
+            },
+            {
+                "character": "Toby",
+                "quote": "I-I think we hang out an appropriate amount of time."
+            },
+            {
+                "character": "Creed",
+                "quote": "What are you doing in here? This is the women's room."
+            },
+            {
+                "character": "Kevin",
+                "quote": "You're in here."
+            },
+            {
+                "character": "Creed",
+                "quote": "I pay for that privilege. [goes into stall]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[all get up to leave] OK."
+            }
+        ],
+        [
+            {
+                "character": "Creed",
+                "quote": "[wearing headphones and speaking loudly] I'm a pretty normal guy. I do one weird thing. I like to go in the women's room for number two. I've been caught several times and I have paid dearly."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Mm. You don't want anything? My treat. Some panties or... pick a thong or... G-string. T-back. Get a nice bra. Padded bra. See-through, push-up, lace? Thigh-high? Bustier? Any - it just - you know what, I would love to buy you a fresh set of underwear."
+            },
+            {
+                "character": "Karen",
+                "quote": "Phyllis. What do you think? Too much?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Jim's gonna love it. [Karen giggles]"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "I'm kind of in-between boyfriends right now. So I don't need anything sexy. But I do need some new hand towels. I figure I can cut up this robe."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "[in the car] Slower. Slower. Meredith. [Michael's cell phone ringing My Humps] Slow it up."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh. Oh, no. [inhales sharply] It's Jan. What do I do?"
+            },
+            {
+                "character": "Karen",
+                "quote": "Answer it."
+            },
+            {
+                "character": "Pam",
+                "quote": "Don't answer it."
+            },
+            {
+                "character": "Michael",
+                "quote": "OK, it stopped."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[bang] Whoa."
+            },
+            {
+                "character": "Meredith",
+                "quote": "[tires screeching] Crap."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[snickers at Pam's sketch] That is pretty cool."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Michael, you know how to, um -change a wheel, right?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh, yeah. Yep. Um... Could somebody grab me the lever, and I will..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Here, uh... Meredith? Why don't you put your hazards on."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, get your hazards on for safety. Let's see. [takes off his coat and tosses it aside] There we go! [Pam brings over the jack and lug wrench] Good. Yes, we have the... all right. [tries the use the jack to loosen the lug nuts]"
+            },
+            {
+                "character": "Pam",
+                "quote": "I think I've got it."
+            },
+            {
+                "character": "Michael",
+                "quote": "Do you have a... a crescent? A crescent Allan?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't think we really need that, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh... you know what? I'm going to... you take care of that. I'm gonna do traffic... detail."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You know, I changed a tire today. All by myself. This bathrobe's already coming in handy. [Meredith honking] Coming!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Think we'll find him?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, I do. 'Cause justice never rests."
+            },
+            {
+                "character": "Andy",
+                "quote": "[pulls a candy bar from his coat pocket] Halvsies?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No. Wholesies. [snatches the candy bar]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Listen, man, I really appreciate you letting me shadow you today. I feel like I learned a lot."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Natch. [bites off a lot of candy bar]"
+            },
+            {
+                "character": "Andy",
+                "quote": "Yep. If you don't mind, I think I'll hang some of these posters around my neighborhood. Schools, post office, et cetera."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You know, I may have underestimated you. You're not a total ass. [coughs]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "OK, I am really going to do this."
+            },
+            {
+                "character": "Pam",
+                "quote": "Good luck, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "You know what? I need my girls with me. Pam, Karen, even Phyllis. Come on. Let's do this. Let's do it. [sighs]"
+            },
+            {
+                "character": "Karen",
+                "quote": "OK, remember, be strong."
+            },
+            {
+                "character": "Michael",
+                "quote": "I love you guys. Now I'm getting her voicemail."
+            },
+            {
+                "character": "Pam",
+                "quote": "Don't leave a -"
+            },
+            {
+                "character": "Michael",
+                "quote": "[leaving a message] Hey, Jan. It's me, Michael. I'm just calling to say that I think we need a little break, permanently. And, uh, I know everybody says this, but I-I wanna remain friends. Or at least business associates who get along. Oh, just so you know, it's not me, it's you. [Jan walks in] OK, buddy. Somebody just walked in. I have to go. Um, so I'll talk to you later."
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael... [clears throat] I was, um... I was really unhappy with our conversation earlier. And I... I just - I couldn't stop thinking about it. So I decided that I would drive down here and apologize to you in person. So... [takes Michael's hand] I'm sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Jan",
+                "quote": "So... we're good?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Abso-fruit-ly."
+            },
+            {
+                "character": "Jan",
+                "quote": "[cell phone vibrates] Oh. Hold on, I'm sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "No... No..."
+            },
+            {
+                "character": "Jan",
+                "quote": "One second. Oh! It's from you. Uh, you wanna grab some dinner?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jan",
+                "quote": "OK. [voice on phone] \"It's me, Michael. I'm just calling to say that I think we need a little break, permanently. And, uh, I know everybody says this, but I want...\""
+            },
+            {
+                "character": "Michael",
+                "quote": "Maybe some Italian. [voice on phone] \"... to remain friends. Or at least business associates -\" [Jan takes the phone away from her ear] Chinese? [voice on phone] \"who get along. Oh, just so you know, it's not me, it's you. OK, buddy.\""
+            },
+            {
+                "character": "Jan",
+                "quote": "Oh. [door closes]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[sighs] Any man who says he totally understands women is a fool. Because they are un-understandable. There's a wishing fountain at the mall. And I threw a coin in for every woman in the world and made a wish. I wished for Jan to get over me. I wished for Phyllis, a plasma TV. I wished for Pam to gain courage. I wished for Angela, a heart, and for Kelly, a brain. \"Michael, how can you appreciate women so much but also dump one of them?\" You mean, how can I be so illogical and flighty and unpredictable and emotional? Well, maybe I learned something from women after all."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[phone rings] Dunder-Mifflin paper\/sex predator hotline, this is Dwight Schrute."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, Dwight. It's Jim."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jim, what are you doing? I'm busy."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, you're not. I'm looking right at you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ugh. I'm hanging up."
+            },
+            {
+                "character": "Jim",
+                "quote": "Don't. [quietly] I have information about the sex predator."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You have information about the sex predator?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I saw him two minutes ago."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Where?"
+            },
+            {
+                "character": "Jim",
+                "quote": "In the women's bathroom, above the sink."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[hangs up and runs to the women's bathroom] Anti-flashing task force! Above the sink. Above the sink. Hmm. [sees himself in the mirror with two black marks on the mirror making a mustache, removes his glasses and figures it out] PAM!"
+            }
+        ]
+    ],
+    "deleted_scenes": [
+        [
+            {
+                "character": "Jan",
+                "quote": "So how are you liking the Wall Street Journal subscription?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Love it."
+            },
+            {
+                "character": "Jan",
+                "quote": "Are you reading it everyday, like we decided you would?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh, yes, I am."
+            },
+            {
+                "character": "Jan",
+                "quote": "Good, good, it's the best business reporting isn't it?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Uh, yeah, it's okay. Its just, I don't think the cartoons are very funny."
+            },
+            {
+                "character": "Jan",
+                "quote": "Wait, wait, what cartoons?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The a cartoon that goes with each article. This one says Mel Karmazin? I don't, I don't know. I guess I get it."
+            },
+            {
+                "character": "Jan",
+                "quote": "[Sigh]"
+            },
+            {
+                "character": "Michael",
+                "quote": "We should really start recycling."
+            },
+            {
+                "character": "Jan",
+                "quote": "Right uh, Michael."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Hey, what's going on?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Phyllis got flashed in the parking lot."
+            },
+            {
+                "character": "Kelly",
+                "quote": "[Screams]"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Okay, you need to stop that right now."
+            },
+            {
+                "character": "Bob",
+                "quote": "Phyllis, you okay? You sure?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hey good lookin', what ya got cookin'?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I got nothing cooking, it's cooked. It's borscht and its served cold."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey listen, I'm sure everyone's already told you but, your presentation out there, was pretty inspiring stuff. Must be nice being a woman around here, knowing they have a protector in you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "If you are trying to kiss my ass, I would not suggest it. Believe me, you do not want to kiss this ass."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Borscht, according to Dwight it's best served cold. You know what else is best served cold? Yeah, gazpacho. You see what I'm doing? I am establishing a mutual love of cold soups. This is the first step in my plan to win Dwight's trust."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I should make you my vichyssoise."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I will never be your vichyssoise."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Orgasms, why can women have them? Yep?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No. I'm not a lawyer, but I don't think this is the place to do this."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Sometimes I imagine what it would be like to be a woman. I have a full-length mirror in my bathroom, and before I get dressed I will tuck myself between my legs just to see. And, um, it's uncomfortable. So maybe I do understand."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "[sings] We're going to the mall. Bye Ryan, bye."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Lets go, fall out, let's go. Move, move, move, move, move."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I got shotgun. Damn it."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Let me be clear. There's only one thing that's important to me, and its not friendship. Its dominance, and I think I know a thing or two about dominating. Okay, I lived with a dominatrix for three years in Stamford. Mistress Lila. Taught me more than any college professor I ever had, while attending Cornell, which is where I went to school."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Look at that! Come on! Free underwear!"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "It is totally inappropriate, but on the other hand..."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey, Pam, how bout something like that for you. Could sort of cover up any imperfections in the mid section. Just show off the twins a little bit."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "That's pretty cool."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "You can make people believe anything. Today I made Dwight believe I like cold soups. Why? I don't know. I don't have to know. That's what makes me so dangerous."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Idiot."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I learned a lot about women today. And any man who says he totally understands women is a fool. Because they are un-understandable. Jan and I broke up. Why? Because she didn't like one message I left on her voicemail? But that is her peariagative. I thought I understood women, but maybe, can't believe I'm gonna say this, maybe, women don't understand themselves."
+            }
+        ]
+    ]
+}

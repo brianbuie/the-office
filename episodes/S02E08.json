@@ -1,0 +1,1717 @@
+{
+    "season": 2,
+    "episode": 8,
+    "title": "Performance Review",
+    "scenes": [
+        [
+            {
+                "character": "Dwight",
+                "quote": "[bouncing on an exercise ball] You should get one of these."
+            },
+            {
+                "character": "Jim",
+                "quote": "No. Thank you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Do you even know what this is? It is a fitness orb and it has completely changed my life. Forget everything you thought you knew about ab workouts."
+            },
+            {
+                "character": "Jim",
+                "quote": "Done."
+            },
+            {
+                "character": "Dwight",
+                "quote": "This ab workout is specifically designed to strengthen your core. [knocks things around Jim's desk] Sorry."
+            },
+            {
+                "character": "Jim",
+                "quote": "S'ok."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Numerous health benefits, strengthens your back, better performance in sports, more enjoyable sex."
+            },
+            {
+                "character": "Jim",
+                "quote": "You're not having sex."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Plus, improves your reflexes [knocks over more stuff] see, I would have caught that."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok, you know what, uh, how much is that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's only twenty-five bucks."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow. Um, ok. [pops Dwight's orb with scissors]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Pam, could I see you in my office?"
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Pam, you're trustworthy-"
+            },
+            {
+                "character": "Pam",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Michael",
+                "quote": "And a woman-"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, no."
+            },
+            {
+                "character": "Michael",
+                "quote": "And I want you to listen to a voicemail from my boss. [Jan on recording] \"Michael, it's Jan. I guess I missed you. I'll, uh, be there this afternoon for performance reviews. I hope it's understood that that will be our only topic of discussion. See you soon.\" First impressions?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Uh, just off the top... I think she'll be here this afternoon."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "My boss is coming in today, the lovely Jan Levinson-Gould will, well, no Gould. The Gould has been [makes slashing neck hand motion] swack, divorced. Um, the awkward part is that this will be the first time that we'll be seeing each other since, well, uh, it was really nothing. We just sort of got caught up in the moment. The vulnerable divorcee gives herself to the understanding, with rugged good-looks, office manager. Just, uh, she didn't want it to continue for some reason. It, we both, I didn't want it, we both didn't want it to continue. Was not professional. Um, when people say something's mutual, it never is. But this was mutual."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[playing Jan's message] \"I guess I missed you.\" I guess I missed you. So, she misses me?"
+            },
+            {
+                "character": "Pam",
+                "quote": "She missed you."
+            },
+            {
+                "character": "Michael",
+                "quote": "But then she goes on to say \"that will be our only topic of discussion\". That doesn't mean anything, those are just words."
+            },
+            {
+                "character": "Pam",
+                "quote": "I have one idea of what it means."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok. Yeah, what, what?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Well I don't think you're gonna be very happy with this."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ohhh, great. Well, now I'm in a terrible mood. Let's do your performance review-"
+            },
+            {
+                "character": "Pam",
+                "quote": "Because she's conflicted. She has to be professional, but she's fighting feelings... for you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ah, why, that's great news?  That, that, then why would, why would I not like that?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Um, just cause, that, you work together, and it might be awkward."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, wow, wow. Alright, let's listen to that again. [plays Jan's message] \"Michael, it's Jan. I guess I missed you\"."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Oh, hey, listen, Jim. Here's a little tip for your performance review."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ok."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Tell Michael that we should be stocking more of the double-tabbed manila file folders."
+            },
+            {
+                "character": "Jim",
+                "quote": "We don't have double-tabbed manila file folders."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, yes, we do."
+            },
+            {
+                "character": "Jim",
+                "quote": "No, we don't."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, it's a new product. So, you should just suggest that to him and he'll be sure to give you a raise."
+            },
+            {
+                "character": "Jim",
+                "quote": "Alright... well, I'm not asking for a raise. I'm gonna actually be asking for a pay decrease."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh, that is so stupid. What if he gives it to you?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I win."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Ugh, you know what? I am going to zone you out for the rest of today. I need to stay focused, and I don't have to see you tomorrow or Sunday and please don't call me, and we'll see how things go on Monday. Uh, stupid."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wait, wait; one thing. Uh, by tomorrow, you mean Saturday, right?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh, duh."
+            },
+            {
+                "character": "Jim",
+                "quote": "Duh."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Today is Thursday. But Dwight thinks that it's Friday. And that's what I'll be working on this afternoon."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "Sometimes women say more in their pauses than they say in their words."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "Oh, yes. Let's listen to it again. And this time, really listen to the pauses."
+            },
+            {
+                "character": "Michael",
+                "quote": "God, Stanley, that's frickin' brilliant. How do you know that? Did you learn that on the streets? Sorry."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Oh, no, that's ok. I did learn it on the streets. On the ghetto, in fact."
+            },
+            {
+                "character": "Michael",
+                "quote": "No kidding."
+            }
+        ],
+        [
+            {
+                "character": "Stanley",
+                "quote": "It's all about my bonus."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Michael and Jan definitely made out."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ohh..."
+            },
+            {
+                "character": "Pam",
+                "quote": "Maybe more."
+            },
+            {
+                "character": "Jim",
+                "quote": "Eck!... Oh! Also, it is Thursday, but Dwight thinks it's Friday. So, keep that goin'."
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yea!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Good work, Stanley. Great performance review. Stanley in the house, everybody. Woo! Angela, your turn."
+            }
+        ],
+        [
+            {
+                "character": "Angela",
+                "quote": "I actually look forward to performance reviews. I did the youth beauty pageant circuit. And I enjoyed that quite a bit. I really enjoy being judged. I believe I hold up very well to even severe scrutiny."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Jan's on the phone for you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh; Angela, you were totally satisfactory this year."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Interesting. Jan is calling me. Maybe it wasn't so mutual after all. [puts Jan on speakerphone] Yeah?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Jan! To what do I owe this pleasure?"
+            },
+            {
+                "character": "Jan",
+                "quote": "I am returning your many calls."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, hello to you, too. Um, yeah, I was just um, I just wanted to get some closure on uh, what transpired between us at the meeting we had in the parking lot of the Chili's."
+            },
+            {
+                "character": "Jan",
+                "quote": "No. No, we won't be discussing that, Michael. The only things I wanna talk about during your performance review are your concrete ideas to improve your branch."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, surely this uh, review is a formality because of what happened uh, at our meeting in the parking lot of Chili's."
+            },
+            {
+                "character": "Jan",
+                "quote": "Uh, your review is anything but a formality, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh."
+            },
+            {
+                "character": "Jan",
+                "quote": "I expect you to forget anything that you think may have happened between us and exhibit completely professional behavior."
+            },
+            {
+                "character": "Michael",
+                "quote": "Been thinking about you."
+            },
+            {
+                "character": "Jan",
+                "quote": "Ok, that is an example of completely unprofessional behavior."
+            },
+            {
+                "character": "Michael",
+                "quote": "Um, I don't see how that's unprofessional. Just-"
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yep."
+            },
+            {
+                "character": "Jan",
+                "quote": "Are the cameras with you..."
+            },
+            {
+                "character": "Michael",
+                "quote": "No."
+            },
+            {
+                "character": "Jan",
+                "quote": "...in your office?"
+            },
+            {
+                "character": "Michael",
+                "quote": "They are not. Yes, they are. [Jan hangs up] That's my girlfriend."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "I heard they made out and had sex."
+            },
+            {
+                "character": "Oscar",
+                "quote": "No, they just made out. That's it."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Well, I heard they made out and had sex."
+            },
+            {
+                "character": "Angela",
+                "quote": "Don't talk about it. Office romances are nobody's business but the people involved."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Romances?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Pam, I have ideas on a daily basis. I know I do. I have a clear memory of telling people my ideas. Um, is there any chance you wrote any of my ideas down? In a folder? A \"Michael-idea\" folder?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Sorry."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's unfortunate. How 'bout the suggestion box? There's tons of ideas in there."
+            },
+            {
+                "character": "Pam",
+                "quote": "What suggestion box?"
+            },
+            {
+                "character": "Michael",
+                "quote": "The suggestion box that I put out, and people could be put in suggestions anonymously? Maybe there's prizes?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh, yeah. Uh, I think I remember that from back from when I first started."
+            },
+            {
+                "character": "Michael",
+                "quote": "Why don't you find it and tell people to get theirs... never mind, I'll tell them. Hello, everybody? Yeah, uh, attention, please. Jan Levinson's coming, very soon, and so, we're going to have our weekly suggestion box meeting, so you can all get your constructive compliments in a.s.a.p."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Don't you mean constructive criticism?"
+            },
+            {
+                "character": "Michael",
+                "quote": "What did I say?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "You said \"constructive complements\"; that doesn't make any sense."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, Kelly, that was neither constructive nor a compliment, so maybe you should stop criticizing my English and start making some suggestions. 'K?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[on phone] Hey, Dan, this is Jim, and it is about 11:15, and I wanted to know what you were up to tomorrow, which is the fifteenth, and that is a..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Saturday."
+            },
+            {
+                "character": "Jim",
+                "quote": "[pumps fist] ...Saturday, so just let me know what you're doing tomorrow, Saturday, for lunch. Ok, talk to you soon."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "[on phone] We'll address this in the meeting then. Ok. Ok, bye-bye. [to Pam] Could you please tell Michael that I'm here?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Sure."
+            },
+            {
+                "character": "Michael",
+                "quote": "Hi, Jan. How are you?"
+            },
+            {
+                "character": "Jan",
+                "quote": "I'm good; how are you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Good to see you."
+            },
+            {
+                "character": "Jan",
+                "quote": "Nice to see you."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok. [tries to kiss Jan's hand] Ok, why don't we just step into my office? We're gonna go in here."
+            },
+            {
+                "character": "Jan",
+                "quote": "Can we please go in your office?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yep, right after you. Apres-vous. [mouths to Pam] No calls."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Oooo."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Alright [takes Jan's coat]."
+            },
+            {
+                "character": "Jan",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's nice to see you."
+            },
+            {
+                "character": "Jan",
+                "quote": "Nice to see you too, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Not like that."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, well."
+            },
+            {
+                "character": "Jan",
+                "quote": "You know Michael, I think I need to make something clear right off the top. I'm not going to discuss anything with you other than Dunder-Mifflin business."
+            },
+            {
+                "character": "Michael",
+                "quote": "Alright."
+            },
+            {
+                "character": "Jan",
+                "quote": "Period."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yep."
+            },
+            {
+                "character": "Jan",
+                "quote": "Do we understand each other."
+            },
+            {
+                "character": "Michael",
+                "quote": "Absolutely."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I'm a little confused. 'Cause first it's all like kissy-kissy. And then it's like all regret. Because \"Oh, I regret that.\" But, \"Wait, I'm still gonna call you.\" But, but, \"We're just gonna talk business. And I may come down and fire you if you don't do your job.\" But what were talking about when we first kissed? Business."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "So are you still in the middle of the performance reviews then?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no, I finished all of that. I'm very fast. I'm not too fast. Not like wham-bam-thank ya ma'am. But I do say thank ya ma'am. But, I'm, I'm not like wham-bam. Not that there's anything wrong with wham-bam. If it's consensual. [cold Jan stare] We're talking about office stuff. Can I ask you a question?"
+            },
+            {
+                "character": "Jan",
+                "quote": "No."
+            },
+            {
+                "character": "Michael",
+                "quote": "This is a business question. It's nothing personal, I promise."
+            },
+            {
+                "character": "Jan",
+                "quote": "Fine."
+            },
+            {
+                "character": "Michael",
+                "quote": "Are you wearing a new perfume today?"
+            },
+            {
+                "character": "Jan",
+                "quote": "How is that a business question?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, you're wearing it at the office. And [smells Jan] it, I'm sorry, but no offense, but it's really sexy."
+            },
+            {
+                "character": "Jan",
+                "quote": "Please don't smell me, Michael."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Hey, Jim."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey, how's it goin'?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oh my God, did you see \"The Apprentice\" last night?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Course, it's on every Thursday night, so how could I miss it?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Can you believe who Trump fired?"
+            },
+            {
+                "character": "Jim",
+                "quote": "No, that was unbelievable."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Who? Who was it? Who did he fire?"
+            },
+            {
+                "character": "Pam",
+                "quote": "You didn't see it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, I went out and got drunk with my laser tag team last night. Crap! I never go out on a Thursday night; what the hell was I thinking?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I don't understand- [phone rings] Hold on. Sorry. [answers] Yes, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "Michael, it's time for the suggestion box meeting."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm kind of in the middle of something. I wish you wouldn't interrupt."
+            },
+            {
+                "character": "Pam",
+                "quote": "You told me to buzz you about the suggestion box meeting when Jan was here."
+            },
+            {
+                "character": "Michael",
+                "quote": "I did not, not, not use those words."
+            },
+            {
+                "character": "Jan",
+                "quote": "Uh, I'd like to sit in on that meeting [to Pam] is it happening right now?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, it's in like ten minutes."
+            },
+            {
+                "character": "Pam",
+                "quote": "Everyone's waiting in the conference room."
+            },
+            {
+                "character": "Jan",
+                "quote": "Great. Very good."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Why are we here? Because I value your opinions. Now, I know a lot of don't think that I read your suggestions, but I do. I just sift through them every week and I really look and scrutinize to see what you guys are writing. Um, so, let's, uh, just read some of these suckers. Alright. Number one: \"What should we do to prepare for Y2K?\""
+            },
+            {
+                "character": "Dwight",
+                "quote": "What should we do to prepare for Y2K?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "I thought you read these every week."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, obviously this one got stuck in the box. [to Jan] That happens occasionally."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It happens occasionally."
+            },
+            {
+                "character": "Michael",
+                "quote": "And, um, one down. Next suggestion: \"we need better outreach for employees fighting depression\". Ok, alright, enough with the jokes. Nobody in here is suffering from depression."
+            },
+            {
+                "character": "Jan",
+                "quote": "That sounds serious, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, ok, well, yeah, who wrote it?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Tom?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Tom. Then it is a joke because there is nobody in here named Tom."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Tom? He worked in accounting up until about a year ago. [blank stares] Tom? [acts like she's shooting herself in the head] Pow."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, that guy? That guy was weird. Alright, next suggestion."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Next suggestion."
+            },
+            {
+                "character": "Michael",
+                "quote": "Arrr, dooby dooby do. \"You need to do something about your B.O.\""
+            },
+            {
+                "character": "Dwight",
+                "quote": "You need to do something about your B.O."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, I don't know who this suggestion is meant for, but it's more of a personal suggestion and it's not an office suggestion. Far be it for me to use this as a platform to embarrass anybody."
+            },
+            {
+                "character": "Toby",
+                "quote": "Aren't the suggestions meant for you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, Toby, if by me you are inferring that I have B.O., then I would say that is a very poor choice of words."
+            },
+            {
+                "character": "Creed",
+                "quote": "Uh, Michael, he wasn't inferring, he was implying. You were inferring."
+            },
+            {
+                "character": "Michael",
+                "quote": "Was I, Creed?! Ok, well, you know what? I am implying is that when we're on an elevator together, I should maybe take the stairs, because talk about stank. Not that I would ever say something like that in public, and I never have, and I never will. I just think it's something that we should all be aware of. Ok? Now that we've learned this, let's continue. See, this is good, we're learning and we're figuring some stuff out. \"You need to do something about your coffee breath\"-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You need-"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok."
+            },
+            {
+                "character": "Dwight",
+                "quote": "To do something about-"
+            },
+            {
+                "character": "Michael",
+                "quote": "Shut up, shut up, shut up, Dwight, OK. I don't think you people are grasping the concept of the suggestion box."
+            },
+            {
+                "character": "Angela",
+                "quote": "Sometimes you talk to us real close."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, is that hard for you? Alright, well-"
+            },
+            {
+                "character": "Angela",
+                "quote": "Well, when you have coffee breath-"
+            },
+            {
+                "character": "Michael",
+                "quote": "I'll work on that-"
+            },
+            {
+                "character": "Angela",
+                "quote": "It's hard."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let's keep going. Keep it going. Yep. What do we have here? We have somebody's piece of gum. Somebody put a piece of gum in there. This is not a, a garbage can, this is the future of our company. This is not a place for gum. I don't wanna have to read these tomorrow."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, who wants to come in on a Saturday?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah, what? Uh, alright, next suggestion."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Next suggestion."
+            },
+            {
+                "character": "Michael",
+                "quote": "\"Don't sl-\", ok, that's blank [Dwight picks up note] Don't, just put it-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "\"Don't sleep with your boss\"? Do you think this is referring to you boning Jan?"
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "I can't, I can't-"
+            },
+            {
+                "character": "Michael",
+                "quote": "I don't understand why you're so upset."
+            },
+            {
+                "character": "Jan",
+                "quote": "Please sit down."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let me ask you-"
+            },
+            {
+                "character": "Jan",
+                "quote": "You're gonna sit here and I'm gonna go sit over there."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, let me ask you this."
+            },
+            {
+                "character": "Jan",
+                "quote": "Please, sit yourself down."
+            },
+            {
+                "character": "Michael",
+                "quote": "Let me ask you something."
+            },
+            {
+                "character": "Jan",
+                "quote": "What, Michael."
+            },
+            {
+                "character": "Michael",
+                "quote": "Where did you get your outfit?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[loud metal music playing in a stairwell; Dwight pacing] You are giving me this raise! I deserve this raise! [plays air guitar] Yes! [kicks] Yes! Yes! Hiya! The least you can do is keep my salary consistent with inflation! Keeya eyah! Yes! Why are you gonna give me this raise? Why? Because... I'm awesome! I am awesome!"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I just don't understand why you have to pretend like nothing happened."
+            },
+            {
+                "character": "Jan",
+                "quote": "Because nothing did, Michael. It, I'm not going to say anything more about it, and I would advise that you do the same"
+            },
+            {
+                "character": "Michael",
+                "quote": "Look-"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh my God..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I'm sorry, am I interrupting? Oh God; were you guys making out?"
+            },
+            {
+                "character": "Jan",
+                "quote": "No, Dwight; come in."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Great."
+            },
+            {
+                "character": "Michael",
+                "quote": "What do you want Dwight?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I am ready for my performance review."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, great. Your performance has been adequate. You may leave; goodbye."
+            },
+            {
+                "character": "Jan",
+                "quote": "Is this how you've been conducting all the reviews, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "You wanna talk now, good; OK, Dwight, leave."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh, wait, I would like to discuss my raise?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Why on earth would we give you a raise?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That is an excellent question. Thank you for asking. Let me bring up one word: dedication. [points to graphs] I have never been late. Also, I have never missed a day due to illness. [Michael sighs] Even when I had walking pneumonia. I even come in on holidays."
+            },
+            {
+                "character": "Michael",
+                "quote": "You do? How do you get in?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I have a copy of your key."
+            },
+            {
+                "character": "Jan",
+                "quote": "That's a serious offense!"
+            },
+            {
+                "character": "Michael",
+                "quote": "That is a serious offense. Very serious. As is toying with a man's heart."
+            },
+            {
+                "character": "Jan",
+                "quote": "Oh! Michael, for God sakes!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "I'd also further like to talk about my merits in the workplace."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, third wheel, why don't you do that?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "For instance, the time I brought in deer jerky for the whole office."
+            },
+            {
+                "character": "Michael",
+                "quote": "That was deer!? Gross, oh!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "You liked it!"
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh, did not!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Jan, have you ever had deer?"
+            },
+            {
+                "character": "Jan",
+                "quote": "No."
+            },
+            {
+                "character": "Dwight",
+                "quote": "It's a delicacy. And you know what? It's an aphrodisiac. So when we're done here, you guys could go over to The Antler Lodge, sample some deer and talk about my raise."
+            },
+            {
+                "character": "Michael",
+                "quote": "What do you say, Jan?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Ok! Here's what I'm gonna do: I'm gonna step outside, collect my thoughts, and I will return in about ten minutes."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok. You just, uh, clear your head."
+            },
+            {
+                "character": "Jan",
+                "quote": "[Dwight opens door] Thank you, Dwight."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "Look, I know it's your job, I know you have to ask, but I promise you, I'm not gonna discuss it with him, I'm certainly not gonna discuss it with you. [digs a cigarette out of her purse] Do you have a light?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "And in conclusion, I think that Lex Luthor said it best when he said \"Dad, you have no idea what I'm capable of\"."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's from Superman?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Smallville. And that is why, I feel, that I deserve this raise."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Do you think Michael and Jan actually..."
+            },
+            {
+                "character": "Jim",
+                "quote": "I don't really wanna picture it. But thank you, Pam."
+            },
+            {
+                "character": "Pam",
+                "quote": "How do you come back from that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Um, you don't, I don't think, come all the way back, you know. Especially working together."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, I mean doing that with Michael. How do you come back from that?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh-"
+            },
+            {
+                "character": "Pam",
+                "quote": "As a human being."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, no, I don't think you can."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "I'm heading back to New York; Alan and I will conduct your performance review over the phone tomorrow."
+            },
+            {
+                "character": "Michael",
+                "quote": "Wait."
+            },
+            {
+                "character": "Jan",
+                "quote": "'K?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Wait, wait, wait, come, I just, I just wanna know why?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael, now is not the time or the place."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ok, so you're saying that there is a different time or place?"
+            },
+            {
+                "character": "Jan",
+                "quote": "No, I am saying we are never having this conversation."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, ok, well never as in 'never ever ever', or never as in there's still a chance?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Never, for me, always means 'never ever ever.'"
+            },
+            {
+                "character": "Michael",
+                "quote": "I just want to know, from the horse's mouth, what is the dealio?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Michael, it has nothing-"
+            },
+            {
+                "character": "Michael",
+                "quote": "Am I too short?"
+            },
+            {
+                "character": "Jan",
+                "quote": "With your looks, ok? It's your personality. I mean, you're obnoxious, and rude, and, and, and stupid, and you do have coffee breath, by the way, and, and I don't agree about the b.o., but you are very, very inconsiderate."
+            },
+            {
+                "character": "Michael",
+                "quote": "Really?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Really. You're, you're, you're a great guy, ok?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I appreciate that, thank you."
+            },
+            {
+                "character": "Jan",
+                "quote": "And you were very sweet, and you stayed up with me and talked with me, cried with me, and I appreciate that-"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, I wasn't, I didn't cry-"
+            },
+            {
+                "character": "Jan",
+                "quote": "At this time in my life. I just am not in the place right now where I'm looking for a relationship, so we can still work together, we can still be friends but... ok?"
+            },
+            {
+                "character": "Michael",
+                "quote": "So my looks have nothing to do with it?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Ohhh, God."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Jan is not in a place where she feels she can have a relationship right now. And it doesn't matter how great a guy I am. And that is all I needed; I'm good. I can go home now."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hey, it's 12:20; where the hell's Dwight?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Ummm... no idea."
+            },
+            {
+                "character": "Michael",
+                "quote": "Never missed a day, my ass."
+            },
+            {
+                "character": "Pam",
+                "quote": "[Jim bows to Pam; she bows back] Thank you."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[running through parking lot] I'm here! I'm here! I'm here! It's ok!"
+            }
+        ]
+    ],
+    "deleted_scenes": [
+        [
+            {
+                "character": "Michael",
+                "quote": "Oscar, I'm ready for you."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "Today is performance-review day, company-wide, and I'm a little concerned about my review. I exceeded my sick days and my personal days because I just couldn't take it. And I don't have a good answer for him, when he asks me."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "So..."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Michael, I don't know what to say."
+            },
+            {
+                "character": "Michael",
+                "quote": "Um, you're in accounting..."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yes, I'm in accounting and I'm sorry and all the extra days. I know I passed my limit."
+            },
+            {
+                "character": "Michael",
+                "quote": "So, good, good, good. Something to work toward, being here more. I'm a big believer in people being here more."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yes."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "You know what this is?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yes."
+            },
+            {
+                "character": "Dwight",
+                "quote": "No, you don't."
+            },
+            {
+                "character": "Jim",
+                "quote": "Then why the question?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "This is a visual aid for my performance review. Budget is tight, and if anyone is getting a raise, it is gonna be a fight to the death. And I intend on winning that fight. \"Dwight: determined, worker, intense, good worker, hard worker, terrific. Dwight.\""
+            },
+            {
+                "character": "Jim",
+                "quote": "I have one, too. Jim. Jim, Is Jim. My name is Jim."
+            },
+            {
+                "character": "Dwight",
+                "quote": "That's a total waste of your \"M.\""
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "You have a better idea?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Yeah, magnificent worker, marvelous worker, more money for this worker. Man, I like this worker. Mighty worker. That's good. That's good."
+            },
+            {
+                "character": "Jim",
+                "quote": "I'll use that."
+            }
+        ],
+        [
+            {
+                "character": "Jan",
+                "quote": "I am not going to discuss anything with you other than Dunder Mifflin business."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right."
+            },
+            {
+                "character": "Jan",
+                "quote": "Period."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yup."
+            },
+            {
+                "character": "Jan",
+                "quote": "Do we understand each other?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Absolutely."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "\"I am not going to discuss anything outside of Dunder Mifflin business, period.\" Okay. Now, why would Jan say she only wants to talk business and then make it clear that she is on her period? God, I don't understand women. How about a clear signal, right? Is that too much to ask?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "So, that's... It's great."
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, it is."
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah. You have fun?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes, I did."
+            },
+            {
+                "character": "Jim",
+                "quote": "Did you go to first base?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Hell, yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, yeah?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "Did you go to second?"
+            },
+            {
+                "character": "Michael",
+                "quote": "What?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Second."
+            },
+            {
+                "character": "Michael",
+                "quote": "Kind of, yeah. Over the shirt, my elbow, but..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Okay, so close call at second. Was there an infield fly?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Um, yup, wait, yes."
+            },
+            {
+                "character": "Jim",
+                "quote": "Pop-up?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, there... Later there was."
+            },
+            {
+                "character": "Jim",
+                "quote": "Really?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Yes."
+            },
+            {
+                "character": "Jim",
+                "quote": "So, you got the signal from the third-base coach. You know what I'm saying? Like if there was a fly out to deep right, you know. A runner on second. He tagged up, didn't he?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I didn't, you know, it was... It was dark, for one thing."
+            },
+            {
+                "character": "Jim",
+                "quote": "Office romances. Um... [laughs] I think you should probably ask Pam 'cause she's in an office romance, technically."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Let's just push on, shall we?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Pushing on."
+            },
+            {
+                "character": "Michael",
+                "quote": "It's next. Just keep it. \"Look on the supply shelf.\" What? What is that? All right, Ryan, look on the supply shelf, would you?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yeah. It's another note."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, yeah."
+            },
+            {
+                "character": "Ryan",
+                "quote": "\"Look on the windshield.\""
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Does it specify which windshield?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "I'll check them all."
+            },
+            {
+                "character": "Dwight",
+                "quote": "This ought to be good."
+            },
+            {
+                "character": "Jim",
+                "quote": "Which one?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Oh, no, no. It's on the Miata."
+            },
+            {
+                "character": "Pam",
+                "quote": "He sees it."
+            },
+            {
+                "character": "Dwight",
+                "quote": "What does it say?"
+            },
+            {
+                "character": "Jim",
+                "quote": "He can't hear you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, field trip's over. Come on. Could we please get back to this?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[clapping] Come on. Let's get back to this."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right, don't break any lands-speed records getting back, okay, Stanley?"
+            },
+            {
+                "character": "Stanley",
+                "quote": "I'm back."
+            },
+            {
+                "character": "Michael",
+                "quote": "Christ Almighty."
+            },
+            {
+                "character": "Ryan",
+                "quote": "\"Look under the sink in the men's room.\""
+            },
+            {
+                "character": "Michael",
+                "quote": "All right, next suggestion."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Next suggestion."
+            },
+            {
+                "character": "Michael",
+                "quote": "\"Don't...\" Okay, that's blank. Don't. Just..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "\"Don't sleep with your boss.\" Do you think this is referring to you boning Jan?"
+            },
+            {
+                "character": "Jan",
+                "quote": "Okay, let me make something clear. As embarrassing as this is, I feel that it needs to be said. There is nothing romantic or sexual going on with Michael and myself."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well..."
+            },
+            {
+                "character": "Jan",
+                "quote": "The other night, I gave him a polite congratulatory kiss because he just closed the biggest deal of his career. And that's it. If anything else has been implied, Dwight, or inferred, Michael, Creed, it's just not true, okay? It's not true. So... Is everyone straight on that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Crystal."
+            },
+            {
+                "character": "Dwight",
+                "quote": "There's one more suggestion."
+            },
+            {
+                "character": "Michael",
+                "quote": "How pleasant. You can..."
+            },
+            {
+                "character": "Dwight",
+                "quote": "\"Way to go man, Jan's really hot.\""
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, I think we're good."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Oh, my God. When Dwight said no one wants to come in on a Saturday..."
+            },
+            {
+                "character": "Jim",
+                "quote": "I know."
+            },
+            {
+                "character": "Pam",
+                "quote": "I almost lost it. That was too good."
+            },
+            {
+                "character": "Jim",
+                "quote": "Well, that is because that is the gift that keeps on giving. Oh, my God. I left today's paper on my desk."
+            },
+            {
+                "character": "Pam",
+                "quote": "You mean yesterday's paper."
+            },
+            {
+                "character": "Jim",
+                "quote": "What? Yes, that is exactly what I mean. Wow. You are very good at what you do."
+            },
+            {
+                "character": "Pam",
+                "quote": "Thank you."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Hey, temp."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Hey."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Look, we're twins."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Cool."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Bet you I got mine for less than yours."
+            },
+            {
+                "character": "Ryan",
+                "quote": "I bet you did."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Getting a little something that calm the nerves?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "What nerves?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "For the performance review. Oh, wait, you don't get one. You're a temp."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Actually, I had mine already."
+            },
+            {
+                "character": "Dwight",
+                "quote": "You're lying."
+            },
+            {
+                "character": "Ryan",
+                "quote": "Why would I lie about a performance review?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Why would Michael give you one before me?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "I think because my name is before yours in alphabetical order. [coins dropping]"
+            },
+            {
+                "character": "Dwight",
+                "quote": "How did it go?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Fine. He actually gave me a small raise, which I did not ask for. [hits vending machine] It's stuck. [Dwight begins throwing his entire body into the vending machine] It's cool, it fell."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "[Wild Side playing] You are gonna give me this raise. Ya! Yes, you are. You are gonna give me this raise. Ya! Ya! The least you can do is keep my salary consistent with inflation, right? You are gonna give me this raise! Why? Because I'm awesome, awesome, yes! Yes! Yes! Thank you for your time, dude. Champ. My lord, mi amigo. Mi amor. Ha! Wild side! I am ready. [groans]"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Yeah, that got a little out of control. Jan's taking a break, which is fine. I'm doing the same, just chilling. Getting my mind off of us. She's right. I need to be more professional at the office. When I'm at work, I need to focus on work. I should call her ex-husband."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Hello, is this R. Gould? Hi there. My name is Michael Scott, I work at Dunder Mifflin. I believe I work with your wife, ex-wife, Jan. Yeah, that's right, yes. Um... I was wondering if I could ask a personal question about her. Mmm-hmm. Okay, well, could I ask anyway? Uh-huh. Well, I'm just gonna ask. When you guys were dating was she sort of easy to get and then really hard to get?"
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Yeah, that Gould is a real interesting guy, a gem. I can see why he and Jan are no longer together. If my conversation with him is any measure of their relationship, he was verbally abusive, he was curt. He was... He had an inability to communicate, shall I say? He was emotionally unavailable. I don't know how she dealt with that as long as she did."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Never..."
+            },
+            {
+                "character": "Jan",
+                "quote": "Never for me always means never, ever, ever."
+            },
+            {
+                "character": "Michael",
+                "quote": "Well, then, Gould wasn't kidding."
+            },
+            {
+                "character": "Jan",
+                "quote": "What?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Nothing, I just..."
+            },
+            {
+                "character": "Jan",
+                "quote": "What did you say, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Nothing."
+            },
+            {
+                "character": "Jan",
+                "quote": "Did you call my ex?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, I did not."
+            },
+            {
+                "character": "Jan",
+                "quote": "Gould, you said, Gould."
+            },
+            {
+                "character": "Michael",
+                "quote": "Maybe I did. Maybe I called him, I don't know."
+            },
+            {
+                "character": "Jan",
+                "quote": "How dare you, Michael? My personal life is off-limits to you."
+            },
+            {
+                "character": "Michael",
+                "quote": "I..."
+            },
+            {
+                "character": "Jan",
+                "quote": "Okay, how dare you do that?"
+            },
+            {
+                "character": "Michael",
+                "quote": "I didn't do that. I... Maybe he called me."
+            },
+            {
+                "character": "Jan",
+                "quote": "Why would he do that? Why would he call you, Michael? Why would my husband call you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Ex-husband, you have to let it go."
+            },
+            {
+                "character": "Jan",
+                "quote": "I mean..."
+            }
+        ],
+        [
+            {
+                "character": "Ryan",
+                "quote": "\"Look under the suggestion box.\" \"I can't believe I kept this up all day.\" Signed, me."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "What is an office? Is it a group of people? Maybe. Is it an idea? Of course, yes. Is it a living organism? Exactly, yes. And any single cell organism has to have a spine, and that's me. But the spine is always controlled by a brain, and that is Jan. But the brain needs a heart, and that is me again. So ironic. You know what? The heart is smarter than the brain. But the brain is so effing hot."
+            }
+        ]
+    ]
+}

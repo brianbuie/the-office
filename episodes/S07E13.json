@@ -1,0 +1,1238 @@
+{
+    "season": 7,
+    "episode": 13,
+    "title": "The Seminar",
+    "scenes": [
+        [
+            {
+                "character": "David Brent",
+                "quote": "Oh, sorry, mate."
+            },
+            {
+                "character": "Michael",
+                "quote": "[English accent] Oh, sorry, mate. Excuse me. Mate."
+            },
+            {
+                "character": "David",
+                "quote": "[laughing] What you doing?"
+            },
+            {
+                "character": "Michael",
+                "quote": "English?"
+            },
+            {
+                "character": "David",
+                "quote": "You picked on the wrong person, I can tell you that."
+            },
+            {
+                "character": "Michael",
+                "quote": "Oh no no, I'm not picking on you at all. You're English, correct?"
+            },
+            {
+                "character": "David",
+                "quote": "Yeah big time, yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "I'm working on an English character. Would you mind gi... It's called Reginald Pooftah."
+            },
+            {
+                "character": "David",
+                "quote": "Ooh! David Brent, my liege. How are you?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Michael Scott."
+            },
+            {
+                "character": "David",
+                "quote": "Oh, there you go. I do characters as well. I got a Chinese fella. He's called Ho Li [bleep]. That's what it sounds like."
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughing]"
+            },
+            {
+                "character": "David",
+                "quote": "Herrow! Herrow!"
+            },
+            {
+                "character": "Michael",
+                "quote": "I do Ping. Herrow. I Ping!"
+            },
+            {
+                "character": "David",
+                "quote": "You can't do that these days. You can't."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, no, no. And people don't understand that is has nothing to do with making fun of a different nationality."
+            },
+            {
+                "character": "David",
+                "quote": "No, no. No, comedy is a place where the mind goes to tickle itself. That's what she said. [laughs]. [hugs Michaels] Ohh."
+            },
+            {
+                "character": "Michael",
+                "quote": "That's good. Pleasure to meet you."
+            },
+            {
+                "character": "David",
+                "quote": "Where are you working?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Dunder Mifflin."
+            },
+            {
+                "character": "David",
+                "quote": "Any jobs now?"
+            },
+            {
+                "character": "Michael",
+                "quote": "No, not right now."
+            },
+            {
+                "character": "David",
+                "quote": "Just let me know."
+            },
+            {
+                "character": "Michael",
+                "quote": "All right. See you around."
+            },
+            {
+                "character": "David",
+                "quote": "All right."
+            },
+            {
+                "character": "Michael",
+                "quote": "Bye-bye. What a nice guy."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Your first student is here, Mister Bernard."
+            },
+            {
+                "character": "Andy",
+                "quote": "That's actually \"Master of Ceremonies\" Bernard."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Last year, I went to a seminar called \"The Ten Secrets of Real Estate\". Turns out it was just a ploy to sell me time-shares in Idaho. Cut to, you know, spending a weekend in Boise, terrible time, super lonely. But I get to thinking maybe I should put on my own seminar to lure clients."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "Oh it's... [points to conference room]"
+            },
+            {
+                "character": "Michael",
+                "quote": "[enters] [in a gruff voice] Hello, I am here for the small business seminar."
+            },
+            {
+                "character": "Erin",
+                "quote": "Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Nein! I'm greek! My name is Mikanos."
+            },
+            {
+                "character": "Erin",
+                "quote": "Ooh. Wait, Michael?"
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "I am the plant. Every great seminar has one. My job is to make the speaker look good, and I do this through the techniques of leading questions and laughing at all jokes. And the character \"Mikanos\", is just a little added flava. \"Mikanos\" is loosely based on another character I do, \"Spiros\", who is more about the ladies."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Thank you so much Tuna Turner. You are simply the best."
+            },
+            {
+                "character": "Jim",
+                "quote": "Listen, this isn't a favor, all right? This is a good idea. We all win."
+            },
+            {
+                "character": "Andy",
+                "quote": "Go higher. I get super flexible when I'm nervous."
+            },
+            {
+                "character": "Jim",
+                "quote": "Wow. [sees guy at Erin's desk] Stop, stop, stop, stop, stop, stop. Hey, Andy, I'm really, really sorry to do this to you, but I have a meeting today that I totally forgot, so I can't be apart of this seminar."
+            },
+            {
+                "character": "Andy",
+                "quote": "No. What? You can't do that. You are a critical part of this seminar. You're the charming warm-up guy,"
+            },
+            {
+                "character": "Jim",
+                "quote": "I know."
+            },
+            {
+                "character": "Andy",
+                "quote": "If the seminar was a meal, you'd be the amuse-bouche. You like, signal the flavors of the whole night."
+            },
+            {
+                "character": "Jim",
+                "quote": "I'm really sorry. I can't do it."
+            },
+            {
+                "character": "Andy",
+                "quote": "You can't. You can't."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I can't have this go badly. I'm a terrible salesman, and I haven't been making very many sales lately, or ever. This is my only idea on how to turn things around. If it goes badly, I might lose my job, which would suck because this is the only job I've ever been good at."
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Will you let me know when this whole seminar thing's over?"
+            },
+            {
+                "character": "Pam",
+                "quote": "What's going on? Do you know that guy?"
+            },
+            {
+                "character": "Jim",
+                "quote": "I just have a meeting, uh, outside the office."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[to Erin] How are the marks?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "What are some of your small business ideas?"
+            },
+            {
+                "character": "Older guy",
+                "quote": "I was thinking we could buy up of abandoned mine shafts."
+            },
+            {
+                "character": "Phyllis & Stanley & Dwight",
+                "quote": "Oooh!"
+            },
+            {
+                "character": "Dwight",
+                "quote": "That's great. There's a big, big future in that."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "A lot of mines in Scranton."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Um, what about you?"
+            },
+            {
+                "character": "Younger Guy",
+                "quote": "Uh, credit cards."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Uh-huh."
+            },
+            {
+                "character": "Younger Guy",
+                "quote": "My company would act as an intermedium, for like, point two cents off every transaction."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Wow!"
+            },
+            {
+                "character": "Younger Guy",
+                "quote": "Something with cell phones. It's like, every time you make a phone call I'd make point two cents. Or anything like any on-line shopping I would get point two cents."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Right. Okay? Great."
+            },
+            {
+                "character": "Stanley",
+                "quote": "Great."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "You promised us whales. These are worms."
+            },
+            {
+                "character": "Andy",
+                "quote": "They're not worms, Dwight, okay? They're just people with tiny businesses. They're baby whales which is even cuter."
+            },
+            {
+                "character": "Stanley",
+                "quote": "I'm out."
+            },
+            {
+                "character": "Andy",
+                "quote": "Stanley, you're suppose to close."
+            },
+            {
+                "character": "Phyllis",
+                "quote": "I'm out too."
+            },
+            {
+                "character": "Andy",
+                "quote": "What? I already lost Jim. Salesmen are suppose to help each other out. We're suppose to be a team."
+            },
+            {
+                "character": "Dwight",
+                "quote": "We're no more a team than the people staying in the same hotel are a team."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "You know what might be kind of fun? I was thinking , you know Andy is having a seminar today? What if we went in as a greek couple? Mikanos and..."
+            },
+            {
+                "character": "Holly",
+                "quote": "Oh, I don't know, Michael. I'm not feeling up to that."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "Holly broke up with A.J last week, which is the greatest thing that has ever happened... to me. To Holly, it's been the worst week of her life, and I know for a fact that there was a week for her in high school when she got mono and her first period ever. Too much information? That's what I thought. But, you know what? Here I am using it."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] If-a you change-a you mind, why don't you talk to Mikanos?"
+            },
+            {
+                "character": "Holly",
+                "quote": "Is Mikanos greek? He sounds Italian."
+            },
+            {
+                "character": "Michael",
+                "quote": "Ugh. You're the fifth person to tell me that today."
+            },
+            {
+                "character": "Holly",
+                "quote": "Maybe Mikanos ran away to join the Italian circus."
+            },
+            {
+                "character": "Michael",
+                "quote": "Okay, yeah, like a character history. Good. Tom Hanks does that."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "[muttering] Down... there. [to Pam] Is \"jlp\" a word?"
+            },
+            {
+                "character": "Pam",
+                "quote": "\"Jelp?\" J-e-l-p?"
+            },
+            {
+                "character": "Erin",
+                "quote": "No, j-l-p. Like, \"I jlp... I jlp you!\""
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't think that's a word."
+            },
+            {
+                "character": "Erin",
+                "quote": "I'm playing Scrabble with Gabe, and I've never won a game."
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "The winner gets to pick the movie we watch. I have won no games. So far I've seen \"The Shining\", \"Rosemary's Baby\", \"The Ring\". Not really my thing. Although, I... I do like the early parts of the movies where they have a perfect family and everything."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "You want some help?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Really?"
+            },
+            {
+                "character": "Pam",
+                "quote": "Mm-hmm."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes."
+            },
+            {
+                "character": "Pam",
+                "quote": "K-a. \"Ka\"? What does \"ka\" mean?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "It means you're playing someone who's going to destroy you. Why did you play \"moo\"?"
+            },
+            {
+                "character": "Erin",
+                "quote": "Because I'm playing to win. I'm playing \"moo\", I'm playing \"milk\". Whatever it takes."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Okay, but look, you could have hit \"mood\". Would have played a..."
+            },
+            {
+                "character": "Erin",
+                "quote": "Uh..."
+            },
+            {
+                "character": "Oscar",
+                "quote": "A triple word."
+            },
+            {
+                "character": "Erin",
+                "quote": "Like the cow mood yesterday. God."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Or moon."
+            },
+            {
+                "character": "Erin",
+                "quote": "The cow jumped over the moon."
+            },
+            {
+                "character": "Oscar",
+                "quote": "She's stuck on that one thing."
+            },
+            {
+                "character": "Pam",
+                "quote": "No, it doesn't have to just be cow stuff, right?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Kevin, Jim dropped out of my seminar, and I'm just... I was wondering if you could replace him as my charming warm up guy."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Andy, I'm no Jim. The only way that I'm Jim is in the movie version when Jim sees what his future would be like if he never met Pam."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey, that's crazy talk. I think you're great."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Then I won't let you down."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "Cake."
+            },
+            {
+                "character": "Ryan",
+                "quote": "In you go."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hi, Ryan, you went to business school, right?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yup."
+            },
+            {
+                "character": "Andy",
+                "quote": "I need somebody to talk to this seminar about business."
+            },
+            {
+                "character": "Ryan",
+                "quote": "And?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Can you do it?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Okay. I don't... I don't like committing to things just like that."
+            },
+            {
+                "character": "Andy",
+                "quote": "So no?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "No, I don't like committing to not doing things, either. That's just as big a commitment."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Oh, baby."
+            },
+            {
+                "character": "Andy",
+                "quote": "What do I put you down for, bro hombre?"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yes."
+            },
+            {
+                "character": "Andy",
+                "quote": "All right!"
+            },
+            {
+                "character": "Ryan",
+                "quote": "Yes, I'll do it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Okay, than you so much. It's going to be so awesome."
+            },
+            {
+                "character": "Ryan",
+                "quote": "And if I flake, I flake."
+            },
+            {
+                "character": "Andy",
+                "quote": "What?"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Kevin, you open it up."
+            },
+            {
+                "character": "Kevin",
+                "quote": "Yep."
+            },
+            {
+                "character": "Andy",
+                "quote": "Ryan, you come in with your small biz expertise, right? And then Creed: guest speaker extraordinaire. And then I come in and just close all the sales and stuff. Um, okay, here we go. One, two three!"
+            },
+            {
+                "character": "Kevin",
+                "quote": "Go."
+            },
+            {
+                "character": "Creed",
+                "quote": "Creed! Ha!"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Welcome everybody. Awesome to see you guys. My name is Andy Bernard but you can call me The Nard Dog."
+            },
+            {
+                "character": "Older Woman",
+                "quote": "Hi Nard Dog. I'm Lu Peachem."
+            },
+            {
+                "character": "Andy",
+                "quote": "Let's get things started, shall we? You guys ready to hear from the Dunder Mifflin business experts? Good. Well, as you can see on your program... first up is a speech called, \"Don't Just Dream it, do it.\" Yes! Please give a big hand to Mr. Kevin Malone. [plays Ozzy Osboure's Crazy Train]"
+            },
+            {
+                "character": "Kevin",
+                "quote": "[running laps around the conference room] Yes!"
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "There are some people who have charm and some people who don't. Guess which type I am. Charm type."
+            }
+        ],
+        [
+            {
+                "character": "Kevin",
+                "quote": "[out of breath] Dream... big. Right? So what I want you to do is dream the biggest that you c... an. [coughing] And then double it! [coughing]."
+            },
+            {
+                "character": "Andy",
+                "quote": "Are you okay?"
+            },
+            {
+                "character": "Kevin",
+                "quote": "No. Yes!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Here..."
+            },
+            {
+                "character": "Kevin",
+                "quote": "No. I'm fine. Okay, from here now. The first lesson that I'm gonna teach you, right, is about finding success. And the key to finding success is to picture a winner. [coughing] [vomiting]. Okay, so then, what are you picturing right now, right this second? 'Cause the universe is yours, people. Get out of the way! [runs out of room]"
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "I'm really excited to introduce you guys to Ryan Howard. He has achieved a great deal in the last..."
+            },
+            {
+                "character": "Kelly",
+                "quote": "But perhaps no achievement is greater than his on-again, off-again girlfriend."
+            },
+            {
+                "character": "Andy",
+                "quote": "What are you..."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Who am I? I'm Kelly Kapoor, the business bitch."
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "It is important to brand yourself, so I have a couple of things in works. \"The Business Bitch\", \"The Diet Bitch\", \"The Shopping Bitch\", \"The Etiquette Bitch.\""
+            }
+        ],
+        [
+            {
+                "character": "Kelly",
+                "quote": "I could sit here, and I could tell you the ten secrets of business, and you would have a great time, and you would learn a lot. But who better to tell you than the Yale University adjunct professor in management, Professor Scott Powell, who I have on my Blackberry. It's ringing."
+            },
+            {
+                "character": "Professor Powell",
+                "quote": "Hey, Kelly Kapoor. What a delicious surprise."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Profess Powell, you are on speakerphone."
+            },
+            {
+                "character": "Professor Powell",
+                "quote": "Uh, why?"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Do you think you could tell us the ten secrets of business?"
+            },
+            {
+                "character": "Professor Powell",
+                "quote": "Um, there aren't really ten secrets."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Come on Scott, please? It's me."
+            },
+            {
+                "character": "Professor Powell",
+                "quote": "Um, all right. Well, um, I guess know your market would be key. Practice fiscal discipline."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Mm-hmm."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "That brilliant little bitch."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "A little treat for our old friend Gabe. Put that \"q\" right there."
+            },
+            {
+                "character": "Erin",
+                "quote": "Wait. Why?"
+            },
+            {
+                "character": "Oscar",
+                "quote": "Put the \"q\" there, sweetie."
+            },
+            {
+                "character": "Pam",
+                "quote": "I think there's better..."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Put the \"q\" there! [phone rings] Sorry I yelled."
+            },
+            {
+                "character": "Pam",
+                "quote": "You could have just told us what you were thinking."
+            },
+            {
+                "character": "Oscar",
+                "quote": "There's no theater in that."
+            },
+            {
+                "character": "Pam",
+                "quote": "There's no yelling in that, either."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Well..."
+            }
+        ],
+        [
+            {
+                "character": "Holly",
+                "quote": "What do you do in your free time?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] Practice Olympics."
+            },
+            {
+                "character": "Holly",
+                "quote": "Mmm. Do you like movies?"
+            },
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] I like the musical \"Grease\", or as we call it, \"home\"."
+            },
+            {
+                "character": "Holly",
+                "quote": "We have to try this out on somebody."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] Hello."
+            },
+            {
+                "character": "Hank",
+                "quote": "Look, you want to order something?"
+            },
+            {
+                "character": "Michael",
+                "quote": "She will have a greekaccino."
+            },
+            {
+                "character": "Hank",
+                "quote": "I don't know what that is."
+            },
+            {
+                "character": "Michael",
+                "quote": "It..."
+            },
+            {
+                "character": "Holly",
+                "quote": "[with accent] It's a very strong coffee with milk from a goat."
+            },
+            {
+                "character": "Michael",
+                "quote": "[laughs] I can't believe-ee. It's a miracle. She can talk!"
+            },
+            {
+                "character": "Holly",
+                "quote": "No more brain damage."
+            },
+            {
+                "character": "Michael",
+                "quote": "No more brain damage!"
+            },
+            {
+                "character": "Holly",
+                "quote": "Ahh!"
+            }
+        ],
+        [
+            {
+                "character": "Holly",
+                "quote": "I don't know."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Ladies and gentlemen, our special guest speaker will provoke you. He will inspire you. He is... Creed Bratton. [applause]"
+            },
+            {
+                "character": "Creed",
+                "quote": "Two eyes, two ears, a chin, a mouth, ten fingers, two nipples. A butt, two kneecaps, a penis. I have just described to you the Loch Ness Monster. And the reward for its capture? All the riches in Scotland. So I have one question: Why are you here?"
+            },
+            {
+                "character": "Andy",
+                "quote": "[clapping] Okay. All right, ladies and gentlemen, it is now time for the rarest of things, an actual free lunch. There are sandwiches in the back. Certainly help yourselves. We'll meet back up in an hour."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "I picked out our movie. It's called \"Suspiria\". It pushes all the boundaries. All your preconceived notions about what horror can be come crashing down."
+            },
+            {
+                "character": "Erin",
+                "quote": "When I win..."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Ooh."
+            },
+            {
+                "character": "Erin",
+                "quote": "We're gonna watch \"Wall-e\", where all the boundaries of color are pushed."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "It is hard to explain why Erin is doing so well today. The only thing I can think is Erin is living out some \"Slumdog Millionaire\" scenario, where every word she's playing has a connection to her orphan past. It's possible."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "So what's your crazy business pipe dream?"
+            },
+            {
+                "character": "Guy",
+                "quote": "Well, I started my own golf supply company."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[unimpressed] Really?"
+            },
+            {
+                "character": "Guy",
+                "quote": "It's taken off faster than I expected, so I came here to learn about creating manageable growth."
+            },
+            {
+                "character": "Dwight",
+                "quote": "[quietly] Phyllis?"
+            },
+            {
+                "character": "Phyllis",
+                "quote": "Hmm?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "Some of these people are for real."
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Hey, friend. How's it going? Oh, you know what? Let me steep that for you."
+            },
+            {
+                "character": "Andy",
+                "quote": "Thank you."
+            },
+            {
+                "character": "Dwight",
+                "quote": "Hey, you know what? Good news. We're back in. Let's go sell some paper, Buddy. Huh?"
+            },
+            {
+                "character": "Andy",
+                "quote": "Really?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "Ahem!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Excuse me."
+            },
+            {
+                "character": "Dwight",
+                "quote": "I got it. I got it."
+            },
+            {
+                "character": "Andy",
+                "quote": "[turning towards Darryl] Hey, do you need a lozenge?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "[whispering] They're a bunch of jackals."
+            },
+            {
+                "character": "Andy",
+                "quote": "What?"
+            },
+            {
+                "character": "Darryl",
+                "quote": "They left you in the lurch, and if they want to jump in, it means you're almost there. You did this. Bring it home."
+            },
+            {
+                "character": "Andy",
+                "quote": "[to Dwight, Stanley, and Phyllis]: Let me tell you what you can do with your offer to help. You can table it and offer it up another time. Just know that I really appreciate the gesture."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Hi. Hope you enjoyed your lunch. Welcome back. [to Michael and Holly] Ooh. Well, hello. Welcome to the seminar. Hey, man. What's goin' on?"
+            },
+            {
+                "character": "Dwight",
+                "quote": "[whispering] You're gonna blow it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Maybe. Only maybe."
+            }
+        ],
+        [
+            {
+                "character": "Oscar",
+                "quote": "We got it! Wow! We got it!"
+            },
+            {
+                "character": "Pam",
+                "quote": "Oscar, wait. I think the victory would be more meaningful if Erin puts the last word in herself."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yes, Pam. Yes, most definitely. Yes."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes."
+            },
+            {
+                "character": "Oscar",
+                "quote": "[pulls phone back] Ah. No! [laughing] [hands phone back]. Although I must say, I will have \"apoplexy\" if you lose. Do you understand? \"Apoplexy\" is what I will have."
+            },
+            {
+                "character": "Erin",
+                "quote": "Apoplexy."
+            },
+            {
+                "character": "Oscar",
+                "quote": "Yes."
+            },
+            {
+                "character": "Erin",
+                "quote": "Got it. [plays word] Oh, Oscar. Oscar?"
+            }
+        ],
+        [
+            {
+                "character": "Erin",
+                "quote": "I played \"ape.\""
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "[on phone] I just want to make a point to that last caller. I disagree. I don't think it is the running game at all. I think we do have to make a few moves in this off-season."
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Wow! What a day, right? Guess you guys are probably ready to go. And you got my business card, so..."
+            },
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] Dah, dah, dah, dah, dah. You know, I like you. I'm going to give you my secret gyro recipe. Come out here since it's a secret, and I'll tell you. [exits conference room] [normal voice] All, you have to close right now."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, I mean, I'm getting to it."
+            },
+            {
+                "character": "Michael",
+                "quote": "No, you're not. You're getting past it. You have to close. You can do it."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yeah, yeah."
+            },
+            {
+                "character": "Michael",
+                "quote": "Andy, what's the problem?"
+            },
+            {
+                "character": "Andy",
+                "quote": "This is hard for me. I'm a nice guy."
+            },
+            {
+                "character": "Michael",
+                "quote": "You, Kelly and Creed, Kevin, they believe in you. Don't let them down. Don't let yourself down, Andy. I'm gonna go back in. I'm going to stall them for a little bit. I want you to get your head together, and then come back in. I want you to close. [entering conference room] [as Mikanos] What is taking that guy so long?"
+            }
+        ],
+        [
+            {
+                "character": "Jim",
+                "quote": "Psst. You think this thing's gonna go much longer?"
+            },
+            {
+                "character": "Pam",
+                "quote": "I don't know. They're still in there."
+            },
+            {
+                "character": "Jim",
+                "quote": "Ohh! Good-bye."
+            },
+            {
+                "character": "Pam",
+                "quote": "Stop. Out with it."
+            }
+        ],
+        [
+            {
+                "character": "Pam",
+                "quote": "Here's the story. That guy in there is Jim's childhood friend, Tom."
+            },
+            {
+                "character": "Jim",
+                "quote": "Tom Witochkin. One of my best buddies, actually."
+            },
+            {
+                "character": "Pam",
+                "quote": "And when they were both in the third grade, Jim was placed in the top reading group."
+            },
+            {
+                "character": "Jim",
+                "quote": "I was blue group, so it was second from the top."
+            },
+            {
+                "character": "Pam",
+                "quote": "And Tom..."
+            },
+            {
+                "character": "Jim",
+                "quote": "Was in the green group."
+            },
+            {
+                "character": "Pam",
+                "quote": "And Jim's mom suggested that Jim spend time hanging with the kids in his reading group, because she though that would be a good influence."
+            },
+            {
+                "character": "Jim",
+                "quote": "And that's what I told him."
+            },
+            {
+                "character": "Pam",
+                "quote": "Right. But how'd you say it?"
+            },
+            {
+                "character": "Jim",
+                "quote": "\"My mom thinks you're too dumb to hang out with.\""
+            }
+        ],
+        [
+            {
+                "character": "Andy",
+                "quote": "Okay, who would like to purchase this small business package from me right now? Yes, we got one. Okay, the snowball is rolling. Who else? You can put it off for a couple of days, but I guarantee you, eventually you're gonna realize you need this. So the only thing that's gonna be different is you'll be a couple of days behind where you would be if you bought this from me right now. So who's gonna buy one right now?"
+            },
+            {
+                "character": "Older Woman",
+                "quote": "I'll take one."
+            },
+            {
+                "character": "Andy",
+                "quote": "Yes! Awesome! All right, anyone else? [younger guy raises hand] Sold! Anybody else? [older guy raises hand] Yes! All right!"
+            },
+            {
+                "character": "Kelly",
+                "quote": "Yeah bitch."
+            },
+            {
+                "character": "Andy",
+                "quote": "Good choice. The rest of you are dead to me. You made the stupidest decision of your life."
+            },
+            {
+                "character": "Michael",
+                "quote": "[quietly] No, no, no."
+            },
+            {
+                "character": "Andy",
+                "quote": "But it was a pleasure meeting you, and you've got my information, so feel free to call anytime."
+            },
+            {
+                "character": "Kelly",
+                "quote": "Whoo!"
+            }
+        ],
+        [
+            {
+                "character": "Tom",
+                "quote": "Hey, you think it's cool if I grab a soda?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Yeah, woah. [deeper voice] Yep, absolutely, go ahead."
+            },
+            {
+                "character": "Tom",
+                "quote": "Hey."
+            },
+            {
+                "character": "Jim",
+                "quote": "Hey."
+            },
+            {
+                "character": "Tom",
+                "quote": "How's it goin'?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Pretty good."
+            },
+            {
+                "character": "Tom",
+                "quote": "It's been a while."
+            },
+            {
+                "character": "Jim",
+                "quote": "It has been, yeah."
+            },
+            {
+                "character": "Tom",
+                "quote": "So you work here, huh?"
+            },
+            {
+                "character": "Jim",
+                "quote": "Sales."
+            },
+            {
+                "character": "Tom",
+                "quote": "Must be a front for some kind of famous laboratory. [laughs]"
+            },
+            {
+                "character": "Jim",
+                "quote": "[laughs]"
+            },
+            {
+                "character": "Tom",
+                "quote": "'Cause you're so smart."
+            },
+            {
+                "character": "Jim",
+                "quote": "Oh, man. You remember that, huh?"
+            },
+            {
+                "character": "Tom",
+                "quote": "Oh, barely. I'm so dumb, you know, stuff goes in, stuff goes out. Not like you probably remember every paper sale you ever made. Paper salesman genius."
+            },
+            {
+                "character": "Jim",
+                "quote": "All right, good catch-up."
+            },
+            {
+                "character": "Tom",
+                "quote": "Yeah."
+            },
+            {
+                "character": "Jim",
+                "quote": "See ya."
+            },
+            {
+                "character": "Tom",
+                "quote": "Where's your jetpack, Zuckerberg?"
+            }
+        ],
+        [
+            {
+                "character": "Dwight",
+                "quote": "Andy. I didn't think you had it in ya."
+            },
+            {
+                "character": "Andy",
+                "quote": "Well, I guess when you looked in me, you forgot about my balls. They're on the outside. Don't how you missed 'em."
+            }
+        ],
+        [
+            {
+                "character": "Holly",
+                "quote": "[with accent] Wonderful seminar!"
+            },
+            {
+                "character": "Michael",
+                "quote": "[as Mikanos] Almost as good as the first day when we first met. You are the love of my life. Come to me, Necropolis. Put your lips on my lips. Come on."
+            },
+            {
+                "character": "Holly",
+                "quote": "Michael, I should get back to work."
+            },
+            {
+                "character": "Michael",
+                "quote": "What? Come on. It's time for grapes. [regular voice] Real fun day."
+            }
+        ],
+        [
+            {
+                "character": "Gabe",
+                "quote": "So, I won."
+            },
+            {
+                "character": "Erin",
+                "quote": "I know. You get to pick."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Well, that's actually what I came to talk to you about. I know how much you want to watch \"Wall-e\"."
+            },
+            {
+                "character": "Erin",
+                "quote": "Yes?"
+            },
+            {
+                "character": "Gabe",
+                "quote": "So I got us a compromise. This movie's called \"Hardware\". It tells the story of a killer combat robot, just like Wall-e, that the government invented to destroy humans. It's some of what you like and some of what I like, and... married..."
+            },
+            {
+                "character": "Andy",
+                "quote": "Hey, I heard you talking about movies before, and, anyway, I just watched this over the weekend. I thought you'd really like it."
+            },
+            {
+                "character": "Erin",
+                "quote": "There's a \"Shrek\" two?!"
+            },
+            {
+                "character": "Andy",
+                "quote": "Oh, yeah. See you tomorrow."
+            },
+            {
+                "character": "Gabe",
+                "quote": "Nice guy."
+            },
+            {
+                "character": "Erin",
+                "quote": "Ohh. [laughs]"
+            }
+        ]
+    ],
+    "deleted_scenes": []
+}
