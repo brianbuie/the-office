@@ -6,1233 +6,1233 @@
         [
             {
                 "character": "Jim",
-                "quote": "Hey, so this isn\u2019t matching up with this\u2026and I\u2019m not sure which one\u2019s right. Can you just hunt down the original for me?"
+                "line": "Hey, so this isn\u2019t matching up with this\u2026and I\u2019m not sure which one\u2019s right. Can you just hunt down the original for me?"
             },
             {
                 "character": "Kevin",
-                "quote": "Yes. Me do."
+                "line": "Yes. Me do."
             },
             {
                 "character": "Jim",
-                "quote": "Alright."
+                "line": "Alright."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Hey Kev, what were you saying before about the paperwork?"
+                "line": "Hey Kev, what were you saying before about the paperwork?"
             },
             {
                 "character": "Kevin",
-                "quote": "Me do it now. Go. Stop worry."
+                "line": "Me do it now. Go. Stop worry."
             },
             {
                 "character": "Pam",
-                "quote": "Kevin, do you feel OK?"
+                "line": "Kevin, do you feel OK?"
             },
             {
                 "character": "Kevin",
-                "quote": "Me feel good. Body strong. Sleep big last night."
+                "line": "Me feel good. Body strong. Sleep big last night."
             },
             {
                 "character": "Pam",
-                "quote": "Yeah, I think we should get him to the hospital."
+                "line": "Yeah, I think we should get him to the hospital."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah, alright Kev why don\u2019t you come with us?"
+                "line": "Yeah, alright Kev why don\u2019t you come with us?"
             },
             {
                 "character": "Oscar",
-                "quote": "No, guys."
+                "line": "No, guys."
             },
             {
                 "character": "Angela",
-                "quote": "No, he\u2019s fine."
+                "line": "No, he\u2019s fine."
             },
             {
                 "character": "Oscar",
-                "quote": "He\u2019s fine."
+                "line": "He\u2019s fine."
             },
             {
                 "character": "Angela",
-                "quote": "He\u2019s always been like that."
+                "line": "He\u2019s always been like that."
             },
             {
                 "character": "Pam",
-                "quote": "No he hasn\u2019t."
+                "line": "No he hasn\u2019t."
             },
             {
                 "character": "Angela",
-                "quote": "I mean, he\u2019s gotten worse over the years\u2026."
+                "line": "I mean, he\u2019s gotten worse over the years\u2026."
             },
             {
                 "character": "Oscar",
-                "quote": "He\u2019s making a statement. It\u2019s an ironic comment on our expectations of him. A funhouse image of our model of Kevin."
+                "line": "He\u2019s making a statement. It\u2019s an ironic comment on our expectations of him. A funhouse image of our model of Kevin."
             },
             {
                 "character": "Kevin",
-                "quote": "You keep think that."
+                "line": "You keep think that."
             }
         ],
         [
             {
                 "character": "Kevin",
-                "quote": "Me mechanic not speak English. But he know what me mean when me say \u201ccar no go\u201d, and we best friends. So me think: why waste time, say lot word when few word do trick?"
+                "line": "Me mechanic not speak English. But he know what me mean when me say \u201ccar no go\u201d, and we best friends. So me think: why waste time, say lot word when few word do trick?"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Kevin, I appreciate what you\u2019re trying to do."
+                "line": "Kevin, I appreciate what you\u2019re trying to do."
             },
             {
                 "character": "Kevin",
-                "quote": "Thank."
+                "line": "Thank."
             },
             {
                 "character": "Andy",
-                "quote": "Here, we have a word code, the same way we have a dress code. And what we\u2019re talking about is\u2026basically the speech equivalent\u2026 to just wearing underpants. Sometimes words, you no need use\u2026but need need for talk talk."
+                "line": "Here, we have a word code, the same way we have a dress code. And what we\u2019re talking about is\u2026basically the speech equivalent\u2026 to just wearing underpants. Sometimes words, you no need use\u2026but need need for talk talk."
             },
             {
                 "character": "Kevin",
-                "quote": "But save time. More success."
+                "line": "But save time. More success."
             },
             {
                 "character": "Jim",
-                "quote": "Does it save time though? \u2018Cause we\u2019ve been here for about an hour."
+                "line": "Does it save time though? \u2018Cause we\u2019ve been here for about an hour."
             },
             {
                 "character": "Kevin",
-                "quote": "No me fault."
+                "line": "No me fault."
             },
             {
                 "character": "Pam",
-                "quote": "Kevin, at most you\u2019re saving a microscopic amount of time."
+                "line": "Kevin, at most you\u2019re saving a microscopic amount of time."
             },
             {
                 "character": "Kevin",
-                "quote": "Many small time make big time."
+                "line": "Many small time make big time."
             },
             {
                 "character": "Andy",
-                "quote": "What are you gonna do with all this time?"
+                "line": "What are you gonna do with all this time?"
             },
             {
                 "character": "Kevin",
-                "quote": "See world."
+                "line": "See world."
             },
             {
                 "character": "Pam",
-                "quote": "Kevin, you cannot possibly save enough time to see the world."
+                "line": "Kevin, you cannot possibly save enough time to see the world."
             },
             {
                 "character": "Jim",
-                "quote": "K, Kevin, are you saying \u201cSee the world\u201d? or \u201cSea World?\u201d"
+                "line": "K, Kevin, are you saying \u201cSee the world\u201d? or \u201cSea World?\u201d"
             },
             {
                 "character": "Kevin",
-                "quote": "See world. Oceans. Fish. Jump. China."
+                "line": "See world. Oceans. Fish. Jump. China."
             },
             {
                 "character": "Jim",
-                "quote": "No, see? Right there, that\u2019s the problem with your method. \u2018Cause I still don\u2019t know if you\u2019re saying \u201cSea World\u201d or \u201csee the world,\u201d and it\u2019s taking a lot of time to explain it."
+                "line": "No, see? Right there, that\u2019s the problem with your method. \u2018Cause I still don\u2019t know if you\u2019re saying \u201cSea World\u201d or \u201csee the world,\u201d and it\u2019s taking a lot of time to explain it."
             },
             {
                 "character": "Kevin",
-                "quote": "Fine, fine. I\u2019ll talk normally."
+                "line": "Fine, fine. I\u2019ll talk normally."
             }
         ],
         [
             {
                 "character": "Kevin",
-                "quote": "When me President, they see. [Nodding and smiling] They see."
+                "line": "When me President, they see. [Nodding and smiling] They see."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "This week we are rolling out the brand new Sabre tablet\u2026.the Pyramid. [holds up triangle shaped touch pad]"
+                "line": "This week we are rolling out the brand new Sabre tablet\u2026.the Pyramid. [holds up triangle shaped touch pad]"
             },
             {
                 "character": "Phyllis",
-                "quote": "Ooh, why is it shaped like that?"
+                "line": "Ooh, why is it shaped like that?"
             },
             {
                 "character": "Dwight",
-                "quote": "So, you can tell your clients: \u201cUnleash the power of the pyramid.\u201d"
+                "line": "So, you can tell your clients: \u201cUnleash the power of the pyramid.\u201d"
             },
             {
                 "character": "Pam",
-                "quote": "It\u2019s huge. How much does it weigh?"
+                "line": "It\u2019s huge. How much does it weigh?"
             },
             {
                 "character": "Dwight",
-                "quote": "Oh no no no. Without the battery pack and optional memory booster, it\u2019s barely three pounds."
+                "line": "Oh no no no. Without the battery pack and optional memory booster, it\u2019s barely three pounds."
             },
             {
                 "character": "Ryan",
-                "quote": "How much memory does it have without the booster?"
+                "line": "How much memory does it have without the booster?"
             },
             {
                 "character": "Dwight",
-                "quote": "Fifty L."
+                "line": "Fifty L."
             },
             {
                 "character": "Ryan",
-                "quote": "I\u2019m sorry,\u201d L\u201d?"
+                "line": "I\u2019m sorry,\u201d L\u201d?"
             },
             {
                 "character": "Jim",
-                "quote": "How many L to a K?"
+                "line": "How many L to a K?"
             },
             {
                 "character": "Dwight",
-                "quote": "You\u2019re really going to want the booster."
+                "line": "You\u2019re really going to want the booster."
             },
             {
                 "character": "Stanley",
-                "quote": "How on earth are we supposed to sell\u2026?"
+                "line": "How on earth are we supposed to sell\u2026?"
             },
             {
                 "character": "Jim",
-                "quote": "I\u2019ll take five."
+                "line": "I\u2019ll take five."
             },
             {
                 "character": "Phyllis",
-                "quote": "Andy, don\u2019t make us sell this stupid thing."
+                "line": "Andy, don\u2019t make us sell this stupid thing."
             },
             {
                 "character": "Andy",
-                "quote": "Oh, no no no no no. This is Dwight\u2019s meeting."
+                "line": "Oh, no no no no no. This is Dwight\u2019s meeting."
             },
             {
                 "character": "Dwight",
-                "quote": "Thank you."
+                "line": "Thank you."
             },
             {
                 "character": "Andy",
-                "quote": "I just wanted to pop in and get your opinions on ties\u2026and tie clips. Which combo do you think Robert is going to like more? [To Oscar] What do you think, C-SPAN?"
+                "line": "I just wanted to pop in and get your opinions on ties\u2026and tie clips. Which combo do you think Robert is going to like more? [To Oscar] What do you think, C-SPAN?"
             },
             {
                 "character": "Oscar",
-                "quote": "\u2026\u201dC-SPAN\u201d?"
+                "line": "\u2026\u201dC-SPAN\u201d?"
             },
             {
                 "character": "Andy",
-                "quote": "Yeah. C-SPAN, cocker spaniel. Spaniel because of your Spanish bloodline and cocker cause\u2026\u2026"
+                "line": "Yeah. C-SPAN, cocker spaniel. Spaniel because of your Spanish bloodline and cocker cause\u2026\u2026"
             },
             {
                 "character": "Dwight",
-                "quote": "Is this really the best use of our collective time?"
+                "line": "Is this really the best use of our collective time?"
             },
             {
                 "character": "Andy",
-                "quote": "I am still forming a first impression with Robert. Once it is formed, we can all relax. Ok, I\u2019m sorry to hijack your meeting , D dub dog\u2026had to pull rank."
+                "line": "I am still forming a first impression with Robert. Once it is formed, we can all relax. Ok, I\u2019m sorry to hijack your meeting , D dub dog\u2026had to pull rank."
             },
             {
                 "character": "Dwight",
-                "quote": "[to group] OK, let\u2019s look at some ties."
+                "line": "[to group] OK, let\u2019s look at some ties."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Here\u2019s how I\u2019m going to help out from now on. I\u2019m going to not care, and I\u2019m going to sit around quietly waiting for Andy\u2019s inevitable demise."
+                "line": "Here\u2019s how I\u2019m going to help out from now on. I\u2019m going to not care, and I\u2019m going to sit around quietly waiting for Andy\u2019s inevitable demise."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "[To Oscar] Your friend Neil Patrick Harris really made me laugh the other night."
+                "line": "[To Oscar] Your friend Neil Patrick Harris really made me laugh the other night."
             },
             {
                 "character": "Erin",
-                "quote": "Um, D-Dog, you have a message."
+                "line": "Um, D-Dog, you have a message."
             },
             {
                 "character": "Pam",
-                "quote": "Erin, you don\u2019t need to call him that."
+                "line": "Erin, you don\u2019t need to call him that."
             },
             {
                 "character": "Erin",
-                "quote": "Andy wants us to, P-Dog."
+                "line": "Andy wants us to, P-Dog."
             },
             {
                 "character": "Darryl",
-                "quote": "It\u2019s ok E-Dog, just who called?"
+                "line": "It\u2019s ok E-Dog, just who called?"
             },
             {
                 "character": "Erin",
-                "quote": "Justine. She said she\u2019s coming by later."
+                "line": "Justine. She said she\u2019s coming by later."
             },
             {
                 "character": "Jim",
-                "quote": "Your ex-wife?"
+                "line": "Your ex-wife?"
             },
             {
                 "character": "Kevin",
-                "quote": "Wait, I thought she was a **** and you ******* hated her guts?"
+                "line": "Wait, I thought she was a **** and you ******* hated her guts?"
             },
             {
                 "character": "Darryl",
-                "quote": "No no no no. I like her."
+                "line": "No no no no. I like her."
             },
             {
                 "character": "Kevin",
-                "quote": "Well I\u2019m just quoting you. I would never say that about her. I don\u2019t know the woman."
+                "line": "Well I\u2019m just quoting you. I would never say that about her. I don\u2019t know the woman."
             },
             {
                 "character": "Darryl",
-                "quote": "Nah man, we get along now. Real well."
+                "line": "Nah man, we get along now. Real well."
             },
             {
                 "character": "Jim",
-                "quote": "Wow. Alright. Can\u2019t wait to meet her."
+                "line": "Wow. Alright. Can\u2019t wait to meet her."
             },
             {
                 "character": "Darryl",
-                "quote": "I\u2019ll introduce you."
+                "line": "I\u2019ll introduce you."
             }
         ],
         [
             {
                 "character": "Darryl",
-                "quote": "Yeah, we had a few fights, I suppose. But last night we put a lot of that to bed. I can\u2019t tell you what I did with my ex wife last night\u2026. I have to sing it. [singing] We took a shower, we were naked. We ska dap dap doo doo doo doo doo doo doo."
+                "line": "Yeah, we had a few fights, I suppose. But last night we put a lot of that to bed. I can\u2019t tell you what I did with my ex wife last night\u2026. I have to sing it. [singing] We took a shower, we were naked. We ska dap dap doo doo doo doo doo doo doo."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "[to Robert California] Hi Dad!...... Ahhh\u2026.oh boy."
+                "line": "[to Robert California] Hi Dad!...... Ahhh\u2026.oh boy."
             },
             {
                 "character": "Robert California",
-                "quote": "Hello, Andy. Excellent tie."
+                "line": "Hello, Andy. Excellent tie."
             },
             {
                 "character": "Erin",
-                "quote": "Would you be requiring a cold beverage while you\u2019re here?"
+                "line": "Would you be requiring a cold beverage while you\u2019re here?"
             },
             {
                 "character": "Robert California",
-                "quote": "I\u2019d love some coffee."
+                "line": "I\u2019d love some coffee."
             }
         ],
         [
             {
                 "character": "Robert California",
-                "quote": "I was looking over your projections, and I think we can do better."
+                "line": "I was looking over your projections, and I think we can do better."
             },
             {
                 "character": "Andy",
-                "quote": "Are you factoring in the\u2026 whole national \u2026economy\u2026. declining and all that?"
+                "line": "Are you factoring in the\u2026 whole national \u2026economy\u2026. declining and all that?"
             },
             {
                 "character": "Robert California",
-                "quote": "Andy, do you know why I chose you?"
+                "line": "Andy, do you know why I chose you?"
             },
             {
                 "character": "Andy",
-                "quote": "I think I can sum it up with what I think is your favorite ice cream flavor\u2026.vanilla?"
+                "line": "I think I can sum it up with what I think is your favorite ice cream flavor\u2026.vanilla?"
             },
             {
                 "character": "Robert California",
-                "quote": "Vanilla? No no no no. You\u2019ll never guess in a million billion years you\u2019ll never guess."
+                "line": "Vanilla? No no no no. You\u2019ll never guess in a million billion years you\u2019ll never guess."
             },
             {
                 "character": "Andy",
-                "quote": "You were saying you chose me\u2026. There was a reason?"
+                "line": "You were saying you chose me\u2026. There was a reason?"
             },
             {
                 "character": "Robert California",
-                "quote": "Andy, can you inspire? Do you have that skill set?"
+                "line": "Andy, can you inspire? Do you have that skill set?"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Can I inspire? [laughs] I don\u2019t know!.....I don\u2019t know."
+                "line": "Can I inspire? [laughs] I don\u2019t know!.....I don\u2019t know."
             }
         ],
         [
             {
                 "character": "Robert California",
-                "quote": "Oh! Thank you. Uh\u2026."
+                "line": "Oh! Thank you. Uh\u2026."
             },
             {
                 "character": "Erin",
-                "quote": "Oh, sorry."
+                "line": "Oh, sorry."
             },
             {
                 "character": "Robert California",
-                "quote": "You can just put it down."
+                "line": "You can just put it down."
             },
             {
                 "character": "Erin",
-                "quote": "Oh"
+                "line": "Oh"
             },
             {
                 "character": "Robert California",
-                "quote": "That is very cold."
+                "line": "That is very cold."
             },
             {
                 "character": "Erin",
-                "quote": "Yeah. It\u2019s old. [smiling]"
+                "line": "Yeah. It\u2019s old. [smiling]"
             },
             {
                 "character": "Robert California",
-                "quote": "Why would I\u2026..?"
+                "line": "Why would I\u2026..?"
             },
             {
                 "character": "Erin",
-                "quote": "I asked if you wanted a cold beverage and you said \u201ccoffee\u201d\u2026."
+                "line": "I asked if you wanted a cold beverage and you said \u201ccoffee\u201d\u2026."
             },
             {
                 "character": "Andy",
-                "quote": "Why don\u2019t we get Robert a nice hot fresh cup and I will have this."
+                "line": "Why don\u2019t we get Robert a nice hot fresh cup and I will have this."
             },
             {
                 "character": "Erin",
-                "quote": "Andy, you don\u2019t want that."
+                "line": "Andy, you don\u2019t want that."
             },
             {
                 "character": "Andy",
-                "quote": "I\u2019ve been craving a freezing cup of old coffee. [sips] Mmm\u2026."
+                "line": "I\u2019ve been craving a freezing cup of old coffee. [sips] Mmm\u2026."
             },
             {
                 "character": "Erin",
-                "quote": "Sorry."
+                "line": "Sorry."
             },
             {
                 "character": "Robert California",
-                "quote": "You like her."
+                "line": "You like her."
             },
             {
                 "character": "Andy",
-                "quote": "I do."
+                "line": "I do."
             },
             {
                 "character": "Robert California",
-                "quote": "She likes you."
+                "line": "She likes you."
             },
             {
                 "character": "Andy",
-                "quote": "You know, we\u2019ve both been into each other at different times and just never really synced up. Now we\u2019re in this weird dance\u2026."
+                "line": "You know, we\u2019ve both been into each other at different times and just never really synced up. Now we\u2019re in this weird dance\u2026."
             },
             {
                 "character": "Robert California",
-                "quote": "[interrupting] I\u2019m afraid you\u2019ve lost my interest."
+                "line": "[interrupting] I\u2019m afraid you\u2019ve lost my interest."
             }
         ],
         [
             {
                 "character": "Oscar",
-                "quote": "Let me call you back."
+                "line": "Let me call you back."
             },
             {
                 "character": "Meredith",
-                "quote": "I gotta go."
+                "line": "I gotta go."
             },
             {
                 "character": "Robert California",
-                "quote": "If the office superstore was supposed to put us little suppliers out of business, why are we still here?"
+                "line": "If the office superstore was supposed to put us little suppliers out of business, why are we still here?"
             },
             {
                 "character": "Robert California",
-                "quote": "Ah\u2026"
+                "line": "Ah\u2026"
             },
             {
                 "character": "Kevin",
-                "quote": "This is where we go"
+                "line": "This is where we go"
             },
             {
                 "character": "Robert California",
-                "quote": "[chuckling] Oh, you\u2019d go someplace else. That\u2019s not it, that\u2019s not the answer."
+                "line": "[chuckling] Oh, you\u2019d go someplace else. That\u2019s not it, that\u2019s not the answer."
             },
             {
                 "character": "Kevin",
-                "quote": "It\u2019s a answer."
+                "line": "It\u2019s a answer."
             },
             {
                 "character": "Robert California",
-                "quote": "It\u2019s a wrong answer."
+                "line": "It\u2019s a wrong answer."
             },
             {
                 "character": "Kevin",
-                "quote": "There are no wrong answers."
+                "line": "There are no wrong answers."
             },
             {
                 "character": "Robert California",
-                "quote": "Take a look at where you are, where you once worked in a dying industry, you now work at it\u2019s birth. Those superstores are terrified of us. Anybody know why?"
+                "line": "Take a look at where you are, where you once worked in a dying industry, you now work at it\u2019s birth. Those superstores are terrified of us. Anybody know why?"
             },
             {
                 "character": "Phyllis",
-                "quote": "Wait\u2026.they\u2019re terrified?"
+                "line": "Wait\u2026.they\u2019re terrified?"
             },
             {
                 "character": "Robert California",
-                "quote": "Let me tell you how I buy something these days. I know what I want I go on the internet, I get the best price. Or I don\u2019t know what I want and I go to a small store that can help me. The era of personal service is back. You are back. You\u2019ll find that customers will pay our higher prices and then they will thank us, and we will say to them \u201cyou are welcome.\u201d [Applause] Andrew, I chose you for a reason. Lead these people. Show me the best numbers this place has ever seen. Last quarter we saw 4% growth. Double it."
+                "line": "Let me tell you how I buy something these days. I know what I want I go on the internet, I get the best price. Or I don\u2019t know what I want and I go to a small store that can help me. The era of personal service is back. You are back. You\u2019ll find that customers will pay our higher prices and then they will thank us, and we will say to them \u201cyou are welcome.\u201d [Applause] Andrew, I chose you for a reason. Lead these people. Show me the best numbers this place has ever seen. Last quarter we saw 4% growth. Double it."
             },
             {
                 "character": "Andy",
-                "quote": "You got it."
+                "line": "You got it."
             },
             {
                 "character": "Robert California",
-                "quote": "Double."
+                "line": "Double."
             },
             {
                 "character": "Andy",
-                "quote": "Done."
+                "line": "Done."
             },
             {
                 "character": "Robert California",
-                "quote": "I\u2019m not kidding."
+                "line": "I\u2019m not kidding."
             },
             {
                 "character": "Andy",
-                "quote": "Neither am I, it\u2019s already done. Hah, I\u2019m just kidding, it\u2019s going to take some time."
+                "line": "Neither am I, it\u2019s already done. Hah, I\u2019m just kidding, it\u2019s going to take some time."
             },
             {
                 "character": "Robert California",
-                "quote": "Double."
+                "line": "Double."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Hey. [Andy pushes things aside and sits on top of Jim\u2019s desk, kicking things in the process.]"
+                "line": "Hey. [Andy pushes things aside and sits on top of Jim\u2019s desk, kicking things in the process.]"
             },
             {
                 "character": "Andy",
-                "quote": "What\u2019s up, guys? Just thought we\u2019d have a little rap session, talk about business\u2026see how things are going? Ahem\u2026"
+                "line": "What\u2019s up, guys? Just thought we\u2019d have a little rap session, talk about business\u2026see how things are going? Ahem\u2026"
             },
             {
                 "character": "Jim",
-                "quote": "Why don\u2019t you start?"
+                "line": "Why don\u2019t you start?"
             },
             {
                 "character": "Andy",
-                "quote": "If no one else wants to? I was just thinking about Robert\u2026man. What a boss. Just throws down goals, you know? Anyway, how\u2019s the sales doubling \u2026project going?"
+                "line": "If no one else wants to? I was just thinking about Robert\u2026man. What a boss. Just throws down goals, you know? Anyway, how\u2019s the sales doubling \u2026project going?"
             },
             {
                 "character": "Phyllis",
-                "quote": "Yeah, how are we supposed to do that? We can\u2019t just press a magic button."
+                "line": "Yeah, how are we supposed to do that? We can\u2019t just press a magic button."
             },
             {
                 "character": "Andy",
-                "quote": "OF course not. There\u2019s no magic button. You have to summon that."
+                "line": "OF course not. There\u2019s no magic button. You have to summon that."
             },
             {
                 "character": "Stanley",
-                "quote": "If we could just double our sales, we already would have. You\u2019re not making any sense."
+                "line": "If we could just double our sales, we already would have. You\u2019re not making any sense."
             },
             {
                 "character": "Jim",
-                "quote": "He brings up two good points. Do you have any new leads? Any new territories you want us to look into? Maybe have an in with a big client that we can get our foot in the door?"
+                "line": "He brings up two good points. Do you have any new leads? Any new territories you want us to look into? Maybe have an in with a big client that we can get our foot in the door?"
             },
             {
                 "character": "Andy",
-                "quote": "Dwight, anything?"
+                "line": "Dwight, anything?"
             },
             {
                 "character": "Dwight",
-                "quote": "We could talk about how fast children grow up, and before you know it they\u2019re out of the house."
+                "line": "We could talk about how fast children grow up, and before you know it they\u2019re out of the house."
             },
             {
                 "character": "Andy",
-                "quote": "You know what? We need to get our heads out of the box. If we did have something, what would it look like, what would it be? [Jim raises hand] Tuna."
+                "line": "You know what? We need to get our heads out of the box. If we did have something, what would it look like, what would it be? [Jim raises hand] Tuna."
             },
             {
                 "character": "Jim",
-                "quote": "New leads, a new territory to look into, maybe an in with a big company that we could get our foot in the door\u2026"
+                "line": "New leads, a new territory to look into, maybe an in with a big company that we could get our foot in the door\u2026"
             },
             {
                 "character": "Andy",
-                "quote": "Fart\u2026.. good Sesh. [gets up] That leg\u2019s asleep."
+                "line": "Fart\u2026.. good Sesh. [gets up] That leg\u2019s asleep."
             }
         ],
         [
             {
                 "character": "Justine",
-                "quote": "Hello. I\u2019m looking for Darryl Philbin?"
+                "line": "Hello. I\u2019m looking for Darryl Philbin?"
             },
             {
                 "character": "Kevin",
-                "quote": "Don\u2019t! oh, you must think\u2026I\u2019m not. I\u2019m using the fax, this isn\u2019t, no wait. I\u2019m not supposed to represent the company. Right? There\u2019s usually an Erin here."
+                "line": "Don\u2019t! oh, you must think\u2026I\u2019m not. I\u2019m using the fax, this isn\u2019t, no wait. I\u2019m not supposed to represent the company. Right? There\u2019s usually an Erin here."
             },
             {
                 "character": "Justine",
-                "quote": "Ok\u2026.?"
+                "line": "Ok\u2026.?"
             },
             {
                 "character": "Kevin",
-                "quote": "So\u2026DARRYL! A GIRL!"
+                "line": "So\u2026DARRYL! A GIRL!"
             },
             {
                 "character": "Darryl",
-                "quote": "[Singing] rub a dub dub\u2026I got scrubbed. \u2018Sup, darlin\u2019? Everybody, this is Justine. [murmurs of hello from the group] This is Jim and Oscar, everybody."
+                "line": "[Singing] rub a dub dub\u2026I got scrubbed. \u2018Sup, darlin\u2019? Everybody, this is Justine. [murmurs of hello from the group] This is Jim and Oscar, everybody."
             },
             {
                 "character": "Meredith",
-                "quote": "Hi."
+                "line": "Hi."
             },
             {
                 "character": "Kevin",
-                "quote": "Kevin."
+                "line": "Kevin."
             },
             {
                 "character": "Justine",
-                "quote": "Can we\u2026. go some place private?"
+                "line": "Can we\u2026. go some place private?"
             },
             {
                 "character": "Darryl",
-                "quote": "Follow me, I got a space. After you. I\u2019ve been thinking about you all mornin\u2019. I don\u2019t know what you did, I can barely walk today."
+                "line": "Follow me, I got a space. After you. I\u2019ve been thinking about you all mornin\u2019. I don\u2019t know what you did, I can barely walk today."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "D-Bone. There you are."
+                "line": "D-Bone. There you are."
             },
             {
                 "character": "Dwight",
-                "quote": "Let me guess, somebody needs a brownie\u2026? Lick the spoon?"
+                "line": "Let me guess, somebody needs a brownie\u2026? Lick the spoon?"
             },
             {
                 "character": "Andy",
-                "quote": "No, that\u2019s ok. Just, I want, I wanted to ask you about\u2026"
+                "line": "No, that\u2019s ok. Just, I want, I wanted to ask you about\u2026"
             },
             {
                 "character": "Dwight",
-                "quote": "Is this about the profits? Because if it is I just don\u2019t see the point. It\u2019s so Wall Street."
+                "line": "Is this about the profits? Because if it is I just don\u2019t see the point. It\u2019s so Wall Street."
             },
             {
                 "character": "Andy",
-                "quote": "I know, right?"
+                "line": "I know, right?"
             },
             {
                 "character": "Dwight",
-                "quote": "Right?"
+                "line": "Right?"
             },
             {
                 "character": "Andy",
-                "quote": "Yeah\u2026um, how is everything?"
+                "line": "Yeah\u2026um, how is everything?"
             },
             {
                 "character": "Dwight",
-                "quote": "Good. Really really good."
+                "line": "Good. Really really good."
             },
             {
                 "character": "Andy",
-                "quote": "Must be a tough time to be a family farm."
+                "line": "Must be a tough time to be a family farm."
             },
             {
                 "character": "Dwight",
-                "quote": "Oh, it is. And beets are not immune. We made some inroads in salads, but heirloom tomatoes are pushing back."
+                "line": "Oh, it is. And beets are not immune. We made some inroads in salads, but heirloom tomatoes are pushing back."
             },
             {
                 "character": "Andy",
-                "quote": "Oof. What are you gonna do about that?"
+                "line": "Oof. What are you gonna do about that?"
             },
             {
                 "character": "Dwight",
-                "quote": "I don\u2019t know, what do you mean?"
+                "line": "I don\u2019t know, what do you mean?"
             },
             {
                 "character": "Andy",
-                "quote": "There\u2019s gotta be some way you can double your beet sales\u2026"
+                "line": "There\u2019s gotta be some way you can double your beet sales\u2026"
             },
             {
                 "character": "Dwight",
-                "quote": "You wanted the job, the job is yours. Just do the job! [Licks brownie battered finger] And I\u2019ll do mine\u2026.. walnuts?"
+                "line": "You wanted the job, the job is yours. Just do the job! [Licks brownie battered finger] And I\u2019ll do mine\u2026.. walnuts?"
             },
             {
                 "character": "Kevin",
-                "quote": "No!"
+                "line": "No!"
             }
         ],
         [
             {
                 "character": "Angela",
-                "quote": "Have you seen this? [Hands Pam Parenting magazine]"
+                "line": "Have you seen this? [Hands Pam Parenting magazine]"
             },
             {
                 "character": "Pam",
-                "quote": "Parenting? Yeah. This is Cici\u2019s favorite magazine. She loves the pictures of babies."
+                "line": "Parenting? Yeah. This is Cici\u2019s favorite magazine. She loves the pictures of babies."
             },
             {
                 "character": "Jim",
-                "quote": "She looks at it when she\u2019s on the potty, and she makes the faces."
+                "line": "She looks at it when she\u2019s on the potty, and she makes the faces."
             },
             {
                 "character": "Angela",
-                "quote": "Have you read it? Has an adult member of your family read this particular issue?"
+                "line": "Have you read it? Has an adult member of your family read this particular issue?"
             },
             {
                 "character": "Pam",
-                "quote": "I flipped through it."
+                "line": "I flipped through it."
             },
             {
                 "character": "Angela",
-                "quote": "So you saw the article on the importance of taking frequent walks while you\u2019re pregnant?"
+                "line": "So you saw the article on the importance of taking frequent walks while you\u2019re pregnant?"
             },
             {
                 "character": "Pam",
-                "quote": "Of course."
+                "line": "Of course."
             },
             {
                 "character": "Jim",
-                "quote": "We know that."
+                "line": "We know that."
             },
             {
                 "character": "Pam",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Angela",
-                "quote": "I will be taking a morning walk and an afternoon walk. Would you like to join me?"
+                "line": "I will be taking a morning walk and an afternoon walk. Would you like to join me?"
             },
             {
                 "character": "Pam",
-                "quote": "That sounds nice."
+                "line": "That sounds nice."
             },
             {
                 "character": "Angela",
-                "quote": "Great.[Angela walks away]"
+                "line": "Great.[Angela walks away]"
             },
             {
                 "character": "Jim",
-                "quote": "You have a walking buddy."
+                "line": "You have a walking buddy."
             },
             {
                 "character": "Pam",
-                "quote": "I do."
+                "line": "I do."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Thanks for coming in guys."
+                "line": "Thanks for coming in guys."
             },
             {
                 "character": "Phyllis",
-                "quote": "You don\u2019t have to thank us for coming in, it\u2019s our job."
+                "line": "You don\u2019t have to thank us for coming in, it\u2019s our job."
             },
             {
                 "character": "Andy",
-                "quote": "Well I never got thanked for coming into a meeting and I always wanted to be so I\u2019m gonna thank people."
+                "line": "Well I never got thanked for coming into a meeting and I always wanted to be so I\u2019m gonna thank people."
             },
             {
                 "character": "Meredith",
-                "quote": "What\u2019s with the blanket?"
+                "line": "What\u2019s with the blanket?"
             },
             {
                 "character": "Andy",
-                "quote": "This is what\u2019s under the blanket."
+                "line": "This is what\u2019s under the blanket."
             },
             {
                 "character": "Oscar",
-                "quote": "We don\u2019t get it."
+                "line": "We don\u2019t get it."
             },
             {
                 "character": "Andy",
-                "quote": "These are incentives. It\u2019s how we\u2019re gonna double growth. Now, you\u2019re probably all asking yourselves: \u201cWell, how does this work?\u201d"
+                "line": "These are incentives. It\u2019s how we\u2019re gonna double growth. Now, you\u2019re probably all asking yourselves: \u201cWell, how does this work?\u201d"
             },
             {
                 "character": "Pam",
-                "quote": "Seems like a basic reward system where you give us points, and then we redeem those points for prizes."
+                "line": "Seems like a basic reward system where you give us points, and then we redeem those points for prizes."
             },
             {
                 "character": "Andy",
-                "quote": "You\u2019re exactly right and you get a point."
+                "line": "You\u2019re exactly right and you get a point."
             },
             {
                 "character": "Pam",
-                "quote": "Oh. [smiling]"
+                "line": "Oh. [smiling]"
             },
             {
                 "character": "Ryan",
-                "quote": "Uh, is that a vibrator?"
+                "line": "Uh, is that a vibrator?"
             },
             {
                 "character": "Andy",
-                "quote": "Twenty points."
+                "line": "Twenty points."
             },
             {
                 "character": "Meredith",
-                "quote": "How does one get a point?"
+                "line": "How does one get a point?"
             },
             {
                 "character": "Andy",
-                "quote": "I\u2019ve outlined the exact parameters in an email, so check your spam folders, but basically you do your job better, you get points. So, collect fifteen points and redeem them for this polar bear."
+                "line": "I\u2019ve outlined the exact parameters in an email, so check your spam folders, but basically you do your job better, you get points. So, collect fifteen points and redeem them for this polar bear."
             },
             {
                 "character": "Kelly",
-                "quote": "Why is it all kid stuff and a vibrator? It\u2019s so gross."
+                "line": "Why is it all kid stuff and a vibrator? It\u2019s so gross."
             },
             {
                 "character": "Andy",
-                "quote": "There\u2019s lots of stuff. John Irving, collected works, Twenty-two points. Or, you can pool your points and redeem fifty-five for this maternity shirt."
+                "line": "There\u2019s lots of stuff. John Irving, collected works, Twenty-two points. Or, you can pool your points and redeem fifty-five for this maternity shirt."
             },
             {
                 "character": "Stanley",
-                "quote": "How \u2018bout you want us to work harder, pay us more."
+                "line": "How \u2018bout you want us to work harder, pay us more."
             },
             {
                 "character": "Andy",
-                "quote": "I can\u2019t."
+                "line": "I can\u2019t."
             },
             {
                 "character": "Kelly",
-                "quote": "This point system is really insulting."
+                "line": "This point system is really insulting."
             },
             {
                 "character": "Andy",
-                "quote": "Ooh I didn\u2019t mean to offend you, and I hope you\u2019ll forgive me because I am very very\u2026 Sari. [tosses yellow print material over shoulder] Sixteen points."
+                "line": "Ooh I didn\u2019t mean to offend you, and I hope you\u2019ll forgive me because I am very very\u2026 Sari. [tosses yellow print material over shoulder] Sixteen points."
             },
             {
                 "character": "Kelly",
-                "quote": "That\u2019s a tablecloth."
+                "line": "That\u2019s a tablecloth."
             },
             {
                 "character": "Jim",
-                "quote": "What if we went all the way up to five hundred points?"
+                "line": "What if we went all the way up to five hundred points?"
             },
             {
                 "character": "Andy",
-                "quote": "That\u2019s a crazy amount of points."
+                "line": "That\u2019s a crazy amount of points."
             },
             {
                 "character": "Jim",
-                "quote": "But, what if?"
+                "line": "But, what if?"
             },
             {
                 "character": "Andy",
-                "quote": "Well, what do you want?"
+                "line": "Well, what do you want?"
             },
             {
                 "character": "Jim",
-                "quote": "I don\u2019t know, for such a crazy number I\u2019d like something pretty crazy."
+                "line": "I don\u2019t know, for such a crazy number I\u2019d like something pretty crazy."
             },
             {
                 "character": "Andy",
-                "quote": "Alright. For five hundred points, I will wear a dress to work. [laughter]"
+                "line": "Alright. For five hundred points, I will wear a dress to work. [laughter]"
             },
             {
                 "character": "Jim",
-                "quote": "That\u2019s pretty good. What about uh, for a thousand points?"
+                "line": "That\u2019s pretty good. What about uh, for a thousand points?"
             },
             {
                 "character": "Andy",
-                "quote": "I\u2019ll run naked through the parking lot with a donut on my ding-dong. [laughter] Yeah? You like that? Alright! For five thousand points, I will let you tattoo whatever you want on the stern of the old SS Bernard![Andy points to his rear-end]"
+                "line": "I\u2019ll run naked through the parking lot with a donut on my ding-dong. [laughter] Yeah? You like that? Alright! For five thousand points, I will let you tattoo whatever you want on the stern of the old SS Bernard![Andy points to his rear-end]"
             },
             {
                 "character": "Group",
-                "quote": "Ooooh!"
+                "line": "Ooooh!"
             },
             {
                 "character": "Oscar",
-                "quote": "Really?"
+                "line": "Really?"
             },
             {
                 "character": "Jim",
-                "quote": "Alright, alright. And you are totally serious?"
+                "line": "Alright, alright. And you are totally serious?"
             },
             {
                 "character": "Andy",
-                "quote": "Swear to God, hope to die. Now let\u2019s get to work!"
+                "line": "Swear to God, hope to die. Now let\u2019s get to work!"
             },
             {
                 "character": "Jim",
-                "quote": "Wait. You did say we could pool our points, right? In that case\u2026let\u2019s get to work."
+                "line": "Wait. You did say we could pool our points, right? In that case\u2026let\u2019s get to work."
             },
             {
                 "character": "Dwight",
-                "quote": "Yeah!"
+                "line": "Yeah!"
             },
             {
                 "character": "Pam",
-                "quote": "Yeah! Whoo! [Group cheers]"
+                "line": "Yeah! Whoo! [Group cheers]"
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "[on the phone]I can have it to you by the beginning of next week. Alright? Thanks very much. [hangs up] Uh, Phyllis! Bracken Auto?"
+                "line": "[on the phone]I can have it to you by the beginning of next week. Alright? Thanks very much. [hangs up] Uh, Phyllis! Bracken Auto?"
             },
             {
                 "character": "Phyllis",
-                "quote": "[hands Jim folder] Ask for Donald, Karen\u2019s bananas."
+                "line": "[hands Jim folder] Ask for Donald, Karen\u2019s bananas."
             },
             {
                 "character": "Jim",
-                "quote": "Ok."
+                "line": "Ok."
             },
             {
                 "character": "Andy",
-                "quote": "T-bag bone\u2026"
+                "line": "T-bag bone\u2026"
             },
             {
                 "character": "Jim",
-                "quote": "Andrew."
+                "line": "Andrew."
             },
             {
                 "character": "Andy",
-                "quote": "Have you noticed a little bit of a mood shift around here?"
+                "line": "Have you noticed a little bit of a mood shift around here?"
             },
             {
                 "character": "Jim",
-                "quote": "No, I didn\u2019t notice anything."
+                "line": "No, I didn\u2019t notice anything."
             },
             {
                 "character": "Andy",
-                "quote": "Really? Because I sat next to Stanley for years\u2026.and this is nap time. Open eye nap time. He balances the phone on his shoulder and just powers down. Now look at him."
+                "line": "Really? Because I sat next to Stanley for years\u2026.and this is nap time. Open eye nap time. He balances the phone on his shoulder and just powers down. Now look at him."
             },
             {
                 "character": "Stanley",
-                "quote": "[On the phone] You\u2019ve got to unleash the power of the Pyramid!"
+                "line": "[On the phone] You\u2019ve got to unleash the power of the Pyramid!"
             },
             {
                 "character": "Jim",
-                "quote": "I don\u2019t know what to tell you, man."
+                "line": "I don\u2019t know what to tell you, man."
             },
             {
                 "character": "Andy",
-                "quote": "You think it has something to do with that incentive program?"
+                "line": "You think it has something to do with that incentive program?"
             },
             {
                 "character": "Jim",
-                "quote": "Oh, one hundred percent. We all want to see you tattoo your ass."
+                "line": "Oh, one hundred percent. We all want to see you tattoo your ass."
             },
             {
                 "character": "Andy",
-                "quote": "Bah\u2026I think people thought I was kidding when I said that."
+                "line": "Bah\u2026I think people thought I was kidding when I said that."
             },
             {
                 "character": "Jim",
-                "quote": "Nah, you definitely weren\u2019t kidding. And that came across loud and clear. Oh, by the way, I want to hand this in. [hands Andy slip of paper]"
+                "line": "Nah, you definitely weren\u2019t kidding. And that came across loud and clear. Oh, by the way, I want to hand this in. [hands Andy slip of paper]"
             },
             {
                 "character": "Andy",
-                "quote": "Hundred and twenty points."
+                "line": "Hundred and twenty points."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah. Big sale. Don\u2019t worry about it though, I don\u2019t really care about the points. I would like a point receipt though\u2026[on phone] Hey! Yes, this is Jim Halpert calling for Donald\u2026can you hold on for one second? Thank you very much. [gets up to give Erin his point receipt]"
+                "line": "Yeah. Big sale. Don\u2019t worry about it though, I don\u2019t really care about the points. I would like a point receipt though\u2026[on phone] Hey! Yes, this is Jim Halpert calling for Donald\u2026can you hold on for one second? Thank you very much. [gets up to give Erin his point receipt]"
             },
             {
                 "character": "Pam",
-                "quote": "Who talked to Maggie at Kaufman\u2019s?"
+                "line": "Who talked to Maggie at Kaufman\u2019s?"
             },
             {
                 "character": "Erin",
-                "quote": "Yes! [adds receipt to growing pile and thumbs up Andy.]"
+                "line": "Yes! [adds receipt to growing pile and thumbs up Andy.]"
             },
             {
                 "character": "Jim",
-                "quote": "[on the phone]and I\u2019m back. How are you sir?....I think we can squeeze a couple more golf games in, right?"
+                "line": "[on the phone]and I\u2019m back. How are you sir?....I think we can squeeze a couple more golf games in, right?"
             },
             {
                 "character": "Pam",
-                "quote": "Where\u2019s Angela? [Hands paper over her shoulder]"
+                "line": "Where\u2019s Angela? [Hands paper over her shoulder]"
             },
             {
                 "character": "Andy",
-                "quote": "Hey Kevin, what are you doing?"
+                "line": "Hey Kevin, what are you doing?"
             },
             {
                 "character": "Kevin",
-                "quote": "Don\u2019t talk to me! [Everyone continues to work busily]"
+                "line": "Don\u2019t talk to me! [Everyone continues to work busily]"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "[on phone] Hi, Professor Frank, Andy Bernard, class of \u201995. Hey there, um, I\u2019m a huge fan of your management book, Management. Um, quick question. I may be missing a chapter here\u2026De-Incentivizing. What are your strategies? Looking for a real blow to morale\u2026uh why? Well, um I guess you could say I\u2019m in one of those classic ass tattoo incentive situations. [laughs]"
+                "line": "[on phone] Hi, Professor Frank, Andy Bernard, class of \u201995. Hey there, um, I\u2019m a huge fan of your management book, Management. Um, quick question. I may be missing a chapter here\u2026De-Incentivizing. What are your strategies? Looking for a real blow to morale\u2026uh why? Well, um I guess you could say I\u2019m in one of those classic ass tattoo incentive situations. [laughs]"
             }
         ],
         [
             {
                 "character": "Erin",
-                "quote": "[fills in drawing showing points, crowd cheers and claps]"
+                "line": "[fills in drawing showing points, crowd cheers and claps]"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Took \u2018em one day."
+                "line": "Took \u2018em one day."
             },
             {
                 "character": "Pam",
-                "quote": "Ready! [flips sketch pad showing tattoo possibilities] \u201cI\u2019m not as think as you drunk I am!\u201d [crowd claps and cheers]"
+                "line": "Ready! [flips sketch pad showing tattoo possibilities] \u201cI\u2019m not as think as you drunk I am!\u201d [crowd claps and cheers]"
             },
             {
                 "character": "Ryan",
-                "quote": "I like it, I like it! [Pam flips the page]"
+                "line": "I like it, I like it! [Pam flips the page]"
             },
             {
                 "character": "Pam",
-                "quote": "Do Not Resuscitate\u2026[mild cheering]"
+                "line": "Do Not Resuscitate\u2026[mild cheering]"
             },
             {
                 "character": "Andy",
-                "quote": "OK, keep in mind, it\u2019s not too late to choose another prize and there are some great new additions. My car [nervous laughter] for a thousand points\u2026.or best offer."
+                "line": "OK, keep in mind, it\u2019s not too late to choose another prize and there are some great new additions. My car [nervous laughter] for a thousand points\u2026.or best offer."
             },
             {
                 "character": "Phyllis",
-                "quote": "What else you got?"
+                "line": "What else you got?"
             },
             {
                 "character": "Pam",
-                "quote": "Oh, and then this was Phyllis\u2019s idea\u2026[shocked cheers] So nasty Phyllis!"
+                "line": "Oh, and then this was Phyllis\u2019s idea\u2026[shocked cheers] So nasty Phyllis!"
             }
         ],
         [
             {
                 "character": "Pam",
-                "quote": "We were hoping you could do something like this\u2026"
+                "line": "We were hoping you could do something like this\u2026"
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "So, coming out of his butt is a\u2026"
+                "line": "So, coming out of his butt is a\u2026"
             },
             {
                 "character": "Pam",
-                "quote": "Baby."
+                "line": "Baby."
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "Baby\u2026"
+                "line": "Baby\u2026"
             },
             {
                 "character": "Pam",
-                "quote": "Yes."
+                "line": "Yes."
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "Yeah, no problem."
+                "line": "Yeah, no problem."
             },
             {
                 "character": "Andy",
-                "quote": "We should think about this\u2026does anyone have any better ideas?"
+                "line": "We should think about this\u2026does anyone have any better ideas?"
             },
             {
                 "character": "Stanley",
-                "quote": "I like what we have."
+                "line": "I like what we have."
             },
             {
                 "character": "Meredith",
-                "quote": "Looks good."
+                "line": "Looks good."
             },
             {
                 "character": "Erin",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Kevin",
-                "quote": "For sure.\n[murmurs from group in agreement]"
+                "line": "For sure.\n[murmurs from group in agreement]"
             },
             {
                 "character": "Andy",
-                "quote": "Just need a second outside."
+                "line": "Just need a second outside."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Gettin\u2019 psyched up?"
+                "line": "Gettin\u2019 psyched up?"
             },
             {
                 "character": "Andy",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Jim",
-                "quote": "Andy, nobody really expects you to go through with this\u2026"
+                "line": "Andy, nobody really expects you to go through with this\u2026"
             },
             {
                 "character": "Andy",
-                "quote": "Tunes..what am I doing here? Why did Robert pick me? \u2026.Confession: I don\u2019t know what I\u2019m doing."
+                "line": "Tunes..what am I doing here? Why did Robert pick me? \u2026.Confession: I don\u2019t know what I\u2019m doing."
             },
             {
                 "character": "Jim",
-                "quote": "I mean, do you like it? You having fun? [Andy snorts, unsure how to answer] Tell you this, everybody else is having a lot of fun\u2026.and you did that."
+                "line": "I mean, do you like it? You having fun? [Andy snorts, unsure how to answer] Tell you this, everybody else is having a lot of fun\u2026.and you did that."
             },
             {
                 "character": "Andy",
-                "quote": "My ass is only so big, I mean I can\u2019t do this everyday."
+                "line": "My ass is only so big, I mean I can\u2019t do this everyday."
             },
             {
                 "character": "Jim",
-                "quote": "But I think it\u2019s big enough to buy you some time till your next great idea\u2026.which, by the way, I can\u2019t wait for."
+                "line": "But I think it\u2019s big enough to buy you some time till your next great idea\u2026.which, by the way, I can\u2019t wait for."
             },
             {
                 "character": "Andy",
-                "quote": "No one expects me to go through with this, right?"
+                "line": "No one expects me to go through with this, right?"
             },
             {
                 "character": "Jim",
-                "quote": "Absolutely not."
+                "line": "Absolutely not."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Let\u2019s ink\u2026my stink! [crowd cheers]"
+                "line": "Let\u2019s ink\u2026my stink! [crowd cheers]"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "My heart belongs to music. But my ass belongs to these people."
+                "line": "My heart belongs to music. But my ass belongs to these people."
             }
         ],
         [
             {
                 "character": "Group",
-                "quote": "Whoa!"
+                "line": "Whoa!"
             },
             {
                 "character": "Andy",
-                "quote": "[lying on table] Do your worst!"
+                "line": "[lying on table] Do your worst!"
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "Uh, you can keep your pants on actually\u2026if just drop \u2018em down a bit, that\u2019d be great."
+                "line": "Uh, you can keep your pants on actually\u2026if just drop \u2018em down a bit, that\u2019d be great."
             },
             {
                 "character": "Andy",
-                "quote": "They are already off, my good sir."
+                "line": "They are already off, my good sir."
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "I\u2019d really prefer they not be down."
+                "line": "I\u2019d really prefer they not be down."
             },
             {
                 "character": "Andy",
-                "quote": "Well, I think down\u2019s better. Sweating pretty heavily down there."
+                "line": "Well, I think down\u2019s better. Sweating pretty heavily down there."
             },
             {
                 "character": "Pam",
-                "quote": "Do you think you could work from this? [showing Tattoo artist sketch pad] we made some small adjustments."
+                "line": "Do you think you could work from this? [showing Tattoo artist sketch pad] we made some small adjustments."
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "OK, you want me to\u2026"
+                "line": "OK, you want me to\u2026"
             },
             {
                 "character": "Pam",
-                "quote": "Just a few adjustments"
+                "line": "Just a few adjustments"
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "Alright, let\u2019s begin."
+                "line": "Alright, let\u2019s begin."
             },
             {
                 "character": "Andy",
-                "quote": "This is where I grin and be-YOW OW!"
+                "line": "This is where I grin and be-YOW OW!"
             },
             {
                 "character": "Tattoo Artist",
-                "quote": "That was just the cotton swab."
+                "line": "That was just the cotton swab."
             },
             {
                 "character": "Andy",
-                "quote": "Invest in softer cotton, sir. [tattooing begins] OW! Oh! Oooh! [Crowd cheers] oh, whoa!!"
+                "line": "Invest in softer cotton, sir. [tattooing begins] OW! Oh! Oooh! [Crowd cheers] oh, whoa!!"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Obviously you can go the ass tattoo route and obviously, I\u2019m gonna like it."
+                "line": "Obviously you can go the ass tattoo route and obviously, I\u2019m gonna like it."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "DRAW SOME BLOOD!"
+                "line": "DRAW SOME BLOOD!"
             },
             {
                 "character": "Andy",
-                "quote": "AHHHHH!!!!!!!"
+                "line": "AHHHHH!!!!!!!"
             }
         ],
         [
             {
                 "character": "Robert California",
-                "quote": "Why did I choose Andy to run the office? Because he\u2019s all surface, uncomplicated. What you see is what you get. Could be a recipe for mediocrity, yes, but then again, it might just be why people fight for him."
+                "line": "Why did I choose Andy to run the office? Because he\u2019s all surface, uncomplicated. What you see is what you get. Could be a recipe for mediocrity, yes, but then again, it might just be why people fight for him."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "[removes tape to reveal tattoo of puppy] It\u2019s a Nard Dog! [group cheers] That\u2019s my nickity-name! I love it, I love it!"
+                "line": "[removes tape to reveal tattoo of puppy] It\u2019s a Nard Dog! [group cheers] That\u2019s my nickity-name! I love it, I love it!"
             },
             {
                 "character": "Jim",
-                "quote": "Pull up your pants."
+                "line": "Pull up your pants."
             }
         ],
         [
             {
                 "character": "Robert California",
-                "quote": "There\u2019s something about an underdog that really inspires\u2026the unexceptional."
+                "line": "There\u2019s something about an underdog that really inspires\u2026the unexceptional."
             }
         ],
         [
             {
                 "character": "Pam",
-                "quote": "Um, what should we talk about?"
+                "line": "Um, what should we talk about?"
             },
             {
                 "character": "Angela",
-                "quote": "Well, we could talk about an ethical dilemma I\u2019m having."
+                "line": "Well, we could talk about an ethical dilemma I\u2019m having."
             },
             {
                 "character": "Pam",
-                "quote": "Oh yeah, sure. Um, I hope I can help."
+                "line": "Oh yeah, sure. Um, I hope I can help."
             },
             {
                 "character": "Angela",
-                "quote": "A coworker of mine is drinking caffeine while pregnant, and I don\u2019t know if I should call social services about it."
+                "line": "A coworker of mine is drinking caffeine while pregnant, and I don\u2019t know if I should call social services about it."
             },
             {
                 "character": "Pam",
-                "quote": "Angela, that\u2019s pretty transparently me."
+                "line": "Angela, that\u2019s pretty transparently me."
             },
             {
                 "character": "Angela",
-                "quote": "Maybe."
+                "line": "Maybe."
             },
             {
                 "character": "Pam",
-                "quote": "You know it\u2019s just herbal tea."
+                "line": "You know it\u2019s just herbal tea."
             },
             {
                 "character": "Angela",
-                "quote": "In mugs with trace amounts of coffee!"
+                "line": "In mugs with trace amounts of coffee!"
             },
             {
                 "character": "Pam",
-                "quote": "Yeah. I think you should call social services."
+                "line": "Yeah. I think you should call social services."
             },
             {
                 "character": "Angela",
-                "quote": "I already did."
+                "line": "I already did."
             },
             {
                 "character": "Pam",
-                "quote": "You know, maybe we should just have our own pregnancies and not pretend like we\u2019re in this together."
+                "line": "You know, maybe we should just have our own pregnancies and not pretend like we\u2019re in this together."
             },
             {
                 "character": "Angela",
-                "quote": "Fine."
+                "line": "Fine."
             },
             {
                 "character": "Pam",
-                "quote": "Fine."
+                "line": "Fine."
             }
         ]
     ],
@@ -1240,135 +1240,135 @@
         [
             {
                 "character": "Andy",
-                "quote": "When you're a kid, you picture a pilot kinda like this [imitates plane noises while steering wildly] But then you learn that's crashing the plane. The right way to do it is more like this. [calmly pulls imaginary steering back and forth] Or better yet, like this. [takes hands off imaginary wheel] Now that I'm manager, I think about that a lot. I let Dwight run the meetings, I let good people do good work and I stay out of the way."
+                "line": "When you're a kid, you picture a pilot kinda like this [imitates plane noises while steering wildly] But then you learn that's crashing the plane. The right way to do it is more like this. [calmly pulls imaginary steering back and forth] Or better yet, like this. [takes hands off imaginary wheel] Now that I'm manager, I think about that a lot. I let Dwight run the meetings, I let good people do good work and I stay out of the way."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "Which combo do you think Robert's gonna like better?"
+                "line": "Which combo do you think Robert's gonna like better?"
             },
             {
                 "character": "Phyllis",
-                "quote": "Just wear one of your bowties."
+                "line": "Just wear one of your bowties."
             },
             {
                 "character": "Kelly",
-                "quote": "No! I mean, let him, he should just explore other options..."
+                "line": "No! I mean, let him, he should just explore other options..."
             }
         ],
         [
             {
                 "character": "Kelly",
-                "quote": "Bowties, no offense, are a black thing. They're for rappers and NBA players. I cringe when I see Tucker Carlson trying to pull off a bowtie. It's like yeah Tucker, you're so street."
+                "line": "Bowties, no offense, are a black thing. They're for rappers and NBA players. I cringe when I see Tucker Carlson trying to pull off a bowtie. It's like yeah Tucker, you're so street."
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "This is combo number seven."
+                "line": "This is combo number seven."
             },
             {
                 "character": "Everyone",
-                "quote": "Hmm, no."
+                "line": "Hmm, no."
             },
             {
                 "character": "Pam",
-                "quote": "I don't like that clip."
+                "line": "I don't like that clip."
             },
             {
                 "character": "Andy",
-                "quote": "You're right, you're right, you're right. Uh! It's so hard to find an occasion for this clip."
+                "line": "You're right, you're right, you're right. Uh! It's so hard to find an occasion for this clip."
             },
             {
                 "character": "Jim",
-                "quote": "I'd hang on to it though, cause I can think of a bunch. Like a 70's theme party, or a 70's theme meeting, or a 70's theme convention..."
+                "line": "I'd hang on to it though, cause I can think of a bunch. Like a 70's theme party, or a 70's theme meeting, or a 70's theme convention..."
             },
             {
                 "character": "Andy",
-                "quote": "Sure."
+                "line": "Sure."
             },
             {
                 "character": "Jim",
-                "quote": "1870's..."
+                "line": "1870's..."
             },
             {
                 "character": "Andy",
-                "quote": "Thanks T-Dog."
+                "line": "Thanks T-Dog."
             },
             {
                 "character": "Ryan",
-                "quote": "T-Dog?"
+                "line": "T-Dog?"
             },
             {
                 "character": "Toby",
-                "quote": "I thought I was T-Dog."
+                "line": "I thought I was T-Dog."
             },
             {
                 "character": "Jim",
-                "quote": "Nope, he means tuna dog."
+                "line": "Nope, he means tuna dog."
             },
             {
                 "character": "Andy",
-                "quote": "Tuna dog!"
+                "line": "Tuna dog!"
             }
         ],
         [
             {
                 "character": "Andy",
-                "quote": "I thought the plane was flying pretty well on auto-pilot. And then Robert California ran into the cockpit with a gun and he was like \u201cFly this plane to Cuba, and on the way bomb Texas\u201d Well I don't know how to get there. Or even how to fly, even. And I don't have any bombs."
+                "line": "I thought the plane was flying pretty well on auto-pilot. And then Robert California ran into the cockpit with a gun and he was like \u201cFly this plane to Cuba, and on the way bomb Texas\u201d Well I don't know how to get there. Or even how to fly, even. And I don't have any bombs."
             }
         ],
         [
             {
                 "character": "Erin",
-                "quote": "Hey. Maybe it'd help to just talk it over. Over a cup of cool old tea."
+                "line": "Hey. Maybe it'd help to just talk it over. Over a cup of cool old tea."
             },
             {
                 "character": "Andy",
-                "quote": "[sighs] Yeah."
+                "line": "[sighs] Yeah."
             }
         ],
         [
             {
                 "character": "Erin",
-                "quote": "What if you were to just start with your ideas about how to double profits. Just say them all and maybe one of them will rise to the top."
+                "line": "What if you were to just start with your ideas about how to double profits. Just say them all and maybe one of them will rise to the top."
             },
             {
                 "character": "Andy",
-                "quote": "I don't have any ideas though."
+                "line": "I don't have any ideas though."
             },
             {
                 "character": "Erin",
-                "quote": "Well I have an idea."
+                "line": "Well I have an idea."
             },
             {
                 "character": "Andy",
-                "quote": "You do?"
+                "line": "You do?"
             },
             {
                 "character": "Erin",
-                "quote": "What if Dunder Mifflin were to take on 15-20 foster kids? You'd get huge checks from the government and honestly they would be ecstatic to live in the warehouse. It would be like Hogwart's."
+                "line": "What if Dunder Mifflin were to take on 15-20 foster kids? You'd get huge checks from the government and honestly they would be ecstatic to live in the warehouse. It would be like Hogwart's."
             },
             {
                 "character": "Andy",
-                "quote": "Yeah....I don't think that's legal. It's a nice thought though. [Erin hands Andy a gift] What is this?"
+                "line": "Yeah....I don't think that's legal. It's a nice thought though. [Erin hands Andy a gift] What is this?"
             },
             {
                 "character": "Erin",
-                "quote": "I just wanted to say congratulations on your new job, officially."
+                "line": "I just wanted to say congratulations on your new job, officially."
             },
             {
                 "character": "Andy",
-                "quote": "You didn't have to do that. [opens box to reveal red mouse cat toy attached to key chain]"
+                "line": "You didn't have to do that. [opens box to reveal red mouse cat toy attached to key chain]"
             },
             {
                 "character": "Erin",
-                "quote": "I saw it at the checkout counter, it made me think of you. I don't know why. I made it into a key chain."
+                "line": "I saw it at the checkout counter, it made me think of you. I don't know why. I made it into a key chain."
             },
             {
                 "character": "Andy",
-                "quote": "You're the only person who's congratulated me."
+                "line": "You're the only person who's congratulated me."
             }
         ]
     ]

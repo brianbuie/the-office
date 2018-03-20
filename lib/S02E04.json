@@ -6,1383 +6,1383 @@
         [
             {
                 "character": "Pam",
-                "quote": "Dunder Mifflin, this is Pam. Sure, can I ask who's calling? Just a second."
+                "line": "Dunder Mifflin, this is Pam. Sure, can I ask who's calling? Just a second."
             },
             {
                 "character": "Jim",
-                "quote": "Jim Halpert. What? How did you get this number? Stalker."
+                "line": "Jim Halpert. What? How did you get this number? Stalker."
             }
         ],
         [
             {
                 "character": "Pam",
-                "quote": "Katy and Jim met in the office. And now I guess they're like going out, or dating, or something. And, uh... I don't know! You know? They're just... She calls him, and they... You know, I'm sorry. I feel like I'm talking really loud. Am I talking really loud?"
+                "line": "Katy and Jim met in the office. And now I guess they're like going out, or dating, or something. And, uh... I don't know! You know? They're just... She calls him, and they... You know, I'm sorry. I feel like I'm talking really loud. Am I talking really loud?"
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "So we're still on for lunch? You're meeting me here? Okay. Great. Bye."
+                "line": "So we're still on for lunch? You're meeting me here? Okay. Great. Bye."
             },
             {
                 "character": "Pam",
-                "quote": "[to Jim] Hey! You can just give her your extension."
+                "line": "[to Jim] Hey! You can just give her your extension."
             },
             {
                 "character": "Jim",
-                "quote": "Okay."
+                "line": "Okay."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Howard, slash Ryan, Ryan Howard is sitting in my office. And he has been a temp here for a couple of months and he's kind of gotten the lay of the land a little bit. Had a few laughs along the way. And now he wants to know what I think."
+                "line": "Howard, slash Ryan, Ryan Howard is sitting in my office. And he has been a temp here for a couple of months and he's kind of gotten the lay of the land a little bit. Had a few laughs along the way. And now he wants to know what I think."
             },
             {
                 "character": "Ryan",
-                "quote": "The temp agency wants to know what you think."
+                "line": "The temp agency wants to know what you think."
             },
             {
                 "character": "Michael",
-                "quote": "Shall we? Let us proceed. First up, proficiency in necessary skills. Aaaaeeexcellent! [laughs]"
+                "line": "Shall we? Let us proceed. First up, proficiency in necessary skills. Aaaaeeexcellent! [laughs]"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Michael's in there right now evaluating the temp. He hasn't evaluated me in years."
+                "line": "Michael's in there right now evaluating the temp. He hasn't evaluated me in years."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Five years from now, what do you want to do? Where do you want to be?"
+                "line": "Five years from now, what do you want to do? Where do you want to be?"
             },
             {
                 "character": "Ryan",
-                "quote": "Ah, well, I'm interested in business."
+                "line": "Ah, well, I'm interested in business."
             },
             {
                 "character": "Michael",
-                "quote": "Oh! Good. Ambitious. Excellent. Want to be a manager?"
-            },
-            {
-                "character": "Ryan",
-                "quote": "Uh, no, actually, uh, what I want is to own my own company."
-            },
-            {
-                "character": "Michael",
-                "quote": "That is ridiculous."
-            }
-        ],
-        [
-            {
-                "character": "Michael",
-                "quote": "Ryan's about to attend the Michael Scott School of Business. I'm like Mr. Miyagi and Yoda rolled into one."
-            }
-        ],
-        [
-            {
-                "character": "Michael",
-                "quote": "[speaks in a Yoda voice] Much advice you seek. [regular voice] Do you know who that is?"
+                "line": "Oh! Good. Ambitious. Excellent. Want to be a manager?"
             },
             {
                 "character": "Ryan",
-                "quote": "Fozzie bear?"
+                "line": "Uh, no, actually, uh, what I want is to own my own company."
             },
             {
                 "character": "Michael",
-                "quote": "Mmm... No. That was Yoda."
+                "line": "That is ridiculous."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "There are ten rules of business that you need to learn. Number one: You need to play to win. But... you also have to win to play."
+                "line": "Ryan's about to attend the Michael Scott School of Business. I'm like Mr. Miyagi and Yoda rolled into one."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "line": "[speaks in a Yoda voice] Much advice you seek. [regular voice] Do you know who that is?"
             },
             {
                 "character": "Ryan",
-                "quote": "Got it."
+                "line": "Fozzie bear?"
             },
             {
                 "character": "Michael",
-                "quote": "And I will give you the rest of the ten at lunch."
+                "line": "Mmm... No. That was Yoda."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "[to Ryan] [makes clicking noises like shooting a gun] Hey!"
+                "line": "There are ten rules of business that you need to learn. Number one: You need to play to win. But... you also have to win to play."
+            },
+            {
+                "character": "Ryan",
+                "line": "Got it."
+            },
+            {
+                "character": "Michael",
+                "line": "And I will give you the rest of the ten at lunch."
+            }
+        ],
+        [
+            {
+                "character": "Michael",
+                "line": "[to Ryan] [makes clicking noises like shooting a gun] Hey!"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Michael and I have a very special connection. He's like Batman, I'm like Robin. He's like the Lone Ranger, and I'm like Tonto. And it's not like there was the Lone Ranger, and Tonto, and Bonto."
+                "line": "Michael and I have a very special connection. He's like Batman, I'm like Robin. He's like the Lone Ranger, and I'm like Tonto. And it's not like there was the Lone Ranger, and Tonto, and Bonto."
             }
         ],
         [
             {
                 "character": "Oscar",
-                "quote": "[in background, on phone] But it says no late fee... ."
+                "line": "[in background, on phone] But it says no late fee... ."
             },
             {
                 "character": "Dwight",
-                "quote": "[alarm sounds] People!"
+                "line": "[alarm sounds] People!"
             },
             {
                 "character": "Angela",
-                "quote": "Okay! Everybody!"
+                "line": "Okay! Everybody!"
             },
             {
                 "character": "Dwight",
-                "quote": "This is not a test! Move to the exits!"
+                "line": "This is not a test! Move to the exits!"
             },
             {
                 "character": "Angela",
-                "quote": "Do not panic!"
+                "line": "Do not panic!"
             },
             {
                 "character": "Dwight",
-                "quote": "Head towards the exits."
+                "line": "Head towards the exits."
             },
             {
                 "character": "Angela",
-                "quote": "Safety partners."
+                "line": "Safety partners."
             },
             {
                 "character": "Dwight",
-                "quote": "Get up off your desks!"
+                "line": "Get up off your desks!"
             },
             {
                 "character": "Angela",
-                "quote": "Do not panic."
+                "line": "Do not panic."
             },
             {
                 "character": "Oscar",
-                "quote": "[in phone] No, I don't hear it? Alright."
+                "line": "[in phone] No, I don't hear it? Alright."
             },
             {
                 "character": "Dwight",
-                "quote": "No, panic is warranted!"
+                "line": "No, panic is warranted!"
             },
             {
                 "character": "Angela",
-                "quote": "Go in single file lines."
+                "line": "Go in single file lines."
             },
             {
                 "character": "Oscar",
-                "quote": "[in phone] No, no. Finish the..."
+                "line": "[in phone] No, no. Finish the..."
             },
             {
                 "character": "Dwight",
-                "quote": "This is not at drill!"
+                "line": "This is not at drill!"
             },
             {
                 "character": "Angela",
-                "quote": "Arms at your sides! Arms at your sides!"
+                "line": "Arms at your sides! Arms at your sides!"
             },
             {
                 "character": "Dwight",
-                "quote": "Please, move quickly! This is a paper company, people! Step lively!"
+                "line": "Please, move quickly! This is a paper company, people! Step lively!"
             },
             {
                 "character": "Angela",
-                "quote": "Go, let's go."
+                "line": "Go, let's go."
             },
             {
                 "character": "Dwight",
-                "quote": "This whole place is a tinder box, it is ready to blow!"
+                "line": "This whole place is a tinder box, it is ready to blow!"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "This is not a test! Can you leave?!"
+                "line": "This is not a test! Can you leave?!"
             },
             {
                 "character": "Phyllis",
-                "quote": "Oh, you say that every time."
+                "line": "Oh, you say that every time."
             },
             {
                 "character": "Dwight",
-                "quote": "DO YOU WANT TO DIE?"
+                "line": "DO YOU WANT TO DIE?"
             },
             {
                 "character": "Phyllis",
-                "quote": "Oh, boy..."
+                "line": "Oh, boy..."
             },
             {
                 "character": "Dwight",
-                "quote": "Do you want to die? OUT!!"
+                "line": "Do you want to die? OUT!!"
             },
             {
                 "character": "Angela",
-                "quote": "Alright, let's go, let's go."
+                "line": "Alright, let's go, let's go."
             },
             {
                 "character": "Dwight",
-                "quote": "STANLEY! Have you ever seen a burn victim?"
+                "line": "STANLEY! Have you ever seen a burn victim?"
             },
             {
                 "character": "Angela",
-                "quote": "Come on, you're safety partners!"
+                "line": "Come on, you're safety partners!"
             },
             {
                 "character": "Dwight",
-                "quote": "Move to the exits!"
+                "line": "Move to the exits!"
             },
             {
                 "character": "Angela",
-                "quote": "You're safety partners!"
+                "line": "You're safety partners!"
             },
             {
                 "character": "Dwight",
-                "quote": "We've got smoke! We've got smoke! Smoke! Gah! [Spots Kelly] Oh, Kelly! You're okay! I've got you!"
+                "line": "We've got smoke! We've got smoke! Smoke! Gah! [Spots Kelly] Oh, Kelly! You're okay! I've got you!"
             },
             {
                 "character": "Kelly",
-                "quote": "I'm okay!"
+                "line": "I'm okay!"
             },
             {
                 "character": "Dwight",
-                "quote": "Cover your nose and mouth. Breathe through your nose."
+                "line": "Cover your nose and mouth. Breathe through your nose."
             },
             {
                 "character": "Kelly",
-                "quote": "Let go of me!"
+                "line": "Let go of me!"
             },
             {
                 "character": "Dwight",
-                "quote": "Breathe through your nose. Remove your stockings. Okay? They'll melt right into your flesh! Stay below the smoke line. Let's go! Clear out, stat! STAT MEANS NOW!"
+                "line": "Breathe through your nose. Remove your stockings. Okay? They'll melt right into your flesh! Stay below the smoke line. Let's go! Clear out, stat! STAT MEANS NOW!"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Yes, I was the first one out. And, yes, I've heard women and children first. But, we do not employ children. We are not a sweat shop. Thankfully. And, uh, women are equal in the workplace by law. So, I let them out first, I have a lawsuit on my hands."
+                "line": "Yes, I was the first one out. And, yes, I've heard women and children first. But, we do not employ children. We are not a sweat shop. Thankfully. And, uh, women are equal in the workplace by law. So, I let them out first, I have a lawsuit on my hands."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Another rule of business is being able to adapt to different situations."
+                "line": "Another rule of business is being able to adapt to different situations."
             },
             {
                 "character": "Ryan",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Michael",
-                "quote": "Adapt. React. Re-adapt. Act. All right? That's rule number two."
+                "line": "Adapt. React. Re-adapt. Act. All right? That's rule number two."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Okay, guys, listen up, we need a head count. We need to count off. Michael's number one. Where is he? Where is he?"
+                "line": "Okay, guys, listen up, we need a head count. We need to count off. Michael's number one. Where is he? Where is he?"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "So what was rule two?"
+                "line": "So what was rule two?"
             },
             {
                 "character": "Ryan",
-                "quote": "Ah... adapt, react, re-adapt, act."
+                "line": "Ah... adapt, react, re-adapt, act."
             },
             {
                 "character": "Michael",
-                "quote": "Okay, well, let's... . let's kind of take it a little slower."
+                "line": "Okay, well, let's... . let's kind of take it a little slower."
             },
             {
                 "character": "Dwight",
-                "quote": "Hey, Michael. Um... Ryan needs his number for the count off."
+                "line": "Hey, Michael. Um... Ryan needs his number for the count off."
             },
             {
                 "character": "Michael",
-                "quote": "Okay, uh, well, one is taken."
+                "line": "Okay, uh, well, one is taken."
             },
             {
                 "character": "Ryan",
-                "quote": "Uh, okay, two?"
+                "line": "Uh, okay, two?"
             },
             {
                 "character": "Dwight",
-                "quote": "NO!"
+                "line": "NO!"
             },
             {
                 "character": "Ryan",
-                "quote": "Okay... uh, sorry?"
+                "line": "Okay... uh, sorry?"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Okay, he can have 14. Marjory's not here today."
+                "line": "Okay, he can have 14. Marjory's not here today."
             },
             {
                 "character": "Michael",
-                "quote": "Well, he needs a permanent number, right?"
+                "line": "Well, he needs a permanent number, right?"
             },
             {
                 "character": "Ryan",
-                "quote": "No."
+                "line": "No."
             }
         ],
         [
             {
                 "character": "Ryan",
-                "quote": "...I don't."
+                "line": "...I don't."
             },
             {
                 "character": "Dwight",
-                "quote": "Oh, you know what else? I thought of a nickname for the three of us. Three Musketeers."
+                "line": "Oh, you know what else? I thought of a nickname for the three of us. Three Musketeers."
             },
             {
                 "character": "Michael",
-                "quote": "Um, yeah. Okay. That... No, no, no. I got one. I got one. The Three Stooges."
+                "line": "Um, yeah. Okay. That... No, no, no. I got one. I got one. The Three Stooges."
             },
             {
                 "character": "Dwight",
-                "quote": "That's funny, too. But if we're the Three Musketeers..."
+                "line": "That's funny, too. But if we're the Three Musketeers..."
             }
         ],
         [
             {
                 "character": "Ryan",
-                "quote": "I don't want to be like \"a guy\" here. You know? Like, Stanley is the \"crossword puzzle guy\". And Angela has cats. I don't want to have a thing... here. You know, I don't want to be the \"something guy\"."
+                "line": "I don't want to be like \"a guy\" here. You know? Like, Stanley is the \"crossword puzzle guy\". And Angela has cats. I don't want to have a thing... here. You know, I don't want to be the \"something guy\"."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Okay, you know what? I am going to be, uh, setting the agenda here. Okay? Can everybody gather up, please? Important announcement. Very important announcement. I think this is a perfect opportunity for all of us to participate in some really intense, psychologically revealing conversations. So we're going to be playing Desert Island, umm, Who Would You Do?"
+                "line": "Okay, you know what? I am going to be, uh, setting the agenda here. Okay? Can everybody gather up, please? Important announcement. Very important announcement. I think this is a perfect opportunity for all of us to participate in some really intense, psychologically revealing conversations. So we're going to be playing Desert Island, umm, Who Would You Do?"
             },
             {
                 "character": "Stanley",
-                "quote": "Ooh."
+                "line": "Ooh."
             },
             {
                 "character": "Jim",
-                "quote": "And, um..."
+                "line": "And, um..."
             },
             {
                 "character": "Pam",
-                "quote": "...Would You Rather?"
+                "line": "...Would You Rather?"
             },
             {
                 "character": "Jim",
-                "quote": "Would You Rather. Would You Rather is our third game."
+                "line": "Would You Rather. Would You Rather is our third game."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "[to firemen] Hey guys, great response time. Listen up, I got some theories. Okay, there's a..."
+                "line": "[to firemen] Hey guys, great response time. Listen up, I got some theories. Okay, there's a..."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Okay, so... three books on a desert island? Angela."
+                "line": "Okay, so... three books on a desert island? Angela."
             },
             {
                 "character": "Angela",
-                "quote": "The Bible."
+                "line": "The Bible."
             },
             {
                 "character": "Stanley",
-                "quote": "That's one book. You've got two others."
+                "line": "That's one book. You've got two others."
             },
             {
                 "character": "Angela",
-                "quote": "A Purpose Driven Life."
+                "line": "A Purpose Driven Life."
             },
             {
                 "character": "Jim",
-                "quote": "Nice. Third book?"
+                "line": "Nice. Third book?"
             },
             {
                 "character": "Angela",
-                "quote": "No."
+                "line": "No."
             },
             {
                 "character": "Jim",
-                "quote": "Okay. Phyllis."
+                "line": "Okay. Phyllis."
             },
             {
                 "character": "Phyllis",
-                "quote": "Um, The DaVinci Code."
+                "line": "Um, The DaVinci Code."
             },
             {
                 "character": "Angela",
-                "quote": "The DaVinci Code!"
+                "line": "The DaVinci Code!"
             },
             {
                 "character": "Jim",
-                "quote": "Nice."
+                "line": "Nice."
             },
             {
                 "character": "Angela",
-                "quote": "I would take The DaVinci Code... so I could burn The DaVinci Code."
+                "line": "I would take The DaVinci Code... so I could burn The DaVinci Code."
             },
             {
                 "character": "Dwight",
-                "quote": "Okay. Great, that's going to keep you warm for like 7 seconds. Question: is there fire wood on the island?"
+                "line": "Okay. Great, that's going to keep you warm for like 7 seconds. Question: is there fire wood on the island?"
             },
             {
                 "character": "Jim",
-                "quote": "I guess."
+                "line": "I guess."
             },
             {
                 "character": "Dwight",
-                "quote": "Then I would bring an axe, no books."
+                "line": "Then I would bring an axe, no books."
             },
             {
                 "character": "Jim",
-                "quote": "Uh, it has to be a book, Dwight."
+                "line": "Uh, it has to be a book, Dwight."
             },
             {
                 "character": "Dwight",
-                "quote": "Fine. Physician's Desk Reference."
+                "line": "Fine. Physician's Desk Reference."
             },
             {
                 "character": "Jim",
-                "quote": "Nice. Smart."
+                "line": "Nice. Smart."
             },
             {
                 "character": "Dwight",
-                "quote": "...hollowed out, inside: waterproof matches, iodine tablets, beet seeds, protein bars, NASA blanket, and, in case I get bored, Harry Potter and Sorcerer's Stone. No, Harry Potter and the Prisoner of Azkaban. Question: did my shoes come off in the plane crash?"
+                "line": "...hollowed out, inside: waterproof matches, iodine tablets, beet seeds, protein bars, NASA blanket, and, in case I get bored, Harry Potter and Sorcerer's Stone. No, Harry Potter and the Prisoner of Azkaban. Question: did my shoes come off in the plane crash?"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Rule number four. In business, image is everything - Andre Agassi. This car is an investment. Right? If I have to take out a client or I'm seen around Scranton in it. I love it. I love this car. Do you like it?"
+                "line": "Rule number four. In business, image is everything - Andre Agassi. This car is an investment. Right? If I have to take out a client or I'm seen around Scranton in it. I love it. I love this car. Do you like it?"
             },
             {
                 "character": "Ryan",
-                "quote": "Yeah."
+                "line": "Yeah."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Okay. Thought people read more books."
+                "line": "Okay. Thought people read more books."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "DVDs! Five movies. What would you bring to the island? Yes! Meredith?"
+                "line": "DVDs! Five movies. What would you bring to the island? Yes! Meredith?"
             },
             {
                 "character": "Meredith",
-                "quote": "Legends of the Fall, My Big Fat Greek Wedding, Legally Blond, Bridges of Madison County..."
+                "line": "Legends of the Fall, My Big Fat Greek Wedding, Legally Blond, Bridges of Madison County..."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Wow."
+                "line": "Wow."
             },
             {
                 "character": "Pam",
-                "quote": "Legends of the Fall?"
+                "line": "Legends of the Fall?"
             },
             {
                 "character": "Jim",
-                "quote": "Wow. Bridges of Madison County, Legally Blond, these movies are just... ."
+                "line": "Wow. Bridges of Madison County, Legally Blond, these movies are just... ."
             },
             {
                 "character": "Pam",
-                "quote": "Well, I kind of liked Legal..."
+                "line": "Well, I kind of liked Legal..."
             },
             {
                 "character": "Jim",
-                "quote": "Wait, wait, wait. Pam. No. Do you understand? The... the game is Desert Island Movies, not guilty pleasure movies. Desert Island Movies are the movies you're going to watch for the rest of your life! Forever! Unforgivable."
+                "line": "Wait, wait, wait. Pam. No. Do you understand? The... the game is Desert Island Movies, not guilty pleasure movies. Desert Island Movies are the movies you're going to watch for the rest of your life! Forever! Unforgivable."
             },
             {
                 "character": "Pam",
-                "quote": "I take it back."
+                "line": "I take it back."
             },
             {
                 "character": "Jim",
-                "quote": "Unforgivable."
+                "line": "Unforgivable."
             },
             {
                 "character": "Pam",
-                "quote": "I take it back!"
+                "line": "I take it back!"
             },
             {
                 "character": "Jim",
-                "quote": "Good."
+                "line": "Good."
             }
         ],
         [
             {
                 "character": "Meredith",
-                "quote": "...and Ghost. But, ah, just that one scene..."
+                "line": "...and Ghost. But, ah, just that one scene..."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Is this your car, Ryan?"
+                "line": "Is this your car, Ryan?"
             },
             {
                 "character": "Michael",
-                "quote": "Wow, some pretty big books back there, huh?"
+                "line": "Wow, some pretty big books back there, huh?"
             },
             {
                 "character": "Ryan",
-                "quote": "[to Dwight] Don't..."
+                "line": "[to Dwight] Don't..."
             },
             {
                 "character": "Dwight",
-                "quote": "Good shocks."
+                "line": "Good shocks."
             },
             {
                 "character": "Michael",
-                "quote": "Hello, Mr. Egghead! Woop! So... oh, Stanley Kaplan! I know him. 'M' is for Murder, 'P' is for..."
+                "line": "Hello, Mr. Egghead! Woop! So... oh, Stanley Kaplan! I know him. 'M' is for Murder, 'P' is for..."
             },
             {
                 "character": "Ryan",
-                "quote": "That's actually a test prep book."
+                "line": "That's actually a test prep book."
             },
             {
                 "character": "Michael",
-                "quote": "...for Phone. What?"
+                "line": "...for Phone. What?"
             },
             {
                 "character": "Ryan",
-                "quote": "That's a test prep for business school."
+                "line": "That's a test prep for business school."
             },
             {
                 "character": "Michael",
-                "quote": "Um, oh, thinking about business school?"
+                "line": "Um, oh, thinking about business school?"
             },
             {
                 "character": "Ryan",
-                "quote": "I just got in. I applied, I go at night."
+                "line": "I just got in. I applied, I go at night."
             },
             {
                 "character": "Michael",
-                "quote": "Really?"
+                "line": "Really?"
             },
             {
                 "character": "Ryan",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Michael",
-                "quote": "So you think you know a lot about business?"
+                "line": "So you think you know a lot about business?"
             },
             {
                 "character": "Ryan",
-                "quote": "No, not yet."
+                "line": "No, not yet."
             },
             {
                 "character": "Michael",
-                "quote": "Uh huh."
+                "line": "Uh huh."
             },
             {
                 "character": "Ryan",
-                "quote": "Just started."
+                "line": "Just started."
             },
             {
                 "character": "Michael",
-                "quote": "Yeah. Quiz me."
+                "line": "Yeah. Quiz me."
             },
             {
                 "character": "Ryan",
-                "quote": "I... wouldn't even know where to start."
+                "line": "I... wouldn't even know where to start."
             },
             {
                 "character": "Michael",
-                "quote": "Come on, egghead. Let's do it."
+                "line": "Come on, egghead. Let's do it."
             },
             {
                 "character": "Dwight",
-                "quote": "Do it."
+                "line": "Do it."
             },
             {
                 "character": "Michael",
-                "quote": "Quiz me up."
+                "line": "Quiz me up."
             },
             {
                 "character": "Ryan",
-                "quote": "All right, um... Why have people been rethinking the Microsoft model in the past few years?"
+                "line": "All right, um... Why have people been rethinking the Microsoft model in the past few years?"
             },
             {
                 "character": "Michael",
-                "quote": "Uh..."
+                "line": "Uh..."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "When I was Ryan's age, I worked in a fast food restaurant, to save up money for school. And then I spe... lost it in a pyramid scheme. But I learned more about business, right then and there, than business school would ever teach me, or Ryan would ever teach me."
+                "line": "When I was Ryan's age, I worked in a fast food restaurant, to save up money for school. And then I spe... lost it in a pyramid scheme. But I learned more about business, right then and there, than business school would ever teach me, or Ryan would ever teach me."
             }
         ],
         [
             {
                 "character": "Ryan",
-                "quote": "Is it cheaper to sign a new customer? Or to keep an existing customer?"
+                "line": "Is it cheaper to sign a new customer? Or to keep an existing customer?"
             },
             {
                 "character": "Dwight",
-                "quote": "Keep an existing..."
+                "line": "Keep an existing..."
             },
             {
                 "character": "Michael",
-                "quote": "[to Dwight] Shut, it. Can I... can I just do it please? [to Ryan] Uh, it's equal."
+                "line": "[to Dwight] Shut, it. Can I... can I just do it please? [to Ryan] Uh, it's equal."
             },
             {
                 "character": "Ryan",
-                "quote": "It is ten times more expensive to sign a new customer."
+                "line": "It is ten times more expensive to sign a new customer."
             },
             {
                 "character": "Michael",
-                "quote": "Okay. Yes! It was a trick question."
+                "line": "Okay. Yes! It was a trick question."
             },
             {
                 "character": "Dwight",
-                "quote": "Yeah, but look, I mean, he didn't need business school. Okay, Michael comes from the school of hard knocks."
+                "line": "Yeah, but look, I mean, he didn't need business school. Okay, Michael comes from the school of hard knocks."
             },
             {
                 "character": "Michael",
-                "quote": "Okay, Dwight."
+                "line": "Okay, Dwight."
             },
             {
                 "character": "Dwight",
-                "quote": "Self taught. You didn't even go to college."
+                "line": "Self taught. You didn't even go to college."
             },
             {
                 "character": "Michael",
-                "quote": "You know what, Dwight? You don't need to help me here. Okay? Well, you know... Maybe you should go to business school like Ryan, then... then you'd know what you're talking about."
+                "line": "You know what, Dwight? You don't need to help me here. Okay? Well, you know... Maybe you should go to business school like Ryan, then... then you'd know what you're talking about."
             },
             {
                 "character": "Dwight",
-                "quote": "[scoffs] Come on. I'm studying with the master, huh?"
+                "line": "[scoffs] Come on. I'm studying with the master, huh?"
             },
             {
                 "character": "Michael",
-                "quote": "For instance, why don't you go to business..."
+                "line": "For instance, why don't you go to business..."
             },
             {
                 "character": "Dwight",
-                "quote": "[to Ryan] You should learn from him, right?"
+                "line": "[to Ryan] You should learn from him, right?"
             },
             {
                 "character": "Ryan",
-                "quote": "I am."
+                "line": "I am."
             },
             {
                 "character": "Dwight",
-                "quote": "Right?"
+                "line": "Right?"
             },
             {
                 "character": "Ryan",
-                "quote": "I am."
+                "line": "I am."
             },
             {
                 "character": "Michael",
-                "quote": "Stop. Dwight. You know what? You're acting like a dork. Would you cool it? Please. Okay. Hey! He's not your five year old brother, Dwight. He's a valued member of this company... and you know what? He knows more about business than you ever will."
+                "line": "Stop. Dwight. You know what? You're acting like a dork. Would you cool it? Please. Okay. Hey! He's not your five year old brother, Dwight. He's a valued member of this company... and you know what? He knows more about business than you ever will."
             },
             {
                 "character": "Dwight",
-                "quote": "Stupid!"
+                "line": "Stupid!"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "I did not go to business school. You know who else didn't go to business school? LeBron James, Tracy McGrady, Kobe Bryant. They went right from high school to the NBA. So... so it's not the same thing. At all."
+                "line": "I did not go to business school. You know who else didn't go to business school? LeBron James, Tracy McGrady, Kobe Bryant. They went right from high school to the NBA. So... so it's not the same thing. At all."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Look at this stuff. Market fragments. What is that supposed to be?"
+                "line": "Look at this stuff. Market fragments. What is that supposed to be?"
             },
             {
                 "character": "Ryan",
-                "quote": "It's a way of looking at consumers as subsets of a larger client base."
+                "line": "It's a way of looking at consumers as subsets of a larger client base."
             },
             {
                 "character": "Michael",
-                "quote": "You are so smart. You are so eff-in' smart. You should be teaching me."
+                "line": "You are so smart. You are so eff-in' smart. You should be teaching me."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Pam? Get us back into it."
+                "line": "Pam? Get us back into it."
             },
             {
                 "character": "Pam",
-                "quote": "Okay."
+                "line": "Okay."
             },
             {
                 "character": "Jim",
-                "quote": "Five movies. Go ahead."
+                "line": "Five movies. Go ahead."
             },
             {
                 "character": "Pam",
-                "quote": "Um, Fargo, um, Edward Scissorhands, Dazed and Confused..."
+                "line": "Um, Fargo, um, Edward Scissorhands, Dazed and Confused..."
             },
             {
                 "character": "Jim",
-                "quote": "Ooh, definitely in my top five."
+                "line": "Ooh, definitely in my top five."
             },
             {
                 "character": "Pam",
-                "quote": "Yes. In my top three, so suck it."
+                "line": "Yes. In my top three, so suck it."
             },
             {
                 "character": "Jim",
-                "quote": "What?"
+                "line": "What?"
             },
             {
                 "character": "Pam",
-                "quote": "Breakfast Club. Um... The Princess Bride and..."
+                "line": "Breakfast Club. Um... The Princess Bride and..."
             },
             {
                 "character": "Jim",
-                "quote": "Okay that's five."
+                "line": "Okay that's five."
             },
             {
                 "character": "Pam",
-                "quote": "No, my all time favorite!"
+                "line": "No, my all time favorite!"
             },
             {
                 "character": "Jim",
-                "quote": "Pam, play by the rules."
+                "line": "Pam, play by the rules."
             },
             {
                 "character": "Pam",
-                "quote": "All time favorite."
+                "line": "All time favorite."
             },
             {
                 "character": "Jim",
-                "quote": "Play by the rules. Dwight. All time favorite movie."
+                "line": "Play by the rules. Dwight. All time favorite movie."
             },
             {
                 "character": "Dwight",
-                "quote": "The Crow."
+                "line": "The Crow."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "I became a salesman... because of people, I love making friends. But then I was promoted to manager, at a very young age. I still try to be a friend first, but... You know? I'm very successful... your coworkers look at you differently. Huu, what do you think?"
+                "line": "I became a salesman... because of people, I love making friends. But then I was promoted to manager, at a very young age. I still try to be a friend first, but... You know? I'm very successful... your coworkers look at you differently. Huu, what do you think?"
             },
             {
                 "character": "Ryan",
-                "quote": "Maybe we should get some air."
+                "line": "Maybe we should get some air."
             },
             {
                 "character": "Michael",
-                "quote": "Nah, I'm okay."
+                "line": "Nah, I'm okay."
             },
             {
                 "character": "Ryan",
-                "quote": "I'm really uncomfortable."
+                "line": "I'm really uncomfortable."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "All right. Let's move on. Let's move on to the main event. Who Would You Do?"
+                "line": "All right. Let's move on. Let's move on to the main event. Who Would You Do?"
             },
             {
                 "character": "Kevin",
-                "quote": "Present company excluded?"
+                "line": "Present company excluded?"
             },
             {
                 "character": "Jim",
-                "quote": "Um, not neccessari..."
+                "line": "Um, not neccessari..."
             },
             {
                 "character": "Kevin",
-                "quote": "Pam."
+                "line": "Pam."
             },
             {
                 "character": "Oscar",
-                "quote": "Pam."
+                "line": "Pam."
             },
             {
                 "character": "Jim",
-                "quote": "Um... okay. Ah, you know what? Maybe I'll... I'll finish explaining the rules. Let's... let me explain it first, and then..."
+                "line": "Um... okay. Ah, you know what? Maybe I'll... I'll finish explaining the rules. Let's... let me explain it first, and then..."
             },
             {
                 "character": "song",
-                "quote": "[\"Everybody Hurts\" by R.E.M.] Think you've had too much \/ in this life."
+                "line": "[\"Everybody Hurts\" by R.E.M.] Think you've had too much \/ in this life."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah, so we'll get right... You know what? I'll be right back. Stanley, you're taking over for me, buddy. I'll be right back."
+                "line": "Yeah, so we'll get right... You know what? I'll be right back. Stanley, you're taking over for me, buddy. I'll be right back."
             },
             {
                 "character": "Stanley",
-                "quote": "Okay, um..."
+                "line": "Okay, um..."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Dwight. Dwight."
+                "line": "Dwight. Dwight."
             },
             {
                 "character": "Song",
-                "quote": "Everybody hurts,"
+                "line": "Everybody hurts,"
             },
             {
                 "character": "Jim",
-                "quote": "Come on Dwight! Use words."
+                "line": "Come on Dwight! Use words."
             },
             {
                 "character": "Song",
-                "quote": "Sometim... ."
+                "line": "Sometim... ."
             },
             {
                 "character": "Dwight",
-                "quote": "Why didn't I go to business school?"
+                "line": "Why didn't I go to business school?"
             },
             {
                 "character": "Jim",
-                "quote": "Who goes to business school?"
+                "line": "Who goes to business school?"
             },
             {
                 "character": "Dwight",
-                "quote": "The temp."
+                "line": "The temp."
             },
             {
                 "character": "Jim",
-                "quote": "He does?"
+                "line": "He does?"
             },
             {
                 "character": "Dwight",
-                "quote": "Yeah, it's all him and Michael talk about anymore."
+                "line": "Yeah, it's all him and Michael talk about anymore."
             },
             {
                 "character": "Pam",
-                "quote": "You know, I bet Ryan thinks to himself 'I wish I were a volunteer sheriff on the weekends'."
+                "line": "You know, I bet Ryan thinks to himself 'I wish I were a volunteer sheriff on the weekends'."
             },
             {
                 "character": "Dwight",
-                "quote": "He doesn't even know that I do that."
+                "line": "He doesn't even know that I do that."
             },
             {
                 "character": "Pam",
-                "quote": "You should tell him."
+                "line": "You should tell him."
             },
             {
                 "character": "Dwight",
-                "quote": "Oh yeah, Pam. Right. That's going to help things, just talk it out. I hope the war goes on forever and Ryan gets drafted."
+                "line": "Oh yeah, Pam. Right. That's going to help things, just talk it out. I hope the war goes on forever and Ryan gets drafted."
             },
             {
                 "character": "Pam",
-                "quote": "Dwight."
+                "line": "Dwight."
             },
             {
                 "character": "Jim",
-                "quote": "What?"
+                "line": "What?"
             },
             {
                 "character": "Dwight",
-                "quote": "I'm sorry I said that, I didn't... just part of me meant it. Besides, he'd end up being a hero anyway."
+                "line": "I'm sorry I said that, I didn't... just part of me meant it. Besides, he'd end up being a hero anyway."
             },
             {
                 "character": "Jim",
-                "quote": "You know what you should do? You should quit. And then, that would stick it to both of them."
+                "line": "You know what you should do? You should quit. And then, that would stick it to both of them."
             },
             {
                 "character": "Dwight",
-                "quote": "Oh Jim, I'm not going to quit. Then Ryan wins."
+                "line": "Oh Jim, I'm not going to quit. Then Ryan wins."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah. You're right."
+                "line": "Yeah. You're right."
             },
             {
                 "character": "Dwight",
-                "quote": "Thanks you guys. I just need some alone time."
+                "line": "Thanks you guys. I just need some alone time."
             },
             {
                 "character": "Pam",
-                "quote": "Kay."
+                "line": "Kay."
             },
             {
                 "character": "Song",
-                "quote": "Everybody hurts"
+                "line": "Everybody hurts"
             },
             {
                 "character": "Jim",
-                "quote": "Alright buddy."
+                "line": "Alright buddy."
             },
             {
                 "character": "Song",
-                "quote": "Everybody cries"
+                "line": "Everybody cries"
             },
             {
                 "character": "Roy",
-                "quote": "Hey! Guys, what's going on?"
+                "line": "Hey! Guys, what's going on?"
             },
             {
                 "character": "Jim",
-                "quote": "Nothing."
+                "line": "Nothing."
             },
             {
                 "character": "Pam",
-                "quote": "Hey!"
+                "line": "Hey!"
             },
             {
                 "character": "Song",
-                "quote": "Everybody hurts"
+                "line": "Everybody hurts"
             },
             {
                 "character": "Roy",
-                "quote": "What's up? Can I hang out with you guys for a bit?"
+                "line": "What's up? Can I hang out with you guys for a bit?"
             },
             {
                 "character": "Song",
-                "quote": "Sometimes"
+                "line": "Sometimes"
             },
             {
                 "character": "Roy",
-                "quote": "The warehouse guys are a bunch of jackasses sometimes."
+                "line": "The warehouse guys are a bunch of jackasses sometimes."
             }
         ],
         [
             {
                 "character": "Stanley",
-                "quote": "Come on people, you know the rules of the game now."
+                "line": "Come on people, you know the rules of the game now."
             },
             {
                 "character": "Michael",
-                "quote": "Oh, hey. Game, what game are we playing here?"
+                "line": "Oh, hey. Game, what game are we playing here?"
             },
             {
                 "character": "Stanley",
-                "quote": "Okay. It's called Who Would You Do?"
+                "line": "Okay. It's called Who Would You Do?"
             },
             {
                 "character": "Michael",
-                "quote": "Oh, I play this at home all the time while I'm falling asleep. What, uh... . Where are we? Where are we here? Mmm.. Roy? Roy? Who would you do, Roy?"
+                "line": "Oh, I play this at home all the time while I'm falling asleep. What, uh... . Where are we? Where are we here? Mmm.. Roy? Roy? Who would you do, Roy?"
             },
             {
                 "character": "Roy",
-                "quote": "Uh... Oh, I got it! Uh, what's the name of that, uh, tight ass, uh, Christian, uh, chick. The, uh, the blond?"
+                "line": "Uh... Oh, I got it! Uh, what's the name of that, uh, tight ass, uh, Christian, uh, chick. The, uh, the blond?"
             },
             {
                 "character": "Angela",
-                "quote": "My name is Angela."
+                "line": "My name is Angela."
             },
             {
                 "character": "Roy",
-                "quote": "Hey, Angela! Roy. Nice to meet you."
+                "line": "Hey, Angela! Roy. Nice to meet you."
             },
             {
                 "character": "Michael",
-                "quote": "Aaaall right. Who's next, who's next, who's next, who's? Jim? You're next. Who would you do?"
+                "line": "Aaaall right. Who's next, who's next, who's next, who's? Jim? You're next. Who would you do?"
             },
             {
                 "character": "Jim",
-                "quote": "Um... Kevin, hands down. Yeah. He's really got that teddy bear thing going on, and afterwards, we could just watch bowling."
+                "line": "Um... Kevin, hands down. Yeah. He's really got that teddy bear thing going on, and afterwards, we could just watch bowling."
             },
             {
                 "character": "Michael",
-                "quote": "Well, I would definitely have sex with Ryan. 'Cause he is going to own his own business."
+                "line": "Well, I would definitely have sex with Ryan. 'Cause he is going to own his own business."
             },
             {
                 "character": "Roy",
-                "quote": "You're all gay."
+                "line": "You're all gay."
             },
             {
                 "character": "Michael",
-                "quote": "Who's, uh... Who's next? Who we got? Whooo..."
+                "line": "Who's, uh... Who's next? Who we got? Whooo..."
             },
             {
                 "character": "Ryan",
-                "quote": "[answers phone] Hey, no, I can talk, I can talk, I can talk... this is great timing."
+                "line": "[answers phone] Hey, no, I can talk, I can talk, I can talk... this is great timing."
             },
             {
                 "character": "Michael",
-                "quote": "Wish I had my cell phone, but I left it inside. So..."
+                "line": "Wish I had my cell phone, but I left it inside. So..."
             },
             {
                 "character": "Dwight",
-                "quote": "Would that make you happy?"
+                "line": "Would that make you happy?"
             },
             {
                 "character": "Michael",
-                "quote": "What's that?"
+                "line": "What's that?"
             },
             {
                 "character": "Dwight",
-                "quote": "If you had your cell phone, it would make you happy?"
+                "line": "If you had your cell phone, it would make you happy?"
             },
             {
                 "character": "Michael",
-                "quote": "Yeah."
+                "line": "Yeah."
             },
             {
                 "character": "Dwight",
-                "quote": "I'm on it."
+                "line": "I'm on it."
             },
             {
                 "character": "Michael",
-                "quote": "Dwight. Hey!"
+                "line": "Dwight. Hey!"
             },
             {
                 "character": "Angela",
-                "quote": "You can't go in yet!"
+                "line": "You can't go in yet!"
             },
             {
                 "character": "Michael",
-                "quote": "Dwight, don't! He is an idiot. The man is an idiot, ladies and gentlemen."
+                "line": "Dwight, don't! He is an idiot. The man is an idiot, ladies and gentlemen."
             },
             {
                 "character": "Kevin",
-                "quote": "What if he dies in the fire? And that's the last thing you ever said to him."
+                "line": "What if he dies in the fire? And that's the last thing you ever said to him."
             },
             {
                 "character": "Michael",
-                "quote": "I didn't say it to him. I said it about him."
+                "line": "I didn't say it to him. I said it about him."
             }
         ],
         [
             {
                 "character": "Meredith",
-                "quote": "...Jim."
+                "line": "...Jim."
             },
             {
                 "character": "Phyllis",
-                "quote": "Definitely Jim."
+                "line": "Definitely Jim."
             },
             {
                 "character": "Kelly",
-                "quote": "Definitely, definitely, Jim."
+                "line": "Definitely, definitely, Jim."
             },
             {
                 "character": "Phyllis",
-                "quote": "Come on, Pam."
+                "line": "Come on, Pam."
             },
             {
                 "character": "Kelly",
-                "quote": "How about you Pam?"
+                "line": "How about you Pam?"
             },
             {
                 "character": "Pam",
-                "quote": "Um... Oscar's kind of cute."
+                "line": "Um... Oscar's kind of cute."
             },
             {
                 "character": "Phyllis",
-                "quote": "Yeah, I like Oscar."
+                "line": "Yeah, I like Oscar."
             },
             {
                 "character": "Pam",
-                "quote": "Ooh, Toby!"
+                "line": "Ooh, Toby!"
             },
             {
                 "character": "Michael",
-                "quote": "[in the background] How long does it take to find a cell phone? I don't know either."
+                "line": "[in the background] How long does it take to find a cell phone? I don't know either."
             },
             {
                 "character": "Meredith",
-                "quote": "Is there anybody else."
+                "line": "Is there anybody else."
             },
             {
                 "character": "Kevin",
-                "quote": "[clears his throat]"
+                "line": "[clears his throat]"
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "[on the phone] Hey, where are you? Oh good. Yeah. We're just here, we're playing Desert Island. It's when you pick your five favorite DVDs..."
+                "line": "[on the phone] Hey, where are you? Oh good. Yeah. We're just here, we're playing Desert Island. It's when you pick your five favorite DVDs..."
             },
             {
                 "character": "Michael",
-                "quote": "Seriously, where the hell is Dwight? Hey, call my cell phone. It'll make it easier for him to find."
+                "line": "Seriously, where the hell is Dwight? Hey, call my cell phone. It'll make it easier for him to find."
             },
             {
                 "character": "Ryan",
-                "quote": "What's your number?"
+                "line": "What's your number?"
             },
             {
                 "character": "Michael",
-                "quote": "I gave it to you in the car."
+                "line": "I gave it to you in the car."
             },
             {
                 "character": "Ryan",
-                "quote": "Um..."
+                "line": "Um..."
             },
             {
                 "character": "Michael",
-                "quote": "I saw you program it in."
+                "line": "I saw you program it in."
             },
             {
                 "character": "Ryan",
-                "quote": "You got to... you got to give it to me again."
+                "line": "You got to... you got to give it to me again."
             },
             {
                 "character": "Michael",
-                "quote": "Okay. Alright."
+                "line": "Okay. Alright."
             },
             {
                 "character": "Ryan",
-                "quote": "Now I have it."
+                "line": "Now I have it."
             },
             {
                 "character": "Michael",
-                "quote": "Uh, I better tell somebody. [to fireman] Excuse me, sir..."
+                "line": "Uh, I better tell somebody. [to fireman] Excuse me, sir..."
             },
             {
                 "character": "Dwight",
-                "quote": "[coughing]"
+                "line": "[coughing]"
             },
             {
                 "character": "Michael",
-                "quote": "Dwight!? Great goin'. God, Man! Why did you go in there? What... Everybody was scared out of their wits, man? Oooh."
+                "line": "Dwight!? Great goin'. God, Man! Why did you go in there? What... Everybody was scared out of their wits, man? Oooh."
             },
             {
                 "character": "Dwight",
-                "quote": "[coughing] Everyone, okay? Uh, I have an announcement. Apparently, in business school, they don't teach you how to operate a toaster oven. Because some smart, sexy temp left his cheese pita on oven instead of timing it for the toaster thing."
+                "line": "[coughing] Everyone, okay? Uh, I have an announcement. Apparently, in business school, they don't teach you how to operate a toaster oven. Because some smart, sexy temp left his cheese pita on oven instead of timing it for the toaster thing."
             },
             {
                 "character": "Michael",
-                "quote": "Wow. Okay. Well, I guess they don't teach how to operate a toaster oven in business school."
+                "line": "Wow. Okay. Well, I guess they don't teach how to operate a toaster oven in business school."
             },
             {
                 "character": "Dwight",
-                "quote": "That's exactly what I said."
+                "line": "That's exactly what I said."
             },
             {
                 "character": "Michael",
-                "quote": "Hey, did you miss that day there, Ryan?"
+                "line": "Hey, did you miss that day there, Ryan?"
             },
             {
                 "character": "Dwight",
-                "quote": "Were you absent?"
+                "line": "Were you absent?"
             },
             {
                 "character": "Michael",
-                "quote": "Toaster Oven 101?"
+                "line": "Toaster Oven 101?"
             },
             {
                 "character": "Dwight",
-                "quote": "You failed?"
+                "line": "You failed?"
             },
             {
                 "character": "Ryan",
-                "quote": "I am so sorry."
+                "line": "I am so sorry."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Hey! I know what'll impress everybody, I'll start a fire. Oh, man. Bad idea. Bad idea jeans."
+                "line": "Hey! I know what'll impress everybody, I'll start a fire. Oh, man. Bad idea. Bad idea jeans."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "I have a song. Attention, everyone! That I want to sing. That I wrote especially for this occasion when I was up there among the flames. Ready? [sings to Billy Joel's \"We Didn't Start the Fire\"] Ryan started the fire! It was always burning since the world's been turning!"
+                "line": "I have a song. Attention, everyone! That I want to sing. That I wrote especially for this occasion when I was up there among the flames. Ready? [sings to Billy Joel's \"We Didn't Start the Fire\"] Ryan started the fire! It was always burning since the world's been turning!"
             },
             {
                 "character": "Dwight & Michael",
-                "quote": "[singing] Ryan started the fire! It was always burning---"
+                "line": "[singing] Ryan started the fire! It was always burning---"
             },
             {
                 "character": "Dwight",
-                "quote": "Everybody!"
+                "line": "Everybody!"
             },
             {
                 "character": "Michael",
-                "quote": "[singing] ...since the world was turning."
+                "line": "[singing] ...since the world was turning."
             }
         ],
         [
             {
                 "character": "Ryan",
-                "quote": "I can't believe I started the fire."
+                "line": "I can't believe I started the fire."
             }
         ],
         [
             {
                 "character": "Dwight & Michael",
-                "quote": "[sing gibberish to \"We Didn't Start the Fire\"]"
+                "line": "[sing gibberish to \"We Didn't Start the Fire\"]"
             },
             {
                 "character": "Dwight",
-                "quote": "[singing] ... Marilyn Monroe!"
+                "line": "[singing] ... Marilyn Monroe!"
             },
             {
                 "character": "Dwight & Michael",
-                "quote": "[singing] Ryan started the fire! It was always burning..."
+                "line": "[singing] Ryan started the fire! It was always burning..."
             },
             {
                 "character": "Dwight",
-                "quote": "Eat it! You gotta eat it. You have to eat it!"
+                "line": "Eat it! You gotta eat it. You have to eat it!"
             }
         ],
         [
             {
                 "character": "Katy",
-                "quote": "Hi!"
+                "line": "Hi!"
             },
             {
                 "character": "Jim",
-                "quote": "Hey."
+                "line": "Hey."
             },
             {
                 "character": "Katy",
-                "quote": "How are you?"
+                "line": "How are you?"
             },
             {
                 "character": "Jim",
-                "quote": "Good, how are you?"
+                "line": "Good, how are you?"
             },
             {
                 "character": "Katy",
-                "quote": "I'm good. It's good to see you."
+                "line": "I'm good. It's good to see you."
             },
             {
                 "character": "Jim",
-                "quote": "Good to see you, too."
+                "line": "Good to see you, too."
             },
             {
                 "character": "Katy",
-                "quote": "I'm hungry."
+                "line": "I'm hungry."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah, I am too."
+                "line": "Yeah, I am too."
             },
             {
                 "character": "Katy",
-                "quote": "Oh, I have been thinking the whole way over and I have my answers."
+                "line": "Oh, I have been thinking the whole way over and I have my answers."
             },
             {
                 "character": "Jim",
-                "quote": "What answers?"
+                "line": "What answers?"
             },
             {
                 "character": "Katy",
-                "quote": "Um, for the... the desert island."
+                "line": "Um, for the... the desert island."
             },
             {
                 "character": "Jim",
-                "quote": "Oh! Right! Right, right, right, come-ah on, on, on. [to everyone] Ladies and gentlemen! Gather around! We have one more participant. Come on, be polite. Be polite. [to Katy] Desert Island. Five movies. Go."
+                "line": "Oh! Right! Right, right, right, come-ah on, on, on. [to everyone] Ladies and gentlemen! Gather around! We have one more participant. Come on, be polite. Be polite. [to Katy] Desert Island. Five movies. Go."
             },
             {
                 "character": "Katy",
-                "quote": "Okay, um, first, Legally Blond."
+                "line": "Okay, um, first, Legally Blond."
             }
         ],
         [
             {
                 "character": "Pam",
-                "quote": "I forgot what a super, nice girl Katy is. And just... good for Jim! They are so cute together. And, um, what an adorable car."
+                "line": "I forgot what a super, nice girl Katy is. And just... good for Jim! They are so cute together. And, um, what an adorable car."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Okay, I think the game's over... People are like leaving. There was a bigger crowd last time. Do you just want to go to lunch?"
+                "line": "Okay, I think the game's over... People are like leaving. There was a bigger crowd last time. Do you just want to go to lunch?"
             },
             {
                 "character": "Katy",
-                "quote": "Okay."
+                "line": "Okay."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah?"
+                "line": "Yeah?"
             },
             {
                 "character": "Katy",
-                "quote": "Alright! You want to drive?"
+                "line": "Alright! You want to drive?"
             },
             {
                 "character": "Jim",
-                "quote": "Sure."
+                "line": "Sure."
             },
             {
                 "character": "Katy",
-                "quote": "Alright."
+                "line": "Alright."
             }
         ],
         [
             {
                 "character": "Katy",
-                "quote": "[looking at Roy and Pam] They are soo cute."
+                "line": "[looking at Roy and Pam] They are soo cute."
             }
         ],
         [
             {
                 "character": "Ryan",
-                "quote": "I'm really sorry, Dwight."
+                "line": "I'm really sorry, Dwight."
             },
             {
                 "character": "Dwight",
-                "quote": "Answer me this, though."
+                "line": "Answer me this, though."
             },
             {
                 "character": "Ryan",
-                "quote": "What?"
+                "line": "What?"
             },
             {
                 "character": "Dwight",
-                "quote": "Was it worth it? Was it worth it temp?"
+                "line": "Was it worth it? Was it worth it temp?"
             },
             {
                 "character": "Ryan",
-                "quote": "No."
+                "line": "No."
             },
             {
                 "character": "Kevin",
-                "quote": "Was it worth it?"
+                "line": "Was it worth it?"
             },
             {
                 "character": "Dwight",
-                "quote": "Really?"
+                "line": "Really?"
             },
             {
                 "character": "Ryan",
-                "quote": "I'm really sorry, Dwight."
+                "line": "I'm really sorry, Dwight."
             },
             {
                 "character": "Dwight",
-                "quote": "The fire guy! The fire guy!"
+                "line": "The fire guy! The fire guy!"
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "[sings] Joe McCarthy, Richard Nixon, Studebaker, television, North Korea, South Korea, Marilyn Monroe, Ryan started the fire!"
+                "line": "[sings] Joe McCarthy, Richard Nixon, Studebaker, television, North Korea, South Korea, Marilyn Monroe, Ryan started the fire!"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Okay. Rule five - safety first, i.e. don't burn the building down. Okay? That should be a no brainer."
+                "line": "Okay. Rule five - safety first, i.e. don't burn the building down. Okay? That should be a no brainer."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Oh... look! Ryan is book smart. And I am street smart. And book smart."
+                "line": "Oh... look! Ryan is book smart. And I am street smart. And book smart."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "I'll give you the rest of the ten tomorrow."
+                "line": "I'll give you the rest of the ten tomorrow."
             }
         ]
     ],
@@ -1390,297 +1390,297 @@
         [
             {
                 "character": "Jim",
-                "quote": "Seventy and clear, that's nice. Where's that?"
+                "line": "Seventy and clear, that's nice. Where's that?"
             },
             {
                 "character": "Pam",
-                "quote": "That's here."
+                "line": "That's here."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "I'm Michael's number two. He's one, I'm two. He's Alpha, I'm Beta. He's A, I'm B. It's easy. Whatever Michael is, I'm one less."
+                "line": "I'm Michael's number two. He's one, I'm two. He's Alpha, I'm Beta. He's A, I'm B. It's easy. Whatever Michael is, I'm one less."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Rule three: Reach for the stars. And if you fail, see rule four. Rule four: Failure is not an option."
+                "line": "Rule three: Reach for the stars. And if you fail, see rule four. Rule four: Failure is not an option."
             },
             {
                 "character": "Dwight",
-                "quote": "Oh, my God. Ryan is gonna love these."
+                "line": "Oh, my God. Ryan is gonna love these."
             },
             {
                 "character": "Michael",
-                "quote": "Yes, yes, yes, yes, yes. And at the end I will reveal, that they were all just one rule."
+                "line": "Yes, yes, yes, yes, yes. And at the end I will reveal, that they were all just one rule."
             },
             {
                 "character": "Dwight",
-                "quote": "That is so cool."
+                "line": "That is so cool."
             },
             {
                 "character": "Michael",
-                "quote": "Mmm-hmm."
+                "line": "Mmm-hmm."
             },
             {
                 "character": "Dwight",
-                "quote": "Plus you can go, \"Rule five, see rule six. Rule six, see rule five.\""
+                "line": "Plus you can go, \"Rule five, see rule six. Rule six, see rule five.\""
             },
             {
                 "character": "Michael",
-                "quote": "No, I'm not trying to trick him. I'm trying to be a good mentor. So..."
+                "line": "No, I'm not trying to trick him. I'm trying to be a good mentor. So..."
             },
             {
                 "character": "Dwight",
-                "quote": "Kill or be killed."
+                "line": "Kill or be killed."
             },
             {
                 "character": "Michael",
-                "quote": "No."
+                "line": "No."
             },
             {
                 "character": "Dwight",
-                "quote": "Shoot to kill, or kill to shoot."
+                "line": "Shoot to kill, or kill to shoot."
             },
             {
                 "character": "Michael",
-                "quote": "No, come on, Dwight, I have to have 10 of these by lunch, I promised Ryan."
+                "line": "No, come on, Dwight, I have to have 10 of these by lunch, I promised Ryan."
             },
             {
                 "character": "Dwight",
-                "quote": "You could ask for an extension."
+                "line": "You could ask for an extension."
             },
             {
                 "character": "Michael",
-                "quote": "I'm not asking the temp for an extension unless I really need it."
+                "line": "I'm not asking the temp for an extension unless I really need it."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "I know Michael's every move. It's not something you can just pick up. I could write a book about him. Literally. I started once, but Michael made me stop."
+                "line": "I know Michael's every move. It's not something you can just pick up. I could write a book about him. Literally. I started once, but Michael made me stop."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Hey, how's it going, man?"
+                "line": "Hey, how's it going, man?"
             },
             {
                 "character": "Ryan",
-                "quote": "Good. What's up?"
+                "line": "Good. What's up?"
             },
             {
                 "character": "Dwight",
-                "quote": "Oh, nothing much. What's up with you?"
+                "line": "Oh, nothing much. What's up with you?"
             },
             {
                 "character": "Ryan",
-                "quote": "I'm good, thanks."
+                "line": "I'm good, thanks."
             },
             {
                 "character": "Dwight",
-                "quote": "Good. Good, I'm good, too. How's it cracking?"
+                "line": "Good. Good, I'm good, too. How's it cracking?"
             },
             {
                 "character": "Ryan",
-                "quote": "Uh, fine. What's up?"
+                "line": "Uh, fine. What's up?"
             },
             {
                 "character": "Dwight",
-                "quote": "You know what you would love? Guns N' Roses. When I was your age, I loved Guns N' Roses. Do you like Guns N' Roses? I'll make you a tape."
+                "line": "You know what you would love? Guns N' Roses. When I was your age, I loved Guns N' Roses. Do you like Guns N' Roses? I'll make you a tape."
             },
             {
                 "character": "Ryan",
-                "quote": "Cool."
+                "line": "Cool."
             },
             {
                 "character": "Dwight",
-                "quote": "I'll make you two tapes."
+                "line": "I'll make you two tapes."
             },
             {
                 "character": "Ryan",
-                "quote": "I don't have a tape player. So..."
+                "line": "I don't have a tape player. So..."
             },
             {
                 "character": "Dwight",
-                "quote": "Someday, temp. I've got a couple of shirts that don't fit so well anymore. I'll bring them by. Okay, see you later."
+                "line": "Someday, temp. I've got a couple of shirts that don't fit so well anymore. I'll bring them by. Okay, see you later."
             }
         ],
         [
             {
                 "character": "Dwight",
-                "quote": "Michael and I have a very special connection, like an umbilical cord. And the thing is with Ryan is that I don't want him to trip on it, or get it caught around his neck."
+                "line": "Michael and I have a very special connection, like an umbilical cord. And the thing is with Ryan is that I don't want him to trip on it, or get it caught around his neck."
             }
         ],
         [
             {
                 "character": "Kevin",
-                "quote": "Sixty-three, sixty-four, sixty-five, sixty-six, sixty-seven, sixty-eight. [snickering] Sixty-nine. Seventy. Seventy-one, seventy-two, seventy-three."
+                "line": "Sixty-three, sixty-four, sixty-five, sixty-six, sixty-seven, sixty-eight. [snickering] Sixty-nine. Seventy. Seventy-one, seventy-two, seventy-three."
             }
         ],
         [
             {
                 "character": "Pam",
-                "quote": "I like fire drills. You know what's the greatest? Like, when you were in school and the teacher would let you have class outside."
+                "line": "I like fire drills. You know what's the greatest? Like, when you were in school and the teacher would let you have class outside."
             },
             {
                 "character": "Jim",
-                "quote": "Oh, the best."
+                "line": "Oh, the best."
             },
             {
                 "character": "Pam",
-                "quote": "Yeah, it was great because it was like you're supposed to be working, but nothing ever gets done."
+                "line": "Yeah, it was great because it was like you're supposed to be working, but nothing ever gets done."
             },
             {
                 "character": "Jim",
-                "quote": "Yeah, we had outside classes all the time and we never did anything."
+                "line": "Yeah, we had outside classes all the time and we never did anything."
             },
             {
                 "character": "Pam",
-                "quote": "[chuckling]"
+                "line": "[chuckling]"
             },
             {
                 "character": "Jim",
-                "quote": "Actually if I had fewer outside classes, I probably wouldn't be stuck here at a paper company."
+                "line": "Actually if I had fewer outside classes, I probably wouldn't be stuck here at a paper company."
             },
             {
                 "character": "Pam",
-                "quote": "You're not stuck."
+                "line": "You're not stuck."
             }
         ],
         [
             {
                 "character": "Angela",
-                "quote": "Yes, there is a real fire, but it's okay. Everyone got out fine. This is why you practice these things."
+                "line": "Yes, there is a real fire, but it's okay. Everyone got out fine. This is why you practice these things."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "Yes, yes, I ran out first. A captain is always the first one on the ship and the last one off the ship. And this parking lot is our ship when the building is on fire. So, I ran out onto the ship."
+                "line": "Yes, yes, I ran out first. A captain is always the first one on the ship and the last one off the ship. And this parking lot is our ship when the building is on fire. So, I ran out onto the ship."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Okay, DVDs. Five movies. What would you bring to the island? Toby, go ahead."
+                "line": "Okay, DVDs. Five movies. What would you bring to the island? Toby, go ahead."
             },
             {
                 "character": "Toby",
-                "quote": "Say Anything, The Shining, Annie Hall, that's too obvious."
+                "line": "Say Anything, The Shining, Annie Hall, that's too obvious."
             },
             {
                 "character": "Jim",
-                "quote": "Those are like my favorite movies. I didn't really think you could win Desert Island, but I think you just did."
+                "line": "Those are like my favorite movies. I didn't really think you could win Desert Island, but I think you just did."
             },
             {
                 "character": "Toby",
-                "quote": "Toy Story 2, one of the best movies I ever saw. I went for my daughter and stayed because you can't leave your daughter in a theater."
+                "line": "Toy Story 2, one of the best movies I ever saw. I went for my daughter and stayed because you can't leave your daughter in a theater."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Toby and I used to sit together until Michael moved us because he thought we talked too much."
+                "line": "Toby and I used to sit together until Michael moved us because he thought we talked too much."
             },
             {
                 "character": "Pam",
-                "quote": "Really?"
+                "line": "Really?"
             },
             {
                 "character": "Jim",
-                "quote": "Yeah."
+                "line": "Yeah."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "Kevin, do it."
+                "line": "Kevin, do it."
             },
             {
                 "character": "Kevin",
-                "quote": "Uh, Cannonball Run, Cannonball Run II, [snickering] Weekend at Bernie's, Weekend at Bernie's II, and, oh, Groundhog Day."
+                "line": "Uh, Cannonball Run, Cannonball Run II, [snickering] Weekend at Bernie's, Weekend at Bernie's II, and, oh, Groundhog Day."
             },
             {
                 "character": "Jim",
-                "quote": "Groundhog Day."
+                "line": "Groundhog Day."
             },
             {
                 "character": "Stanley",
-                "quote": "I have a client who watches that movie once a week, at least."
+                "line": "I have a client who watches that movie once a week, at least."
             },
             {
                 "character": "Kevin",
-                "quote": "Really?"
+                "line": "Really?"
             },
             {
                 "character": "Stanley",
-                "quote": "I should put you in touch with him. Maybe we could get together and work on that account."
+                "line": "I should put you in touch with him. Maybe we could get together and work on that account."
             },
             {
                 "character": "Kevin",
-                "quote": "I would love that."
+                "line": "I would love that."
             },
             {
                 "character": "Jim",
-                "quote": "Okay, guys, guys, guys. That almost sounded like business, and we are trying to focus here today, okay?"
+                "line": "Okay, guys, guys, guys. That almost sounded like business, and we are trying to focus here today, okay?"
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "When I was Ryan's age, I worked at Arby's and then I worked selling cutlery for a while. Cutlery that could decimate a penny, I kid you not. There were these shears that could cut straight through a penny. So I have life experience and work experience that Ryan doesn't, and will never have."
+                "line": "When I was Ryan's age, I worked at Arby's and then I worked selling cutlery for a while. Cutlery that could decimate a penny, I kid you not. There were these shears that could cut straight through a penny. So I have life experience and work experience that Ryan doesn't, and will never have."
             }
         ],
         [
             {
                 "character": "Jim",
-                "quote": "And then you go to school for three years."
+                "line": "And then you go to school for three years."
             },
             {
                 "character": "Ryan",
-                "quote": "For two years, and it's only at night, and then it's on your resume forever."
+                "line": "For two years, and it's only at night, and then it's on your resume forever."
             },
             {
                 "character": "Jim",
-                "quote": "Wow. And just out of curiosity, how much is it?"
+                "line": "Wow. And just out of curiosity, how much is it?"
             },
             {
                 "character": "Ryan",
-                "quote": "$650 bucks"
+                "line": "$650 bucks"
             },
             {
                 "character": "Jim",
-                "quote": "A semester?"
+                "line": "A semester?"
             },
             {
                 "character": "Ryan",
-                "quote": "A credit."
+                "line": "A credit."
             },
             {
                 "character": "Jim",
-                "quote": "Wow."
+                "line": "Wow."
             },
             {
                 "character": "Ryan",
-                "quote": "It's an investment."
+                "line": "It's an investment."
             },
             {
                 "character": "Jim",
-                "quote": "Oh, yeah, it sounds like it."
+                "line": "Oh, yeah, it sounds like it."
             },
             {
                 "character": "Ryan",
-                "quote": "I think it's worth it."
+                "line": "I think it's worth it."
             }
         ],
         [
             {
                 "character": "Michael",
-                "quote": "If I could change the life of one person, just one person. I... Actually, that's shooting kind of low. I already did that when I was born. I changed two people's lives. Mom and Dad. Um, if I could change the lives of 5,000 people... 10,000. No, five. I'd be satisfied with 5,000. I... 10,000 though, that'd be something. Wow, 10,000 people. Because, you know what? Even one is amazing."
+                "line": "If I could change the life of one person, just one person. I... Actually, that's shooting kind of low. I already did that when I was born. I changed two people's lives. Mom and Dad. Um, if I could change the lives of 5,000 people... 10,000. No, five. I'd be satisfied with 5,000. I... 10,000 though, that'd be something. Wow, 10,000 people. Because, you know what? Even one is amazing."
             }
         ]
     ]

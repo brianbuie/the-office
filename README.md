@@ -2,17 +2,19 @@
 
 This repository contains every episode of the office split into individual JSON files. Special thanks to the fans at [OfficeQuotes.net](http://www.officequotes.net/) for transcribing the episodes.
 
-I've done my best to clean up and normalize the names and quotes, but I'm sure there are still errors.
+I've done my best to clean up and normalize the names and quotes, but I'm sure there are still errors. Feel free to submit a PR if you find any mistakes.
 
 ## Usage
 
 All episodes can be found in the `lib/` folder. Alternatively, if you're using javascript, you can `require` them in your project.
 
-`const quotes = require('/path/to/theOffice'); // all episodes`
+`const quotes = require('the-office'); // all episodes`
 
-`const S01E01 = require('/path/to/theOffice').S01E01; // single episode`
+`const episode1 = require('the-office')[0]; // single episode`
 
 ## Schema
+
+Every episode has an array of scenes. Each scene is an array of objects with the properties `character` and `line`. Stage directions (`[...]`) are still included in some of the spoken lines.
 
 ```
 {
@@ -23,11 +25,11 @@ All episodes can be found in the `lib/` folder. Alternatively, if you're using j
         [
             {
                 "character": "Michael",
-                "quote": "All right Jim. Your quarterlies look very good. How are things at the library?"
+                "line": "All right Jim. Your quarterlies look very good. How are things at the library?"
             },
 			{
                 "character": "Jim",
-                "quote": "Oh, I told you. I couldn't close it. So..."
+                "line": "Oh, I told you. I couldn't close it. So..."
             },
 		],
 	],
@@ -35,7 +37,7 @@ All episodes can be found in the `lib/` folder. Alternatively, if you're using j
 		[
             {
                 "character": "Dwight",
-                "quote": "Dwight Schrute. My father's name, also Dwight Schrute. My grandfather's name, Dweide Schrude, Amish. That's my family. I don't know where they came, the Amish, came from originally. Uh, Amland."
+                "line": "Dwight Schrute. My father's name, also Dwight Schrute. My grandfather's name, Dweide Schrude, Amish. That's my family. I don't know where they came, the Amish, came from originally. Uh, Amland."
             },
 		],
 	]
