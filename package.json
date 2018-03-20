@@ -1,10 +1,9 @@
 {
-  "name": "theOffice",
-  "version": "1.1.0",
-  "description": "all dialogue from every episode of The Office",
+  "name": "the-office",
+  "version": "1.0.0",
+  "description": "every line from every episode of The Office",
   "main": "index.js",
   "author": "BrianBuie",
   "license": "MIT",
-  "private": true,
-  "repository": "git@bitbucket.org:brianbuie/theoffice.git"
+  "repository": "git@github.com:brianbuie/the-office.git"
 }
