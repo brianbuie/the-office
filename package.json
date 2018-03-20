@@ -1,6 +1,6 @@
 {
   "name": "the-office",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "every line from every episode of The Office",
   "main": "index.js",
   "author": "BrianBuie",

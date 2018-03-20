@@ -6,11 +6,15 @@ I've done my best to clean up and normalize the names and quotes, but I'm sure t
 
 ## Usage
 
-All episodes can be found in the `lib/` folder. Alternatively, if you're using javascript, you can `require` them in your project.
+All episodes can be found in the `lib/` folder. 
+
+If you're using javascript, you can install using `npm install the-office` and then `require` them in your project.
 
 `const quotes = require('the-office'); // all episodes`
 
-`const episode1 = require('the-office')[0]; // single episode`
+`const theBestEpisode = require('the-office')[51]; // single episode`
+
+`const neverAgain = require('the-office/lib/S06E11'); // by name`
 
 ## Schema
 
