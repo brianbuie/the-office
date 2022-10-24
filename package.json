@@ -1,9 +1,10 @@
 {
   "name": "the-office",
-  "version": "1.0.1",
-  "description": "every line from every episode of The Office",
-  "main": "index.js",
-  "author": "BrianBuie",
+  "version": "2.0.0",
+  "description": "Every line from every episode of The Office",
+  "main": "the-office.json",
+  "author": "Brian Buie <brian@buie.dev>",
   "license": "MIT",
-  "repository": "git@github.com:brianbuie/the-office.git"
+  "repository": "github.com:brianbuie/the-office.git",
+  "homepage": "https://github.com/brianbuie/the-office#readme"
 }
